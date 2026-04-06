@@ -1,18 +1,24 @@
 import json
 import pandas as pd
+import os
+import csv
 
 def extraccion_datos(nombre, tag):
     filas_finales = []
     agentes= cargar_config_personajes()
     #Leemos el archivo
     try:                                                            
-        with open(f'matches_{nombre}.json','r', encoding='utf-8') as archivo:
+        with open(f'./partidas/matches_{nombre}.json','r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
         print(f"❌ No se encontró el archivo matches_{nombre}.json")
         return None
     
     racha = 0
+    
+    #Revisamos si el archivo existe
+    direccion_archivo = f"./datasets/dataset_{nombre}.csv"
+    existe_archivo= os.path.exists(direccion_archivo)
     
     for partida in datos['data']:
         
@@ -21,7 +27,7 @@ def extraccion_datos(nombre, tag):
         if not lista_estadisticas:
             continue # Si no encuentra al jugador en esta partida, salta a la siguiente
         
-        id_partida= partida,get('metada').get('matchid')
+        id_partida= partida.get('metadata').get('matchid')
         mapa_actual = partida.get('metadata').get('map')
         personaje = lista_estadisticas['personaje']
         rol = agentes.get(personaje, "Desconocido")
@@ -95,8 +101,11 @@ def extraccion_datos(nombre, tag):
     #print(df.columns.values)
     print(df.head())
     
-    # Opcional: Guardarlo a CSV para tu IA
-    df.to_csv(f"dataset_{nombre}.csv", index=False)
+    if existe_archivo:
+        df.to_csv(direccion_archivo, mode='a', header=False, index=False)
+    else:
+        df.to_csv(direccion_archivo, index=False)    
+        
     return df
     """
     Funcion que busca dentro del archivo los valores del agente jugado, las kills, las asistencias, muertes y devuelve una lista clave valor con ellas

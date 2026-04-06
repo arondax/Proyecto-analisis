@@ -21,8 +21,9 @@ def getData(nombre, tag, region):
         data = response.json()
         #Creamos un archivo json
         nombre_archivo=f"matches_{nombre}.json"
+        direccion_archivo = f"./partidas/{nombre_archivo}"
         
-        with open(nombre_archivo, "w", encoding="utf-8") as f:
+        with open(direccion_archivo, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
         print(f"✅ Archivo '{nombre_archivo}' creado con éxito.")
         return data   
