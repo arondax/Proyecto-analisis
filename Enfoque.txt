@@ -1,0 +1,12 @@
+MODELO IA QUE APRENDA DE TUS PARTIDAS DE VALORANT.
+1. El modelo busca predecir si la siguiente partida la vas a ganar o no.
+2. Con que jugadores habituales ganas mas y pierdes más.
+3. Saber que rol o personaje eres mejor.
+4. Identificar quienes son tus amigos en base a partidas recurrrentes.
+5. Que mapas tienes mejor desempeño o que rol/personaje juegas mejor.
+
+DUDAS:
+1. ¿Habria que entrenar el modelo para cada jugador?¿O si es con un dataset de todos los jugadores mejor?
+2. Más alla de estandarizar los datos, no se como enfocar la ingesta de datos.
+3. La columna compañeros no se como manjearla, ya que van a ser muchos jugadores diferentes. (Hacer una columna de jugadores no premade y luego las columnas de cada amigo en comun?)
+4. cada partida contemplara a cada uno de los jugadores del equipo o no, pero claro eso quizás entraríamos como en una red neuronal¿?
