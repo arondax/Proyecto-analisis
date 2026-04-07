@@ -1,6 +1,6 @@
-jugador,mapa,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-papa pito,Breeze,Chamber,Centinela,27,7,17,7,"['Freeze08mind', 'zimeix', 'whoselsa', 'mamipito']",Unrated,,"['Sova', 'Raze', 'Reyna', 'Chamber', 'Viper']",375.364,2,3,1,13,9
-papa pito,Fracture,Brimstone,Controlador,35,7,14,15,"['luquitas07', 'Aaaxyela2508', 'mamipito', '5H4D0W']",Unrated,,"['Phoenix', 'Killjoy', 'Skye', 'Brimstone', 'Omen']",458.864,8,1,2,13,9
-papa pito,Bind,Astra,Controlador,25,7,20,11,"['pai natal', 'Kanekii', 'fyugyyku', 'angelutrix']",Silver,1,"['Raze', 'Sage', 'Astra', 'Reyna', 'Skye']",237.167,4,4,3,16,14
-papa pito,Pearl,Astra,Controlador,33,6,13,19,"['Listilla sumisa', 'Rgda', 'mamipito', 'SungJ1nWoo']",Silver,1,"['Sova', 'Sage', 'Astra', 'Killjoy', 'Iso']",437.905,13,1,4,13,8
-papa pito,Breeze,Skye,Iniciador,14,10,17,8,"['Aaaxyela2508', 'Alvaro28', 'Chiste sad002', 'Aaronnn17']",Silver,1,"['Sage', 'Miks', 'Skye', 'Neon', 'Chamber']",207.087,2,3,5,13,10
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
+9dff2f76-89da-41ac-8ade-a275499899f6,papa pito,Breeze,Competitive,Chamber,Centinela,26,5,17,2,"['ElPupas', 'Chiste sad002', 'JAI ELO NIÑO', '5cmOfTrueLove']",Silver,2,"['Raze', 'Chamber', 'Neon', 'Sova', 'Miks']",336.478,7,4,0,10,13
+7959ef3e-08b2-4e28-9692-524c41b1c71e,papa pito,Split,Competitive,Skye,Iniciador,44,4,14,20,"['olliepintado', 'Pelocho14', 'Pitu', 'mamipito']",Silver,2,"['Viper', 'Jett', 'Skye', 'Clove', 'Killjoy']",537.217,8,2,1,13,10
+931084bd-d03a-4579-9f1b-03a8d1c349ad,papa pito,Haven,Unrated,Astra,Controlador,13,3,5,5,"['somer2', 'Aaronnn17', 'Axyela2508', 'mamipito']",Unrated,,"['Fade', 'Phoenix', 'Astra', 'Sage', 'Raze']",275.000,3,0,2,11,1
+86934edd-4993-4623-aa09-a0e683900e85,papa pito,Breeze,Unrated,Killjoy,Centinela,22,2,16,10,"['mamipito', 'NINIBLACK', 'Axyela2508', 'Aaronnn17']",Unrated,,"['Phoenix', 'Brimstone', 'Killjoy', 'Raze', 'Yoru']",338.500,4,1,0,7,13
+22b7f2fd-971b-43c5-9dd3-f648219b2e77,papa pito,Lotus,Unrated,Skye,Iniciador,2,1,6,1,"['Aaronnn17', 'MGTORR', 'Axyela2508', 'mamipito']",Unrated,,"['Iso', 'Skye', 'Tejo', 'Miks', 'Killjoy']",41.846,1,0,0,0,6

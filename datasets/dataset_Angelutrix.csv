@@ -1,6 +1,6 @@
-jugador,mapa,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-angelutrix,Lotus,Chamber,Centinela,18,3,18,10,"['Aaronnn17', 'BaronRed ツ', 'MaxwellGauss', 'Alexxx2291']",Unrated,,"['Chamber', 'Harbor', 'Veto', 'Phoenix', 'Reyna']",190.440,3,2,1,13,12
-angelutrix,Breeze,Viper,Controlador,15,2,9,9,"['arianluiss', 'NoGratoElGato', 'Sr Inter', 'Aaronnn17']",Silver,1,"['Fade', 'Miks', 'Viper', 'Phoenix', 'Chamber']",205.611,1,0,2,13,5
-angelutrix,Lotus,Skye,Iniciador,14,18,17,6,"['TLCM', 'Aaronnn17', 'Florian Wirtz', 'guillermou']",Silver,1,"['Fade', 'Harbor', 'Raze', 'Skye', 'Chamber']",191.708,1,2,3,13,11
-angelutrix,Skirmish C,Chamber,Centinela,9,1,9,0,['Solvane'],Unrated,,"['Chamber', 'Reyna']",145.875,6,4,4,10,6
-angelutrix,Ascent,Chamber,Centinela,14,0,5,8,"['Rufue', 'LiNko072', 'MAXIMUS LIBIERUS', 'JohanLiebe']",Unrated,,"['Clove', 'Phoenix', 'Chamber', 'Cypher', 'Sova']",457.125,3,0,0,3,5
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
+1bbe367b-aeb2-4f1d-9160-84163fc7e83d,angelutrix,Haven,Competitive,Sage,Centinela,8,5,19,4,"['jester', 'sp3eed', 'DylanPrime', 'Aaronnn17']",Silver,2,"['Jett', 'Skye', 'Clove', 'Sage', 'Raze']",130.381,1,1,0,8,13
+32fd6f23-6d77-45c6-8ef0-7037a0de5cc0,angelutrix,Haven,Competitive,Astra,Controlador,11,16,22,4,"['XRkokoS', 'NotLuca202', 'XRhstoS9 11', 'Aaronnn17']",Silver,2,"['Iso', 'Sage', 'Phoenix', 'Astra', 'Skye']",141.357,1,3,1,15,13
+95799edf-4ec3-4865-bd79-d759ad23bb01,angelutrix,Lotus,Competitive,Skye,Iniciador,21,14,21,5,"['sassolover', 'Zentix', 'XFabianツ', 'Aaronnn17']",Silver,2,"['Phoenix', 'Miks', 'Omen', 'Skye', 'Chamber']",207.300,0,3,0,14,16
+38d21fd7-0825-4f38-8747-9760fb59856b,angelutrix,Skirmish B,,Phoenix,Duelista,4,1,12,0,['Aaronnn17'],Unrated,,"['Phoenix', 'Sova']",70.867,1,5,0,5,10
+a0be3300-259f-404b-ba43-425bb316260c,angelutrix,Pearl,Competitive,Astra,Controlador,18,3,19,8,"['papa pito', 'BaronRed ツ', 'mamipito', 'Axyela2508']",Silver,2,"['Chamber', 'Astra', 'Neon', 'Killjoy', 'Fade']",227.542,5,2,0,11,13

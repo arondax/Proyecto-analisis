@@ -1,6 +1,6 @@
-jugador,mapa,personaje,rol,kills,asistencias,muertes,compañeros,rango,composición,acs,fb_ratio,racha,resultado
-rondax,Pearl,Miks,Controlador,18,9,16,"['MAGORDIT0', 'Aaronnn17', 'Alvaro28', 'Mahtorcio']",0,0,0,0,0,0
-rondax,Glitch,Miks,Controlador,15,6,10,"['Frayzz', 'angelutrix', 'Syn', 'simousse']",0,0,0,0,0,0
-rondax,Lotus,Skye,Iniciador,32,8,19,"['Chiste sad002', 'Aaronnn17', 'Aaaxyela2508', 'angelutrix']",0,0,0,0,0,0
-rondax,Abyss,Clove,Controlador,12,3,20,"['angelutrix', 'Aaaxyela2508', 'Chiste sad002', 'Aaronnn17']",0,0,0,0,0,0
-rondax,Skirmish C,Yoru,Duelista,8,1,13,['angelutrix'],0,0,0,0,0,0
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
+7d390e01-ed09-4353-a592-ed37061f1ad4,rondax,Pearl,Unrated,Veto,Centinela,15,2,13,3,"['angelutrix', 'Dishwasher', 'Aaronnn17', 'Handfetisch']",Unrated,,"['Astra', 'Tejo', 'Neon', 'Veto', 'Raze']",181.591,2,0,1,13,9
+c9f7da8a-39e0-49dd-9822-aa75d9522606,rondax,Sunset,Unrated,Miks,Controlador,16,11,21,7,"['angelutrix', 'Aaronnn17', 'FireSlayer', 'Finja']",Unrated,,"['Tejo', 'Deadlock', 'Miks', 'Jett', 'Gekko']",175.480,1,1,0,12,13
+ba3ea1fd-e496-4a77-8bca-910a1f1678ad,rondax,Ascent,Unrated,Gekko,Iniciador,16,6,20,11,"['angelutrix', 'Axyela2508', 'EL Primo', 'Aaronnn17']",Unrated,,"['Tejo', 'Miks', 'Chamber', 'Gekko', 'Jett']",232.045,0,3,0,9,13
+375f4d30-e79b-47a5-8639-990f5f9ae4f8,rondax,Bind,Unrated,Miks,Controlador,17,21,18,5,"['Aaronnn17', '1236987', 'angelutrix', 'Axyela2508']",Unrated,,"['Miks', 'Raze', 'Sage', 'Tejo', 'Viper']",267.095,4,2,1,13,8
+51590b02-5acc-46c0-b347-76fb3656acd2,rondax,Corrode,Unrated,Phoenix,Duelista,9,2,16,3,"['SullyAk', 'Aaronnn17', 'Axyela2508', 'angelutrix']",Unrated,,"['Miks', 'Chamber', 'Fade', 'Waylay', 'Phoenix']",167.444,3,6,0,5,13
