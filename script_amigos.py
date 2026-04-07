@@ -22,7 +22,7 @@ def procesar_amigos():
             print(f"Datos optenidos de: ", nombre,"#",tag)
             print("Procesado de la partida")
             procesador.extraccion_datos(nombre, tag)
-    return True
+    return True,datos
         
 
     

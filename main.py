@@ -1,31 +1,33 @@
-import api, procesador, script_amigos
+import api, procesador, script_amigos, limpieza_datos
 
 all_users = False
 
 if all_users:
-    script= script_amigos.procesar_amigos()
+    script, datos= script_amigos.procesar_amigos()
     if script:
         print("Script ejecutado sin problemas")
+        
     
 else:
-    jugador = "angelutrix"
+    nombre_jugador = "angelutrix"
     tag = "EUW"
     region = "eu"
 
     print("Inicio programa: ")
     print(" \n Introduce tu nombre de Valorant: ")
-    #jugador = input("rondax")
+    #nombre_jugador = input("rondax")
     print("\n Introduce tu region (na, eu, ap, kr): ")
     #region= input("eu")
     print("\n Introduce el tag sin #: ")
     #tag = input("EUW")
-    resultado = api.getData(jugador,tag,region)
+    resultado = api.getData(nombre_jugador,tag,region)
     #api.obtener_mapeo_roles()
 
     if resultado:
         print("Funciona correcatamente")
         print("Procesado de la partida")
-        procesador.extraccion_datos(jugador, tag)
+        procesador.extraccion_datos(nombre_jugador, tag)
+        limpieza_datos.limpieza_jugador(nombre_jugador)
 
 
 
