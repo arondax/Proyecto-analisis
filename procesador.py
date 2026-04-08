@@ -37,7 +37,6 @@ def extraccion_datos(nombre, tag):
         equipo = lista_estadisticas['equipo']
         modo = partida.get('metadata').get('mode')
         
-        
         puntuacion_total = lista_estadisticas['score']
         #print("puntuacion: ",puntuacion_total)
         puntuacion_total = int(puntuacion_total)
@@ -46,7 +45,6 @@ def extraccion_datos(nombre, tag):
         n_rondas = int(n_rondas)
         acs= puntuacion_total/n_rondas
         acs = "{:.3f}".format(acs)
-        
         
         teammates = buscar_teammates(partida, equipo , nombre, tag)
         composicion = obtener_composicion(partida, equipo, nombre, tag)
@@ -61,13 +59,9 @@ def extraccion_datos(nombre, tag):
             racha+=1
         elif rondas_w < rondas_l:
             racha = 0
-        
-        
-        
+                
         #victoria = victoria_jugador(datos, equipo)
         #print(f"Mapa: {mapa_actual} | Agente: {personaje} | Rol: {rol} ")
-        
-       
         
         nueva_fila = {
             'id_partida': id_partida,
