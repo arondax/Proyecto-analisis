@@ -1,6 +1,6 @@
 import api, procesador, script_amigos, limpieza_datos
 
-all_users = False
+all_users = True
 
 if all_users:
     script, datos= script_amigos.procesar_amigos()
@@ -9,7 +9,7 @@ if all_users:
         
     
 else:
-    nombre_jugador = "angelutrix"
+    nombre_jugador = "rondax"
     tag = "EUW"
     region = "eu"
 

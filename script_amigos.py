@@ -10,17 +10,17 @@ def procesar_amigos():
     except FileNotFoundError:
         print(f"❌ No se encontró el archivo amigos_recurrentes.json")
     #Recorremos la lista de amigos, y aplicamos para crear dataset y csv
-    nombre =""
+    nombre_jugador =""
     tag=""
     for jugador in datos.get("jugadores"):
-        nombre= jugador.get("nombre")
+        nombre_jugador= jugador.get("nombre")
         tag= jugador.get("tag")
         
-        resultado= api.getData(nombre, tag, "eu")
+        resultado= api.getData(nombre_jugador, tag, "eu")
         if resultado:
-            print(f"Datos optenidos de: ", nombre,"#",tag)
+            print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
             print("Procesado de la partida")
-            procesador.extraccion_datos(nombre, tag)
+            procesador.extraccion_datos(nombre_jugador, tag)
             limpieza_datos.limpieza_jugador(nombre_jugador)
     return True,datos
         

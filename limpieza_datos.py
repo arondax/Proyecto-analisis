@@ -34,7 +34,9 @@ def limpieza_jugador(nombre_jugador):
     print(df['modo'].unique())
     df = borrar_no_competitivo(df)
     print(df['modo'].unique())
-    
+    if df.empty:
+        print(f"⚠️  {nombre_jugador} no tiene partidas competitivas, se omite.")
+        return None
     #Obtenemos el main
     df= obtener_main(df)
     
@@ -68,7 +70,7 @@ def limpieza_jugador(nombre_jugador):
     #Guardamos el Datasetlimpio 
     
     direccion_archivo = f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
-    existe_archivo= os.path.exists(direccion_archivo) and os.path.getsize(direccion_archivo) > 0
+    existe_archivo= os.path.exists(direccion_archivo) 
     if existe_archivo:
         df_existente = pd.read_csv(direccion_archivo)
         df_combinado = pd.concat([df_existente, df], ignore_index=True)
@@ -227,4 +229,4 @@ def transformacion_a_numeros(df):
     df_transformado['rango'] = df_transformado['rango'].astype(float)
     return df_transformado
 
-prueba = limpieza_jugador("angelutrix")
+#prueba = limpieza_jugador("angelutrix")
