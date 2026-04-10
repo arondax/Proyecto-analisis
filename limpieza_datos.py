@@ -5,7 +5,7 @@ import matplotlib.pyplot as plt
 import numpy as np
 import ast
 import json
-import string
+import os
 """
 Archivo que realiza unalimpieza inicial de los datos.
 1. Elimina entradas duplciadas en base al id de la partida
@@ -64,6 +64,21 @@ def limpieza_jugador(nombre_jugador):
     print(df.info())
     pd.set_option('display.max_columns', None)
     print(df.head(5))
+    
+    #Guardamos el Datasetlimpio 
+    
+    direccion_archivo = f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
+    existe_archivo= os.path.exists(direccion_archivo) and os.path.getsize(direccion_archivo) > 0
+    if existe_archivo:
+        df_existente = pd.read_csv(direccion_archivo)
+        df_combinado = pd.concat([df_existente, df], ignore_index=True)
+        df_combinado.drop_duplicates(subset=['id_partida'], inplace=True)
+        df_combinado.to_csv(direccion_archivo, index=False)
+    else:
+        df.to_csv(direccion_archivo, index=False)    
+    
+    
+    
     return None
 
 """

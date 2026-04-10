@@ -1,7 +1,6 @@
 #Imports
-import json
-import api
-import procesador
+import json ,api, procesador, limpieza_datos
+
 
 def procesar_amigos():
     #Leemos el json de con los datos de los jugadores:
@@ -22,6 +21,7 @@ def procesar_amigos():
             print(f"Datos optenidos de: ", nombre,"#",tag)
             print("Procesado de la partida")
             procesador.extraccion_datos(nombre, tag)
+            limpieza_datos.limpieza_jugador(nombre_jugador)
     return True,datos
         
 
