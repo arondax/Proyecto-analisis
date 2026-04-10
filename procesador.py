@@ -21,6 +21,11 @@ def extraccion_datos(nombre, tag):
     existe_archivo= os.path.exists(direccion_archivo)
     
     for partida in datos['data']:
+        MODOS_SIN_EQUIPOS = {'skirmish', 'deathmatch'}
+
+        modo = partida.get('metadata').get('mode')
+        if not modo or modo.lower() in MODOS_SIN_EQUIPOS:
+            continue
         
         lista_estadisticas = buscar_personaje(partida, nombre, tag)
         

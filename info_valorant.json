@@ -1,0 +1,38 @@
+{
+    "mapas": {
+        "unranked": [
+            "Abyss",
+            "Ascent",
+            "Bind",
+            "Breeze",
+            "Corrode",
+            "Fracture",
+            "Haven",
+            "Icebox",
+            "Lotus",
+            "Pearl",
+            "Split",
+            "Sunset"
+        ],
+        "ranked": [
+            "Abyss",
+            "Bind",
+            "Breeze",
+            "Corrode",
+            "Haven",
+            "Pearl",
+            "Split"
+        ]
+    },
+    "rangos": [
+        "Iron",
+        "Bronze",
+        "Silver",
+        "Gold",
+        "Platinum",
+        "Diamond",
+        "Ascendant",
+        "Immortal",
+        "Radiant"
+    ]
+}

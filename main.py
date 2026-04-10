@@ -1,6 +1,6 @@
 import api, procesador, script_amigos, limpieza_datos
 
-all_users = False
+all_users = True
 
 if all_users:
     script, datos= script_amigos.procesar_amigos()
@@ -27,7 +27,7 @@ else:
         print("Funciona correcatamente")
         print("Procesado de la partida")
         procesador.extraccion_datos(nombre_jugador, tag)
-        limpieza_datos.limpieza_jugador(nombre_jugador)
+        #limpieza_datos.limpieza_jugador(nombre_jugador)
 
 
 
