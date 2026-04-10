@@ -22,6 +22,7 @@ def procesar_amigos():
             print("Procesado de la partida")
             procesador.extraccion_datos(nombre_jugador, tag)
             limpieza_datos.limpieza_jugador(nombre_jugador)
+            print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
     return True,datos
         
 
