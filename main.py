@@ -1,6 +1,6 @@
-import api, procesador, script_amigos, limpieza_datos
+import api, procesador, script_amigos, limpieza_datos, modelo
 
-all_users = True
+all_users = False
 
 if all_users:
     script, datos= script_amigos.procesar_amigos()
@@ -9,8 +9,8 @@ if all_users:
         
     
 else:
-    nombre_jugador = "rondax"
-    tag = "EUW"
+    nombre_jugador = "Aaronnn17"
+    tag = "1704"
     region = "eu"
 
     print("Inicio programa: ")
@@ -29,7 +29,11 @@ else:
         procesador.extraccion_datos(nombre_jugador, tag)
         limpieza_datos.limpieza_jugador(nombre_jugador)
         print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
+        print("------------------------------------")
+        print("-----Entrenamiento------------")
+        df = modelo.lectura_csv(nombre_jugador)
+        if not df.empty:
+            modelo.entrenamiento(df)
 
-
-
+#TODO repasar los modelos y los datos que entran porque los modelos creo que no estan entrando todos los datos de csv
 #TODO, que haya 1 solo csv con el dataset. Los archivos json de consulta eliminarlos despues. JSON donde se agregen los amigos. Recabar mas datos. Filtrar aquellos que sean COMPETITIVO.
