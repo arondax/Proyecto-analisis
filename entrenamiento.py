@@ -19,7 +19,7 @@ def obtencion_lista():
     
     return True,datos
 
-def procesado_jugadores(datos):
+def procesado_jugadores(datos, api_key):
     """_summary_
 
     Args:
@@ -35,7 +35,7 @@ def procesado_jugadores(datos):
         nombre_jugador= jugador.get("nombre")
         tag= jugador.get("tag")
         
-        resultado= api.getData(nombre_jugador, tag, "eu")
+        resultado= api.getData(nombre_jugador, tag, "eu", api_key)
         if resultado:
             print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
             print("Procesado de la partida")

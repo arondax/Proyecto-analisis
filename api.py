@@ -1,18 +1,11 @@
 import requests
 import json
 
-
-key= "HDEV-0fe75a76-4407-4ac7-b11a-9fe5baedcbc7"
-
-headers = {
-    "Authorization": key,
-    "Accept": "*/*"
-}
 ##Funcion para conseguir los datos en bruto
-def getData(nombre, tag, region):
+def getData(nombre, tag, region, api_key):
     URL=f"https://api.henrikdev.xyz/valorant/v3/matches/{region}/{nombre}/{tag}"
     print(f"Buscando datos de {nombre}#{tag}...")
-    
+    headers = {"Authorization": api_key, "Accept": "*/*"}
     #Peticion
     response = requests.get(URL, headers=headers)
     
