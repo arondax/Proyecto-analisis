@@ -1,7 +1,8 @@
 #Imports
-import json ,api, procesador, limpieza_datos, glob, os
+import json ,api, procesador, limpieza_datos, glob, os, modelos
 import pandas as pd
 from datetime import datetime
+import joblib
 
 
 def obtencion_lista():
@@ -36,12 +37,31 @@ def obtencion_lista():
 def entrenar_modelo_regression():
     dia=datetime.today()
     dia_texto= dia.strftime('%Y%m%d')
+    identificador = (f'entrenamiento_{dia_texto}')
+
+    direccion_archivo=f"dataset_ingest/dataset_ingest_{identificador}.csv"
+    existe_archivo= os.path.exists(direccion_archivo)
     
-    ruta_csv=f'./dataset_ingest/'
-    patron = os.path.join(ruta_csv, '*.csv')
-    archivos_csv = glob.glob(patron)
-    df_unido = pd.concat((pd.read_csv(f) for f in archivos_csv), ignore_index=True)
-    if df_unido.to_csv(f'dataset_ingest/dataset_entrenamiento{dia_texto}.csv', index=False):
-        print("CSV general creado")
+    if not existe_archivo:
+        ruta_csv=f'./dataset_ingest/'
+        patron = os.path.join(ruta_csv, '*.csv')
+        archivos_csv = glob.glob(patron)
+        df_unido = pd.concat((pd.read_csv(f) for f in archivos_csv), ignore_index=True)
+     
+        if df_unido.to_csv(f'dataset_ingest/dataset_ingest_{identificador}.csv', index=False):
+            print("CSV general creado")
+    
+    
+    #Leemos el CSV
+    df=modelos.lectura_csv(identificador)
+    print("======INFO DATASET=======")
+    print(df.info())
+    print("=========================")
+    print(df.shape)
+    print("=========================")
+    print(df.describe())
+    print("=========================")
+    modelos.entrenamiento_regresion(df)
+    
     
     return True

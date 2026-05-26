@@ -15,12 +15,12 @@ from sklearn.metrics import (accuracy_score, precision_score,
                              recall_score, f1_score, confusion_matrix,
                              ConfusionMatrixDisplay)
 
-def lectura_csv(nombre_jugador):
-    ruta_csv=f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
+def lectura_csv(identificador):
+    ruta_csv=f"./dataset_ingest/dataset_ingest_{identificador}.csv"
     df= pd.read_csv(ruta_csv)
     return df
 #TODO Añadir validación cruzada tambión si quiero quitar el train_test, lo que se va a hacer es hacer un datset grupal y entrenar el modelo.
-def entrenamiento(df):
+def entrenamiento_regresion(df):
     df= df.copy()
     y = df[['rondas_ganadas', 'rondas_perdidas']] 
     X= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas'])
@@ -31,7 +31,7 @@ def entrenamiento(df):
     "Árbol de Decisión": DecisionTreeRegressor(random_state=42, max_depth=4),
     "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42, max_depth=4)
     }
-    
+
     for nombre, modelo  in algoritmos.items():
        modelo.fit(x_train, y_train)
        y_pred = modelo.predict(x_test) 
