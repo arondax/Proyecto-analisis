@@ -1,11 +1,18 @@
-import api, procesador, script_amigos, limpieza_datos, modelo
+import api, procesador, entrenar_modelo, limpieza_datos, modelos
 
-all_users = False
+entrenar_modelo_v = True
 
-if all_users:
-    script, datos= script_amigos.procesar_amigos()
+#Obtendremos todos los datos de la lista de jugadores (los amigos) y crearemos sus 
+if entrenar_modelo_v:
+    skip_datos= True
+    if not skip_datos:
+        script, datos= entrenar_modelo.obtencion_lista()
+        if script:
+            print("Datos obtenidos")
+    
+    script = entrenar_modelo.entrenar_modelo_regression()
     if script:
-        print("Script ejecutado sin problemas")
+        print("Modelo de regresión entrenado.")
         
     
 else:
@@ -31,9 +38,9 @@ else:
         print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
         print("------------------------------------")
         print("-----Entrenamiento------------")
-        df = modelo.lectura_csv(nombre_jugador)
+        df = modelos.lectura_csv(nombre_jugador)
         if not df.empty:
-            modelo.entrenamiento(df)
+            modelos.entrenamiento(df)
 
 #TODO repasar los modelos y los datos que entran porque los modelos creo que no estan entrando todos los datos de csv
 #TODO, que haya 1 solo csv con el dataset. Los archivos json de consulta eliminarlos despues. JSON donde se agregen los amigos. Recabar mas datos. Filtrar aquellos que sean COMPETITIVO.

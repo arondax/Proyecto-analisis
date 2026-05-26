@@ -19,7 +19,7 @@ def lectura_csv(nombre_jugador):
     ruta_csv=f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
     df= pd.read_csv(ruta_csv)
     return df
-
+#TODO Añadir validación cruzada tambión si quiero quitar el train_test, lo que se va a hacer es hacer un datset grupal y entrenar el modelo.
 def entrenamiento(df):
     df= df.copy()
     y = df[['rondas_ganadas', 'rondas_perdidas']] 
@@ -28,8 +28,8 @@ def entrenamiento(df):
     
     algoritmos = {
     "Regresión Lineal": LinearRegression(),
-    "Árbol de Decisión": DecisionTreeRegressor(random_state=42),
-    "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42)
+    "Árbol de Decisión": DecisionTreeRegressor(random_state=42, max_depth=4),
+    "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42, max_depth=4)
     }
     
     for nombre, modelo  in algoritmos.items():
