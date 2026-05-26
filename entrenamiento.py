@@ -2,12 +2,11 @@
 import json ,api, procesador, limpieza_datos, glob, os, modelos
 import pandas as pd
 from datetime import datetime
-import joblib
 
-
+#Clase
 def obtencion_lista():
     """_summary_
-    La función va a recorrer toda la lista de amigos (jugadores para entrenamiento) y creará sus datasets. 
+    La función va a recorrer toda la lista (jugadores para entrenamiento) y creará sus datasets. 
     Returns:
         _type_: _description_ devuelve un valor booleano para indicar si la obtención de los datos se ha hecho de manera satisfactoria
     """
@@ -17,7 +16,19 @@ def obtencion_lista():
             datos = json.load(archivo)
     except FileNotFoundError:
         print(f"❌ No se encontró el archivo jugadores_entrenamiento.json")
-    #Recorremos la lista de amigos, y aplicamos para crear dataset y csv
+    
+    return True,datos
+
+def procesado_jugadores(datos):
+    """_summary_
+
+    Args:
+        datos (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
+#Recorremos la lista de amigos, y aplicamos para crear dataset y csv
     nombre_jugador =""
     tag=""
     for jugador in datos.get("jugadores"):
@@ -29,12 +40,18 @@ def obtencion_lista():
             print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
             print("Procesado de la partida")
             procesador.extraccion_datos(nombre_jugador, tag)
-            limpieza_datos.limpieza_jugador(nombre_jugador)
+            df = limpieza_datos.limpieza_jugador(nombre_jugador)
+            limpieza_datos.guardar_dataset(nombre_jugador, df)
             print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
-            
-    return True,datos
+    
+    return True
 
 def entrenar_modelo_regression():
+    """_summary_
+
+    Returns:
+        _type_: _description_
+    """
     dia=datetime.today()
     dia_texto= dia.strftime('%Y%m%d')
     identificador = (f'entrenamiento_{dia_texto}')
@@ -61,7 +78,8 @@ def entrenar_modelo_regression():
     print("=========================")
     print(df.describe())
     print("=========================")
-    modelos.entrenamiento_regresion(df, identificador)
     
+    modelos.entrenamiento_regresion(df)
+        
     
     return True

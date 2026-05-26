@@ -67,6 +67,10 @@ def limpieza_jugador(nombre_jugador):
     pd.set_option('display.max_columns', None)
     print(df.head(5))
     
+    return df
+
+def guardar_dataset(nombre_jugador, df):
+        
     #Guardamos el Datasetlimpio 
     
     direccion_archivo = f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
@@ -77,11 +81,7 @@ def limpieza_jugador(nombre_jugador):
         df_combinado.drop_duplicates(subset=['id_partida'], inplace=True)
         df_combinado.to_csv(direccion_archivo, index=False)
     else:
-        df.to_csv(direccion_archivo, index=False)    
-    
-    
-    
-    return None
+        df.to_csv(direccion_archivo, index=False)   
 
 """
 Elimina duplicados en base al id.

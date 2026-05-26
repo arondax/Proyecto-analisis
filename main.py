@@ -1,24 +1,42 @@
-import api, procesador, entrenar_modelo, limpieza_datos, modelos
+import api, procesador, entrenamiento, limpieza_datos, modelos
+import prediccion
 
-entrenar_modelo_v = True
+entrenar_modelo_v = False
 
 #Obtendremos todos los datos de la lista de jugadores (los amigos) y crearemos sus 
 if entrenar_modelo_v:
-    skip_datos= True
-    if not skip_datos:
-        script, datos= entrenar_modelo.obtencion_lista()
-        if script:
-            print("Datos obtenidos")
     
-    script = entrenar_modelo.entrenar_modelo_regression()
-    if script:
-        print("Modelo de regresión entrenado.")
+    obtener_datos= False
+    if obtener_datos:
+        check, datos= entrenamiento.obtencion_lista()
+        if check:
+            print("Datos obtenidos")
+        check = entrenamiento.procesado_jugadores(datos)
+        if check:
+            print("Datos procesados")
+            
+    entrenar = False
+    if entrenar:
+        check = entrenamiento.entrenar_modelo_regression()
+        if check:
+            print("Modelo de regresión entrenado.")
+    
+    prueba_prediccion =True
+    if prueba_prediccion:
+        df = modelos.lectura_csv(identificador="mamipito")
+        modelo = modelos.cargar_modelo('randomforest')
+        modelos.predecir_partida(modelo,df)
+        
         
     
 else:
-    nombre_jugador = "Aaronnn17"
-    tag = "1704"
+    nombre_jugador = "rondax"
+    tag = "EUW"
     region = "eu"
+    mapa = "Corrode"
+    es_main = 1.0
+    num_amigos:int = 4
+    desconocidos:int = 5- num_amigos
 
     print("Inicio programa: ")
     print(" \n Introduce tu nombre de Valorant: ")
@@ -34,13 +52,13 @@ else:
         print("Funciona correcatamente")
         print("Procesado de la partida")
         procesador.extraccion_datos(nombre_jugador, tag)
-        limpieza_datos.limpieza_jugador(nombre_jugador)
-        print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
-        print("------------------------------------")
-        print("-----Entrenamiento------------")
-        df = modelos.lectura_csv(nombre_jugador)
+        df = limpieza_datos.limpieza_jugador(nombre_jugador)
+        modelo = modelos.cargar_modelo('randomforest')
+        print("Pasamos a prediccion")
         if not df.empty:
-            modelos.entrenamiento(df)
+            prediccion.predecir_jugador(modelo,df, mapa, es_main, num_amigos, desconocidos, nombre_jugador)
+            
+            
 
 #TODO repasar los modelos y los datos que entran porque los modelos creo que no estan entrando todos los datos de csv
 #TODO, que haya 1 solo csv con el dataset. Los archivos json de consulta eliminarlos despues. JSON donde se agregen los amigos. Recabar mas datos. Filtrar aquellos que sean COMPETITIVO.
