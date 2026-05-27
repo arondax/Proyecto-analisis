@@ -17,7 +17,7 @@ def obtencion_lista():
     except FileNotFoundError:
         print(f"❌ No se encontró el archivo jugadores_entrenamiento.json")
     
-    return True,datos
+    return True, datos
 
 def procesado_jugadores(datos, api_key):
     """_summary_

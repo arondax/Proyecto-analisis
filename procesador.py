@@ -130,7 +130,7 @@ def añadir_jugador_json(nombre, tag):
     Returns:
         _type_: _description_
     """
-    with open('jugadores_entrenamiento.json', 'r+', encoding='utf-8') as f:
+    with open('amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,

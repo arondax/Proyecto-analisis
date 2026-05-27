@@ -123,7 +123,7 @@ def obtener_amigos(df, ruta_json):
             datos = json.load(f)
     
     amigos_json = set()
-    for jugador in datos.get("jugadores"):
+    for jugador in datos.get("amigos"):
         nombre= jugador.get("nombre")   
         amigos_json.add(nombre) 
         
