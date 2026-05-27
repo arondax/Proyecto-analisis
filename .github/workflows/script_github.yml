@@ -33,6 +33,8 @@ jobs:
       run: python -m pip list
 
     - name: Ejecutar script de Python
+      env:
+        VALORANT_API_KEY: ${{ secrets.VALORANT_API_KEY }}
       run: python script_datos.py
 
     - name: Subir datos recopilados
