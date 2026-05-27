@@ -38,8 +38,21 @@ jobs:
       run: python script_datos.py
 
     - name: Subir datos recopilados
+      shell: bash
       run: |
         git config --local user.name 'github-actions[bot]'
         git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-        git add .
+        
+        echo "=== ¿QUÉ ARCHIVOS HAY EN LA RAÍZ Y CUÁNTO PESAN? ==="
+        ls -la
+        
+        echo "=== COMPROBANDO CONTENIDO DEL CSV (Primeras 5 líneas) ==="
+        # Reemplaza 'tu_archivo.csv' por el nombre real de tu archivo
+        head -n 5 tu_archivo.csv || echo "No se pudo leer el archivo o está vacío"
+        
+        git add -A
+        
+        echo "=== ESTADO DE GIT ANTES DEL COMMIT ==="
+        git status
+        
         git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Actualización de datos recopilados" && git push origin HEAD:${{ github.ref_name }})
