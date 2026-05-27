@@ -35,9 +35,6 @@ jobs:
     - name: Ejecutar script de Python
       run: python script_datos.py
 
-    - name: Ejecutar script de Python
-      run: python script_datos.py
-
     - name: Subir datos recopilados
       run: |
         git config --local user.name 'github-actions[bot]'
