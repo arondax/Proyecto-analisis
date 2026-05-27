@@ -60,7 +60,7 @@ def cargar_modelo(nombre: str, ruta: str = './modelos/'):
 #FUNCIONES REGRESION
 #TODO Añadir validación cruzada tambión si quiero quitar el train_test, lo que se va a hacer es hacer un datset grupal y entrenar el modelo.
 
-def entrenamiento_regresion(df):
+def entrenamiento_regresion(df, identificador):
     """_summary_
 
     Args:
@@ -79,6 +79,8 @@ def entrenamiento_regresion(df):
     "Árbol de Decisión": DecisionTreeRegressor(random_state=42, max_depth=4),
     "Random Forest": RandomForestRegressor(n_estimators=100, random_state=42, max_depth=4)
     }
+    
+    archivo=crear_log(identificador)
 
     for nombre, modelo  in algoritmos.items():
        modelo.fit(x_train, y_train)
@@ -88,11 +90,38 @@ def entrenamiento_regresion(df):
        guardar_modelo(modelo, limpiar(nombre).lower().replace(' ', '_'))
        
        print(f"\n{'='*40}")
+       archivo.write(f"\n{'='*40}\n")
        print(f"  {nombre}")
+       archivo.write(f"  {nombre}\n")
        print(f"{'='*40}")
+       archivo.write(f"{'='*40}\n")
        for i, col in enumerate(['rondas_ganadas', 'rondas_perdidas']):
             mae  = mean_absolute_error(y_test.iloc[:, i], y_pred[:, i])
+            archivo.write(f"  [{col}] MAE: {mae:.2f}\n")
             rmse = np.sqrt(mean_squared_error(y_test.iloc[:, i], y_pred[:, i]))
+            archivo.write(f"  [{col}] RMSE: {rmse:.2f}\n")
             r2   = r2_score(y_test.iloc[:, i], y_pred[:, i])
+            archivo.write(f"  [{col}] R²: {r2:.4f}\n")
             print(f"  [{col}] MAE: {mae:.2f} | RMSE: {rmse:.2f} | R²: {r2:.4f}")
+            archivo.flush()  # Asegura que se escriba en el archivo después de cada modelo
     return None
+
+def crear_log (identificador):
+    """_summary_
+
+    Args:
+        identificador (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
+    os.makedirs('./modelos/logs', exist_ok=True)
+    
+    archivo_existe = os.path.exists(f'./modelos/logs/log_{identificador}.txt')
+    
+    archivo = open(f'./modelos/logs/log_{identificador}.txt', 'a' if archivo_existe else 'w')
+    
+    if not archivo_existe:
+        archivo.write(f"Log de entrenamiento - {identificador}\n")
+        archivo.write(f"{'='*50}\n")
+    return archivo

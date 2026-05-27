@@ -79,7 +79,10 @@ def entrenar_modelo_regression():
     print(df.describe())
     print("=========================")
     
-    modelos.entrenamiento_regresion(df)
+    modelos.entrenamiento_regresion(df, identificador)
         
     
-    return True
+    return True, 
+
+
+
