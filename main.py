@@ -17,12 +17,12 @@ if not api_key:
 # Ya puedes usar tu api_key para las peticiones REST
 print(f"API Key cargada correctamente: {api_key[:9]}...")
 
-entrenar_modelo_v = False
+entrenar_modelo_v = True
 
 #Obtendremos todos los datos de la lista de jugadores (los amigos) y crearemos sus 
 if entrenar_modelo_v:
     
-    obtener_datos= False
+    obtener_datos= True
     if obtener_datos:
         check, datos= entrenamiento.obtencion_lista()
         if check:
@@ -37,7 +37,7 @@ if entrenar_modelo_v:
         if check:
             print("Modelo de regresión entrenado.")
     
-    prueba_prediccion =True
+    prueba_prediccion =False
     if prueba_prediccion:
         df = modelos.lectura_csv(identificador="mamipito")
         modelo = modelos.cargar_modelo('randomforest')

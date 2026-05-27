@@ -4,6 +4,15 @@ import os
 import csv
 
 def extraccion_datos(nombre, tag):
+    """_summary_ 
+
+    Args:
+        nombre (_type_): _description_
+        tag (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
     filas_finales = []
     agentes= cargar_config_personajes()
     #Leemos el archivo
@@ -105,11 +114,52 @@ def extraccion_datos(nombre, tag):
     else:
         df.to_csv(direccion_archivo, index=False)    
         
+    #Añadir el jugador a la json de amigos recurrentes para luego cargarlo en el csv general de entrenamiento
+    añadir_jugador_json(nombre, tag)
+        
+    #TODO Añadir el nombre del jugador a la json de entrenamiento y amigos para luego cargarlo en el csv general de entrenamiento
     return df
+
+def añadir_jugador_json(nombre, tag):
+    """_summary_
+
+    Args:
+        nombre (_type_): _description_
+        tag (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
+    with open('jugadores_entrenamiento.json', 'r+', encoding='utf-8') as f:
+        datos_amigos = json.load(f)
+        nuevo_amigo = {
+            "nombre": nombre,
+            "tag": tag
+        }
+        if nuevo_amigo not in datos_amigos.get("amigos", []):
+            datos_amigos["amigos"].append(nuevo_amigo)
+            f.seek(0)
+            json.dump(datos_amigos, f, indent=4)
+            f.truncate()
+            
+    with open('amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
+        datos_amigos = json.load(f)
+        nuevo_amigo = {
+            "nombre": nombre,
+            "tag": tag
+        }
+        if nuevo_amigo not in datos_amigos.get("amigos", []):
+            datos_amigos["amigos"].append(nuevo_amigo)
+            f.seek(0)
+            json.dump(datos_amigos, f, indent=4)
+            f.truncate()
+
+    
+def buscar_personaje(partida, nombre_jugador, tag_jugador):
+    
     """
     Funcion que busca dentro del archivo los valores del agente jugado, las kills, las asistencias, muertes y devuelve una lista clave valor con ellas
     """
-def buscar_personaje(partida, nombre_jugador, tag_jugador):
     for jugador in partida['players']['all_players']:
         if jugador['name']==nombre_jugador and jugador['tag'] == tag_jugador :
             personaje = jugador.get('character')
@@ -137,6 +187,11 @@ def buscar_personaje(partida, nombre_jugador, tag_jugador):
     Funcion que carga el json con los personajes y sus roles
     """
 def cargar_config_personajes():
+    """_summary_
+
+    Returns:
+        _type_: _description_
+    """
     try:
         with open('agentes_config.json', 'r', encoding='utf-8') as f:
             return json.load(f)
@@ -145,6 +200,17 @@ def cargar_config_personajes():
         return {}
     
 def buscar_teammates(partida_jugador, equipo_jugador, nombre_jugador, tag_jugador):
+    """_summary_ 
+
+    Args:
+        partida_jugador (_type_): _description_
+        equipo_jugador (_type_): _description_
+        nombre_jugador (_type_): _description_
+        tag_jugador (_type_): _description_
+
+    Returns:
+        _type_: _description_
+    """
     teammates = []
     for partida in partida_jugador.get('players', {}).get('all_players', []):
         if partida.get('team') == equipo_jugador:
