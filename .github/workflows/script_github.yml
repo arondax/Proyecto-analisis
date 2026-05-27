@@ -12,7 +12,7 @@ permissions:
 
 jobs:
   run-python:
-    runs-on: ubuntu-latest
+    runs-on: windows-latest
 
     steps:
     - name: Recopilar los datos del repositorio
