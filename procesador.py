@@ -20,7 +20,7 @@ def extraccion_datos(nombre, tag):
         with open(f'./partidas/matches_{nombre}.json','r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
-        print(f"❌ No se encontró el archivo matches_{nombre}.json")
+        print(f"No se encontró el archivo matches_{nombre}.json")
         return None
     
     racha = 0
@@ -196,7 +196,7 @@ def cargar_config_personajes():
         with open('agentes_config.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
-        print("⚠️ Error: No se encontró 'agentes_config.json'. Usando diccionario vacío.")
+        print("Error: No se encontró 'agentes_config.json'. Usando diccionario vacío.")
         return {}
     
 def buscar_teammates(partida_jugador, equipo_jugador, nombre_jugador, tag_jugador):

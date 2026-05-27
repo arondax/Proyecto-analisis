@@ -18,7 +18,7 @@ def getData(nombre, tag, region, api_key):
         
         with open(direccion_archivo, "w", encoding="utf-8") as f:
             json.dump(data, f, indent=4)
-        print(f"✅ Archivo '{nombre_archivo}' creado con éxito.")
+        print(f"Archivo '{nombre_archivo}' creado con éxito.")
         return data   
     else:
         print(f'Error en la solicitud, detalles: {response.status_code} ', response.text)    
@@ -41,7 +41,7 @@ def obtener_mapeo_roles():
         nombre_archivo=f"personajes.json"    
         with open(nombre_archivo, "w", encoding="utf-8") as f:
             json.dump(mapeo, f, indent=4)
-        print(f"✅ Archivo '{nombre_archivo}' creado con éxito.")   
+        print(f"Archivo '{nombre_archivo}' creado con éxito.")   
         
         return mapeo
     return {}

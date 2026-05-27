@@ -15,7 +15,7 @@ def obtencion_lista():
         with open(f'./jugadores_entrenamiento.json','r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
-        print(f"❌ No se encontró el archivo jugadores_entrenamiento.json")
+        print(f"No se encontró el archivo jugadores_entrenamiento.json")
     
     return True, datos
 

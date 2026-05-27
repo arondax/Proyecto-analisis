@@ -216,7 +216,7 @@ def transformacion_a_numeros(df):
 
     datos_transformados = preprocessor.fit_transform(df)
 
-    # ✅ columnas definida antes de usarla
+    # columnas definida antes de usarla
     columnas_nom = preprocessor.named_transformers_['nom'].get_feature_names_out(['mapa'])
     columnas = ordinal_features + list(columnas_nom) + [c for c in df.columns if c not in ordinal_features + nominal_features]
 
