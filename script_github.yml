@@ -1,0 +1,35 @@
+name: Script Github recopilación de datos
+on: 
+  schedule:
+    - cron: '0 8 * * *'
+    - cron: '0 16 * * *'
+    - cron: '0 23 * * *'
+  workflow_dispatch:
+
+jobs:
+  run-python:
+    runs-on: ubuntu-latest
+
+    steps:
+    - name: Recopilar los datos del repositorio
+      uses: actions/checkout@v4
+    
+    - name: Configurar entorno de Python
+      uses: actions/setup-python@v5
+      with:
+        python-version: '3.11'
+
+    - name: Instalar dependencias
+      run: |
+        python -m pip install --upgrade pip
+        if [ -f requirements.txt ]; then pip install -r requirements.txt; fi
+
+    - name: Ejecutar script de Python
+      run: python script_datos.py
+
+    - name: Subir datos recopilados
+      run: |
+        git config --global user.name 'github-actions'
+        git config --global user.email 'github-actions@users.noreply.github.com'
+        git add .
+        git diff --quiet && git diff --staged --quiet || (git commit -m "Auto: Actualización de datos recopilados" && git push)
