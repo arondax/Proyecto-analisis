@@ -35,6 +35,7 @@ jobs:
     - name: Ejecutar script de Python
       env:
         VALORANT_API_KEY: ${{ secrets.VALORANT_API_KEY }}
+        PYTHONIOENCODING: utf-8
       run: |
         echo "=== INICIANDO EJECUCIÓN DEL SCRIPT ==="
         python script_datos.py
