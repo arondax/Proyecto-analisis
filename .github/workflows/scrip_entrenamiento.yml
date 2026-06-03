@@ -44,14 +44,7 @@ jobs:
       run: |
         git config --local user.name 'github-actions[bot]'
         git config --local user.email 'github-actions[bot]@users.noreply.github.com'
-        
-        echo "=== ¿QUÉ ARCHIVOS HAY EN LA RAÍZ Y CUÁNTO PESAN? ==="
-        ls -la
-        
-        echo "=== COMPROBANDO CONTENIDO DEL CSV (Primeras 5 líneas) ==="
-        # Reemplaza 'tu_archivo.csv' por el nombre real de tu archivo
-        head -n 5 tu_archivo.csv || echo "No se pudo leer el archivo o está vacío"
-        
+              
         git add -A
         
         echo "=== ESTADO DE GIT ANTES DEL COMMIT ==="
