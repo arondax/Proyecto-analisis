@@ -21,7 +21,7 @@ def lectura_csv(identificador):
     Returns:
         _type_: _description_
     """
-    ruta_csv=f"./dataset_ingest/dataset_ingest_{identificador}.csv"
+    ruta_csv=f"./dataset_entrenamiento/dataset_ingest_{identificador}.csv"
     df= pd.read_csv(ruta_csv)
     return df
 

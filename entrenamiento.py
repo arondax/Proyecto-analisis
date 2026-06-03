@@ -56,7 +56,7 @@ def entrenar_modelo_regression():
     dia_texto= dia.strftime('%Y%m%d')
     identificador = (f'entrenamiento_{dia_texto}')
 
-    direccion_archivo=f"dataset_ingest/dataset_ingest_{identificador}.csv"
+    direccion_archivo=f"dataset_entrenamiento/dataset_ingest_{identificador}.csv"
     existe_archivo= os.path.exists(direccion_archivo)
     
     if not existe_archivo:
@@ -64,8 +64,9 @@ def entrenar_modelo_regression():
         patron = os.path.join(ruta_csv, '*.csv')
         archivos_csv = glob.glob(patron)
         df_unido = pd.concat((pd.read_csv(f) for f in archivos_csv), ignore_index=True)
+        df_unido.drop_duplicates()
      
-        if df_unido.to_csv(f'dataset_ingest/dataset_ingest_{identificador}.csv', index=False):
+        if df_unido.to_csv(f'dataset_entrenamiento/dataset_ingest_{identificador}.csv', index=False):
             print("CSV general creado")
     
     
