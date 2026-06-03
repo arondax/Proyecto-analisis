@@ -27,6 +27,9 @@ def limpieza_jugador(nombre_jugador):
     
     #Borramos primero duplicados antes de borrar la columna de id de la partida
     df= quitar_duplicados(df)
+    #Lo guardamos limpio.
+    df.to_csv(ruta_csv, index=False)
+    
     print("-------------------------")
     print(df.info())
     
