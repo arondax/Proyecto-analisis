@@ -12,7 +12,7 @@ def obtencion_lista():
     """
     #Leemos el json de con los datos de los jugadores:
     try:                                                            
-        with open(f'./jugadores_entrenamiento.json','r', encoding='utf-8') as archivo:
+        with open(f'./json/jugadores_entrenamiento.json','r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
         print(f"No se encontró el archivo jugadores_entrenamiento.json")

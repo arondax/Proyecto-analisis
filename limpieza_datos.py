@@ -46,7 +46,7 @@ def limpieza_jugador(nombre_jugador):
     print("-------------------------")
     print(df.info())
     
-    ruta_json = "amigos_recurrentes.json"
+    ruta_json = "./json/amigos_recurrentes.json"
     df= obtener_amigos(df, ruta_json)
     print("-------------------------")
     print(df.info())
@@ -191,7 +191,7 @@ def transformacion_a_numeros(df):
         >>> df_numerico = transformacion_a_numeros(df_limpio)
         >>> df_numerico.dtypes
     """
-    with open('./info_valorant.json', 'r', encoding='utf-8') as f:
+    with open('./json/info_valorant.json', 'r', encoding='utf-8') as f:
         config = json.load(f)
 
     mapas = config['mapas']['ranked']

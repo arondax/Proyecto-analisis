@@ -130,7 +130,7 @@ def añadir_jugador_json(nombre, tag):
     Returns:
         _type_: _description_
     """
-    with open('amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
+    with open('./json/amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
@@ -142,7 +142,7 @@ def añadir_jugador_json(nombre, tag):
             json.dump(datos_amigos, f, indent=4)
             f.truncate()
             
-    with open('amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
+    with open('./json/amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
@@ -193,7 +193,7 @@ def cargar_config_personajes():
         _type_: _description_
     """
     try:
-        with open('agentes_config.json', 'r', encoding='utf-8') as f:
+        with open('./json/agentes_config.json', 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Error: No se encontró 'agentes_config.json'. Usando diccionario vacío.")
