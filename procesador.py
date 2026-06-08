@@ -69,7 +69,7 @@ def extraccion_datos(nombre, tag):
         acs = "{:.3f}".format(acs)
         
         teammates = buscar_teammates(partida, equipo , nombre, tag)
-        composicion = obtener_composicion(partida, equipo, nombre, tag)
+        composicion = obtener_composicion(partida, equipo)
         rondas_win_lose = obtener_rondas(partida, equipo)
         rondas_w = rondas_win_lose[0]
         rondas_l = rondas_win_lose[1]
