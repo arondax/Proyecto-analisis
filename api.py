@@ -3,6 +3,7 @@ import json
 
 ##Funcion para conseguir los datos en bruto
 def getData(nombre, tag, region, api_key):
+    """Funcion que hace la petición a la API de Henrikdev para conseguir los datos de las partidas del jugador, y los guarda en un archivo JSON."""
     URL=f"https://api.henrikdev.xyz/valorant/v3/matches/{region}/{nombre}/{tag}"
     print(f"Buscando datos de {nombre}#{tag}...")
     headers = {"Authorization": api_key, "Accept": "*/*"}

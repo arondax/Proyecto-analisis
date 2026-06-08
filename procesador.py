@@ -4,14 +4,14 @@ import os
 import csv
 
 def extraccion_datos(nombre, tag):
-    """_summary_ 
+    """_summary_ Función que se encarga de extraer los datos relevantes de las partidas del jugador, a partir del archivo JSON obtenido de la API, y luego guarda estos datos en un archivo CSV específico para cada jugador. La función procesa cada partida del jugador, extrae información como el agente jugado, las kills, asistencias, muertes, compañeros de equipo, rango, composición del equipo, acs, entre otros datos relevantes para el análisis y entrenamiento del modelo. Luego, organiza estos datos en un DataFrame de pandas y lo guarda en un archivo CSV dentro de la carpeta designada para datasets, utilizando el nombre del jugador para nombrar el archivo. Además, la función también añade el jugador a un JSON de amigos recurrentes para su posterior uso en el entrenamiento del modelo.
 
     Args:
-        nombre (_type_): _description_
-        tag (_type_): _description_
+        nombre (_type_): _description_ El nombre del jugador del cual se van a extraer los datos de las partidas. Este nombre se utiliza para localizar el archivo JSON específico que contiene los datos de las partidas del jugador, y también se utiliza para nombrar el archivo CSV donde se guardarán los datos extraídos. El nombre del jugador debe coincidir con el formato utilizado en el archivo JSON para que la función pueda localizar correctamente los datos correspondientes a ese jugador.
+        tag (_type_): _description_ El tag del jugador del cual se van a extraer los datos de las partidas. Este tag se utiliza junto con el nombre del jugador para localizar el archivo JSON específico que contiene los datos de las partidas del jugador, y también se utiliza para identificar al jugador dentro de las partidas al extraer los datos relevantes. El tag del jugador debe coincidir con el formato utilizado en el archivo JSON para que la función pueda localizar correctamente los datos correspondientes a ese jugador.
 
     Returns:
-        _type_: _description_
+        _type_: _description_   Devuelve un DataFrame de pandas que contiene los datos extraídos de las partidas del jugador, organizados en columnas relevantes para el análisis y entrenamiento del modelo. Este DataFrame se puede utilizar posteriormente para realizar análisis exploratorios, limpieza de datos, y entrenamiento del modelo de machine learning. Además, la función también guarda estos datos en un archivo CSV específico para el jugador, dentro de la carpeta designada para datasets, utilizando el nombre del jugador para nombrar el archivo.
     """
     import os
     print(f"[DEBUG] Directorio de trabajo actual: {os.getcwd()}")
@@ -129,14 +129,14 @@ def extraccion_datos(nombre, tag):
     return df
 
 def añadir_jugador_json(nombre, tag):
-    """_summary_
+    """_summary_ Función que se encarga de añadir un jugador a los JSON de amigos recurrentes y jugadores recurrentes para su posterior uso en el entrenamiento del modelo.
 
     Args:
-        nombre (_type_): _description_
-        tag (_type_): _description_
+        nombre (_type_): _description_ El nombre del jugador que se va a añadir a los JSON de amigos recurrentes y jugadores recurrentes. Este nombre se utiliza para identificar al jugador dentro de los JSON, y se asegura de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
+        tag (_type_): _description_ El tag del jugador que se va a añadir a los JSON de amigos recurrentes y jugadores recurrentes. Este tag se utiliza junto con el nombre del jugador para identificar al jugador dentro de los JSON, y se asegura de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
 
     Returns:
-        _type_: _description_
+        _type_: _description_ Devuelve None después de completar el proceso de añadir el jugador a los JSON de amigos recurrentes y jugadores recurrentes. La función no devuelve un valor específico, pero se encarga de actualizar ambos JSON con la información del nuevo jugador, asegurándose de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
     """
     
     #Guardamos el jugador en los dos json de amigos recurrentes y jugadores recurrentes para luego cargarlo en el csv general de entrenamiento
@@ -166,10 +166,9 @@ def añadir_jugador_json(nombre, tag):
 
     
 def buscar_personaje(partida, nombre_jugador, tag_jugador):
-    
+    """_summary_ Función que se encarga de buscar al jugador dentro de una partida específica, y extraer las estadísticas relevantes del jugador para esa partida. La función recorre la lista de jugadores en la partida, identifica al jugador utilizando su nombre y tag, y luego extrae información como el agente jugado, las kills, asistencias, muertes, equipo, rango, puntuación, entre otros datos relevantes para el análisis y entrenamiento del modelo. Si el jugador es encontrado en la partida, la función devuelve un diccionario con las estadísticas extraídas; si el jugador no es encontrado, devuelve None.
     """
-    Funcion que busca dentro del archivo los valores del agente jugado, las kills, las asistencias, muertes y devuelve una lista clave valor con ellas
-    """
+
     for jugador in partida['players']['all_players']:
         print(f"[DEBUG] Jugador en JSON: nombre='{jugador['name']}' tag='{jugador['tag']}'")
         if jugador['name'].lower() == nombre_jugador.lower() and jugador['tag'].lower() == tag_jugador.lower():
@@ -194,14 +193,12 @@ def buscar_personaje(partida, nombre_jugador, tag_jugador):
             lista_estadisticas= {'personaje': personaje, 'kills':kills, 'asistencias' :asistencias,'muertes': muertes, 'equipo': equipo, 'rango': rango, 'subrango': subrango, 'score': puntuacion, 'headshot': headshot}
             return lista_estadisticas
     return None
-    """
-    Funcion que carga el json con los personajes y sus roles
-    """
+
 def cargar_config_personajes():
-    """_summary_
+    """_summary_ Función que se encarga de cargar la configuración de personajes desde un archivo JSON específico, y devuelve un diccionario que mapea cada personaje con su rol correspondiente. La función intenta leer el archivo JSON que contiene la configuración de personajes, y si el archivo es encontrado, carga los datos en un diccionario y lo devuelve. Si el archivo no es encontrado, la función maneja la excepción y devuelve un diccionario vacío, asegurándose de que el programa pueda continuar ejecutándose sin interrupciones incluso si el archivo de configuración no está disponible.
 
     Returns:
-        _type_: _description_
+        _type_: _description_ Devuelve un diccionario que mapea cada personaje con su rol correspondiente, cargado desde un archivo JSON específico. Este diccionario se utiliza para identificar el rol de cada personaje durante el proceso de extracción de datos de las partidas, y es esencial para organizar los datos de manera adecuada para el análisis y entrenamiento del modelo. Si el archivo JSON no es encontrado, la función devuelve un diccionario vacío, lo que permite que el programa continúe ejecutándose sin interrupciones incluso si la configuración de personajes no está disponible.
     """
     try:
         with open('./json/agentes_config.json', 'r', encoding='utf-8') as f:
@@ -211,16 +208,16 @@ def cargar_config_personajes():
         return {}
     
 def buscar_teammates(partida_jugador, equipo_jugador, nombre_jugador, tag_jugador):
-    """_summary_ 
+    """_summary_ Función que se encarga de buscar los compañeros de equipo del jugador dentro de una partida específica. La función recorre la lista de jugadores en la partida, identifica a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y luego extrae sus nombres para crear una lista de compañeros de equipo. La función también se asegura de no incluir al jugador objetivo en la lista de compañeros, utilizando su nombre y tag para identificarlo correctamente. Si el jugador es encontrado en la partida, la función devuelve una lista con los nombres de sus compañeros de equipo; si el jugador no es encontrado, devuelve una lista vacía.
 
     Args:
-        partida_jugador (_type_): _description_
-        equipo_jugador (_type_): _description_
-        nombre_jugador (_type_): _description_
-        tag_jugador (_type_): _description_
+        partida_jugador (_type_): _description_ El diccionario que contiene los datos de la partida específica en la que se va a buscar a los compañeros de equipo del jugador. Este diccionario debe contener una estructura que incluya una lista de jugadores con sus respectivos equipos, para que la función pueda identificar correctamente a los compañeros de equipo del jugador objetivo.
+        equipo_jugador (_type_): _description_ El equipo al que pertenece el jugador objetivo dentro de la partida. Este valor se utiliza para identificar a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y así extraer sus nombres para crear la lista de compañeros de equipo. El valor del equipo debe coincidir con el formato utilizado en el diccionario de la partida para que la función pueda identificar correctamente a los compañeros de equipo del jugador objetivo.
+        nombre_jugador (_type_): _description_ El nombre del jugador objetivo del cual se van a buscar los compañeros de equipo. Este nombre se utiliza junto con el tag del jugador para identificarlo correctamente dentro de la lista de jugadores en la partida, y asegurarse de que el jugador objetivo no sea incluido en la lista de compañeros de equipo. El nombre del jugador debe coincidir con el formato utilizado en el diccionario de la partida para que la función pueda identificar correctamente al jugador objetivo y sus compañeros de equipo.
+        tag_jugador (_type_): _description_ El tag del jugador objetivo del cual se van a buscar los compañeros de equipo. Este tag se utiliza junto con el nombre del jugador para identificarlo correctamente dentro de la lista de jugadores en la partida, y asegurarse de que el jugador objetivo no sea incluido en la lista de compañeros de equipo. El tag del jugador debe coincidir con el formato utilizado en el diccionario de la partida para que la función pueda identificar correctamente al jugador objetivo y sus compañeros de equipo.
 
     Returns:
-        _type_: _description_
+        _type_: _description_ Devuelve una lista con los nombres de los compañeros de equipo del jugador objetivo dentro de la partida específica. Esta lista se crea al identificar a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y se asegura de no incluir al jugador objetivo en la lista utilizando su nombre y tag para identificarlo correctamente. Si el jugador objetivo es encontrado en la partida, la función devuelve una lista con los nombres de sus compañeros de equipo; si el jugador no es encontrado, devuelve una lista vacía.
     """
     teammates = []
     for partida in partida_jugador.get('players', {}).get('all_players', []):
@@ -233,7 +230,16 @@ def buscar_teammates(partida_jugador, equipo_jugador, nombre_jugador, tag_jugado
     return teammates
 
 
-def obtener_composicion(partida_jugador, equipo_jugador, nombre_jugador, tag_jugador):
+def obtener_composicion(partida_jugador, equipo_jugador):
+    """_summary_ Función que se encarga de obtener la composición del equipo del jugador dentro de una partida específica. La función recorre la lista de jugadores en la partida, identifica a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y luego extrae los personajes que están jugando para crear una lista de composición del equipo. La función también se asegura de no incluir al jugador objetivo en la lista de composición, utilizando su nombre y tag para identificarlo correctamente. Si el jugador es encontrado en la partida, la función devuelve una lista con los personajes de sus compañeros de equipo; si el jugador no es encontrado, devuelve una lista vacía.
+
+    Args:
+        partida_jugador (_type_): _description_ El diccionario que contiene los datos de la partida específica en la que se va a buscar la composición del equipo del jugador. Este diccionario debe contener una estructura que incluya una lista de jugadores con sus respectivos equipos y personajes, para que la función pueda identificar correctamente a los compañeros de equipo del jugador objetivo y extraer los personajes que están jugando para crear la lista de composición del equipo.
+        equipo_jugador (_type_): _description_ Lista de los agentes
+
+    Returns:
+        _type_: _description_ Devuelve la composicion del equipo
+    """
     composicion = []
     for partida in partida_jugador.get('players', {}).get('all_players', []):
         if partida.get('team') == equipo_jugador:
@@ -242,7 +248,15 @@ def obtener_composicion(partida_jugador, equipo_jugador, nombre_jugador, tag_jug
     return composicion
 
 def obtener_rondas(datos_partida, equipo_jugador):
+    """_summary_ Funcion que se encarga de obtener el numero de rondas de la partida
 
+    Args:
+        datos_partida (_type_): _description_ El diccionario que contiene los datos especificos de la partida
+        equipo_jugador (_type_): _description_ El equipo al que pertenece el jugador objetivo dentro de la partida. Este valor se utiliza para identificar a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y así extraer sus nombres para crear la lista de compañeros de equipo. El valor del equipo debe coincidir con el formato utilizado en el diccionario de la partida para que la función pueda identificar correctamente a los compañeros de equipo del jugador objetivo.
+
+    Returns:
+        _type_: _description_ Devuelve una lista con el numero de rondas ganadas y perdidas del equipo del jugador objetivo dentro de la partida específica. Esta lista se crea al identificar el equipo al que pertenece el jugador objetivo, y luego extraer el número de rondas ganadas y perdidas para ese equipo dentro de los datos de la partida. Si el jugador objetivo es encontrado en la partida, la función devuelve una lista con el número de rondas ganadas y perdidas de su equipo; si el jugador no es encontrado, devuelve una lista vacía.
+    """
     equipo_jugador = equipo_jugador.lower()
     rondas_w = datos_partida.get('teams').get(equipo_jugador).get('rounds_won')
     rondas_l = datos_partida.get('teams').get(equipo_jugador).get('rounds_lost')
@@ -252,6 +266,16 @@ def obtener_rondas(datos_partida, equipo_jugador):
 
 
 def calcular_impacto_ronda(partida, mi_nombre, mi_tag):
+    """_summary_ Función que analiza el impacto que ha tenido el jugador en cada ronda
+
+    Args:
+        partida (_type_): _description_ El diccionario de la partida especifica
+        mi_nombre (_type_): _description_ Nombre del jugador
+        mi_tag (_type_): _description_ El tag del jugador
+
+    Returns:
+        _type_: _description_ las variables de las primeras sangres y muertes
+    """
     first_bloods = 0
     first_deaths = 0
     

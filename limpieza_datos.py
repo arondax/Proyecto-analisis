@@ -17,6 +17,14 @@ Archivo que realiza unalimpieza inicial de los datos.
 
 
 def limpieza_jugador(nombre_jugador):
+    """_summary_ Funcion que realiza la limpieza de los datos de un jugador específico, aplicando varias transformaciones para preparar el dataset para el entrenamiento del modelo. Las transformaciones incluyen la eliminación de duplicados, filtrado por modo competitivo, identificación del personaje principal (main), cálculo del número de amigos y desconocidos en cada partida, y la transformación de columnas categóricas a numéricas.
+
+    Args:
+        nombre_jugador (_type_): _description_ El nombre del jugador para el cual se realizará la limpieza de datos. Este nombre se utiliza para localizar el archivo CSV correspondiente al jugador, que contiene sus partidas y estadísticas.
+
+    Returns:
+        _type_: _description_ Devuelve un DataFrame limpio y transformado, listo para ser utilizado en el entrenamiento del modelo de machine learning. El DataFrame resultante contiene solo las columnas relevantes en formato numérico, con las filas correspondientes únicamente a partidas competitivas, y con información adicional sobre el personaje principal, número de amigos y desconocidos en cada partida.
+    """
     ruta_csv=f"./datasets/dataset_{nombre_jugador}.csv"
     
     df = pd.read_csv(ruta_csv)
@@ -73,7 +81,12 @@ def limpieza_jugador(nombre_jugador):
     return df
 
 def guardar_dataset(nombre_jugador, df):
-        
+    """_summary_ Función que guarda el DataFrame limpio y preparado para el entrenamiento en un archivo CSV específico para cada jugador. Si el archivo ya existe, se combina el nuevo DataFrame con el existente, eliminando duplicados basados en el ID de la partida, para asegurar que no haya entradas repetidas en el dataset final.
+
+    Args:
+        nombre_jugador (_type_): _description_ El nombre del jugador para el cual se guardará el dataset limpio. Este nombre se utiliza para definir el nombre del archivo CSV donde se almacenarán los datos limpios y preparados.
+        df (_type_): _description_ El DataFrame limpio y preparado que contiene las partidas del jugador, con las transformaciones aplicadas para el entrenamiento del modelo. Este DataFrame se guardará en un archivo CSV específico para el jugador, y se combinará con cualquier dataset existente para ese jugador, eliminando duplicados basados en el ID de la partida.
+    """
     #Guardamos el Datasetlimpio 
     
     direccion_archivo = f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
@@ -86,20 +99,21 @@ def guardar_dataset(nombre_jugador, df):
     else:
         df.to_csv(direccion_archivo, index=False)   
 
-"""
-Elimina duplicados en base al id.
-"""
 def quitar_duplicados(df):
+    """
+    Elimina duplicados en base al id.
+    """
     print("Numero de duplicados: ", df.duplicated().sum())
     #Borramos duplciados en base al id de la partida. 
     df_limpio = df.drop_duplicates(subset=[df.columns[0]])
     
     return df_limpio
-"""_summary_
-Obtiene el personaje mas jugado en grupos de 10 partidas, y lo asigna a la columna es_main,
-como valor binario.
-"""
+
 def obtener_main(df):
+    """_summary_
+    Obtiene el personaje mas jugado en grupos de 10 partidas, y lo asigna a la columna es_main,
+    como valor binario.
+    """
     #suponemos que el orden es cornológico
     df['bloque_10'] = np.arange(len(df)) // 10
     
@@ -116,11 +130,12 @@ def obtener_main(df):
     df.drop(columns=['bloque_10', 'personaje_main_del_bloque', 'personaje'], inplace=True)
     
     return df
-"""_summary_
-La función revisa el json de los amigos y busca aquellos individuos con los que hayas jugado mas de 3 veces
-y luego los compara con los compañeros para sacer el numero de amigos y el numero de desconocidos
-"""
+
 def obtener_amigos(df, ruta_json):
+    """_summary_
+    La función revisa el json de los amigos y busca aquellos individuos con los que hayas jugado mas de 3 veces
+    y luego los compara con los compañeros para sacer el numero de amigos y el numero de desconocidos
+    """
     #abrimos el json de amigos recurrentes
     with open(ruta_json, 'r') as f:
             datos = json.load(f)
@@ -154,10 +169,11 @@ def obtener_amigos(df, ruta_json):
 
 
 
-"""_summary_
-Filtra por las columnas que tienen el valor competitivo
-"""
+
 def borrar_no_competitivo(df):
+    """_summary_
+    Filtra por las columnas que tienen el valor competitivo
+    """
     df_limpio= df[df['modo'].str.contains('Competitive', case=False)] #reforzamos que lea competitive independientemente si es mayusculas o no
     return df_limpio
 

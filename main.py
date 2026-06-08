@@ -2,6 +2,12 @@ import api, procesador, entrenamiento, limpieza_datos, modelos
 import prediccion
 from dotenv import load_dotenv #para proteger la clave api
 import os
+"""_summary_ Función principal del programa, que se encarga de coordinar la obtención de datos, el procesamiento, la limpieza y el entrenamiento del modelo de machine learning. La función sigue una secuencia lógica para asegurar que los datos se obtienen correctamente, se procesan y limpian adecuadamente, y finalmente se entrena el modelo con el dataset preparado.
+
+    Raises:
+        ValueError: _description_ Si no se encuentra la clave de API en el archivo .env, se lanza un error indicando que la clave no ha sido cargada correctamente.
+    """
+
 
 # Carga las variables del archivo .env en el sistema
 load_dotenv()

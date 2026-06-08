@@ -20,13 +20,14 @@ def obtencion_lista():
     return True, datos
 
 def procesado_jugadores(datos, api_key):
-    """_summary_
+    """_summary_ Funcion que procesa los datos de cada jugador, obtenidos a través de la API, y los prepara para el entrenamiento del modelo.
 
     Args:
-        datos (_type_): _description_
+        datos (_type_): _description_ Datos de los jugadores obtenidos del JSON, que incluye su nombre, tag y región para hacer las peticiones a la API.
+        api_key (_type_): _description_ Clave de API necesaria para autenticar las peticiones a la API de Henrikdev.
 
     Returns:
-        _type_: _description_
+        _type_: _description_ Devuelve un valor booleano para indicar si el procesamiento de los datos se ha realizado correctamente.
     """
 #Recorremos la lista de amigos, y aplicamos para crear dataset y csv
     nombre_jugador =""
@@ -47,10 +48,10 @@ def procesado_jugadores(datos, api_key):
     return True
 
 def entrenar_modelo_regression():
-    """_summary_
+    """_summary_ Función que se encarga de unir los datasets individuales de cada jugador, realizar un análisis exploratorio básico y entrenar el modelo de regresión con el dataset completo.
 
     Returns:
-        _type_: _description_
+        _type_: _description_ Devuelve un valor booleano para indicar si el entrenamiento del modelo se ha completado con éxito.
     """
     dia=datetime.today()
     dia_texto= dia.strftime('%Y%m%d')
