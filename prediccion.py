@@ -70,7 +70,11 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
 
     # LLAMADA A LA FUNCIÓN DE GUARDADO
     guardar_prediccion_txt(nombre_jugador, mapa, rondas_g, rondas_p, resultado)
-    
+    return {
+        "rondas_ganadas": round(rondas_g, 1),
+        "rondas_perdidas": round(rondas_p, 1),
+        "resultado": resultado
+    }
 
 
 

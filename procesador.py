@@ -13,6 +13,11 @@ def extraccion_datos(nombre, tag):
     Returns:
         _type_: _description_
     """
+    import os
+    print(f"[DEBUG] Directorio de trabajo actual: {os.getcwd()}")
+    print(f"[DEBUG] Buscando JSON en: {os.path.abspath(f'./partidas/matches_{nombre}.json')}")
+    print(f"[DEBUG] CSV destino: {os.path.abspath(f'./datasets/dataset_{nombre}.csv')}")
+    
     filas_finales = []
     agentes= cargar_config_personajes()
     #Leemos el archivo
@@ -34,15 +39,18 @@ def extraccion_datos(nombre, tag):
 
         modo = partida.get('metadata').get('mode')
         if not modo or modo.lower() in MODOS_SIN_EQUIPOS:
+            print(f"[DEBUG] Filtrada por modo: {modo}")
             continue
         
         lista_estadisticas = buscar_personaje(partida, nombre, tag)
         
         if not lista_estadisticas:
+            print(f"[DEBUG] Jugador no encontrado en partida {partida.get('metadata').get('matchid')}")
             continue # Si no encuentra al jugador en esta partida, salta a la siguiente
         
         id_partida= partida.get('metadata').get('matchid')
         mapa_actual = partida.get('metadata').get('map')
+        print(f"[DEBUG] Partida encontrada - Modo: {modo} | Mapa: {mapa_actual}")
         personaje = lista_estadisticas['personaje']
         rol = agentes.get(personaje, "Desconocido")
         rango = lista_estadisticas['rango']
@@ -130,6 +138,8 @@ def añadir_jugador_json(nombre, tag):
     Returns:
         _type_: _description_
     """
+    
+    #Guardamos el jugador en los dos json de amigos recurrentes y jugadores recurrentes para luego cargarlo en el csv general de entrenamiento
     with open('./json/amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
@@ -142,14 +152,14 @@ def añadir_jugador_json(nombre, tag):
             json.dump(datos_amigos, f, indent=4)
             f.truncate()
             
-    with open('./json/amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
+    with open('./json/jugadores_entrenamiento.json', 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
             "tag": tag
         }
-        if nuevo_amigo not in datos_amigos.get("amigos", []):
-            datos_amigos["amigos"].append(nuevo_amigo)
+        if nuevo_amigo not in datos_amigos.get("jugadores", []):
+            datos_amigos["jugadores"].append(nuevo_amigo)
             f.seek(0)
             json.dump(datos_amigos, f, indent=4)
             f.truncate()
@@ -161,7 +171,8 @@ def buscar_personaje(partida, nombre_jugador, tag_jugador):
     Funcion que busca dentro del archivo los valores del agente jugado, las kills, las asistencias, muertes y devuelve una lista clave valor con ellas
     """
     for jugador in partida['players']['all_players']:
-        if jugador['name']==nombre_jugador and jugador['tag'] == tag_jugador :
+        print(f"[DEBUG] Jugador en JSON: nombre='{jugador['name']}' tag='{jugador['tag']}'")
+        if jugador['name'].lower() == nombre_jugador.lower() and jugador['tag'].lower() == tag_jugador.lower():
             personaje = jugador.get('character')
             kills = jugador['stats']['kills']
             asistencias =  jugador['stats']['assists']

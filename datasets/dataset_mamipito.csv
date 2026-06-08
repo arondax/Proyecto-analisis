@@ -64,6 +64,7 @@ db065fee-ded6-42d4-af9f-07c1d98cb4a8,mamipito,Abyss,Unrated,Omen,Controlador,6,8
 1580c01a-2c48-40f7-861d-d4801ccf85cc,mamipito,Pearl,Competitive,Killjoy,Centinela,21,6,16,14,"['Loxto', 'marcy', 'papa pito', 'Sergiomarquez']",Bronze,1.0,"['Reyna', 'Killjoy', 'Brimstone', 'Chamber', 'Gekko']",232.5,3,2,0,14,14
 8d34f433-14db-4723-b0ef-1fcb55194383,mamipito,Haven,Competitive,Killjoy,Centinela,10,1,7,10,"['marcy', 'KoiNea', 'papa pito', 'Sandritaamg13']",Bronze,1.0,"['Brimstone', 'Sage', 'Tejo', 'Raze', 'Killjoy']",164.75,1,0,1,9,3
 2deca88b-e1c5-4f22-960f-7c3d692d908a,mamipito,Corrode,Unrated,Killjoy,Centinela,6,1,7,2,"['marcy', 'papa pito', 'Bonnie', 'soulArcher']",Unrated,,"['Reyna', 'Astra', 'Killjoy', 'Fade', 'Omen']",105.444,0,0,2,7,5
+<<<<<<< HEAD
 4a3d8209-771f-4bad-bd98-56f34368a92b,mamipito,Pearl,Competitive,Skye,Iniciador,7,13,24,4,"['BIELZIMZK7', 'Nintai', 'papa pito', 'limoeiro']",Bronze,2.0,"['Chamber', 'Skye', 'Deadlock', 'Astra', 'Raze']",106.357,2,3,0,14,14
 9b5cf178-4584-45c1-a126-a673f5c8ce91,mamipito,Ascent,Competitive,Killjoy,Centinela,23,8,17,11,"['Bonnie', 'Martim', 'aprou', 'kilorenMCX']",Bronze,2.0,"['Killjoy', 'Miks', 'Reyna', 'Sova', 'Sage']",332.364,4,1,0,9,13
 609fba2e-f590-404c-97d5-bd97680256d7,mamipito,Lotus,Competitive,Killjoy,Centinela,13,3,20,9,"['SZ26SKOLL', 'Itur', 'Bonnie', 'papa pito']",Bronze,2.0,"['Omen', 'Raze', 'Killjoy', 'Miks', 'Skye']",162.042,1,2,0,11,13
@@ -77,3 +78,6 @@ f442fb8b-4344-4bb5-b7c8-c9d81da8154e,mamipito,Bind,Unrated,Raze,Duelista,2,0,5,2
 490d0cdb-909f-41fd-9a8e-65031b25ddc2,mamipito,Ascent,Competitive,Killjoy,Centinela,29,5,12,13,"['Bonnie', 'Pulsar', 'mbaperuano', 'lurutachi']",Bronze,1.0,"['Killjoy', 'Miks', 'Skye', 'Yoru', 'Chamber']",366.333,4,0,1,13,8
 e7596019-82ea-4b3b-b7a6-94acb09b1503,mamipito,Split,Competitive,Killjoy,Centinela,17,5,15,15,"['marcy', 'Bonnie', 'Ayplass10', 'TH Miguel']",Bronze,1.0,"['Tejo', 'Miks', 'Neon', 'Killjoy', 'Reyna']",224.609,1,4,0,10,13
 2d2da122-70ee-4411-831e-78bf2e4c4211,mamipito,Haven,Premier,Killjoy,Centinela,12,7,20,10,"['Chiste sad002', 'angelutrix', 'rondax', 'Axyela2508']",Unrated,,"['Neon', 'Brimstone', 'Killjoy', 'Skye', 'Sage']",144.75,2,2,0,13,15
+=======
+9b5cf178-4584-45c1-a126-a673f5c8ce91,mamipito,Ascent,Competitive,Killjoy,Centinela,23,8,17,11,"['Bonnie', 'Martim', 'aprou', 'kilorenMCX']",Bronze,2.0,"['Killjoy', 'Miks', 'Reyna', 'Sova', 'Sage']",332.364,4,1,0,9,13
+>>>>>>> 04369d7 (Mejoras en la funcionalidad de predicción y la interfaz de usuario del predictor de partidas de Valorant)
