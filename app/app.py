@@ -96,9 +96,9 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
         print("[DEBUG] No se encontró el CSV del jugador. Intentando extraer datos...")
         try:
             entrenamiento.procesado_jugador(nombre, tag, region, api_key)
-        except FileNotFoundError:
-            print(f" ! Error crítico: El archivo matches_{nombre}.json no pudo ser creado o descargado.")
-            raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado. ruta: {ruta_jugador}, {MAPAS_DIR}, {MODELOS_DIR}")
+        except ValueError as e:
+            print(f" ! Error crítico: {e}")
+            raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado.")
     return pd.read_csv(ruta_jugador)
 
 def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:

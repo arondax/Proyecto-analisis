@@ -33,7 +33,7 @@ def procesado_jugador(nombre, tag, region, api_key):
     resultado= api.getData(nombre, tag, region, api_key)
     if not resultado:
         print(f"! Error al obtener datos de {nombre}#{tag}. Verifica el nombre, tag y región.")
-        return False
+        raise ValueError(f"No se pudieron obtener datos de la API para {nombre}#{tag}")
     
     print(f"Datos obtenidos de: {nombre}#{tag}")
     print("Procesado de la partida")
