@@ -15,15 +15,20 @@ app.add_middleware(
     allow_origins=["*"],  # En producción, restringe esto a tu dominio específico
     allow_methods=['*'],
     allow_headers=['*'],
-    allow_credentials=True,
+    allow_credentials=False,
 )
 
 #configuramos las rutas
 
 BASE_DIR= os.path.dirname(os.path.abspath(__file__))
-MODELOS_DIR = os.path.join(BASE_DIR, 'modelos')
 
-MAPAS_DIR = os.path.join(BASE_DIR, 'json')
+ROOT_DIR = os.path.dirname(BASE_DIR)
+
+JUGADORES_DIR = os.path.join(ROOT_DIR, 'dataset_ingest')
+
+MODELOS_DIR = os.path.join(ROOT_DIR, 'modelos')
+
+MAPAS_DIR = os.path.join(ROOT_DIR, 'json')
 
 #Modelos Pydantic
 
@@ -38,10 +43,10 @@ class PrediccionRequest(BaseModel):
 
 
 class PrediccionResponse(BaseModel):
-    jugador: str
+    nombre: str
     mapa: str
-    rondas_ganadas: int
-    rondas_perdidas: int
+    rondas_ganadas: float
+    rondas_perdidas: float
     resultado: str
     confianza: Optional[str] = None
     
@@ -74,9 +79,9 @@ def cargar_mapas():
     return mapas
 
 def cargar_df_jugador(nombre: str) -> pd.DataFrame:
-    ruta_jugador = os.path.join(BASE_DIR,f"dataset_ingest_{nombre}.csv" )
+    ruta_jugador = os.path.join(JUGADORES_DIR, f"dataset_ingest_{nombre}.csv")
     if not os.path.exists(ruta_jugador):
-        raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado.")
+        raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado. ruta: {ruta_jugador}, {MAPAS_DIR}, {MODELOS_DIR}")
     
     return pd.read_csv(ruta_jugador)
 
@@ -145,8 +150,16 @@ def predecir(request: PrediccionRequest):
     Realiza una predicción de rondas ganadas/perdidas para un jugador
     en un mapa determinado, usando su historial de partidas.
     """
-    df     = cargar_df_jugador(request.jugador)
-    modelo = cargar_modelo(request.modelo)
+    try:
+        df     = cargar_df_jugador(request.nombre)
+    except HTTPException as e:
+        raise e
+    
+    try:
+        modelo = cargar_modelo(request.modelo)
+    except HTTPException as e:
+        raise e
+
     X      = construir_input(df, request.mapa, request.es_main, request.num_amigos)
  
     pred       = modelo.predict(X)[0]
@@ -155,7 +168,7 @@ def predecir(request: PrediccionRequest):
     resultado  = "Victoria" if rondas_g > rondas_p else "Derrota"
  
     return PrediccionResponse(
-        jugador         = request.jugador,
+        nombre          = request.nombre,
         mapa            = request.mapa,
         rondas_ganadas  = rondas_g,
         rondas_perdidas = rondas_p,
