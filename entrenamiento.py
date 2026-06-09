@@ -18,6 +18,45 @@ def obtencion_lista():
         print(f"No se encontró el archivo jugadores_entrenamiento.json")
     
     return True, datos
+def procesado_jugador(nombre, tag, region, api_key):
+    """_summary_ Función que procesa los datos de un jugador específico, obtenidos a través de la API, y los prepara para el entrenamiento del modelo.
+
+    Args:
+        nombre (_type_): _description_ El nombre del jugador a procesar.
+        tag (_type_): _description_ El tag del jugador a procesar.
+        region (_type_): _description_ La región del jugador a procesar.
+        api_key (_type_): _description_ Clave de API necesaria para autenticar las peticiones a la API de Henrikdev.
+
+    Returns:
+        _type_: _description_ Devuelve un valor booleano para indicar si el procesamiento de los datos se ha realizado correctamente.
+    """
+    resultado= api.getData(nombre, tag, region, api_key)
+    if not resultado:
+        print(f"! Error al obtener datos de {nombre}#{tag}. Verifica el nombre, tag y región.")
+        return False
+    
+    print(f"Datos obtenidos de: {nombre}#{tag}")
+    print("Procesado de la partida")
+    
+    extraccion=procesador.extraccion_datos(nombre, tag)
+    if extraccion is None:
+        print(f" ! {nombre} sin partidas válidas, saltando...")
+        return False
+    
+    ruta_csv = f"./datasets/dataset_{nombre}.csv"
+    if not os.path.exists(ruta_csv):
+        print(f" ! CSV de {nombre} no encontrado, saltando...")
+        return False
+    
+    df = limpieza_datos.limpieza_jugador(nombre)
+    if df is None or df.empty:
+        print(f" ! {nombre} sin partidas válidas después de limpieza, saltando...")
+        return False
+        
+    limpieza_datos.guardar_dataset(nombre, df)
+    print("Datos limpios y preparados para ingesta")
+    
+    return True
 
 def procesado_jugadores(datos, api_key):
     """_summary_ Funcion que procesa los datos de cada jugador, obtenidos a través de la API, y los prepara para el entrenamiento del modelo.

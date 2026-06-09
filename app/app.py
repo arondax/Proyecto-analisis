@@ -1,5 +1,6 @@
 import json
 
+from dotenv import load_dotenv
 from fastapi import FastAPI, HTTPException
 from fastapi.middleware.cors import CORSMiddleware
 from pydantic import BaseModel, Field
@@ -7,6 +8,17 @@ from typing import Optional
 import pandas as pd
 import joblib
 import os
+import entrenamiento
+# Carga las variables del archivo .env en el sistema
+load_dotenv()
+
+# Accede a la API Key de forma segura
+api_key = os.getenv("VALORANT_API_KEY")
+
+if not api_key:
+    raise ValueError(
+        "¡Error! No se encontró la VALORANT_API_KEY. Revisa tu archivo .env"
+    )
 
 app = FastAPI(title="Valorant Predicter", version="1.0")
 
@@ -78,11 +90,15 @@ def cargar_mapas():
         
     return mapas
 
-def cargar_df_jugador(nombre: str) -> pd.DataFrame:
+def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
     ruta_jugador = os.path.join(JUGADORES_DIR, f"dataset_ingest_{nombre}.csv")
     if not os.path.exists(ruta_jugador):
-        raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado. ruta: {ruta_jugador}, {MAPAS_DIR}, {MODELOS_DIR}")
-    
+        print("[DEBUG] No se encontró el CSV del jugador. Intentando extraer datos...")
+        try:
+            entrenamiento.procesado_jugador(nombre, tag, region, api_key)
+        except FileNotFoundError:
+            print(f" ! Error crítico: El archivo matches_{nombre}.json no pudo ser creado o descargado.")
+            raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado. ruta: {ruta_jugador}, {MAPAS_DIR}, {MODELOS_DIR}")
     return pd.read_csv(ruta_jugador)
 
 def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:
@@ -151,7 +167,7 @@ def predecir(request: PrediccionRequest):
     en un mapa determinado, usando su historial de partidas.
     """
     try:
-        df     = cargar_df_jugador(request.nombre)
+        df     = cargar_df_jugador(request.nombre, request.tag, request.region)
     except HTTPException as e:
         raise e
     
