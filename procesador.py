@@ -112,6 +112,11 @@ def extraccion_datos(nombre, tag):
         
        # 4. Convertimos toda la lista en el DataFrame final
     df = pd.DataFrame(filas_finales)
+    
+    if df.empty:  
+        print(f"! No hay partidas válidas para {nombre}. No se crea CSV.")
+        return None
+    
     pd.set_option('display.max_columns', None)
     print("\n--- Vista previa del DataFrame ---")
     #print(df.columns.values)

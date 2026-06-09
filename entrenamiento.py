@@ -37,17 +37,27 @@ def procesado_jugadores(datos, api_key):
         tag= jugador.get("tag")
         
         resultado= api.getData(nombre_jugador, tag, "eu", api_key)
-        if resultado:
-            print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
-            print("Procesado de la partida")
-            procesador.extraccion_datos(nombre_jugador, tag)
-            df = limpieza_datos.limpieza_jugador(nombre_jugador)
-            if df is None or df.empty:  # ← guard aquí
-                print(f"⚠️ {nombre_jugador} sin partidas válidas, saltando...")
-                continue
+        if not resultado:
+            continue
+        
+        print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
+        print("Procesado de la partida")
+        extraccion=procesador.extraccion_datos(nombre_jugador, tag)
+        if not extraccion:
+            print(f"! {nombre_jugador} sin partidas válidas, saltando...")
+       
+        ruta_csv = f"./datasets/dataset_{nombre_jugador}.csv"
+        if not os.path.exists(ruta_csv):
+            print(f"! CSV de {nombre_jugador} no encontrado, saltando...")
+            continue
+        
+        df = limpieza_datos.limpieza_jugador(nombre_jugador)
+        if df is None or df.empty:  # ← guard aquí
+            print(f"! {nombre_jugador} sin partidas válidas, saltando...")
+            continue
             
-            limpieza_datos.guardar_dataset(nombre_jugador, df)
-            print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
+        limpieza_datos.guardar_dataset(nombre_jugador, df)
+        print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
     
     return True
 

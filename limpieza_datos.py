@@ -30,7 +30,7 @@ def limpieza_jugador(nombre_jugador):
     df = pd.read_csv(ruta_csv)
     
     if df.empty:
-        print(f"⚠️ CSV de {nombre_jugador} está vacío, se omite.")
+        print(f"! CSV de {nombre_jugador} está vacío, se omite.")
         return None
     
     print("Dimensiones: ", df.shape)
@@ -43,25 +43,25 @@ def limpieza_jugador(nombre_jugador):
     df.to_csv(ruta_csv, index=False)
     
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     
     #Borramos las entradas donde el modo no sea competitivo
     print(df['modo'].unique())
     df = borrar_no_competitivo(df)
     print(df['modo'].unique())
     if df.empty:
-        print(f"⚠️  {nombre_jugador} no tiene partidas competitivas, se omite.")
+        print(f"! {nombre_jugador} no tiene partidas competitivas, se omite.")
         return None
     #Obtenemos el main
     df= obtener_main(df)
     
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     
     ruta_json = "./json/amigos_recurrentes.json"
     df= obtener_amigos(df, ruta_json)
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     
 
     #Con los datos limpios borramos las columnas, jugador, modo
@@ -72,15 +72,15 @@ def limpieza_jugador(nombre_jugador):
             df = df.drop(columns=[col])
             print(f"Columna '{col}' borrada.")
         else:
-            print(f"La columna '{col}' no existía o ya fue borrada.")   
+            print(f"! La columna '{col}' no existía o ya fue borrada.")   
     
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     df=transformacion_a_numeros(df)
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     pd.set_option('display.max_columns', None)
-    print(df.head(5))
+    #print(df.head(5))
     
     return df
 
