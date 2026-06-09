@@ -42,10 +42,12 @@ def procesado_jugadores(datos, api_key):
         
         print(f"Datos optenidos de: ", nombre_jugador,"#",tag)
         print("Procesado de la partida")
+        
         extraccion=procesador.extraccion_datos(nombre_jugador, tag)
-        if not extraccion:
+        if extraccion is None:
             print(f"! {nombre_jugador} sin partidas válidas, saltando...")
-       
+            continue
+        
         ruta_csv = f"./datasets/dataset_{nombre_jugador}.csv"
         if not os.path.exists(ruta_csv):
             print(f"! CSV de {nombre_jugador} no encontrado, saltando...")
