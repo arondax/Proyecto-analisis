@@ -42,6 +42,10 @@ def procesado_jugadores(datos, api_key):
             print("Procesado de la partida")
             procesador.extraccion_datos(nombre_jugador, tag)
             df = limpieza_datos.limpieza_jugador(nombre_jugador)
+            if df is None or df.empty:  # ← guard aquí
+                print(f"⚠️ {nombre_jugador} sin partidas válidas, saltando...")
+                continue
+            
             limpieza_datos.guardar_dataset(nombre_jugador, df)
             print("DATOS LIMPIOS Y PREPARADOS PARA INGESTA")
     

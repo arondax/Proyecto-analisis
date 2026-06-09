@@ -29,6 +29,10 @@ def limpieza_jugador(nombre_jugador):
     
     df = pd.read_csv(ruta_csv)
     
+    if df.empty:
+        print(f"⚠️ CSV de {nombre_jugador} está vacío, se omite.")
+        return None
+    
     print("Dimensiones: ", df.shape)
     print("-------------------------")
     print(df.info())
