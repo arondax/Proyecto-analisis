@@ -58,6 +58,7 @@ def extraccion_datos(nombre, tag):
         headshot = lista_estadisticas['headshot']
         equipo = lista_estadisticas['equipo']
         modo = partida.get('metadata').get('mode')
+        region = partida.get('metadata').get('region')
         
         puntuacion_total = lista_estadisticas['score']
         #print("puntuacion: ",puntuacion_total)
@@ -128,17 +129,18 @@ def extraccion_datos(nombre, tag):
         df.to_csv(direccion_archivo, index=False)    
         
     #Añadir el jugador a la json de amigos recurrentes para luego cargarlo en el csv general de entrenamiento
-    añadir_jugador_json(nombre, tag)
+    añadir_jugador_json(nombre, tag, region)
         
     #TODO Añadir el nombre del jugador a la json de entrenamiento y amigos para luego cargarlo en el csv general de entrenamiento
     return df
 
-def añadir_jugador_json(nombre, tag):
+def añadir_jugador_json(nombre, tag, region):
     """_summary_ Función que se encarga de añadir un jugador a los JSON de amigos recurrentes y jugadores recurrentes para su posterior uso en el entrenamiento del modelo.
 
     Args:
         nombre (_type_): _description_ El nombre del jugador que se va a añadir a los JSON de amigos recurrentes y jugadores recurrentes. Este nombre se utiliza para identificar al jugador dentro de los JSON, y se asegura de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
         tag (_type_): _description_ El tag del jugador que se va a añadir a los JSON de amigos recurrentes y jugadores recurrentes. Este tag se utiliza junto con el nombre del jugador para identificar al jugador dentro de los JSON, y se asegura de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
+        region (_type_): _description_ La región a la que pertenece el jugador. Esta información es necesaria para identificar al jugador dentro de los JSON y asegurar que se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
 
     Returns:
         _type_: _description_ Devuelve None después de completar el proceso de añadir el jugador a los JSON de amigos recurrentes y jugadores recurrentes. La función no devuelve un valor específico, pero se encarga de actualizar ambos JSON con la información del nuevo jugador, asegurándose de que el jugador se añada correctamente a ambas listas para su posterior uso en el entrenamiento del modelo.
@@ -149,7 +151,8 @@ def añadir_jugador_json(nombre, tag):
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
-            "tag": tag
+            "tag": tag,
+            "region": region
         }
         if nuevo_amigo not in datos_amigos.get("amigos", []):
             datos_amigos["amigos"].append(nuevo_amigo)
@@ -161,7 +164,8 @@ def añadir_jugador_json(nombre, tag):
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
-            "tag": tag
+            "tag": tag,
+            "region": region
         }
         if nuevo_amigo not in datos_amigos.get("jugadores", []):
             datos_amigos["jugadores"].append(nuevo_amigo)
