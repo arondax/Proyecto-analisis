@@ -219,7 +219,9 @@ def transformacion_a_numeros(df):
 
     ordinal_features = ['rango']
     nominal_features = ['mapa']
-
+    
+    df['subrango'] = df['subrango'].fillna(0)
+    
     onehot_encoder = OneHotEncoder(
         categories=[mapas],
         handle_unknown='ignore',
