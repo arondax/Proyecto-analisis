@@ -33,7 +33,7 @@ def limpieza_jugador(nombre_jugador):
         print(f"! CSV de {nombre_jugador} está vacío, se omite.")
         return None
     
-    print("Dimensiones: ", df.shape)
+    #print("Dimensiones: ", df.shape)
     print("-------------------------")
     print(df.info())
     
