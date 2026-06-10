@@ -1,4 +1,4 @@
-# 🎯 Valorant Predicter (En progreso)
+# 🎯 Valorant Predicter
 
 Sistema de predicción de rendimiento individual y resultado de partidas de Valorant, construido con Python, scikit-learn y FastAPI. Recopila datos reales vía API, entrena modelos de machine learning y sirve predicciones a través de una interfaz web.
 
@@ -15,12 +15,29 @@ valorant-predicter/
 ├── modelos.py                      # Entrenamiento, guardado y carga de modelos ML
 ├── prediccion.py                   # Lógica de predicción e historial en .txt
 ├── entrenamiento.py                # Orquestación del pipeline completo de entrenamiento
+├── script_entrenamiento.py         # Script invocado por el workflow de entrenamiento
+├── script_datos.py                 # Script invocado por el workflow de recopilación
 ├── test_predicciones.py            # Tests con datos simulados (mock)
 │
-├── info_valorant.json              # Pool de mapas y jerarquía de rangos
-├── agentes_config.json             # Mapeo de agente → rol
-├── amigos_recurrentes.json         # Lista de jugadores del grupo de amigos
-├── jugadores_entrenamiento.json    # Jugadores incluidos en el entrenamiento
+├── app/                            # Backend FastAPI
+│   ├── __init__.py
+│   └── app.py                      # Endpoints REST + lógica de predicción vía API
+│
+├── static/                         # Frontend
+│   ├── valorant_predictor_frontend.html  # Versión HTML standalone
+│   └── src/
+│       └── App.jsx                 # Frontend React (Astralis Analytics)
+│
+├── .github/
+│   └── workflows/
+│       ├── script_github.yml       # Recopilación de datos (3 veces al día)
+│       └── scrip_entrenamiento.yml # Entrenamiento semanal (lunes 8:00 UTC)
+│
+├── json/
+│   ├── info_valorant.json          # Pool de mapas y jerarquía de rangos
+│   ├── agentes_config.json         # Mapeo de agente → rol
+│   ├── amigos_recurrentes.json     # Lista de jugadores del grupo de amigos
+│   └── jugadores_entrenamiento.json
 │
 ├── datasets/                       # Datos en bruto por jugador (pre-limpieza)
 │   └── dataset_<jugador>.csv
@@ -32,10 +49,13 @@ valorant-predicter/
 ├── partidas/                       # JSON brutos devueltos por la API
 │   └── matches_<jugador>.json
 │
-└── modelos/                        # Modelos entrenados serializados
-    ├── regresionlineal.pkl
-    ├── arboldedesicion.pkl
-    └── randomforest.pkl
+├── modelos/                        # Modelos entrenados serializados
+│   ├── regresionlineal.pkl
+│   ├── arboldedesicion.pkl
+│   ├── randomforest.pkl
+│   └── logs/                       # Métricas de entrenamiento por modelo
+│
+└── predicciones.txt                # Historial de predicciones realizadas
 ```
 
 ---
@@ -156,9 +176,109 @@ El resultado de la partida (Victoria / Derrota) se infiere comparando ambas pred
 
 ---
 
-## 🤖 Automatización con GitHub Actions
+## 🌐 API REST (`app/app.py`)
 
-El entrenamiento se ejecuta automáticamente cada lunes a las 8:00 (hora local, UTC+2) mediante un workflow programado. También puede lanzarse manualmente desde la pestaña **Actions** del repositorio con `workflow_dispatch`.
+Levanta el servidor con:
+
+```bash
+uvicorn app.app:app --reload
+```
+
+El servidor escucha en `http://localhost:8000` por defecto.
+
+### Endpoints
+
+| Método | Ruta | Descripción |
+|---|---|---|
+| `GET` | `/` | Health check |
+| `GET` | `/mapas` | Lista de mapas disponibles (desde `info_valorant.json`) |
+| `GET` | `/modelos` | Modelos `.pkl` disponibles en `/modelos/` |
+| `GET` | `/jugadores` | Jugadores con CSV de ingest disponible |
+| `POST` | `/predecir` | Realiza una predicción completa |
+
+### `POST /predecir`
+
+**Body (JSON):**
+
+```json
+{
+  "nombre":     "rondax",
+  "tag":        "EUW",
+  "region":     "eu",
+  "mapa":       "Ascent",
+  "es_main":    true,
+  "num_amigos": 2,
+  "modelo":     "randomforest"
+}
+```
+
+Los valores válidos de `modelo` son `randomforest`, `arboldeDecision` y `RegresionLineal`. Si se omite, se usa `randomforest` por defecto.
+
+**Respuesta:**
+
+```json
+{
+  "nombre":          "rondax",
+  "mapa":            "Ascent",
+  "rondas_ganadas":  13.2,
+  "rondas_perdidas": 9.8,
+  "resultado":       "Victoria"
+}
+```
+
+Si el jugador no tiene CSV previo, el backend ejecuta automáticamente el pipeline completo (API → procesado → limpieza) antes de predecir. Si no existen partidas competitivas válidas, devuelve `422`.
+
+---
+
+## 🖥️ Frontend
+
+El proyecto tiene dos implementaciones del frontend:
+
+### React (`static/src/App.jsx`)
+
+Interfaz principal con estética dark tactical (Astralis Analytics). Para ejecutarla:
+
+```bash
+cd static
+npm install
+npm run dev
+```
+
+Características: selección de mapa por grid de botones, selector de región, slider de amigos, selector de modelo, toggle de main agente. Consume el backend en `http://localhost:8000`.
+
+### HTML standalone (`static/valorant_predictor_frontend.html`)
+
+Versión ligera servida directamente por FastAPI en la ruta `/app`:
+
+```
+GET http://localhost:8000/app
+```
+
+Útil para uso rápido sin necesidad de levantar Node. La `API_URL` está configurada como variable en la cabecera del script.
+
+---
+
+## 🤖 GitHub Actions — Workflows
+
+### `script_github.yml` — Recopilación de datos
+
+Ejecuta `script_datos.py` tres veces al día: 8:00, 16:00 y 23:00 UTC (10:00, 18:00 y 01:00 hora Madrid en verano). Llama a la API de Valorant, descarga las partidas recientes de todos los jugadores configurados y hace commit automático de los cambios al repositorio.
+
+También puede lanzarse manualmente desde la pestaña **Actions** con `workflow_dispatch`.
+
+### `scrip_entrenamiento.yml` — Entrenamiento semanal
+
+Ejecuta `script_entrenamiento.py` cada lunes a las 8:00 UTC. Realiza el pipeline completo de entrenamiento: recopilación → procesado → limpieza → entrenamiento de los 3 modelos → guardado de `.pkl`. Hace commit automático de los modelos actualizados.
+
+También puede lanzarse manualmente con `workflow_dispatch`.
+
+Ambos workflows corren sobre `windows-latest`, usan Python 3.11 e inyectan la API key desde los **Secrets** del repositorio (`VALORANT_API_KEY`).
+
+---
+
+## 📊 Logs de modelos (`modelos/logs/`)
+
+Cada ejecución de entrenamiento genera un log por modelo con las métricas de evaluación (MAE, RMSE, R²) sobre el conjunto de validación. Los logs permiten comparar el rendimiento entre ejecuciones y detectar degradación del modelo conforme crece el dataset.
 
 ---
 
@@ -174,8 +294,10 @@ El entrenamiento se ejecuta automáticamente cada lunes a las 8:00 (hora local, 
 
 ## 🗺️ Roadmap
 
-- [ ] Ampliar el dataset con más jugadores y partidas
+- [x] Pipeline de entrenamiento automatizado con GitHub Actions
+- [x] Backend FastAPI con endpoints REST
+- [x] Frontend React (Astralis Analytics) + versión HTML standalone
 - [ ] Despliegue en producción (Render + persistencia de datos)
-- [ ] Interfaz web accesible vía FastAPI + HTML/CSS/JS
-- [ ] Red neuronal que incorpore todos los jugadores de una partida simultáneamente
+- [ ] Ampliar el dataset con más jugadores y partidas
 - [ ] Fine-tuning por jugador individual usando `warm_start`
+- [ ] Red neuronal que incorpore todos los jugadores de una partida simultáneamente

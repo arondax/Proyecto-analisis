@@ -74,8 +74,9 @@ def procesado_jugadores(datos, api_key):
     for jugador in datos.get("jugadores"):
         nombre_jugador= jugador.get("nombre")
         tag= jugador.get("tag")
+        region= jugador.get("region")
         
-        resultado= api.getData(nombre_jugador, tag, "eu", api_key)
+        resultado= api.getData(nombre_jugador, tag, region, api_key)
         if not resultado:
             continue
         
