@@ -147083,8 +147083,8 @@
                 "all_players": [
                     {
                         "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                        "name": "98 Deoxys",
-                        "tag": "Zumo",
+                        "name": "98 Spyder",
+                        "tag": "Carla",
                         "team": "Blue",
                         "level": 403,
                         "character": "Phoenix",
@@ -148182,8 +148182,8 @@
                 "blue": [
                     {
                         "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                        "name": "98 Deoxys",
-                        "tag": "Zumo",
+                        "name": "98 Spyder",
+                        "tag": "Carla",
                         "team": "Blue",
                         "level": 403,
                         "character": "Phoenix",
@@ -148604,7 +148604,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5399,
@@ -148671,7 +148671,7 @@
                         },
                         "defused_by": {
                             "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "display_name": "98 Deoxys#Zumo",
+                            "display_name": "98 Spyder#Carla",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 62103,
@@ -148688,7 +148688,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7033,
@@ -148788,7 +148788,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5625,
@@ -148926,7 +148926,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -148966,7 +148966,7 @@
                                     "kill_time_in_round": 38213,
                                     "kill_time_in_match": 93274,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -149005,7 +149005,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5252,
@@ -149060,7 +149060,7 @@
                                     "kill_time_in_round": 49839,
                                     "kill_time_in_match": 104900,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                                     "victim_display_name": "pedroosp#POS",
@@ -149089,7 +149089,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7778,
@@ -149257,7 +149257,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5501,
@@ -149341,7 +149341,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6146,
@@ -149515,7 +149515,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -149571,7 +149571,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5931,
@@ -149876,7 +149876,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -149907,7 +149907,7 @@
                                     "kill_time_in_round": 8280,
                                     "kill_time_in_match": 162451,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -149946,7 +149946,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7357,
@@ -150011,7 +150011,7 @@
                                     "kill_time_in_round": 30741,
                                     "kill_time_in_match": 184912,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -150050,7 +150050,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5266,
@@ -150212,7 +150212,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5280,
@@ -150349,7 +150349,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7357,
@@ -150506,7 +150506,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5433,
@@ -150723,7 +150723,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -150804,7 +150804,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9172,
@@ -150930,7 +150930,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9769,
@@ -151076,7 +151076,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9614,
@@ -151212,7 +151212,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -151593,7 +151593,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -151649,7 +151649,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7322,
@@ -151733,7 +151733,7 @@
                                     "killer_display_name": "Netanyahu Ben#JEW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9747,
@@ -151905,7 +151905,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9137,
@@ -152449,7 +152449,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -153082,7 +153082,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -153102,7 +153102,7 @@
                                     "killer_display_name": "pedroosp#POS",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6105,
@@ -153377,7 +153377,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8652,
@@ -153481,7 +153481,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8063,
@@ -153635,7 +153635,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -153666,7 +153666,7 @@
                                     "kill_time_in_round": 24721,
                                     "kill_time_in_match": 430352,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -153695,7 +153695,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6264,
@@ -153760,7 +153760,7 @@
                                     "kill_time_in_round": 45702,
                                     "kill_time_in_match": 451333,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -153779,7 +153779,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5904,
@@ -153995,7 +153995,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6022,
@@ -154301,7 +154301,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8690,
@@ -154381,7 +154381,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8182,
@@ -154445,7 +154445,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6564,
@@ -154505,7 +154505,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6629,
@@ -154595,7 +154595,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5018,
@@ -154764,7 +154764,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -155127,7 +155127,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -155165,7 +155165,7 @@
                                     "killer_display_name": "wZeroTwo#ZrTwo",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5901,
@@ -155522,7 +155522,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6075,
@@ -155884,7 +155884,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6223,
@@ -156063,7 +156063,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -156094,7 +156094,7 @@
                                     "kill_time_in_round": 66496,
                                     "kill_time_in_match": 646727,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -156113,7 +156113,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7114,
@@ -156239,7 +156239,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7097,
@@ -156333,7 +156333,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6995,
@@ -156543,7 +156543,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -156563,7 +156563,7 @@
                                     "killer_display_name": "wZeroTwo#ZrTwo",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7294,
@@ -156785,7 +156785,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6336,
@@ -156889,7 +156889,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6206,
@@ -156983,7 +156983,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7119,
@@ -157324,7 +157324,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -157370,7 +157370,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5198,
@@ -157418,7 +157418,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5478,
@@ -157510,7 +157510,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -157640,7 +157640,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5264,
@@ -157754,7 +157754,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5608,
@@ -157864,7 +157864,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5364,
@@ -158273,7 +158273,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5743,
@@ -158467,7 +158467,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9490,
@@ -158644,7 +158644,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9313,
@@ -158744,7 +158744,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7722,
@@ -158820,7 +158820,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -158860,7 +158860,7 @@
                                     "kill_time_in_round": 55444,
                                     "kill_time_in_match": 832099,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "eca0f30d-723d-55d9-8c5a-3bd65cadf057",
                                     "victim_display_name": "Hide in Malaga#EUW",
@@ -158879,7 +158879,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7043,
@@ -158920,7 +158920,7 @@
                                     "kill_time_in_round": 59458,
                                     "kill_time_in_match": 836113,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -158939,7 +158939,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7889,
@@ -159113,7 +159113,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9708,
@@ -159227,7 +159227,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9711,
@@ -159398,7 +159398,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -159453,7 +159453,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8882,
@@ -159537,7 +159537,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7052,
@@ -159575,7 +159575,7 @@
                                     "killer_display_name": "wZeroTwo#ZrTwo",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7402,
@@ -159648,7 +159648,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -159904,7 +159904,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -159935,7 +159935,7 @@
                                     "kill_time_in_round": 18811,
                                     "kill_time_in_match": 897466,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                                     "victim_display_name": "pedroosp#POS",
@@ -159974,7 +159974,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7627,
@@ -160060,7 +160060,7 @@
                                     "kill_time_in_round": 30257,
                                     "kill_time_in_match": 908912,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -160099,7 +160099,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7767,
@@ -160254,7 +160254,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7983,
@@ -160318,7 +160318,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7887,
@@ -160445,7 +160445,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8040,
@@ -160686,7 +160686,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7863,
@@ -161095,7 +161095,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -161115,7 +161115,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9109,
@@ -161257,7 +161257,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -162198,7 +162198,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9890,
@@ -162285,7 +162285,7 @@
                         },
                         "defused_by": {
                             "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "display_name": "98 Deoxys#Zumo",
+                            "display_name": "98 Spyder#Carla",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 97470,
@@ -162302,7 +162302,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7609,
@@ -162382,7 +162382,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9904,
@@ -162434,7 +162434,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "assistant_display_name": "98 Deoxys#Zumo",
+                                            "assistant_display_name": "98 Spyder#Carla",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -162493,7 +162493,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -162549,7 +162549,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8692,
@@ -162635,7 +162635,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -162675,7 +162675,7 @@
                                     "kill_time_in_round": 87428,
                                     "kill_time_in_match": 1187229,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                                     "victim_display_name": "pedroosp#POS",
@@ -162704,7 +162704,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7625,
@@ -162739,7 +162739,7 @@
                                     "kill_time_in_round": 88545,
                                     "kill_time_in_match": 1188346,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -162768,7 +162768,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7452,
@@ -162884,7 +162884,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7543,
@@ -162958,7 +162958,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7609,
@@ -163075,7 +163075,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9514,
@@ -163237,7 +163237,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -163293,7 +163293,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9915,
@@ -163446,7 +163446,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -163551,7 +163551,7 @@
                         },
                         "planted_by": {
                             "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "display_name": "98 Deoxys#Zumo",
+                            "display_name": "98 Spyder#Carla",
                             "team": "Blue"
                         },
                         "plant_site": "B",
@@ -163559,7 +163559,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6768,
@@ -163688,7 +163688,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -163728,7 +163728,7 @@
                                     "kill_time_in_round": 45591,
                                     "kill_time_in_match": 1294872,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "eca0f30d-723d-55d9-8c5a-3bd65cadf057",
                                     "victim_display_name": "Hide in Malaga#EUW",
@@ -163747,7 +163747,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7006,
@@ -163883,7 +163883,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7065,
@@ -163967,7 +163967,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7216,
@@ -164113,7 +164113,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2645,
@@ -164197,7 +164197,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6704,
@@ -164229,7 +164229,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "assistant_display_name": "98 Deoxys#Zumo",
+                                            "assistant_display_name": "98 Spyder#Carla",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -164419,7 +164419,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -164465,7 +164465,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7842,
@@ -164622,7 +164622,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2492,
@@ -164752,7 +164752,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5856,
@@ -164932,7 +164932,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -164952,7 +164952,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5493,
@@ -165034,7 +165034,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -165188,7 +165188,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5149,
@@ -165315,7 +165315,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5143,
@@ -165487,7 +165487,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5088,
@@ -165663,7 +165663,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5435,
@@ -165757,7 +165757,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6044,
@@ -165874,7 +165874,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5334,
@@ -166080,7 +166080,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -166109,7 +166109,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4233,
@@ -166241,7 +166241,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -166963,7 +166963,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3970,
@@ -167333,7 +167333,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -167362,7 +167362,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5535,
@@ -167494,7 +167494,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -168093,7 +168093,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -168167,7 +168167,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7897,
@@ -168922,7 +168922,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -169609,7 +169609,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -169629,7 +169629,7 @@
                                     "killer_display_name": "pedroosp#POS",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6632,
@@ -169943,7 +169943,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -169983,7 +169983,7 @@
                                     "kill_time_in_round": 24297,
                                     "kill_time_in_match": 1803666,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -170012,7 +170012,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7224,
@@ -170073,7 +170073,7 @@
                                     "kill_time_in_round": 35720,
                                     "kill_time_in_match": 1815089,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -170092,7 +170092,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8002,
@@ -170298,7 +170298,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7291,
@@ -170388,7 +170388,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7351,
@@ -170540,7 +170540,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -170596,7 +170596,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6629,
@@ -170722,7 +170722,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -170768,7 +170768,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7851,
@@ -170879,7 +170879,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -170899,7 +170899,7 @@
                                     "killer_display_name": "pedroosp#POS",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8080,
@@ -171031,7 +171031,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7726,
@@ -171296,7 +171296,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6775,
@@ -171456,7 +171456,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -171476,7 +171476,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6721,
@@ -171568,7 +171568,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -171681,7 +171681,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6826,
@@ -171847,7 +171847,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4969,
@@ -172023,7 +172023,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6597,
@@ -172220,7 +172220,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6758,
@@ -172392,7 +172392,7 @@
                         },
                         "planted_by": {
                             "puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "display_name": "98 Deoxys#Zumo",
+                            "display_name": "98 Spyder#Carla",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -172410,7 +172410,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7438,
@@ -172531,7 +172531,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -172596,7 +172596,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5866,
@@ -172702,7 +172702,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -172733,7 +172733,7 @@
                                     "kill_time_in_round": 18662,
                                     "kill_time_in_match": 1965900,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -172772,7 +172772,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6076,
@@ -172925,7 +172925,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2441,
@@ -173132,7 +173132,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6004,
@@ -173408,7 +173408,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -173428,7 +173428,7 @@
                                     "killer_display_name": "Netanyahu Ben#JEW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5877,
@@ -173698,7 +173698,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -173718,7 +173718,7 @@
                                     "killer_display_name": "Hide in Malaga#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "victim_display_name": "98 Deoxys#Zumo",
+                                    "victim_display_name": "98 Spyder#Carla",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2355,
@@ -173810,7 +173810,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -173832,7 +173832,7 @@
                                     "kill_time_in_round": 40596,
                                     "kill_time_in_match": 2113797,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                                     "victim_display_name": "pedroosp#POS",
@@ -173861,7 +173861,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2214,
@@ -174067,7 +174067,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1612,
@@ -174183,7 +174183,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "assistant_display_name": "98 Deoxys#Zumo",
+                                            "assistant_display_name": "98 Spyder#Carla",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -174369,7 +174369,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1952,
@@ -174612,7 +174612,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1933,
@@ -174726,7 +174726,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1916,
@@ -174894,7 +174894,7 @@
                             },
                             {
                                 "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                "player_display_name": "98 Deoxys#Zumo",
+                                "player_display_name": "98 Spyder#Carla",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5463,
@@ -175039,7 +175039,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4894,
@@ -175091,7 +175091,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "assistant_display_name": "98 Deoxys#Zumo",
+                                            "assistant_display_name": "98 Spyder#Carla",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -175129,7 +175129,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8072,
@@ -175208,7 +175208,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -175264,7 +175264,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7926,
@@ -175370,7 +175370,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -175410,7 +175410,7 @@
                                     "kill_time_in_round": 54330,
                                     "kill_time_in_match": 2219251,
                                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "killer_display_name": "98 Deoxys#Zumo",
+                                    "killer_display_name": "98 Spyder#Carla",
                                     "killer_team": "Blue",
                                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -175439,7 +175439,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8109,
@@ -175602,7 +175602,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5413,
@@ -175696,7 +175696,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4888,
@@ -175843,7 +175843,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6846,
@@ -175980,7 +175980,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5453,
@@ -176179,7 +176179,7 @@
                                         },
                                         {
                                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                            "player_display_name": "98 Deoxys#Zumo",
+                                            "player_display_name": "98 Spyder#Carla",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8127,
@@ -176270,7 +176270,7 @@
                                 },
                                 {
                                     "receiver_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                                    "receiver_display_name": "98 Deoxys#Zumo",
+                                    "receiver_display_name": "98 Spyder#Carla",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -176357,7 +176357,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5931,
@@ -176472,7 +176472,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5625,
@@ -176538,7 +176538,7 @@
                     "kill_time_in_match": 93274,
                     "round": 0,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -176577,7 +176577,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5252,
@@ -176662,7 +176662,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5501,
@@ -176747,7 +176747,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6146,
@@ -176793,7 +176793,7 @@
                     "kill_time_in_match": 104900,
                     "round": 0,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                     "victim_display_name": "pedroosp#POS",
@@ -176822,7 +176822,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7778,
@@ -176897,7 +176897,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7357,
@@ -176973,7 +176973,7 @@
                     "kill_time_in_match": 162451,
                     "round": 1,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -177012,7 +177012,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7357,
@@ -177078,7 +177078,7 @@
                     "kill_time_in_match": 184912,
                     "round": 1,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -177117,7 +177117,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5266,
@@ -177218,7 +177218,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5280,
@@ -177293,7 +177293,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5433,
@@ -177378,7 +177378,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7322,
@@ -177499,7 +177499,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9137,
@@ -177615,7 +177615,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9769,
@@ -177700,7 +177700,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9614,
@@ -177759,7 +177759,7 @@
                     "killer_display_name": "Netanyahu Ben#JEW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9747,
@@ -178005,7 +178005,7 @@
                     "killer_display_name": "pedroosp#POS",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6105,
@@ -178581,7 +178581,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8652,
@@ -178686,7 +178686,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8063,
@@ -178768,7 +178768,7 @@
                     "kill_time_in_match": 430352,
                     "round": 4,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -178797,7 +178797,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6264,
@@ -178892,7 +178892,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6022,
@@ -178973,7 +178973,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8690,
@@ -179054,7 +179054,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8182,
@@ -179119,7 +179119,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6564,
@@ -179180,7 +179180,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6629,
@@ -179206,7 +179206,7 @@
                     "kill_time_in_match": 451333,
                     "round": 4,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -179225,7 +179225,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5904,
@@ -179286,7 +179286,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6075,
@@ -179365,7 +179365,7 @@
                     "killer_display_name": "wZeroTwo#ZrTwo",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5901,
@@ -179962,7 +179962,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6336,
@@ -180067,7 +180067,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6206,
@@ -180162,7 +180162,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7097,
@@ -180257,7 +180257,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7119,
@@ -180348,7 +180348,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6995,
@@ -180410,7 +180410,7 @@
                     "kill_time_in_match": 646727,
                     "round": 6,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -180429,7 +180429,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7114,
@@ -180478,7 +180478,7 @@
                     "killer_display_name": "wZeroTwo#ZrTwo",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7294,
@@ -180690,7 +180690,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5264,
@@ -180805,7 +180805,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5608,
@@ -180916,7 +180916,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5743,
@@ -181011,7 +181011,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5364,
@@ -181092,7 +181092,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5198,
@@ -181141,7 +181141,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5478,
@@ -181354,7 +181354,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9708,
@@ -181469,7 +181469,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9711,
@@ -181564,7 +181564,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9313,
@@ -181665,7 +181665,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8882,
@@ -181750,7 +181750,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7722,
@@ -181825,7 +181825,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7052,
@@ -181861,7 +181861,7 @@
                     "kill_time_in_match": 832099,
                     "round": 8,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "eca0f30d-723d-55d9-8c5a-3bd65cadf057",
                     "victim_display_name": "Hide in Malaga#EUW",
@@ -181880,7 +181880,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7043,
@@ -181922,7 +181922,7 @@
                     "kill_time_in_match": 836113,
                     "round": 8,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -181941,7 +181941,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7889,
@@ -181976,7 +181976,7 @@
                     "killer_display_name": "wZeroTwo#ZrTwo",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7402,
@@ -182014,7 +182014,7 @@
                     "kill_time_in_match": 897466,
                     "round": 9,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                     "victim_display_name": "pedroosp#POS",
@@ -182053,7 +182053,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7627,
@@ -182179,7 +182179,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8040,
@@ -182284,7 +182284,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7863,
@@ -182340,7 +182340,7 @@
                     "kill_time_in_match": 908912,
                     "round": 9,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -182379,7 +182379,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7767,
@@ -182464,7 +182464,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7983,
@@ -182529,7 +182529,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7887,
@@ -182568,7 +182568,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9109,
@@ -183250,7 +183250,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9915,
@@ -183365,7 +183365,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9514,
@@ -183470,7 +183470,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8692,
@@ -183555,7 +183555,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9904,
@@ -183607,7 +183607,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "assistant_display_name": "98 Deoxys#Zumo",
+                            "assistant_display_name": "98 Spyder#Carla",
                             "assistant_team": "Blue"
                         },
                         {
@@ -183651,7 +183651,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7543,
@@ -183697,7 +183697,7 @@
                     "kill_time_in_match": 1187229,
                     "round": 11,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                     "victim_display_name": "pedroosp#POS",
@@ -183726,7 +183726,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7625,
@@ -183762,7 +183762,7 @@
                     "kill_time_in_match": 1188346,
                     "round": 11,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -183791,7 +183791,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7452,
@@ -183846,7 +183846,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7609,
@@ -183911,7 +183911,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2492,
@@ -184026,7 +184026,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2645,
@@ -184121,7 +184121,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7842,
@@ -184216,7 +184216,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7065,
@@ -184301,7 +184301,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7216,
@@ -184347,7 +184347,7 @@
                     "kill_time_in_match": 1294872,
                     "round": 12,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "eca0f30d-723d-55d9-8c5a-3bd65cadf057",
                     "victim_display_name": "Hide in Malaga#EUW",
@@ -184366,7 +184366,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7006,
@@ -184431,7 +184431,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6704,
@@ -184463,7 +184463,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "assistant_display_name": "98 Deoxys#Zumo",
+                            "assistant_display_name": "98 Spyder#Carla",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184502,7 +184502,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5088,
@@ -184617,7 +184617,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5143,
@@ -184728,7 +184728,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5435,
@@ -184823,7 +184823,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5334,
@@ -184908,7 +184908,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5149,
@@ -184983,7 +184983,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6044,
@@ -185022,7 +185022,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5493,
@@ -185113,7 +185113,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3970,
@@ -185192,7 +185192,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4233,
@@ -185726,7 +185726,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7897,
@@ -185805,7 +185805,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5535,
@@ -186348,7 +186348,7 @@
                     "killer_display_name": "pedroosp#POS",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6632,
@@ -187117,7 +187117,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6629,
@@ -187228,7 +187228,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7851,
@@ -187333,7 +187333,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7291,
@@ -187405,7 +187405,7 @@
                     "kill_time_in_match": 1803666,
                     "round": 17,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -187434,7 +187434,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7224,
@@ -187515,7 +187515,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7351,
@@ -187600,7 +187600,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7726,
@@ -187656,7 +187656,7 @@
                     "kill_time_in_match": 1815089,
                     "round": 17,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -187675,7 +187675,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8002,
@@ -187724,7 +187724,7 @@
                     "killer_display_name": "pedroosp#POS",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8080,
@@ -187866,7 +187866,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4969,
@@ -187981,7 +187981,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6826,
@@ -188086,7 +188086,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6775,
@@ -188181,7 +188181,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6758,
@@ -188272,7 +188272,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6597,
@@ -188311,7 +188311,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6721,
@@ -188473,7 +188473,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5866,
@@ -188549,7 +188549,7 @@
                     "kill_time_in_match": 1965900,
                     "round": 19,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "bb29efcb-7238-514f-bad5-e26b2a168cdb",
                     "victim_display_name": "wZeroTwo#ZrTwo",
@@ -188588,7 +188588,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6076,
@@ -188689,7 +188689,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6004,
@@ -188790,7 +188790,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2441,
@@ -188849,7 +188849,7 @@
                     "killer_display_name": "Netanyahu Ben#JEW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5877,
@@ -189086,7 +189086,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1933,
@@ -189201,7 +189201,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1612,
@@ -189306,7 +189306,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1916,
@@ -189397,7 +189397,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1952,
@@ -189453,7 +189453,7 @@
                     "kill_time_in_match": 2113797,
                     "round": 20,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "37d3ba87-e7fd-5a87-b178-c384fc01015c",
                     "victim_display_name": "pedroosp#POS",
@@ -189482,7 +189482,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2214,
@@ -189531,7 +189531,7 @@
                     "killer_display_name": "Hide in Malaga#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "victim_display_name": "98 Deoxys#Zumo",
+                    "victim_display_name": "98 Spyder#Carla",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2355,
@@ -189644,7 +189644,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "assistant_display_name": "98 Deoxys#Zumo",
+                            "assistant_display_name": "98 Spyder#Carla",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -189773,7 +189773,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7926,
@@ -189888,7 +189888,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5453,
@@ -189983,7 +189983,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5413,
@@ -190078,7 +190078,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4888,
@@ -190173,7 +190173,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4894,
@@ -190225,7 +190225,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "assistant_display_name": "98 Deoxys#Zumo",
+                            "assistant_display_name": "98 Spyder#Carla",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -190264,7 +190264,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6846,
@@ -190339,7 +190339,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8127,
@@ -190415,7 +190415,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8072,
@@ -190441,7 +190441,7 @@
                     "kill_time_in_match": 2219251,
                     "round": 21,
                     "killer_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                    "killer_display_name": "98 Deoxys#Zumo",
+                    "killer_display_name": "98 Spyder#Carla",
                     "killer_team": "Blue",
                     "victim_puuid": "90abd3c3-1cb0-561e-a6e6-d0e8ad7b1409",
                     "victim_display_name": "Netanyahu Ben#JEW",
@@ -190470,7 +190470,7 @@
                         },
                         {
                             "player_puuid": "aa6e5a84-ce23-5d89-be9c-df42e3a61f27",
-                            "player_display_name": "98 Deoxys#Zumo",
+                            "player_display_name": "98 Spyder#Carla",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8109,
