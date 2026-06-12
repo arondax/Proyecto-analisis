@@ -64,8 +64,8 @@ def limpieza_jugador(nombre_jugador):
     #print(df.info())
     
 
-    #Con los datos limpios borramos las columnas, jugador, modo
-    columnas_a_eliminar = ['jugador', 'modo', 'composición', 'rol']
+    #Con los datos limpios borramos las columnas, jugador, modo, de momento quitamos las fechas ya que no las vamos a usar
+    columnas_a_eliminar = ['jugador', 'modo', 'composición', 'rol', 'fecha', 'fecha_legible']
 
     for col in columnas_a_eliminar:
         if col in df.columns:

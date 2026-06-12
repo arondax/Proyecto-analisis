@@ -1,14 +1,12 @@
 import pandas as pd
 import numpy as np
-import unicodedata
-import os
-import joblib
+import unicodedata, os, joblib
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
-
+from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
 
 #FUNCIONES GENERICAS
@@ -70,6 +68,20 @@ def entrenamiento_regresion(df, identificador):
         _type_: _description_ Devuelve None después de completar el proceso de entrenamiento y evaluación del modelo de regresión. La función no devuelve un valor específico, pero guarda los modelos entrenados en archivos específicos dentro de la carpeta designada para modelos, y también guarda las métricas de evaluación en un archivo de log específico para el entrenamiento, utilizando el identificador proporcionado para nombrar los archivos correspondientes.
     """
     df= df.copy()
+    
+    #df_sorted = df.sort_values('fecha', na_position='first')  # los sin fecha van primero (datos viejos)
+
+    # Aquí haces el split
+    #split = int(len(df_sorted) * 0.8)
+    #df_train = df_sorted.iloc[:split]
+    #df_test  = df_sorted.iloc[split:]
+
+    # Ahora sí dropeas fecha antes de pasarlo al modelo
+    #columnas_drop = ['jugador', 'modo', 'id_partida', 'fecha', 'fecha_legible']
+    #df_train = df_train.drop(columns=columnas_drop, errors='ignore')
+    #df_test  = df_test.drop(columns=columnas_drop, errors='ignore')
+        
+    
     y = df[['rondas_ganadas', 'rondas_perdidas']] 
     X= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas'])
     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
@@ -81,8 +93,11 @@ def entrenamiento_regresion(df, identificador):
     }
     
     archivo=crear_log(identificador)
-
+    tamanyo= len(df)
+    archivo.write(f"Dataset: {identificador} | Tamaño: {tamanyo}\n")
     for nombre, modelo  in algoritmos.items():
+        
+    
        modelo.fit(x_train, y_train)
        y_pred = modelo.predict(x_test) 
        #Limpiamos los nombres
@@ -103,6 +118,12 @@ def entrenamiento_regresion(df, identificador):
             r2   = r2_score(y_test.iloc[:, i], y_pred[:, i])
             archivo.write(f"  [{col}] R²: {r2:.4f}\n")
             print(f"  [{col}] MAE: {mae:.2f} | RMSE: {rmse:.2f} | R²: {r2:.4f}")
+            
+            scores = cross_val_score(modelo, X, y, cv=5, scoring='r2')
+            archivo.write(f"  CV R² (5-fold): {scores.mean():.4f} ± {scores.std():.4f}\n")
+            archivo.write(f"Muestras totales: {len(df)} | Train: {len(X_train)} | Test: {len(X_test)}\n")
+            archivo.write(f"Split: random (sin fecha disponible)\n")
+            
             archivo.flush()  # Asegura que se escriba en el archivo después de cada modelo
     return None
 

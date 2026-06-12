@@ -120,11 +120,12 @@ def entrenar_modelo_regression():
         ruta_csv=f'./dataset_ingest/'
         patron = os.path.join(ruta_csv, '*.csv')
         archivos_csv = glob.glob(patron)
+        
         df_unido = pd.concat((pd.read_csv(f) for f in archivos_csv), ignore_index=True)
         df_unido.drop_duplicates()
      
-        if df_unido.to_csv(f'dataset_entrenamiento/dataset_ingest_{identificador}.csv', index=False):
-            print("CSV general creado")
+        df_unido.to_csv(f'dataset_entrenamiento/dataset_ingest_{identificador}.csv', index=False)
+        print("CSV general creado")
     
     
     #Leemos el CSV

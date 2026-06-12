@@ -58,6 +58,8 @@ def extraccion_datos(nombre, tag):
         headshot = lista_estadisticas['headshot']
         equipo = lista_estadisticas['equipo']
         modo = partida.get('metadata').get('mode')
+        fecha = partida.get('metadata',{}).get('game_start')
+        fecha_legible = partida.get('metadata',{}).get('game_start_patched')
         region = partida.get('metadata').get('region')
         
         puntuacion_total = lista_estadisticas['score']
@@ -88,6 +90,8 @@ def extraccion_datos(nombre, tag):
         
         nueva_fila = {
             'id_partida': id_partida,
+            'fecha': fecha,
+            'fecha_legible': fecha_legible,
             'jugador': nombre,
             'mapa': mapa_actual,
             'modo': modo,

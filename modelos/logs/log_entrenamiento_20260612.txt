@@ -1,0 +1,32 @@
+Log de entrenamiento - entrenamiento_20260612
+==================================================
+
+========================================
+  Regresión Lineal
+========================================
+  [rondas_ganadas] MAE: 1.75
+  [rondas_ganadas] RMSE: 2.29
+  [rondas_ganadas] R²: 0.5900
+  [rondas_perdidas] MAE: 1.54
+  [rondas_perdidas] RMSE: 2.06
+  [rondas_perdidas] R²: 0.6595
+
+========================================
+  Árbol de Decisión
+========================================
+  [rondas_ganadas] MAE: 1.16
+  [rondas_ganadas] RMSE: 1.85
+  [rondas_ganadas] R²: 0.7330
+  [rondas_perdidas] MAE: 1.00
+  [rondas_perdidas] RMSE: 1.49
+  [rondas_perdidas] R²: 0.8208
+
+========================================
+  Random Forest
+========================================
+  [rondas_ganadas] MAE: 1.08
+  [rondas_ganadas] RMSE: 1.69
+  [rondas_ganadas] R²: 0.7762
+  [rondas_perdidas] MAE: 0.95
+  [rondas_perdidas] RMSE: 1.42
+  [rondas_perdidas] R²: 0.8389
