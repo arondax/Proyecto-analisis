@@ -1,6 +1,6 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-138f4118-a314-4096-a3b4-373b76c74fb6,Dark Demon1,Pearl,Competitive,Reyna,Duelista,12,10,23,11,"['The Messiah', 'siminino', 'ASTfran', 'manolito']",Platinum,3.0,"['Omen', 'Vyse', 'Phoenix', 'Reyna', 'Fade']",158.077,5,5,1,14,12
-1cc6c1b3-e676-41c1-ae95-13fe9e011f4d,Dark Demon1,Breeze,Competitive,Reyna,Duelista,24,2,15,12,"['Mohabyte', 'BolillaSs', 'hectormrtnz7', 'ShidouRyusei']",Platinum,3.0,"['Jett', 'Chamber', 'Reyna', 'Skye', 'Miks']",355.789,3,2,0,6,13
-4b3edb88-a8ed-4e7d-a2bc-f4bf6744f750,Dark Demon1,Ascent,Competitive,Killjoy,Centinela,12,9,18,12,"['乂 Ainius', 'BoLliT0deLiMoN', 'A G M', 'Sasaki']",Platinum,3.0,"['KAY/O', 'Reyna', 'Jett', 'Miks', 'Killjoy']",219.263,0,2,0,6,13
-7dae8cdf-2c75-4daa-b27a-ff40640d9542,Dark Demon1,Pearl,Competitive,Chamber,Centinela,14,3,8,6,"['MINI huc', '乂 Ainius', 'E d u u u s z n', 'Gk KenZ']",Platinum,3.0,"['Jett', 'Omen', 'Fade', 'Chamber', 'Phoenix']",231.706,2,0,1,13,4
-b07b397d-bc3a-4f50-a0b3-a7b4014092e4,Dark Demon1,Skirmish D,Custom Game,KAY/O,Iniciador,10,0,8,0,[],Unrated,,['KAY/O'],142.0,10,8,2,10,8
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+138f4118-a314-4096-a3b4-373b76c74fb6,Dark Demon1,Pearl,Competitive,Reyna,Duelista,12,10,23,11,"['The Messiah', 'siminino', 'ASTfran', 'manolito']",Platinum,3.0,"['Omen', 'Vyse', 'Phoenix', 'Reyna', 'Fade']",158.077,5,5,1,14,12,,
+1cc6c1b3-e676-41c1-ae95-13fe9e011f4d,Dark Demon1,Breeze,Competitive,Reyna,Duelista,24,2,15,12,"['Mohabyte', 'BolillaSs', 'hectormrtnz7', 'ShidouRyusei']",Platinum,3.0,"['Jett', 'Chamber', 'Reyna', 'Skye', 'Miks']",355.789,3,2,0,6,13,,
+4b3edb88-a8ed-4e7d-a2bc-f4bf6744f750,Dark Demon1,Ascent,Competitive,Killjoy,Centinela,12,9,18,12,"['乂 Ainius', 'BoLliT0deLiMoN', 'A G M', 'Sasaki']",Platinum,3.0,"['KAY/O', 'Reyna', 'Jett', 'Miks', 'Killjoy']",219.263,0,2,0,6,13,,
+7dae8cdf-2c75-4daa-b27a-ff40640d9542,Dark Demon1,Pearl,Competitive,Chamber,Centinela,14,3,8,6,"['MINI huc', '乂 Ainius', 'E d u u u s z n', 'Gk KenZ']",Platinum,3.0,"['Jett', 'Omen', 'Fade', 'Chamber', 'Phoenix']",231.706,2,0,1,13,4,,
+b07b397d-bc3a-4f50-a0b3-a7b4014092e4,Dark Demon1,Skirmish D,Custom Game,KAY/O,Iniciador,10,0,8,0,[],Unrated,,['KAY/O'],142.0,10,8,2,10,8,,

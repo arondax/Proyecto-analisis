@@ -1,6 +1,8 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-e59b9766-e72c-4109-9a27-63963e7acaa7,Coiosu,Ascent,Competitive,Omen,Controlador,13,7,14,8,"['Meli', 'Goodboy527', 'BambaNougatDlv', 'DADDY بس هادي']",Platinum,3,"['Cypher', 'Jett', 'Omen', 'Reyna', 'Sova']",222.875,1,1,0,3,13
-0974ff2b-f701-47f3-8b1d-1a625b13c8a0,Coiosu,Split,Competitive,Reyna,Duelista,6,0,18,6,"['mowgli', 'vaco', 'Nia', 'Tookie']",Platinum,3,"['Omen', 'Gekko', 'Reyna', 'Sage', 'Jett']",102.941,0,3,0,4,13
-33613c84-d358-42ae-bab0-41a187da5374,Coiosu,Fracture,Competitive,Iso,Duelista,27,3,22,24,"['ZilpahFingerhut', 'OskarCZE', 'SUKis', 'CLB']",Platinum,3,"['Reyna', 'Sage', 'Sova', 'Miks', 'Iso']",279.286,7,2,1,15,13
-a606ac59-f2aa-4c40-8e9a-86b9a64259b3,Coiosu,Split,Competitive,Sage,Centinela,11,6,16,8,"['Purple2', 'table', 'Coiosul', 'Nipola']",Platinum,3,"['Neon', 'Sage', 'Reyna', 'Breach', 'Omen']",166.7,1,1,0,7,13
-0f63f8f1-ee90-4c02-9716-dc321910ea9c,Coiosu,Ascent,Competitive,Reyna,Duelista,18,3,20,14,"['MuZAN', 'Coiosul', 'Goodboy527', 'cold2burn']",Platinum,3,"['Sage', 'Reyna', 'Omen', 'Jett', 'Breach']",240.227,2,4,0,9,13
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+e59b9766-e72c-4109-9a27-63963e7acaa7,Coiosu,Ascent,Competitive,Omen,Controlador,13,7,14,8,"['Meli', 'Goodboy527', 'BambaNougatDlv', 'DADDY بس هادي']",Platinum,3.0,"['Cypher', 'Jett', 'Omen', 'Reyna', 'Sova']",222.875,1,1,0,3,13,,
+0974ff2b-f701-47f3-8b1d-1a625b13c8a0,Coiosu,Split,Competitive,Reyna,Duelista,6,0,18,6,"['mowgli', 'vaco', 'Nia', 'Tookie']",Platinum,3.0,"['Omen', 'Gekko', 'Reyna', 'Sage', 'Jett']",102.941,0,3,0,4,13,,
+33613c84-d358-42ae-bab0-41a187da5374,Coiosu,Fracture,Competitive,Iso,Duelista,27,3,22,24,"['ZilpahFingerhut', 'OskarCZE', 'SUKis', 'CLB']",Platinum,3.0,"['Reyna', 'Sage', 'Sova', 'Miks', 'Iso']",279.286,7,2,1,15,13,,
+a606ac59-f2aa-4c40-8e9a-86b9a64259b3,Coiosu,Split,Competitive,Sage,Centinela,11,6,16,8,"['Purple2', 'table', 'Coiosul', 'Nipola']",Platinum,3.0,"['Neon', 'Sage', 'Reyna', 'Breach', 'Omen']",166.7,1,1,0,7,13,,
+0f63f8f1-ee90-4c02-9716-dc321910ea9c,Coiosu,Ascent,Competitive,Reyna,Duelista,18,3,20,14,"['MuZAN', 'Coiosul', 'Goodboy527', 'cold2burn']",Platinum,3.0,"['Sage', 'Reyna', 'Omen', 'Jett', 'Breach']",240.227,2,4,0,9,13,,
+d22e30cf-fa44-4ded-b32e-610248ee0a8a,Coiosu,Pearl,Competitive,Omen,Controlador,17,7,17,15,"['hugopereezz', 'Eazzy', 'Im peace', 'LG your mommy']",Platinum,3.0,"['Fade', 'Chamber', 'Omen', 'Phoenix', 'Reyna']",204.435,2,3,1,13,10,1781198325.0,"Thursday, June 11, 2026 05:18 PM"
+312c9319-8410-4e15-af8f-48ddf5298e56,Coiosu,Skirmish A,Custom Game,Waylay,Duelista,10,0,6,0,[],Unrated,,['Waylay'],140.188,10,6,2,10,6,1781172110.0,"Thursday, June 11, 2026 10:01 AM"

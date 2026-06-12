@@ -1,6 +1,6 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-2c55e1ab-f6bc-4977-b922-8ea328c17b4b,nik,Fracture,Competitive,Waylay,Duelista,13,2,15,12,"['RobertilloFuente', 'die lit', 'Un mexicano', '호세마']",Diamond,1,"['Reyna', 'Waylay', 'Killjoy', 'Astra', 'Gekko']",145.273,3,0,1,13,9
-db56099c-8a7e-4bb8-a5d9-7df7a73b8066,nik,Haven,Competitive,Neon,Duelista,15,3,16,15,"['Lazzy', 'VG villa', 'Ze dos rabanetes', 'マリ愛してるよ']",Diamond,1,"['Neon', 'Omen', 'Raze', 'KAY/O', 'Sage']",255.611,4,4,0,5,13
-6887a0ef-25d5-4a5e-b98a-e1aa5be29e21,nik,Lotus,Competitive,Neon,Duelista,20,4,19,18,"['Qantum', 'L0V3 diazzXdd', 'LeiiNadd8', 'MIBR ASPAS']",Diamond,1,"['Chamber', 'Gekko', 'Neon', 'Miks', 'Reyna']",207.964,3,3,1,15,13
-ab8fb01d-d149-400e-bcb7-b2e25c8ee7fd,nik,Ascent,Competitive,Phoenix,Duelista,16,5,15,9,"['Bino Rebolante', 'Zynax', 'PREDA', 'MIBR ASPAS']",Diamond,1,"['Brimstone', 'Sova', 'Chamber', 'Phoenix', 'Jett']",224.65,1,2,0,7,13
-6f5e9dff-d078-4feb-ba02-0c1d1f5b3396,nik,Ascent,Competitive,Phoenix,Duelista,23,8,18,16,"['JJJ', 'kuantic', 'Inferring', '아버지']",Diamond,1,"['Phoenix', 'Jett', 'Sova', 'Killjoy', 'Miks']",277.167,3,1,1,13,11
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+2c55e1ab-f6bc-4977-b922-8ea328c17b4b,nik,Fracture,Competitive,Waylay,Duelista,13,2,15,12,"['RobertilloFuente', 'die lit', 'Un mexicano', '호세마']",Diamond,1,"['Reyna', 'Waylay', 'Killjoy', 'Astra', 'Gekko']",145.273,3,0,1,13,9,,
+db56099c-8a7e-4bb8-a5d9-7df7a73b8066,nik,Haven,Competitive,Neon,Duelista,15,3,16,15,"['Lazzy', 'VG villa', 'Ze dos rabanetes', 'マリ愛してるよ']",Diamond,1,"['Neon', 'Omen', 'Raze', 'KAY/O', 'Sage']",255.611,4,4,0,5,13,,
+6887a0ef-25d5-4a5e-b98a-e1aa5be29e21,nik,Lotus,Competitive,Neon,Duelista,20,4,19,18,"['Qantum', 'L0V3 diazzXdd', 'LeiiNadd8', 'MIBR ASPAS']",Diamond,1,"['Chamber', 'Gekko', 'Neon', 'Miks', 'Reyna']",207.964,3,3,1,15,13,,
+ab8fb01d-d149-400e-bcb7-b2e25c8ee7fd,nik,Ascent,Competitive,Phoenix,Duelista,16,5,15,9,"['Bino Rebolante', 'Zynax', 'PREDA', 'MIBR ASPAS']",Diamond,1,"['Brimstone', 'Sova', 'Chamber', 'Phoenix', 'Jett']",224.65,1,2,0,7,13,,
+6f5e9dff-d078-4feb-ba02-0c1d1f5b3396,nik,Ascent,Competitive,Phoenix,Duelista,23,8,18,16,"['JJJ', 'kuantic', 'Inferring', '아버지']",Diamond,1,"['Phoenix', 'Jett', 'Sova', 'Killjoy', 'Miks']",277.167,3,1,1,13,11,,

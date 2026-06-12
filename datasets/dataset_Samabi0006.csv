@@ -1,5 +1,5 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-138f4118-a314-4096-a3b4-373b76c74fb6,Samabi0006,Pearl,Competitive,Fade,Iniciador,21,6,19,11,"['SirZahir', 'HardStuck Gold', 'Vixie', 'TeamParti']",Diamond,1,"['Chamber', 'Jett', 'Miks', 'Phoenix', 'Fade']",214.385,2,2,0,12,14
-de11c9bc-1a36-4dd1-b5b6-0ccfb30adafc,Samabi0006,Breeze,Competitive,Fade,Iniciador,2,5,18,4,"['Agutín', 'Postal', 'Adrigs24', 'sous4']",Diamond,1,"['Jett', 'Clove', 'Fade', 'Viper', 'Chamber']",76.105,0,2,0,6,13
-1eeec37e-013d-4ae7-a76d-3e959e65c567,Samabi0006,Haven,Competitive,Chamber,Centinela,16,1,16,8,"['Prook', 'Mario Netaa', 'snag', 'Mosquito Man']",Diamond,1,"['Chamber', 'Jett', 'Sage', 'Omen', 'Phoenix']",199.318,3,0,0,9,13
-49b7a87b-bbfb-4c4e-a295-cc3a7d407738,Samabi0006,Pearl,Competitive,Neon,Duelista,16,1,16,5,"['Nihilist', 'bl3ssed', 'GUPITINHO', 'Larry Capisa']",Diamond,1,"['Iso', 'Waylay', 'Clove', 'Neon', 'Phoenix']",190.227,0,0,1,13,9
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+138f4118-a314-4096-a3b4-373b76c74fb6,Samabi0006,Pearl,Competitive,Fade,Iniciador,21,6,19,11,"['SirZahir', 'HardStuck Gold', 'Vixie', 'TeamParti']",Diamond,1,"['Chamber', 'Jett', 'Miks', 'Phoenix', 'Fade']",214.385,2,2,0,12,14,,
+de11c9bc-1a36-4dd1-b5b6-0ccfb30adafc,Samabi0006,Breeze,Competitive,Fade,Iniciador,2,5,18,4,"['Agutín', 'Postal', 'Adrigs24', 'sous4']",Diamond,1,"['Jett', 'Clove', 'Fade', 'Viper', 'Chamber']",76.105,0,2,0,6,13,,
+1eeec37e-013d-4ae7-a76d-3e959e65c567,Samabi0006,Haven,Competitive,Chamber,Centinela,16,1,16,8,"['Prook', 'Mario Netaa', 'snag', 'Mosquito Man']",Diamond,1,"['Chamber', 'Jett', 'Sage', 'Omen', 'Phoenix']",199.318,3,0,0,9,13,,
+49b7a87b-bbfb-4c4e-a295-cc3a7d407738,Samabi0006,Pearl,Competitive,Neon,Duelista,16,1,16,5,"['Nihilist', 'bl3ssed', 'GUPITINHO', 'Larry Capisa']",Diamond,1,"['Iso', 'Waylay', 'Clove', 'Neon', 'Phoenix']",190.227,0,0,1,13,9,,

@@ -1,5 +1,5 @@
 #Imports
-import json ,api, procesador, limpieza_datos, glob, os, modelos
+import json ,api, procesador, limpieza_datos, glob, os, modelos, time
 import pandas as pd
 from datetime import datetime
 
@@ -71,7 +71,13 @@ def procesado_jugadores(datos, api_key):
 #Recorremos la lista de amigos, y aplicamos para crear dataset y csv
     nombre_jugador =""
     tag=""
-    for jugador in datos.get("jugadores"):
+    jugadores = datos.get("jugadores")
+    for i, jugador in enumerate(jugadores):
+        if i > 0 and i % 10 == 0:
+            print("Pausa por rate limit...")
+            time.sleep(30)
+        
+        time.sleep(5)  # Pausa de 1 segundo entre cada petición para evitar saturar la API
         nombre_jugador= jugador.get("nombre")
         tag= jugador.get("tag")
         region= jugador.get("region")

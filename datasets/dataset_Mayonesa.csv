@@ -1,3 +1,3 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-6887a0ef-25d5-4a5e-b98a-e1aa5be29e21,Mayonesa,Lotus,Competitive,Jett,Duelista,18,2,21,13,"['Areevaaloツ', 'Pecolsito', 'LogicBios', 'Samukexxz']",Diamond,2,"['Vyse', 'Clove', 'Chamber', 'Reyna', 'Jett']",200.179,5,2,0,13,15
-1916a9a6-66af-478a-b475-aa8423e1c990,Mayonesa,Lotus,Competitive,Gekko,Iniciador,8,4,16,9,"['Dexterrrr', 'drdvicente', 'MisterPepas', 'agent']",Diamond,2,"['Gekko', 'Jett', 'Chamber', 'Omen', 'Reyna']",119.091,0,2,1,13,9
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+6887a0ef-25d5-4a5e-b98a-e1aa5be29e21,Mayonesa,Lotus,Competitive,Jett,Duelista,18,2,21,13,"['Areevaaloツ', 'Pecolsito', 'LogicBios', 'Samukexxz']",Diamond,2,"['Vyse', 'Clove', 'Chamber', 'Reyna', 'Jett']",200.179,5,2,0,13,15,,
+1916a9a6-66af-478a-b475-aa8423e1c990,Mayonesa,Lotus,Competitive,Gekko,Iniciador,8,4,16,9,"['Dexterrrr', 'drdvicente', 'MisterPepas', 'agent']",Diamond,2,"['Gekko', 'Jett', 'Chamber', 'Omen', 'Reyna']",119.091,0,2,1,13,9,,

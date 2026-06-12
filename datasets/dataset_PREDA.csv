@@ -1,6 +1,6 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-ab8fb01d-d149-400e-bcb7-b2e25c8ee7fd,PREDA,Ascent,Competitive,Chamber,Centinela,13,2,15,6,"['Bino Rebolante', 'Zynax', 'nik', 'MIBR ASPAS']",Diamond,3,"['Brimstone', 'Sova', 'Chamber', 'Phoenix', 'Jett']",186.55,1,0,0,7,13
-8a08045c-41d4-4e1a-aebc-059bd791cb45,PREDA,Ascent,Competitive,Chamber,Centinela,15,2,14,9,"['Cατα', 'THN DANONINO', 'Aim Enjoyerツ', 'ssssss']",Diamond,3,"['Sage', 'Chamber', 'Omen', 'Sova', 'Jett']",186.273,1,1,1,13,9
-3839b5be-7d37-45e5-aecb-36864c969d47,PREDA,Haven,Competitive,Reyna,Duelista,20,4,15,13,"['bikiniBottomfrag', 'Stark', 'Farmangar', 'cherche egirl']",Diamond,3,"['Reyna', 'Jett', 'Sova', 'Chamber', 'Clove']",264.857,3,0,2,13,8
-f53ab275-f2c5-44c1-b886-bc5ba13ea350,PREDA,Lotus,Competitive,Neon,Duelista,14,9,20,6,"['dragaomts', 'lima', 'NRG Opy', 'katsa']",Diamond,3,"['Reyna', 'Neon', 'Omen', 'Vyse', 'Fade']",174.846,4,2,0,12,14
-23631cb0-fd7b-4887-809e-d4bd4163f7a6,PREDA,Breeze,Competitive,Reyna,Duelista,22,2,17,13,"['Ashx', '0 AIM', 'EN1GM4', 'NRG Opy']",Diamond,3,"['Reyna', 'Tejo', 'Chamber', 'Jett', 'Viper']",262.435,3,2,1,13,10
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+ab8fb01d-d149-400e-bcb7-b2e25c8ee7fd,PREDA,Ascent,Competitive,Chamber,Centinela,13,2,15,6,"['Bino Rebolante', 'Zynax', 'nik', 'MIBR ASPAS']",Diamond,3,"['Brimstone', 'Sova', 'Chamber', 'Phoenix', 'Jett']",186.55,1,0,0,7,13,,
+8a08045c-41d4-4e1a-aebc-059bd791cb45,PREDA,Ascent,Competitive,Chamber,Centinela,15,2,14,9,"['Cατα', 'THN DANONINO', 'Aim Enjoyerツ', 'ssssss']",Diamond,3,"['Sage', 'Chamber', 'Omen', 'Sova', 'Jett']",186.273,1,1,1,13,9,,
+3839b5be-7d37-45e5-aecb-36864c969d47,PREDA,Haven,Competitive,Reyna,Duelista,20,4,15,13,"['bikiniBottomfrag', 'Stark', 'Farmangar', 'cherche egirl']",Diamond,3,"['Reyna', 'Jett', 'Sova', 'Chamber', 'Clove']",264.857,3,0,2,13,8,,
+f53ab275-f2c5-44c1-b886-bc5ba13ea350,PREDA,Lotus,Competitive,Neon,Duelista,14,9,20,6,"['dragaomts', 'lima', 'NRG Opy', 'katsa']",Diamond,3,"['Reyna', 'Neon', 'Omen', 'Vyse', 'Fade']",174.846,4,2,0,12,14,,
+23631cb0-fd7b-4887-809e-d4bd4163f7a6,PREDA,Breeze,Competitive,Reyna,Duelista,22,2,17,13,"['Ashx', '0 AIM', 'EN1GM4', 'NRG Opy']",Diamond,3,"['Reyna', 'Tejo', 'Chamber', 'Jett', 'Viper']",262.435,3,2,1,13,10,,

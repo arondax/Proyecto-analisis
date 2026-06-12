@@ -1,3 +1,4 @@
+from importlib.metadata import metadata
 import json
 import pandas as pd
 import os
@@ -35,8 +36,11 @@ def extraccion_datos(nombre, tag):
     existe_archivo= os.path.exists(direccion_archivo)
     
     for partida in datos['data']:
-        MODOS_SIN_EQUIPOS = {'skirmish', 'deathmatch'}
-
+        MODOS_SIN_EQUIPOS = {'Deathmatch', 'Team Deathmatch', 'Custom Game', 'Spike Rush', 'Escalation'}
+        metadata = partida.get('metadata')
+        if metadata is None:
+            print(f"[DEBUG] Partida sin metadata, saltando")
+            continue
         modo = partida.get('metadata').get('mode')
         if not modo or modo.lower() in MODOS_SIN_EQUIPOS:
             print(f"[DEBUG] Filtrada por modo: {modo}")
@@ -74,6 +78,10 @@ def extraccion_datos(nombre, tag):
         teammates = buscar_teammates(partida, equipo , nombre, tag)
         composicion = obtener_composicion(partida, equipo)
         rondas_win_lose = obtener_rondas(partida, equipo)
+        if rondas_win_lose is None or rondas_win_lose == (None, None):
+            print(f"[DEBUG] Partida sin datos de rondas, saltando")
+            continue
+
         rondas_w = rondas_win_lose[0]
         rondas_l = rondas_win_lose[1]
         
@@ -90,8 +98,6 @@ def extraccion_datos(nombre, tag):
         
         nueva_fila = {
             'id_partida': id_partida,
-            'fecha': fecha,
-            'fecha_legible': fecha_legible,
             'jugador': nombre,
             'mapa': mapa_actual,
             'modo': modo,
@@ -110,7 +116,9 @@ def extraccion_datos(nombre, tag):
             'fd': fd,
             'racha': racha,
             'rondas_ganadas': rondas_w,
-            'rondas_perdidas': rondas_l
+            'rondas_perdidas': rondas_l,
+            'fecha': fecha,
+            'fecha_legible': fecha_legible
         }
         # 3. Añadimos la "fila" a nuestra lista
         filas_finales.append(nueva_fila)
@@ -261,21 +269,20 @@ def obtener_composicion(partida_jugador, equipo_jugador):
     return composicion
 
 def obtener_rondas(datos_partida, equipo_jugador):
-    """_summary_ Funcion que se encarga de obtener el numero de rondas de la partida
-
-    Args:
-        datos_partida (_type_): _description_ El diccionario que contiene los datos especificos de la partida
-        equipo_jugador (_type_): _description_ El equipo al que pertenece el jugador objetivo dentro de la partida. Este valor se utiliza para identificar a los jugadores que pertenecen al mismo equipo que el jugador objetivo, y así extraer sus nombres para crear la lista de compañeros de equipo. El valor del equipo debe coincidir con el formato utilizado en el diccionario de la partida para que la función pueda identificar correctamente a los compañeros de equipo del jugador objetivo.
-
-    Returns:
-        _type_: _description_ Devuelve una lista con el numero de rondas ganadas y perdidas del equipo del jugador objetivo dentro de la partida específica. Esta lista se crea al identificar el equipo al que pertenece el jugador objetivo, y luego extraer el número de rondas ganadas y perdidas para ese equipo dentro de los datos de la partida. Si el jugador objetivo es encontrado en la partida, la función devuelve una lista con el número de rondas ganadas y perdidas de su equipo; si el jugador no es encontrado, devuelve una lista vacía.
-    """
     equipo_jugador = equipo_jugador.lower()
-    rondas_w = datos_partida.get('teams').get(equipo_jugador).get('rounds_won')
-    rondas_l = datos_partida.get('teams').get(equipo_jugador).get('rounds_lost')
-    rondas_w_l = [rondas_w, rondas_l]
     
-    return rondas_w_l
+    teams = datos_partida.get('teams')
+    if teams is None:
+        return None, None
+    
+    equipo_data = teams.get(equipo_jugador)
+    if equipo_data is None:
+        return None, None
+    
+    rondas_w = equipo_data.get('rounds_won')
+    rondas_l = equipo_data.get('rounds_lost')
+    
+    return [rondas_w, rondas_l]
 
 
 def calcular_impacto_ronda(partida, mi_nombre, mi_tag):

@@ -1,30 +1,37 @@
 import requests
 import json
+import time
 
 ##Funcion para conseguir los datos en bruto
 def getData(nombre, tag, region, api_key):
-    """Funcion que hace la petición a la API de Henrikdev para conseguir los datos de las partidas del jugador, y los guarda en un archivo JSON. 
-    Si el archivo existe lo sobreescribe, si no existe lo crea. Devuelve un diccionario con los datos de las partidas."""
-    URL=f"https://api.henrikdev.xyz/valorant/v3/matches/{region}/{nombre}/{tag}"
+    URL = f"https://api.henrikdev.xyz/valorant/v3/matches/{region}/{nombre}/{tag}"
     print(f"Buscando datos de {nombre}#{tag}...")
     headers = {"Authorization": api_key, "Accept": "*/*"}
-    #Peticion
-    response = requests.get(URL, headers=headers)
     
-    if response.status_code == 200:
-        print('Solicitud existosa')
-        data = response.json()
-        #Creamos un archivo json
-        nombre_archivo=f"matches_{nombre}.json"
-        direccion_archivo = f"./partidas/{nombre_archivo}"
+    for intento in range(3):
+        response = requests.get(URL, headers=headers)
         
-        with open(direccion_archivo, "w", encoding="utf-8") as f:
-            json.dump(data, f, indent=4)
-        print(f"Archivo '{nombre_archivo}' creado con éxito.")
-        return data   
-    else:
-        print(f'Error en la solicitud, detalles: {response.status_code} ', response.text)    
-        return None
+        if response.status_code == 200:
+            print('Solicitud existosa')
+            data = response.json()
+            nombre_archivo = f"matches_{nombre}.json"
+            direccion_archivo = f"./partidas/{nombre_archivo}"
+            with open(direccion_archivo, "w", encoding="utf-8") as f:
+                json.dump(data, f, indent=4)
+            print(f"Archivo '{nombre_archivo}' creado con éxito.")
+            return data
+        
+        elif response.status_code == 429:
+            espera = 30 * (2 ** intento)  # 30s, 60s, 120s
+            print(f"Rate limit, esperando {espera}s antes de reintentar...")
+            time.sleep(espera)
+        
+        else:
+            print(f'Error en la solicitud, detalles: {response.status_code} ', response.text)
+            return None
+    
+    print(f"Rate limit persistente para {nombre}#{tag}, saltando...")
+    return None
 """"
 def obtener_mapeo_roles():
     url = "https://api.henrikdev.xyz/valorant/v1/content"

@@ -1,3 +1,3 @@
-id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas
-737d6503-be70-4f8e-944d-75b087ee1d20,HEARTLESS,Ascent,Competitive,Clove,Controlador,22,12,15,23,"['naptimes', 'heartless', 'xwx', 'om3y', 'Ali']",Radiant,,"['Jett', 'Clove', 'Reyna', 'Vyse', 'Sova']",286.545,0,0,1,13,9
-99f69f9a-1c9b-4f53-904b-e747a8e32134,HEARTLESS,District,Team Deathmatch,Skye,Iniciador,18,4,21,10,"['heartless', 'puppy girl', 'heaven or hell', 'RayUndaunted', 'lamphya']",Unrated,,"['Skye', 'Clove', 'Jett', 'Iso', 'Cypher']",4784.0,0,0,2,100,95
+id_partida,jugador,mapa,modo,personaje,rol,kills,asistencias,muertes,headshots,compañeros,rango,subrango,composición,acs,fb,fd,racha,rondas_ganadas,rondas_perdidas,fecha,fecha_legible
+737d6503-be70-4f8e-944d-75b087ee1d20,HEARTLESS,Ascent,Competitive,Clove,Controlador,22,12,15,23,"['naptimes', 'heartless', 'xwx', 'om3y', 'Ali']",Radiant,,"['Jett', 'Clove', 'Reyna', 'Vyse', 'Sova']",286.545,0,0,1,13,9,,
+99f69f9a-1c9b-4f53-904b-e747a8e32134,HEARTLESS,District,Team Deathmatch,Skye,Iniciador,18,4,21,10,"['heartless', 'puppy girl', 'heaven or hell', 'RayUndaunted', 'lamphya']",Unrated,,"['Skye', 'Clove', 'Jett', 'Iso', 'Cypher']",4784.0,0,0,2,100,95,,
