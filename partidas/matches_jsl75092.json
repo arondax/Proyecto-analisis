@@ -140536,8 +140536,8 @@
                     },
                     {
                         "puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                        "name": "ManWithTurtle",
-                        "tag": "4304",
+                        "name": "RetourneEnCustom",
+                        "tag": "3630",
                         "team": "Red",
                         "level": 275,
                         "character": "Skye",
@@ -141049,8 +141049,8 @@
                 "red": [
                     {
                         "puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                        "name": "ManWithTurtle",
-                        "tag": "4304",
+                        "name": "RetourneEnCustom",
+                        "tag": "3630",
                         "team": "Red",
                         "level": 275,
                         "character": "Skye",
@@ -141828,7 +141828,7 @@
                             },
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1162,
@@ -141923,7 +141923,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -142021,7 +142021,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -142041,7 +142041,7 @@
                                     "killer_display_name": "Gako#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4411,
@@ -142244,7 +142244,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1390,
@@ -142364,7 +142364,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1148,
@@ -142448,7 +142448,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1619,
@@ -142594,7 +142594,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1663,
@@ -142956,7 +142956,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1142,
@@ -143066,7 +143066,7 @@
                             },
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2481,
@@ -143141,7 +143141,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -143468,7 +143468,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2672,
@@ -143578,7 +143578,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2672,
@@ -143668,7 +143668,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1709,
@@ -143758,7 +143758,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1186,
@@ -143838,7 +143838,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -324,
@@ -144069,7 +144069,7 @@
                                         },
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2672,
@@ -144241,7 +144241,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6058,
@@ -144286,7 +144286,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -144308,7 +144308,7 @@
                                     "kill_time_in_round": 36740,
                                     "kill_time_in_match": 243676,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "1d2631ee-79fc-5f07-8a7f-b28845b7fa8e",
                                     "victim_display_name": "Zhouzhouman#4494",
@@ -144327,7 +144327,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5452,
@@ -144514,7 +144514,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2465,
@@ -144618,7 +144618,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3159,
@@ -144825,7 +144825,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1388,
@@ -144950,7 +144950,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3331,
@@ -145045,7 +145045,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5271,
@@ -145181,7 +145181,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5261,
@@ -145213,7 +145213,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -145465,7 +145465,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5712,
@@ -145540,7 +145540,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -145562,7 +145562,7 @@
                                     "kill_time_in_round": 34148,
                                     "kill_time_in_match": 323456,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                                     "victim_display_name": "Salty Vampire#EUW",
@@ -145581,7 +145581,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5702,
@@ -145824,7 +145824,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3516,
@@ -145997,7 +145997,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5412,
@@ -146185,7 +146185,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4854,
@@ -146279,7 +146279,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5856,
@@ -146406,7 +146406,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5702,
@@ -146532,7 +146532,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3467,
@@ -146668,7 +146668,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1791,
@@ -146743,7 +146743,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -146765,7 +146765,7 @@
                                     "kill_time_in_round": 21082,
                                     "kill_time_in_match": 381553,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "b642e0ca-93fe-5eb2-b16d-1e41702c76cb",
                                     "victim_display_name": "jsl75092#92110",
@@ -146784,7 +146784,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 645,
@@ -146927,7 +146927,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 457,
@@ -147198,7 +147198,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 198,
@@ -147499,7 +147499,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -147551,7 +147551,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -147596,7 +147596,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 645,
@@ -147716,7 +147716,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6138,
@@ -147831,7 +147831,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -147871,7 +147871,7 @@
                                     "kill_time_in_round": 38327,
                                     "kill_time_in_match": 508391,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                                     "victim_display_name": "Salty Vampire#EUW",
@@ -147890,7 +147890,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5864,
@@ -147975,7 +147975,7 @@
                                     "kill_time_in_round": 54594,
                                     "kill_time_in_match": 524658,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -147994,7 +147994,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4739,
@@ -148167,7 +148167,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5984,
@@ -148442,7 +148442,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6388,
@@ -148542,7 +148542,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6214,
@@ -148632,7 +148632,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5709,
@@ -148774,7 +148774,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5484,
@@ -148838,7 +148838,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5435,
@@ -149064,7 +149064,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3731,
@@ -149168,7 +149168,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4631,
@@ -149207,7 +149207,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -149238,7 +149238,7 @@
                                     "kill_time_in_round": 42420,
                                     "kill_time_in_match": 604083,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                                     "victim_display_name": "Salty Vampire#EUW",
@@ -149257,7 +149257,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4033,
@@ -149374,7 +149374,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4495,
@@ -149501,7 +149501,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1783,
@@ -149668,7 +149668,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4567,
@@ -149868,7 +149868,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2953,
@@ -150035,7 +150035,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4222,
@@ -150148,7 +150148,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -150245,7 +150245,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5241,
@@ -150355,7 +150355,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4797,
@@ -150540,7 +150540,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -150632,7 +150632,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2443,
@@ -150890,7 +150890,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -150919,7 +150919,7 @@
                                     "killer_display_name": "Zhouzhouman#4494",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -961,
@@ -151164,7 +151164,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2170,
@@ -151522,7 +151522,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2474,
@@ -151780,7 +151780,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1343,
@@ -151855,7 +151855,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -151877,7 +151877,7 @@
                                     "kill_time_in_round": 52893,
                                     "kill_time_in_match": 787212,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "b642e0ca-93fe-5eb2-b16d-1e41702c76cb",
                                     "victim_display_name": "jsl75092#92110",
@@ -151896,7 +151896,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2601,
@@ -152070,7 +152070,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1352,
@@ -152276,7 +152276,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2102,
@@ -152396,7 +152396,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1736,
@@ -152486,7 +152486,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2598,
@@ -152651,7 +152651,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1764,
@@ -152816,7 +152816,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1762,
@@ -153004,7 +153004,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -153065,7 +153065,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6230,
@@ -153120,7 +153120,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -153212,7 +153212,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6258,
@@ -153423,7 +153423,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2068,
@@ -153791,7 +153791,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1959,
@@ -153976,7 +153976,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2188,
@@ -154080,7 +154080,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7053,
@@ -154154,7 +154154,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6456,
@@ -154241,7 +154241,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 3,
@@ -154261,7 +154261,7 @@
                                     "killer_display_name": "Salty Vampire#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6064,
@@ -154384,7 +154384,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5998,
@@ -154510,7 +154510,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5207,
@@ -154605,7 +154605,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -154627,7 +154627,7 @@
                                     "kill_time_in_round": 36688,
                                     "kill_time_in_match": 956265,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "1d2631ee-79fc-5f07-8a7f-b28845b7fa8e",
                                     "victim_display_name": "Zhouzhouman#4494",
@@ -154646,7 +154646,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5451,
@@ -154876,7 +154876,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5235,
@@ -155022,7 +155022,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4395,
@@ -155132,7 +155132,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5070,
@@ -155294,7 +155294,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3218,
@@ -155605,7 +155605,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -155625,7 +155625,7 @@
                                     "killer_display_name": "jsl75092#92110",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5451,
@@ -155737,7 +155737,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3956,
@@ -155870,7 +155870,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -155892,7 +155892,7 @@
                                     "kill_time_in_round": 1770,
                                     "kill_time_in_match": 996286,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -155911,7 +155911,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1951,
@@ -156163,7 +156163,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -156199,7 +156199,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3956,
@@ -156293,7 +156293,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3956,
@@ -156438,7 +156438,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2361,
@@ -156765,7 +156765,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -156801,7 +156801,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3956,
@@ -156885,7 +156885,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3956,
@@ -156933,7 +156933,7 @@
                                     "killer_display_name": "jsl75092#92110",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5081,
@@ -157035,7 +157035,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1466,
@@ -157158,7 +157158,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -157180,7 +157180,7 @@
                                     "kill_time_in_round": 30744,
                                     "kill_time_in_match": 1124511,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -157199,7 +157199,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -630,
@@ -157346,7 +157346,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -221,
@@ -157467,7 +157467,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -157496,7 +157496,7 @@
                                     "killer_display_name": "Gako#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2356,
@@ -157618,7 +157618,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -110,
@@ -157842,7 +157842,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -256,
@@ -157889,7 +157889,7 @@
                                         },
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -157917,7 +157917,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -974,
@@ -157954,7 +157954,7 @@
                                         },
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -157999,7 +157999,7 @@
                                         },
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -158062,7 +158062,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -158098,7 +158098,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2279,
@@ -158328,7 +158328,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -364,
@@ -158554,7 +158554,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -158829,7 +158829,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -159102,7 +159102,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -159364,7 +159364,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -159409,7 +159409,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -159438,7 +159438,7 @@
                                     "killer_display_name": "Salty Vampire#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2637,
@@ -159900,7 +159900,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -160018,7 +160018,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -160333,7 +160333,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5090,
@@ -160509,7 +160509,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5951,
@@ -160656,7 +160656,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6415,
@@ -160818,7 +160818,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -160854,7 +160854,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5906,
@@ -160942,7 +160942,7 @@
                                     "killer_display_name": "jsl75092#92110",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6690,
@@ -161109,7 +161109,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -161131,7 +161131,7 @@
                                     "kill_time_in_round": 28888,
                                     "kill_time_in_match": 1400792,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -161150,7 +161150,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -557,
@@ -161322,7 +161322,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "receiver_display_name": "ManWithTurtle#4304",
+                                    "receiver_display_name": "RetourneEnCustom#3630",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -161367,7 +161367,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -610,
@@ -161465,7 +161465,7 @@
                                     "killer_display_name": "Gako#1234",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "victim_display_name": "ManWithTurtle#4304",
+                                    "victim_display_name": "RetourneEnCustom#3630",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -151,
@@ -161702,7 +161702,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -557,
@@ -161949,7 +161949,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -307,
@@ -162133,7 +162133,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -459,
@@ -162223,7 +162223,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -285,
@@ -162313,7 +162313,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4403,
@@ -162410,14 +162410,14 @@
                         },
                         "defused_by": {
                             "puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "display_name": "ManWithTurtle#4304",
+                            "display_name": "RetourneEnCustom#3630",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 62773,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                "player_display_name": "ManWithTurtle#4304",
+                                "player_display_name": "RetourneEnCustom#3630",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1627,
@@ -162466,7 +162466,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -162577,7 +162577,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4263,
@@ -162661,7 +162661,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4335,
@@ -162713,7 +162713,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -162954,7 +162954,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4342,
@@ -163048,7 +163048,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4346,
@@ -163090,7 +163090,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "assistant_display_name": "ManWithTurtle#4304",
+                                            "assistant_display_name": "RetourneEnCustom#3630",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -163237,7 +163237,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4008,
@@ -163436,7 +163436,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4403,
@@ -163583,7 +163583,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -163605,7 +163605,7 @@
                                     "kill_time_in_round": 38949,
                                     "kill_time_in_match": 1592949,
                                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                    "killer_display_name": "ManWithTurtle#4304",
+                                    "killer_display_name": "RetourneEnCustom#3630",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c89c64b-41d3-5d66-9e4b-fe08ae92fdd0",
                                     "victim_display_name": "Gako#1234",
@@ -163624,7 +163624,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2801,
@@ -163825,7 +163825,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4239,
@@ -164024,7 +164024,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2988,
@@ -164114,7 +164114,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2819,
@@ -164247,7 +164247,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4520,
@@ -164476,7 +164476,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                                            "player_display_name": "ManWithTurtle#4304",
+                                            "player_display_name": "RetourneEnCustom#3630",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3333,
@@ -164712,7 +164712,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1390,
@@ -164833,7 +164833,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1663,
@@ -164944,7 +164944,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1148,
@@ -165039,7 +165039,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1142,
@@ -165114,7 +165114,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1619,
@@ -165173,7 +165173,7 @@
                     "killer_display_name": "Gako#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4411,
@@ -165319,7 +165319,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2672,
@@ -165434,7 +165434,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2672,
@@ -165545,7 +165545,7 @@
                         },
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2672,
@@ -165636,7 +165636,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1709,
@@ -165727,7 +165727,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1186,
@@ -165808,7 +165808,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -324,
@@ -165873,7 +165873,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1388,
@@ -165999,7 +165999,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2465,
@@ -166104,7 +166104,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3159,
@@ -166199,7 +166199,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3331,
@@ -166295,7 +166295,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5271,
@@ -166351,7 +166351,7 @@
                     "kill_time_in_match": 243676,
                     "round": 2,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "1d2631ee-79fc-5f07-8a7f-b28845b7fa8e",
                     "victim_display_name": "Zhouzhouman#4494",
@@ -166370,7 +166370,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5452,
@@ -166435,7 +166435,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5261,
@@ -166467,7 +166467,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         }
                     ]
@@ -166496,7 +166496,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3516,
@@ -166617,7 +166617,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3467,
@@ -166728,7 +166728,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4854,
@@ -166823,7 +166823,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5412,
@@ -166908,7 +166908,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5856,
@@ -166983,7 +166983,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5702,
@@ -167029,7 +167029,7 @@
                     "kill_time_in_match": 323456,
                     "round": 3,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                     "victim_display_name": "Salty Vampire#EUW",
@@ -167048,7 +167048,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5702,
@@ -167103,7 +167103,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 198,
@@ -167224,7 +167224,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 457,
@@ -167340,7 +167340,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 645,
@@ -167416,7 +167416,7 @@
                     "kill_time_in_match": 381553,
                     "round": 4,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "b642e0ca-93fe-5eb2-b16d-1e41702c76cb",
                     "victim_display_name": "jsl75092#92110",
@@ -167435,7 +167435,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 645,
@@ -167526,7 +167526,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5984,
@@ -167628,7 +167628,7 @@
                     "kill_time_in_match": 508391,
                     "round": 5,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                     "victim_display_name": "Salty Vampire#EUW",
@@ -167647,7 +167647,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5864,
@@ -167752,7 +167752,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 6388,
@@ -167853,7 +167853,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 6214,
@@ -167944,7 +167944,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5709,
@@ -168025,7 +168025,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5484,
@@ -168090,7 +168090,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5435,
@@ -168126,7 +168126,7 @@
                     "kill_time_in_match": 524658,
                     "round": 5,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -168145,7 +168145,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4739,
@@ -168196,7 +168196,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1783,
@@ -168311,7 +168311,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2953,
@@ -168426,7 +168426,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5241,
@@ -168537,7 +168537,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4797,
@@ -168632,7 +168632,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4567,
@@ -168728,7 +168728,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4495,
@@ -168784,7 +168784,7 @@
                     "kill_time_in_match": 604083,
                     "round": 6,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "ede61e69-67df-529b-86c0-6b5901709f0a",
                     "victim_display_name": "Salty Vampire#EUW",
@@ -168803,7 +168803,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4033,
@@ -168868,7 +168868,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4222,
@@ -168923,7 +168923,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2170,
@@ -169044,7 +169044,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2474,
@@ -169149,7 +169149,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2443,
@@ -169234,7 +169234,7 @@
                     "killer_display_name": "Zhouzhouman#4494",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -961,
@@ -169581,7 +169581,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2102,
@@ -169702,7 +169702,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1762,
@@ -169813,7 +169813,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1764,
@@ -169908,7 +169908,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1736,
@@ -169999,7 +169999,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -1352,
@@ -170055,7 +170055,7 @@
                     "kill_time_in_match": 787212,
                     "round": 8,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "b642e0ca-93fe-5eb2-b16d-1e41702c76cb",
                     "victim_display_name": "jsl75092#92110",
@@ -170074,7 +170074,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2601,
@@ -170145,7 +170145,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2598,
@@ -170206,7 +170206,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2068,
@@ -170321,7 +170321,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1959,
@@ -170436,7 +170436,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2188,
@@ -170541,7 +170541,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5998,
@@ -170642,7 +170642,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 6258,
@@ -170733,7 +170733,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 7053,
@@ -170808,7 +170808,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 6456,
@@ -170863,7 +170863,7 @@
                     "killer_display_name": "Salty Vampire#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6064,
@@ -170985,7 +170985,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3218,
@@ -171100,7 +171100,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4395,
@@ -171211,7 +171211,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5070,
@@ -171312,7 +171312,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5235,
@@ -171378,7 +171378,7 @@
                     "kill_time_in_match": 956265,
                     "round": 10,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "1d2631ee-79fc-5f07-8a7f-b28845b7fa8e",
                     "victim_display_name": "Zhouzhouman#4494",
@@ -171397,7 +171397,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5451,
@@ -171456,7 +171456,7 @@
                     "killer_display_name": "jsl75092#92110",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5451,
@@ -171579,7 +171579,7 @@
                     "kill_time_in_match": 996286,
                     "round": 11,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -171598,7 +171598,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 1951,
@@ -171713,7 +171713,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2361,
@@ -171818,7 +171818,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3956,
@@ -171913,7 +171913,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3956,
@@ -171998,7 +171998,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3956,
@@ -172073,7 +172073,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3956,
@@ -172122,7 +172122,7 @@
                     "killer_display_name": "jsl75092#92110",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5081,
@@ -172199,7 +172199,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2279,
@@ -172325,7 +172325,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -221,
@@ -172411,7 +172411,7 @@
                     "kill_time_in_match": 1124511,
                     "round": 12,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -172430,7 +172430,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -630,
@@ -172525,7 +172525,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -364,
@@ -172610,7 +172610,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -110,
@@ -172685,7 +172685,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -256,
@@ -172732,7 +172732,7 @@
                         },
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         }
                     ]
@@ -172761,7 +172761,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -974,
@@ -172798,7 +172798,7 @@
                         },
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         }
                     ]
@@ -172811,7 +172811,7 @@
                     "killer_display_name": "Gako#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2356,
@@ -172889,7 +172889,7 @@
                         },
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         }
                     ]
@@ -172902,7 +172902,7 @@
                     "killer_display_name": "Salty Vampire#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2637,
@@ -173306,7 +173306,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         }
                     ]
@@ -173616,7 +173616,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5090,
@@ -173731,7 +173731,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5906,
@@ -173836,7 +173836,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 5951,
@@ -173931,7 +173931,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 6415,
@@ -174000,7 +174000,7 @@
                     "killer_display_name": "jsl75092#92110",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6690,
@@ -174223,7 +174223,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -610,
@@ -174338,7 +174338,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -557,
@@ -174430,7 +174430,7 @@
                     "kill_time_in_match": 1400792,
                     "round": 15,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "daa9380f-f0cf-5556-b871-a029bc06ac50",
                     "victim_display_name": "Grim Aura rizzle#AURA",
@@ -174449,7 +174449,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -557,
@@ -174544,7 +174544,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -459,
@@ -174635,7 +174635,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -307,
@@ -174716,7 +174716,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -285,
@@ -174765,7 +174765,7 @@
                     "killer_display_name": "Gako#1234",
                     "killer_team": "Blue",
                     "victim_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "victim_display_name": "ManWithTurtle#4304",
+                    "victim_display_name": "RetourneEnCustom#3630",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -151,
@@ -174881,7 +174881,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4403,
@@ -174996,7 +174996,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4008,
@@ -175101,7 +175101,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4342,
@@ -175196,7 +175196,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4263,
@@ -175281,7 +175281,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4335,
@@ -175333,7 +175333,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         },
                         {
@@ -175367,7 +175367,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4346,
@@ -175409,7 +175409,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "assistant_display_name": "ManWithTurtle#4304",
+                            "assistant_display_name": "RetourneEnCustom#3630",
                             "assistant_team": "Red"
                         },
                         {
@@ -175443,7 +175443,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4520,
@@ -175569,7 +175569,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 4239,
@@ -175680,7 +175680,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 3333,
@@ -175781,7 +175781,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2988,
@@ -175872,7 +175872,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": 2819,
@@ -175934,7 +175934,7 @@
                     "kill_time_in_match": 1592949,
                     "round": 17,
                     "killer_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                    "killer_display_name": "ManWithTurtle#4304",
+                    "killer_display_name": "RetourneEnCustom#3630",
                     "killer_team": "Red",
                     "victim_puuid": "2c89c64b-41d3-5d66-9e4b-fe08ae92fdd0",
                     "victim_display_name": "Gako#1234",
@@ -175953,7 +175953,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a97ba9e6-3e15-575d-8014-85bb4dd7e351",
-                            "player_display_name": "ManWithTurtle#4304",
+                            "player_display_name": "RetourneEnCustom#3630",
                             "player_team": "Red",
                             "location": {
                                 "x": -2801,
