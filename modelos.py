@@ -121,7 +121,7 @@ def entrenamiento_regresion(df, identificador):
             
             scores = cross_val_score(modelo, X, y, cv=5, scoring='r2')
             archivo.write(f"  CV R² (5-fold): {scores.mean():.4f} ± {scores.std():.4f}\n")
-            archivo.write(f"Muestras totales: {len(df)} | Train: {len(X_train)} | Test: {len(X_test)}\n")
+            archivo.write(f"Muestras totales: {len(df)} | Train: {len(x_train)} | Test: {len(x_test)}\n")
             archivo.write(f"Split: random (sin fecha disponible)\n")
             
             archivo.flush()  # Asegura que se escriba en el archivo después de cada modelo
