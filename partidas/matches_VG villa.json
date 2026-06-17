@@ -169498,8 +169498,8 @@
                     },
                     {
                         "puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                        "name": "Audi RS6",
-                        "tag": "V8TFS",
+                        "name": "vanta",
+                        "tag": "kay",
                         "team": "Blue",
                         "level": 257,
                         "character": "Reyna",
@@ -170597,8 +170597,8 @@
                     },
                     {
                         "puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                        "name": "Audi RS6",
-                        "tag": "V8TFS",
+                        "name": "vanta",
+                        "tag": "kay",
                         "team": "Blue",
                         "level": 257,
                         "character": "Reyna",
@@ -171022,7 +171022,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -171355,7 +171355,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8261,
@@ -171528,7 +171528,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7265,
@@ -171579,7 +171579,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -171599,7 +171599,7 @@
                                     "killer_display_name": "VG villa#villa",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8009,
@@ -171712,7 +171712,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -171811,7 +171811,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -171851,7 +171851,7 @@
                                     "kill_time_in_round": 11725,
                                     "kill_time_in_match": 66786,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -171940,7 +171940,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8040,
@@ -171955,7 +171955,7 @@
                                     "kill_time_in_round": 31620,
                                     "kill_time_in_match": 86681,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -172034,7 +172034,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8603,
@@ -172180,7 +172180,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9475,
@@ -172270,7 +172270,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -172400,7 +172400,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -172476,7 +172476,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8553,
@@ -172505,7 +172505,7 @@
                                     "killer_display_name": "Kire#15123",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8621,
@@ -172713,7 +172713,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6935,
@@ -172941,7 +172941,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8217,
@@ -172992,7 +172992,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -173285,7 +173285,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -173316,7 +173316,7 @@
                                     "kill_time_in_round": 36673,
                                     "kill_time_in_match": 181971,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -173405,7 +173405,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6914,
@@ -173426,7 +173426,7 @@
                                     "kill_time_in_round": 41899,
                                     "kill_time_in_match": 187197,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -173495,7 +173495,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6468,
@@ -173998,7 +173998,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -174045,7 +174045,7 @@
                                     "killer_display_name": "iwnl#2005",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 11093,
@@ -174752,7 +174752,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -174848,7 +174848,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9325,
@@ -174996,7 +174996,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9701,
@@ -175142,7 +175142,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9501,
@@ -175369,7 +175369,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8437,
@@ -175516,7 +175516,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9049,
@@ -175673,7 +175673,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6573,
@@ -175784,7 +175784,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -175804,7 +175804,7 @@
                                     "killer_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9235,
@@ -175938,7 +175938,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -176266,7 +176266,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7400,
@@ -176340,7 +176340,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8316,
@@ -176410,7 +176410,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6866,
@@ -176422,7 +176422,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "assistant_display_name": "Audi RS6#V8TFS",
+                                            "assistant_display_name": "vanta#kay",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -176665,7 +176665,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9053,
@@ -176716,7 +176716,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -176805,7 +176805,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -176845,7 +176845,7 @@
                                     "kill_time_in_round": 10510,
                                     "kill_time_in_match": 446127,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -176934,7 +176934,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7711,
@@ -176949,7 +176949,7 @@
                                     "kill_time_in_round": 30705,
                                     "kill_time_in_match": 466322,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -177028,7 +177028,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8641,
@@ -177184,7 +177184,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9657,
@@ -177319,7 +177319,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8605,
@@ -177462,7 +177462,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8795,
@@ -177589,7 +177589,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7853,
@@ -177761,7 +177761,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -177822,7 +177822,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -177868,7 +177868,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7311,
@@ -177886,7 +177886,7 @@
                                     "killer_display_name": "VG villa#villa",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7821,
@@ -178059,7 +178059,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7971,
@@ -178147,7 +178147,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -178187,7 +178187,7 @@
                                     "kill_time_in_round": 40569,
                                     "kill_time_in_match": 557208,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -178286,7 +178286,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7948,
@@ -178301,7 +178301,7 @@
                                     "kill_time_in_round": 62193,
                                     "kill_time_in_match": 578832,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -178350,7 +178350,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8850,
@@ -178365,7 +178365,7 @@
                                     "kill_time_in_round": 63363,
                                     "kill_time_in_match": 580002,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -178404,7 +178404,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8948,
@@ -178586,7 +178586,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -178671,7 +178671,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10075,
@@ -178900,7 +178900,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -179067,7 +179067,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8461,
@@ -179131,7 +179131,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9054,
@@ -179177,7 +179177,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -179217,7 +179217,7 @@
                                     "kill_time_in_round": 13362,
                                     "kill_time_in_match": 638648,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                                     "victim_display_name": "VG villa#villa",
@@ -179316,7 +179316,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7227,
@@ -179331,7 +179331,7 @@
                                     "kill_time_in_round": 50061,
                                     "kill_time_in_match": 675347,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -179410,7 +179410,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8745,
@@ -179431,7 +179431,7 @@
                                     "kill_time_in_round": 56744,
                                     "kill_time_in_match": 682030,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -179500,7 +179500,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9175,
@@ -179630,7 +179630,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7813,
@@ -179684,7 +179684,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7762,
@@ -179824,7 +179824,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8673,
@@ -180112,7 +180112,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6494,
@@ -180124,7 +180124,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "assistant_display_name": "Audi RS6#V8TFS",
+                                            "assistant_display_name": "vanta#kay",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -180182,7 +180182,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5487,
@@ -180433,7 +180433,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7594,
@@ -180570,7 +180570,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6558,
@@ -180616,7 +180616,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -180647,7 +180647,7 @@
                                     "kill_time_in_round": 41146,
                                     "kill_time_in_match": 766472,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                                     "victim_display_name": "VG villa#villa",
@@ -180706,7 +180706,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5603,
@@ -180826,7 +180826,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9286,
@@ -180968,7 +180968,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -180988,7 +180988,7 @@
                                     "killer_display_name": "Kire#15123",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7538,
@@ -181208,7 +181208,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9204,
@@ -181312,7 +181312,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8558,
@@ -181376,7 +181376,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7063,
@@ -181633,7 +181633,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10725,
@@ -181717,7 +181717,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9319,
@@ -181791,7 +181791,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8345,
@@ -181963,7 +181963,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -181985,7 +181985,7 @@
                                     "kill_time_in_round": 59831,
                                     "kill_time_in_match": 875619,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -182024,7 +182024,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5147,
@@ -182154,7 +182154,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8289,
@@ -182342,7 +182342,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8289,
@@ -182521,7 +182521,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8289,
@@ -182710,7 +182710,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8289,
@@ -182770,7 +182770,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -182846,7 +182846,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8289,
@@ -182864,7 +182864,7 @@
                                     "killer_display_name": "VG villa#villa",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8289,
@@ -183077,7 +183077,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8289,
@@ -183165,7 +183165,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -183301,7 +183301,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9206,
@@ -183331,7 +183331,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -183824,7 +183824,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -183853,7 +183853,7 @@
                                     "killer_display_name": "VG villa#villa",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5146,
@@ -184084,7 +184084,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7239,
@@ -184278,7 +184278,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9375,
@@ -184382,7 +184382,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7595,
@@ -184482,7 +184482,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -184656,7 +184656,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10367,
@@ -184844,7 +184844,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10636,
@@ -184918,7 +184918,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9822,
@@ -185125,7 +185125,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10367,
@@ -185218,7 +185218,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -185359,7 +185359,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -185399,7 +185399,7 @@
                                     "kill_time_in_round": 13344,
                                     "kill_time_in_match": 1182842,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -185498,7 +185498,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9013,
@@ -185513,7 +185513,7 @@
                                     "kill_time_in_round": 81506,
                                     "kill_time_in_match": 1251004,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                                     "victim_display_name": "VG villa#villa",
@@ -185562,7 +185562,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10118,
@@ -185577,7 +185577,7 @@
                                     "kill_time_in_round": 95087,
                                     "kill_time_in_match": 1264585,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -185616,7 +185616,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8940,
@@ -185758,7 +185758,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -185787,7 +185787,7 @@
                                     "killer_display_name": "MeFumoUnPoro#FOCA",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8693,
@@ -186229,7 +186229,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "assistant_display_name": "Audi RS6#V8TFS",
+                                            "assistant_display_name": "vanta#kay",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -186269,7 +186269,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "assistant_display_name": "Audi RS6#V8TFS",
+                                            "assistant_display_name": "vanta#kay",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -186691,7 +186691,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10076,
@@ -186779,7 +186779,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -186819,7 +186819,7 @@
                                     "kill_time_in_round": 4738,
                                     "kill_time_in_match": 1321335,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -186918,7 +186918,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11654,
@@ -187038,7 +187038,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8499,
@@ -187193,7 +187193,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3449,
@@ -187244,7 +187244,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -187372,7 +187372,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8955,
@@ -187589,7 +187589,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7606,
@@ -187653,7 +187653,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8453,
@@ -187707,7 +187707,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8690,
@@ -187864,7 +187864,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7734,
@@ -188052,7 +188052,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -188074,7 +188074,7 @@
                                     "kill_time_in_round": 64721,
                                     "kill_time_in_match": 1495639,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -188143,7 +188143,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8497,
@@ -188233,7 +188233,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9584,
@@ -188452,7 +188452,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8338,
@@ -188526,7 +188526,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9460,
@@ -188643,7 +188643,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9587,
@@ -188915,7 +188915,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -188955,7 +188955,7 @@
                                     "kill_time_in_round": 11916,
                                     "kill_time_in_match": 1573682,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -189044,7 +189044,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10875,
@@ -189059,7 +189059,7 @@
                                     "kill_time_in_round": 27372,
                                     "kill_time_in_match": 1589138,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -189138,7 +189138,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8338,
@@ -189153,7 +189153,7 @@
                                     "kill_time_in_round": 34464,
                                     "kill_time_in_match": 1596230,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -189192,7 +189192,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9454,
@@ -189308,7 +189308,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 10472,
@@ -189424,7 +189424,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8362,
@@ -189694,7 +189694,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4738,
@@ -189768,7 +189768,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9235,
@@ -190044,7 +190044,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -190075,7 +190075,7 @@
                                     "kill_time_in_round": 21353,
                                     "kill_time_in_match": 1654586,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -190164,7 +190164,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6364,
@@ -190179,7 +190179,7 @@
                                     "kill_time_in_round": 25819,
                                     "kill_time_in_match": 1659052,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -190258,7 +190258,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7417,
@@ -191032,7 +191032,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -191157,7 +191157,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 12094,
@@ -191261,7 +191261,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 11937,
@@ -191279,7 +191279,7 @@
                                     "killer_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5034,
@@ -191443,7 +191443,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -191559,7 +191559,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8472,
@@ -191868,7 +191868,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7585,
@@ -191958,7 +191958,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7924,
@@ -192114,7 +192114,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9062,
@@ -192188,7 +192188,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8909,
@@ -192437,7 +192437,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -192459,7 +192459,7 @@
                                     "kill_time_in_round": 38516,
                                     "kill_time_in_match": 1878290,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                                     "victim_display_name": "iwnl#2005",
@@ -192548,7 +192548,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8963,
@@ -192658,7 +192658,7 @@
                             },
                             {
                                 "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                "player_display_name": "Audi RS6#V8TFS",
+                                "player_display_name": "vanta#kay",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7860,
@@ -193026,7 +193026,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7195,
@@ -193127,7 +193127,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -193147,7 +193147,7 @@
                                     "killer_display_name": "iwnl#2005",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6017,
@@ -193366,7 +193366,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7740,
@@ -193589,7 +193589,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -193620,7 +193620,7 @@
                                     "kill_time_in_round": 41769,
                                     "kill_time_in_match": 1983064,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -193719,7 +193719,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8596,
@@ -193734,7 +193734,7 @@
                                     "kill_time_in_round": 46159,
                                     "kill_time_in_match": 1987454,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                                     "victim_display_name": "VG villa#villa",
@@ -193813,7 +193813,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7488,
@@ -193985,7 +193985,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5606,
@@ -194037,7 +194037,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "assistant_display_name": "Audi RS6#V8TFS",
+                                            "assistant_display_name": "vanta#kay",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -194091,7 +194091,7 @@
                                 },
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -194147,7 +194147,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7876,
@@ -194171,7 +194171,7 @@
                                     "killer_display_name": "MeFumoUnPoro#FOCA",
                                     "killer_team": "Red",
                                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "victim_display_name": "Audi RS6#V8TFS",
+                                    "victim_display_name": "vanta#kay",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8386,
@@ -194360,7 +194360,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7165,
@@ -194600,7 +194600,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6574,
@@ -194651,7 +194651,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "receiver_display_name": "Audi RS6#V8TFS",
+                                    "receiver_display_name": "vanta#kay",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -194801,7 +194801,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -194850,7 +194850,7 @@
                                     "kill_time_in_round": 4087,
                                     "kill_time_in_match": 2053608,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -194949,7 +194949,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4592,
@@ -194964,7 +194964,7 @@
                                     "kill_time_in_round": 31692,
                                     "kill_time_in_match": 2081213,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                                     "victim_display_name": "Kire#15123",
@@ -195043,7 +195043,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7096,
@@ -195064,7 +195064,7 @@
                                     "kill_time_in_round": 42048,
                                     "kill_time_in_match": 2091569,
                                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                    "killer_display_name": "Audi RS6#V8TFS",
+                                    "killer_display_name": "vanta#kay",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                                     "victim_display_name": "VG villa#villa",
@@ -195113,7 +195113,7 @@
                                         },
                                         {
                                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                                            "player_display_name": "Audi RS6#V8TFS",
+                                            "player_display_name": "vanta#kay",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5865,
@@ -195265,7 +195265,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7265,
@@ -195281,7 +195281,7 @@
                     "kill_time_in_match": 66786,
                     "round": 0,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -195370,7 +195370,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8040,
@@ -195386,7 +195386,7 @@
                     "kill_time_in_match": 86681,
                     "round": 0,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -195465,7 +195465,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8603,
@@ -195556,7 +195556,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8261,
@@ -195581,7 +195581,7 @@
                     "killer_display_name": "VG villa#villa",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8009,
@@ -195884,7 +195884,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8217,
@@ -195900,7 +195900,7 @@
                     "kill_time_in_match": 181971,
                     "round": 1,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -195989,7 +195989,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6914,
@@ -196090,7 +196090,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6935,
@@ -196106,7 +196106,7 @@
                     "kill_time_in_match": 187197,
                     "round": 1,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -196175,7 +196175,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6468,
@@ -196250,7 +196250,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8553,
@@ -196280,7 +196280,7 @@
                     "killer_display_name": "Kire#15123",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8621,
@@ -196528,7 +196528,7 @@
                     "killer_display_name": "iwnl#2005",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 11093,
@@ -197219,7 +197219,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8437,
@@ -197324,7 +197324,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6573,
@@ -197419,7 +197419,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9049,
@@ -197504,7 +197504,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9501,
@@ -197585,7 +197585,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9701,
@@ -197604,7 +197604,7 @@
                     "killer_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9235,
@@ -197820,7 +197820,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7400,
@@ -197836,7 +197836,7 @@
                     "kill_time_in_match": 446127,
                     "round": 4,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -197925,7 +197925,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7711,
@@ -197941,7 +197941,7 @@
                     "kill_time_in_match": 466322,
                     "round": 4,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -198020,7 +198020,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8641,
@@ -198111,7 +198111,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9053,
@@ -198186,7 +198186,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8316,
@@ -198257,7 +198257,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6866,
@@ -198269,7 +198269,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "assistant_display_name": "Audi RS6#V8TFS",
+                            "assistant_display_name": "vanta#kay",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -198279,7 +198279,7 @@
                     "kill_time_in_match": 557208,
                     "round": 5,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -198378,7 +198378,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7948,
@@ -198483,7 +198483,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7971,
@@ -198578,7 +198578,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8605,
@@ -198669,7 +198669,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8795,
@@ -198744,7 +198744,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7853,
@@ -198760,7 +198760,7 @@
                     "kill_time_in_match": 578832,
                     "round": 5,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -198809,7 +198809,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8850,
@@ -198825,7 +198825,7 @@
                     "kill_time_in_match": 580002,
                     "round": 5,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -198864,7 +198864,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8948,
@@ -198915,7 +198915,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7311,
@@ -198934,7 +198934,7 @@
                     "killer_display_name": "VG villa#villa",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7821,
@@ -198966,7 +198966,7 @@
                     "kill_time_in_match": 638648,
                     "round": 6,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                     "victim_display_name": "VG villa#villa",
@@ -199065,7 +199065,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7227,
@@ -199170,7 +199170,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8461,
@@ -199186,7 +199186,7 @@
                     "kill_time_in_match": 675347,
                     "round": 6,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -199265,7 +199265,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8745,
@@ -199287,7 +199287,7 @@
                     "kill_time_in_match": 682030,
                     "round": 6,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -199356,7 +199356,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9175,
@@ -199431,7 +199431,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10075,
@@ -199496,7 +199496,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9054,
@@ -199611,7 +199611,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8673,
@@ -199722,7 +199722,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7594,
@@ -199817,7 +199817,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6494,
@@ -199829,7 +199829,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "assistant_display_name": "Audi RS6#V8TFS",
+                            "assistant_display_name": "vanta#kay",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -199908,7 +199908,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6558,
@@ -199924,7 +199924,7 @@
                     "kill_time_in_match": 766472,
                     "round": 7,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                     "victim_display_name": "VG villa#villa",
@@ -199983,7 +199983,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5603,
@@ -200048,7 +200048,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5487,
@@ -200163,7 +200163,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9204,
@@ -200268,7 +200268,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8558,
@@ -200363,7 +200363,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10725,
@@ -200448,7 +200448,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9319,
@@ -200523,7 +200523,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8345,
@@ -200588,7 +200588,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7063,
@@ -200610,7 +200610,7 @@
                     "kill_time_in_match": 875619,
                     "round": 8,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -200649,7 +200649,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5147,
@@ -200668,7 +200668,7 @@
                     "killer_display_name": "Kire#15123",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7538,
@@ -200844,7 +200844,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8289,
@@ -200949,7 +200949,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8289,
@@ -201044,7 +201044,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8289,
@@ -201129,7 +201129,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8289,
@@ -201204,7 +201204,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8289,
@@ -201223,7 +201223,7 @@
                     "killer_display_name": "VG villa#villa",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8289,
@@ -201384,7 +201384,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9375,
@@ -201489,7 +201489,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7595,
@@ -201584,7 +201584,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7239,
@@ -201603,7 +201603,7 @@
                     "killer_display_name": "VG villa#villa",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5146,
@@ -201925,7 +201925,7 @@
                     "kill_time_in_match": 1182842,
                     "round": 11,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -202024,7 +202024,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9013,
@@ -202129,7 +202129,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10367,
@@ -202224,7 +202224,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10367,
@@ -202309,7 +202309,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10636,
@@ -202384,7 +202384,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9822,
@@ -202400,7 +202400,7 @@
                     "kill_time_in_match": 1251004,
                     "round": 11,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                     "victim_display_name": "VG villa#villa",
@@ -202449,7 +202449,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10118,
@@ -202465,7 +202465,7 @@
                     "kill_time_in_match": 1264585,
                     "round": 11,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -202504,7 +202504,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8940,
@@ -202520,7 +202520,7 @@
                     "kill_time_in_match": 1321335,
                     "round": 12,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -202619,7 +202619,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11654,
@@ -202724,7 +202724,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10076,
@@ -202743,7 +202743,7 @@
                     "killer_display_name": "MeFumoUnPoro#FOCA",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8693,
@@ -203156,7 +203156,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "assistant_display_name": "Audi RS6#V8TFS",
+                            "assistant_display_name": "vanta#kay",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -203197,7 +203197,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "assistant_display_name": "Audi RS6#V8TFS",
+                            "assistant_display_name": "vanta#kay",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -203306,7 +203306,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3449,
@@ -203411,7 +203411,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7734,
@@ -203512,7 +203512,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7606,
@@ -203528,7 +203528,7 @@
                     "kill_time_in_match": 1495639,
                     "round": 13,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -203597,7 +203597,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8497,
@@ -203672,7 +203672,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8955,
@@ -203737,7 +203737,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8453,
@@ -203792,7 +203792,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8690,
@@ -203808,7 +203808,7 @@
                     "kill_time_in_match": 1573682,
                     "round": 14,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -203897,7 +203897,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10875,
@@ -203913,7 +203913,7 @@
                     "kill_time_in_match": 1589138,
                     "round": 14,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -203992,7 +203992,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8338,
@@ -204077,7 +204077,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8338,
@@ -204152,7 +204152,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9460,
@@ -204217,7 +204217,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9587,
@@ -204239,7 +204239,7 @@
                     "kill_time_in_match": 1596230,
                     "round": 14,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -204278,7 +204278,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9454,
@@ -204399,7 +204399,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4738,
@@ -204415,7 +204415,7 @@
                     "kill_time_in_match": 1654586,
                     "round": 15,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "d7724201-217a-561a-860e-733b6046765c",
                     "victim_display_name": "MeFumoUnPoro#FOCA",
@@ -204504,7 +204504,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6364,
@@ -204520,7 +204520,7 @@
                     "kill_time_in_match": 1659052,
                     "round": 15,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -204599,7 +204599,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7417,
@@ -204684,7 +204684,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8362,
@@ -204759,7 +204759,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9235,
@@ -204874,7 +204874,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 12094,
@@ -204979,7 +204979,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 11937,
@@ -204998,7 +204998,7 @@
                     "killer_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5034,
@@ -205514,7 +205514,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7585,
@@ -205536,7 +205536,7 @@
                     "kill_time_in_match": 1878290,
                     "round": 17,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "5f1bc186-7132-5ebd-8633-c75dcf2207bb",
                     "victim_display_name": "iwnl#2005",
@@ -205625,7 +205625,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8963,
@@ -205720,7 +205720,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9062,
@@ -205805,7 +205805,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7924,
@@ -205880,7 +205880,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8909,
@@ -205902,7 +205902,7 @@
                     "kill_time_in_match": 1983064,
                     "round": 18,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -206001,7 +206001,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8596,
@@ -206106,7 +206106,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7740,
@@ -206122,7 +206122,7 @@
                     "kill_time_in_match": 1987454,
                     "round": 18,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                     "victim_display_name": "VG villa#villa",
@@ -206201,7 +206201,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7488,
@@ -206292,7 +206292,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7195,
@@ -206317,7 +206317,7 @@
                     "killer_display_name": "iwnl#2005",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6017,
@@ -206560,7 +206560,7 @@
                     "kill_time_in_match": 2053608,
                     "round": 19,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "85900543-e037-516a-8a97-847202ce4e43",
                     "victim_display_name": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088#MYSQL",
@@ -206659,7 +206659,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4592,
@@ -206764,7 +206764,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7165,
@@ -206780,7 +206780,7 @@
                     "kill_time_in_match": 2081213,
                     "round": 19,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "e68e0c2f-fb13-5249-b5d8-3983d520501c",
                     "victim_display_name": "Kire#15123",
@@ -206859,7 +206859,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7096,
@@ -206950,7 +206950,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6574,
@@ -207025,7 +207025,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5606,
@@ -207047,7 +207047,7 @@
                     "kill_time_in_match": 2091569,
                     "round": 19,
                     "killer_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "killer_display_name": "Audi RS6#V8TFS",
+                    "killer_display_name": "vanta#kay",
                     "killer_team": "Blue",
                     "victim_puuid": "1657e1e6-7268-5553-96e3-aba67e81a29a",
                     "victim_display_name": "VG villa#villa",
@@ -207096,7 +207096,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5865,
@@ -207157,7 +207157,7 @@
                         },
                         {
                             "player_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "player_display_name": "Audi RS6#V8TFS",
+                            "player_display_name": "vanta#kay",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7876,
@@ -207182,7 +207182,7 @@
                     "killer_display_name": "MeFumoUnPoro#FOCA",
                     "killer_team": "Red",
                     "victim_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                    "victim_display_name": "Audi RS6#V8TFS",
+                    "victim_display_name": "vanta#kay",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8386,
@@ -207261,7 +207261,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "addea4dd-5fb9-5464-87c8-111004d66e7a",
-                            "assistant_display_name": "Audi RS6#V8TFS",
+                            "assistant_display_name": "vanta#kay",
                             "assistant_team": "Blue"
                         }
                     ]
