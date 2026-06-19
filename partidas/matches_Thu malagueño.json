@@ -684,8 +684,8 @@
                     },
                     {
                         "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                        "name": "partynexxxxtdoor",
-                        "tag": "PND",
+                        "name": "ken",
+                        "tag": "snake",
                         "team": "Red",
                         "level": 219,
                         "character": "Clove",
@@ -1051,8 +1051,8 @@
                     },
                     {
                         "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                        "name": "partynexxxxtdoor",
-                        "tag": "PND",
+                        "name": "ken",
+                        "tag": "snake",
                         "team": "Red",
                         "level": 219,
                         "character": "Clove",
@@ -1593,7 +1593,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -2500,7 +2500,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -2520,7 +2520,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4772,
@@ -2795,7 +2795,7 @@
                         },
                         "planted_by": {
                             "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "display_name": "partynexxxxtdoor#PND",
+                            "display_name": "ken#snake",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -2803,7 +2803,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8171,
@@ -2888,7 +2888,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3084,7 +3084,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9151,
@@ -3290,7 +3290,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6525,
@@ -3387,7 +3387,7 @@
                                         },
                                         {
                                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "assistant_display_name": "partynexxxxtdoor#PND",
+                                            "assistant_display_name": "ken#snake",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -3486,7 +3486,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8436,
@@ -3712,7 +3712,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8125,
@@ -3833,7 +3833,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -3862,7 +3862,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8985,
@@ -4046,7 +4046,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "assistant_display_name": "partynexxxxtdoor#PND",
+                                            "assistant_display_name": "ken#snake",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -4101,7 +4101,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "assistant_display_name": "partynexxxxtdoor#PND",
+                                            "assistant_display_name": "ken#snake",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -4162,7 +4162,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -4702,7 +4702,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4747,7 +4747,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4917,
@@ -4845,7 +4845,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5098,
@@ -5129,7 +5129,7 @@
                         },
                         "planted_by": {
                             "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "display_name": "partynexxxxtdoor#PND",
+                            "display_name": "ken#snake",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -5137,7 +5137,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7503,
@@ -5230,7 +5230,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -5261,7 +5261,7 @@
                                     "kill_time_in_round": 39913,
                                     "kill_time_in_match": 299736,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -5280,7 +5280,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5407,
@@ -5335,7 +5335,7 @@
                                     "kill_time_in_round": 90914,
                                     "kill_time_in_match": 350737,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -5354,7 +5354,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7181,
@@ -5528,7 +5528,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -5548,7 +5548,7 @@
                                     "killer_display_name": "adri mileurista#8282",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7180,
@@ -5641,7 +5641,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -5695,7 +5695,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6521,
@@ -5799,7 +5799,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5626,
@@ -6018,7 +6018,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6054,7 +6054,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4456,
@@ -6168,7 +6168,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6905,
@@ -6206,7 +6206,7 @@
                                     "killer_display_name": "Surya#6882",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7260,
@@ -6386,7 +6386,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5614,
@@ -6513,7 +6513,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6535,7 +6535,7 @@
                                     "kill_time_in_round": 41783,
                                     "kill_time_in_match": 446406,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -6554,7 +6554,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10626,
@@ -6690,7 +6690,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8171,
@@ -6794,7 +6794,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10609,
@@ -7072,7 +7072,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -7108,7 +7108,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5949,
@@ -7212,7 +7212,7 @@
                                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9980,
@@ -7513,7 +7513,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9786,
@@ -7698,7 +7698,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -8030,7 +8030,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5719,
@@ -8330,7 +8330,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -8375,7 +8375,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5217,
@@ -8473,7 +8473,7 @@
                                     "killer_display_name": "Surya#6882",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5520,
@@ -8905,7 +8905,7 @@
                         },
                         "planted_by": {
                             "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "display_name": "partynexxxxtdoor#PND",
+                            "display_name": "ken#snake",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -8913,7 +8913,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8123,
@@ -9036,7 +9036,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9232,7 +9232,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6389,
@@ -9417,7 +9417,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -9453,7 +9453,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7666,
@@ -9521,7 +9521,7 @@
                                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7419,
@@ -9654,7 +9654,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4790,
@@ -9885,7 +9885,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4609,
@@ -10051,7 +10051,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3592,
@@ -10165,7 +10165,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7419,
@@ -10272,7 +10272,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11008,7 +11008,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -11053,7 +11053,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4949,
@@ -11151,7 +11151,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4958,
@@ -11401,7 +11401,7 @@
                         },
                         "planted_by": {
                             "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "display_name": "partynexxxxtdoor#PND",
+                            "display_name": "ken#snake",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -11409,7 +11409,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8231,
@@ -11502,7 +11502,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11533,7 +11533,7 @@
                                     "kill_time_in_round": 17008,
                                     "kill_time_in_match": 865126,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                                     "victim_display_name": "adri mileurista#8282",
@@ -11552,7 +11552,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4840,
@@ -11637,7 +11637,7 @@
                                     "kill_time_in_round": 41981,
                                     "kill_time_in_match": 890099,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -11656,7 +11656,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7305,
@@ -11757,7 +11757,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11860,7 +11860,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11896,7 +11896,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5017,
@@ -12081,7 +12081,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7298,
@@ -12175,7 +12175,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7737,
@@ -12249,7 +12249,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8231,
@@ -12424,7 +12424,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -12453,7 +12453,7 @@
                                     "killer_display_name": "Surya#6882",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8234,
@@ -12688,7 +12688,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12719,7 +12719,7 @@
                                     "kill_time_in_round": 48450,
                                     "kill_time_in_match": 996504,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -12738,7 +12738,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7677,
@@ -13149,7 +13149,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3904,
@@ -13269,7 +13269,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13323,7 +13323,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5610,
@@ -13391,7 +13391,7 @@
                                     "killer_display_name": "Surya#6882",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8385,
@@ -13524,7 +13524,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4128,
@@ -13690,7 +13690,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3975,
@@ -13876,7 +13876,7 @@
                         },
                         "planted_by": {
                             "puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "display_name": "partynexxxxtdoor#PND",
+                            "display_name": "ken#snake",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -13884,7 +13884,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9107,
@@ -13979,7 +13979,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14010,7 +14010,7 @@
                                     "kill_time_in_round": 49571,
                                     "kill_time_in_match": 1119381,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -14029,7 +14029,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8587,
@@ -14070,7 +14070,7 @@
                                     "kill_time_in_round": 51917,
                                     "kill_time_in_match": 1121727,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "74e11560-1e30-50f9-8859-7fb37e53b8fc",
                                     "victim_display_name": "Surya#6882",
@@ -14089,7 +14089,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8793,
@@ -14238,7 +14238,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4732,
@@ -14384,7 +14384,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14626,7 +14626,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9090,
@@ -14700,7 +14700,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9108,
@@ -14817,7 +14817,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9107,
@@ -14969,7 +14969,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5707,
@@ -15073,7 +15073,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9107,
@@ -15200,7 +15200,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -15411,7 +15411,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -15544,7 +15544,7 @@
                                     "killer_display_name": "adri mileurista#8282",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7505,
@@ -15759,7 +15759,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -16051,7 +16051,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16080,7 +16080,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6857,
@@ -16278,7 +16278,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7545,
@@ -16469,7 +16469,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16491,7 +16491,7 @@
                                     "kill_time_in_round": 14719,
                                     "kill_time_in_match": 1274094,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                                     "victim_display_name": "adri mileurista#8282",
@@ -16510,7 +16510,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7371,
@@ -16729,7 +16729,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7050,
@@ -16990,7 +16990,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7135,
@@ -17084,7 +17084,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8295,
@@ -17220,7 +17220,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7303,
@@ -17282,7 +17282,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "assistant_display_name": "partynexxxxtdoor#PND",
+                                            "assistant_display_name": "ken#snake",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -17469,7 +17469,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17491,7 +17491,7 @@
                                     "kill_time_in_round": 36641,
                                     "kill_time_in_match": 1356512,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -17510,7 +17510,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5550,
@@ -17697,7 +17697,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6965,
@@ -17811,7 +17811,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6634,
@@ -17958,7 +17958,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6603,
@@ -18115,7 +18115,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6573,
@@ -18252,7 +18252,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3460,
@@ -18364,7 +18364,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6494,
@@ -18500,7 +18500,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5137,
@@ -18671,7 +18671,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -18718,7 +18718,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -18738,7 +18738,7 @@
                                     "killer_display_name": "ELMATADESASTRE#EEE",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5438,
@@ -19427,7 +19427,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9224,
@@ -19603,7 +19603,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6567,
@@ -19836,7 +19836,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -19961,7 +19961,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7381,
@@ -20128,7 +20128,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8915,
@@ -20248,7 +20248,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -20284,7 +20284,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8855,
@@ -20342,7 +20342,7 @@
                                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7580,
@@ -20474,7 +20474,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9092,
@@ -20662,7 +20662,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8734,
@@ -20766,7 +20766,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8903,
@@ -20957,7 +20957,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21178,7 +21178,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -21223,7 +21223,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7995,
@@ -21321,7 +21321,7 @@
                                     "killer_display_name": "adri mileurista#8282",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7393,
@@ -21538,7 +21538,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7495,
@@ -21937,7 +21937,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7393,
@@ -22131,7 +22131,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                "player_display_name": "partynexxxxtdoor#PND",
+                                "player_display_name": "ken#snake",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7438,
@@ -22206,7 +22206,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22237,7 +22237,7 @@
                                     "kill_time_in_round": 58225,
                                     "kill_time_in_match": 1801886,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -22256,7 +22256,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6836,
@@ -22381,7 +22381,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6955,
@@ -22518,7 +22518,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9106,
@@ -22811,7 +22811,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8025,
@@ -22921,7 +22921,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -22957,7 +22957,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7278,
@@ -22991,7 +22991,7 @@
                                     "killer_display_name": "Surya#6882",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8100,
@@ -23103,7 +23103,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9071,
@@ -23197,7 +23197,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7481,
@@ -23339,7 +23339,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8914,
@@ -23453,7 +23453,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7755,
@@ -23550,7 +23550,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23806,7 +23806,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -23842,7 +23842,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7631,
@@ -23926,7 +23926,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7707,
@@ -23984,7 +23984,7 @@
                                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5793,
@@ -24107,7 +24107,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6541,
@@ -24275,7 +24275,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7424,
@@ -24483,7 +24483,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8035,
@@ -24597,7 +24597,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7070,
@@ -24734,7 +24734,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24756,7 +24756,7 @@
                                     "kill_time_in_round": 33801,
                                     "kill_time_in_match": 1952266,
                                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "killer_display_name": "partynexxxxtdoor#PND",
+                                    "killer_display_name": "ken#snake",
                                     "killer_team": "Red",
                                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                                     "victim_display_name": "adri mileurista#8282",
@@ -24775,7 +24775,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6990,
@@ -24959,7 +24959,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -24995,7 +24995,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8584,
@@ -25144,7 +25144,7 @@
                                 },
                                 {
                                     "receiver_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "receiver_display_name": "partynexxxxtdoor#PND",
+                                    "receiver_display_name": "ken#snake",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -25180,7 +25180,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7025,
@@ -25260,7 +25260,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7000,
@@ -25298,7 +25298,7 @@
                                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                                     "killer_team": "Blue",
                                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                    "victim_display_name": "partynexxxxtdoor#PND",
+                                    "victim_display_name": "ken#snake",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8166,
@@ -25566,7 +25566,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6978,
@@ -25732,7 +25732,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8557,
@@ -25832,7 +25832,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                                            "player_display_name": "partynexxxxtdoor#PND",
+                                            "player_display_name": "ken#snake",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7815,
@@ -25932,7 +25932,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4772,
@@ -26629,7 +26629,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6525,
@@ -26726,7 +26726,7 @@
                         },
                         {
                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "assistant_display_name": "partynexxxxtdoor#PND",
+                            "assistant_display_name": "ken#snake",
                             "assistant_team": "Red"
                         }
                     ]
@@ -26755,7 +26755,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8125,
@@ -26860,7 +26860,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8436,
@@ -26961,7 +26961,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9151,
@@ -27030,7 +27030,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8985,
@@ -27218,7 +27218,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "assistant_display_name": "partynexxxxtdoor#PND",
+                            "assistant_display_name": "ken#snake",
                             "assistant_team": "Red"
                         },
                         {
@@ -27274,7 +27274,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "assistant_display_name": "partynexxxxtdoor#PND",
+                            "assistant_display_name": "ken#snake",
                             "assistant_team": "Red"
                         }
                     ]
@@ -27303,7 +27303,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4917,
@@ -27402,7 +27402,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5098,
@@ -27778,7 +27778,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4456,
@@ -27893,7 +27893,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6521,
@@ -27998,7 +27998,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5614,
@@ -28093,7 +28093,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5626,
@@ -28165,7 +28165,7 @@
                     "kill_time_in_match": 299736,
                     "round": 3,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -28184,7 +28184,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5407,
@@ -28240,7 +28240,7 @@
                     "kill_time_in_match": 350737,
                     "round": 3,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -28259,7 +28259,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7181,
@@ -28308,7 +28308,7 @@
                     "killer_display_name": "adri mileurista#8282",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7180,
@@ -28385,7 +28385,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6905,
@@ -28424,7 +28424,7 @@
                     "killer_display_name": "Surya#6882",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7260,
@@ -28491,7 +28491,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5949,
@@ -28612,7 +28612,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8171,
@@ -28717,7 +28717,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9786,
@@ -28812,7 +28812,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 10609,
@@ -28878,7 +28878,7 @@
                     "kill_time_in_match": 446406,
                     "round": 4,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -28897,7 +28897,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 10626,
@@ -28956,7 +28956,7 @@
                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9980,
@@ -29092,7 +29092,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5217,
@@ -29207,7 +29207,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5719,
@@ -29296,7 +29296,7 @@
                     "killer_display_name": "Surya#6882",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5520,
@@ -29779,7 +29779,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 3592,
@@ -29894,7 +29894,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4609,
@@ -29999,7 +29999,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4790,
@@ -30094,7 +30094,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6389,
@@ -30185,7 +30185,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7666,
@@ -30270,7 +30270,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7419,
@@ -30329,7 +30329,7 @@
                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7419,
@@ -30471,7 +30471,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4949,
@@ -30570,7 +30570,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4958,
@@ -31072,7 +31072,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5017,
@@ -31168,7 +31168,7 @@
                     "kill_time_in_match": 865126,
                     "round": 8,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                     "victim_display_name": "adri mileurista#8282",
@@ -31187,7 +31187,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4840,
@@ -31292,7 +31292,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7298,
@@ -31368,7 +31368,7 @@
                     "kill_time_in_match": 890099,
                     "round": 8,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "532e2005-946f-5e01-a3a1-01e7242cd774",
                     "victim_display_name": "ELMATADESASTRE#EEE",
@@ -31387,7 +31387,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7305,
@@ -31472,7 +31472,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7737,
@@ -31547,7 +31547,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8231,
@@ -31596,7 +31596,7 @@
                     "killer_display_name": "Surya#6882",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8234,
@@ -31667,7 +31667,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 3975,
@@ -31782,7 +31782,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4128,
@@ -31887,7 +31887,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 3904,
@@ -31982,7 +31982,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5610,
@@ -32048,7 +32048,7 @@
                     "kill_time_in_match": 996504,
                     "round": 9,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -32067,7 +32067,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7677,
@@ -32126,7 +32126,7 @@
                     "killer_display_name": "Surya#6882",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8385,
@@ -32307,7 +32307,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 4732,
@@ -32428,7 +32428,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5707,
@@ -32533,7 +32533,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9107,
@@ -32628,7 +32628,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9107,
@@ -32719,7 +32719,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9090,
@@ -32794,7 +32794,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9108,
@@ -32840,7 +32840,7 @@
                     "kill_time_in_match": 1119381,
                     "round": 10,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -32859,7 +32859,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8587,
@@ -32901,7 +32901,7 @@
                     "kill_time_in_match": 1121727,
                     "round": 10,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "74e11560-1e30-50f9-8859-7fb37e53b8fc",
                     "victim_display_name": "Surya#6882",
@@ -32920,7 +32920,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8793,
@@ -32949,7 +32949,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6857,
@@ -33286,7 +33286,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7545,
@@ -33365,7 +33365,7 @@
                     "killer_display_name": "adri mileurista#8282",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7505,
@@ -33654,7 +33654,7 @@
                     "kill_time_in_match": 1274094,
                     "round": 12,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                     "victim_display_name": "adri mileurista#8282",
@@ -33673,7 +33673,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7371,
@@ -33788,7 +33788,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7050,
@@ -33904,7 +33904,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7135,
@@ -33999,7 +33999,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7303,
@@ -34061,7 +34061,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "assistant_display_name": "partynexxxxtdoor#PND",
+                            "assistant_display_name": "ken#snake",
                             "assistant_team": "Red"
                         }
                     ]
@@ -34090,7 +34090,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8295,
@@ -34165,7 +34165,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6965,
@@ -34280,7 +34280,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6603,
@@ -34385,7 +34385,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6634,
@@ -34480,7 +34480,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6573,
@@ -34565,7 +34565,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6494,
@@ -34621,7 +34621,7 @@
                     "kill_time_in_match": 1356512,
                     "round": 13,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "bd087420-b8f2-5bc3-a0ea-6352d4582b95",
                     "victim_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
@@ -34640,7 +34640,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5550,
@@ -34705,7 +34705,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 5137,
@@ -34760,7 +34760,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 3460,
@@ -34811,7 +34811,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9224,
@@ -34926,7 +34926,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6567,
@@ -35021,7 +35021,7 @@
                     "killer_display_name": "ELMATADESASTRE#EEE",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5438,
@@ -35363,7 +35363,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7381,
@@ -35478,7 +35478,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8734,
@@ -35583,7 +35583,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8915,
@@ -35678,7 +35678,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9092,
@@ -35763,7 +35763,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8855,
@@ -35838,7 +35838,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8903,
@@ -35887,7 +35887,7 @@
                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7580,
@@ -35958,7 +35958,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7995,
@@ -36073,7 +36073,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7495,
@@ -36178,7 +36178,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7393,
@@ -36257,7 +36257,7 @@
                     "killer_display_name": "adri mileurista#8282",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7393,
@@ -36604,7 +36604,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8914,
@@ -36719,7 +36719,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9106,
@@ -36824,7 +36824,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 9071,
@@ -36919,7 +36919,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6955,
@@ -37004,7 +37004,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8025,
@@ -37089,7 +37089,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7481,
@@ -37170,7 +37170,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7755,
@@ -37216,7 +37216,7 @@
                     "kill_time_in_match": 1801886,
                     "round": 17,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -37235,7 +37235,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6836,
@@ -37290,7 +37290,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7278,
@@ -37325,7 +37325,7 @@
                     "killer_display_name": "Surya#6882",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8100,
@@ -37376,7 +37376,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8035,
@@ -37491,7 +37491,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7070,
@@ -37596,7 +37596,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7424,
@@ -37691,7 +37691,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7631,
@@ -37776,7 +37776,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7707,
@@ -37851,7 +37851,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6541,
@@ -37900,7 +37900,7 @@
                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5793,
@@ -38016,7 +38016,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8584,
@@ -38131,7 +38131,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6978,
@@ -38236,7 +38236,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 8557,
@@ -38337,7 +38337,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7815,
@@ -38422,7 +38422,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7025,
@@ -38484,7 +38484,7 @@
                     "kill_time_in_match": 1952266,
                     "round": 19,
                     "killer_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "killer_display_name": "partynexxxxtdoor#PND",
+                    "killer_display_name": "ken#snake",
                     "killer_team": "Red",
                     "victim_puuid": "e25c807f-d942-5bd9-bb17-cc14f55a7a8a",
                     "victim_display_name": "adri mileurista#8282",
@@ -38503,7 +38503,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 6990,
@@ -38568,7 +38568,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                            "player_display_name": "partynexxxxtdoor#PND",
+                            "player_display_name": "ken#snake",
                             "player_team": "Red",
                             "location": {
                                 "x": 7000,
@@ -38607,7 +38607,7 @@
                     "killer_display_name": "TT M\u00ceK\u03a3\u0141\u1eaa\u03a0G\u03a3\u0141O#TARO",
                     "killer_team": "Blue",
                     "victim_puuid": "17f9a80b-fac5-5e48-a180-269b24a705f2",
-                    "victim_display_name": "partynexxxxtdoor#PND",
+                    "victim_display_name": "ken#snake",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8166,
