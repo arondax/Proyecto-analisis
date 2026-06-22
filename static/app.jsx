@@ -1,7 +1,7 @@
 import { useState } from "react";
 import { createRoot } from "react-dom/client"; // 👈 1. IMPORTANTE: Añadido para poder renderizar
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://valorantpredicter.onrender.com";
 
 const MAPAS = [
   "Abyss", "Ascent", "Bind", "Breeze", "Corrode",
