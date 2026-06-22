@@ -200,7 +200,7 @@ def predecir(request: PrediccionRequest):
     import prediccion as pred_module
     resultado = pred_module.predecir_jugador(
     modelo, df, request.mapa,
-    request.es_main, request.num_amigos,
+    float(request.es_main), request.num_amigos,
     desconocidos, request.nombre
     )
 
