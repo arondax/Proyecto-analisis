@@ -13,6 +13,9 @@ import pandas as pd
 import joblib
 import os
 import entrenamiento
+import api
+import procesador
+import limpieza_datos
 # Carga las variables del archivo .env en el sistema
 load_dotenv()
 
@@ -179,33 +182,34 @@ def get_modelos():
 
 @app.post("/predecir", response_model=PrediccionResponse)
 def predecir(request: PrediccionRequest):
-    """
-    Realiza una predicción de rondas ganadas/perdidas para un jugador
-    en un mapa determinado, usando su historial de partidas.
-    """
-    try:
-        df     = cargar_df_jugador(request.nombre, request.tag, request.region)
-    except HTTPException as e:
-        raise e
-    
-    try:
-        modelo = cargar_modelo(request.modelo)
-    except HTTPException as e:
-        raise e
+    resultado_api = api.getData(request.nombre, request.tag, request.region, api_key)
+    if not resultado_api:
+        raise HTTPException(status_code=404, detail="No se encontraron datos del jugador")
 
-    X      = construir_input(df, request.mapa, request.es_main, request.num_amigos)
- 
-    pred       = modelo.predict(X)[0]
-    rondas_g   = round(float(pred[0]), 1)
-    rondas_p   = round(float(pred[1]), 1)
-    resultado  = "Victoria" if rondas_g > rondas_p else "Derrota"
- 
+    df_raw = procesador.extraccion_datos(request.nombre, request.tag)
+    if df_raw is None or df_raw.empty:
+        raise HTTPException(status_code=422, detail=f"El jugador {request.nombre} no tiene partidas válidas")
+
+    df = limpieza_datos.limpieza_jugador(request.nombre)
+    if df is None or df.empty:
+        raise HTTPException(status_code=422, detail="No hay partidas competitivas para este jugador")
+
+    modelo = cargar_modelo(request.modelo)
+    desconocidos = 5 - request.num_amigos
+
+    import prediccion as pred_module
+    resultado = pred_module.predecir_jugador(
+    modelo, df, request.mapa,
+    request.es_main, request.num_amigos,
+    desconocidos, request.nombre
+    )
+
     return PrediccionResponse(
-        nombre          = request.nombre,
-        mapa            = request.mapa,
-        rondas_ganadas  = rondas_g,
-        rondas_perdidas = rondas_p,
-        resultado       = resultado,
+        nombre=request.nombre,
+        mapa=request.mapa,
+        rondas_ganadas=resultado["rondas_ganadas"],
+        rondas_perdidas=resultado["rondas_perdidas"],
+        resultado=resultado["resultado"],
     )
 
 
