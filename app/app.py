@@ -139,6 +139,18 @@ def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) 
 
 #Endpoints
 
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+
+DIST_DIR = os.path.join(ROOT_DIR, "dist")
+
+if os.path.exists(DIST_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
+
+@app.get("/app")
+def frontend():
+    return FileResponse(os.path.join(DIST_DIR, "index.html"))
+
 @app.get("/")
 def root():
     return {"message": "Bienvenido al Valorant Predicter API. Usa el endpoint /predecir para obtener predicciones de tus partidas."}
@@ -194,3 +206,4 @@ def predecir(request: PrediccionRequest):
         rondas_perdidas = rondas_p,
         resultado       = resultado,
     )
+
