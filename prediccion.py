@@ -47,7 +47,7 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
     partida = {}
     partida["rango"] = ultima["rango"]
     partida["subrango"] = ultima["subrango"]
-    partida["racha"] = ultima["racha"]
+    #partida["racha"] = ultima["racha"]
     partida["es_main"] = es_main
     partida["num_amigos"] = num_amigos
     partida["desconocidos"] = desconocidos

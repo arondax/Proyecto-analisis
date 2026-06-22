@@ -114,7 +114,7 @@ def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) 
     partida = {}
     partida["rango"]        = ultima["rango"]
     partida["subrango"]     = ultima["subrango"]
-    partida["racha"]        = ultima["racha"]
+    #partida["racha"]        = ultima["racha"]
     partida["es_main"]      = es_main
     partida["num_amigos"]   = float(num_amigos)
     partida["desconocidos"] = float(4 - num_amigos)
