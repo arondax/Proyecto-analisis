@@ -153,7 +153,8 @@ def frontend():
 
 @app.get("/")
 def root():
-    return {"message": "Bienvenido al Valorant Predicter API. Usa el endpoint /predecir para obtener predicciones de tus partidas."}
+    from fastapi.responses import RedirectResponse
+    return RedirectResponse(url="/app")
 
 @app.get("/jugadores")
 def get_jugadores():
@@ -206,4 +207,5 @@ def predecir(request: PrediccionRequest):
         rondas_perdidas = rondas_p,
         resultado       = resultado,
     )
+
 
