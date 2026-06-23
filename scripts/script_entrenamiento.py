@@ -1,6 +1,6 @@
 
 
-import entrenamiento
+import pipeline.entrenamiento as entrenamiento
 
 
 check = entrenamiento.entrenar_modelo_regression()
