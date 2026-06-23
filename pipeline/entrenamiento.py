@@ -1,6 +1,7 @@
 #Imports
 import json
 import glob
+import config
 import os
 import time
 import pipeline.api as api
@@ -9,7 +10,6 @@ import pipeline.limpieza_datos as limpieza_datos
 import pipeline.modelos as modelos
 import pandas as pd
 from datetime import datetime
-##TODO arreglar tema rutas relativas, para que funcione en cualquier pc, y no solo en la mia
 
 #Clase
 def obtencion_lista():
@@ -19,8 +19,9 @@ def obtencion_lista():
         _type_: _description_ devuelve un valor booleano para indicar si la obtención de los datos se ha hecho de manera satisfactoria
     """
     #Leemos el json de con los datos de los jugadores:
-    try:                                                            
-        with open(f'./json/jugadores_entrenamiento.json','r', encoding='utf-8') as archivo:
+    try:
+        ruta_json = os.path.join(config.JSON_INFO_DIR, 'jugadores_entrenamiento.json')                                                  
+        with open(ruta_json,'r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
         print(f"No se encontró el archivo jugadores_entrenamiento.json")
@@ -51,7 +52,7 @@ def procesado_jugador(nombre, tag, region, api_key):
         print(f" ! {nombre} sin partidas válidas, saltando...")
         return False
     
-    ruta_csv = f"./datasets/dataset_{nombre}.csv"
+    ruta_csv = os.path.join(config.DATASET_DIR, f'dataset_{nombre}.csv')
     if not os.path.exists(ruta_csv):
         print(f" ! CSV de {nombre} no encontrado, saltando...")
         return False
@@ -102,7 +103,7 @@ def procesado_jugadores(datos, api_key):
             print(f"! {nombre_jugador} sin partidas válidas, saltando...")
             continue
         
-        ruta_csv = f"./datasets/dataset_{nombre_jugador}.csv"
+        ruta_csv = os.path.join(config.DATASET_DIR, f'dataset_{nombre_jugador}.csv')
         if not os.path.exists(ruta_csv):
             print(f"! CSV de {nombre_jugador} no encontrado, saltando...")
             continue
@@ -127,18 +128,18 @@ def entrenar_modelo_regression():
     dia_texto= dia.strftime('%Y%m%d')
     identificador = (f'entrenamiento_{dia_texto}')
 
-    direccion_archivo=f"dataset_entrenamiento/dataset_ingest_{identificador}.csv"
+    direccion_archivo= os.path.join(config.DATASET_ENTRENAMIENTO_DIR, f'dataset_ingest_{identificador}.csv')
     existe_archivo= os.path.exists(direccion_archivo)
     
     if not existe_archivo:
-        ruta_csv=f'./dataset_ingest/'
+        ruta_csv= config.DATASET_INGEST_DIR
         patron = os.path.join(ruta_csv, '*.csv')
         archivos_csv = glob.glob(patron)
         
         df_unido = pd.concat((pd.read_csv(f) for f in archivos_csv), ignore_index=True)
         df_unido.drop_duplicates()
      
-        df_unido.to_csv(f'dataset_entrenamiento/dataset_ingest_{identificador}.csv', index=False)
+        df_unido.to_csv(direccion_archivo, index=False)
         print("CSV general creado")
     
     
