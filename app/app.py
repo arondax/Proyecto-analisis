@@ -109,7 +109,7 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
     return pd.read_csv(ruta_jugador)
 
 def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:
-    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas"]
+    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas", "racha"]
     columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
  
     columnas_numericas = ["kills", "asistencias", "muertes", "headshots", "acs", "fb", "fd"]
