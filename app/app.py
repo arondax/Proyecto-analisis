@@ -2,6 +2,15 @@ import sys
 import os
 sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
 
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse
+
+DIST_DIR = os.path.join(ROOT_DIR, "dist")
+
+if os.path.exists(DIST_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
+
+
 import json
 
 from dotenv import load_dotenv
@@ -137,18 +146,13 @@ def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) 
             detail=f"Mapa '{mapa}' no reconocido. Disponibles: {MAPAS}"
         )
     partida[mapa_col] = 1.0
+    
+    df=pd.DataFrame([partida])[columnas_modelo]
  
-    return pd.DataFrame([partida])[columnas_modelo]
+    return df
 
 #Endpoints
 
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
-
-DIST_DIR = os.path.join(ROOT_DIR, "dist")
-
-if os.path.exists(DIST_DIR):
-    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
 
 @app.get("/app")
 def frontend():
