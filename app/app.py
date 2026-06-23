@@ -1,6 +1,6 @@
 import pandas as pd
 import joblib
-import entrenamiento
+import pipeline.entrenamiento as entrenamiento
 import pipeline.api as api
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
