@@ -11,11 +11,11 @@ from pydantic import BaseModel, Field
 from typing import Optional
 import pandas as pd
 import joblib
-import os
 import entrenamiento
-import api
-import procesador
-import limpieza_datos
+import pipeline.api as api
+import pipeline.procesador as procesador
+import pipeline.limpieza_datos as limpieza_datos
+import pipeline.predictor as pred_module
 # Carga las variables del archivo .env en el sistema
 load_dotenv()
 
@@ -197,7 +197,7 @@ def predecir(request: PrediccionRequest):
     modelo = cargar_modelo(request.modelo)
     desconocidos = 5 - request.num_amigos
 
-    import prediccion as pred_module
+ 
     resultado = pred_module.predecir_jugador(
     modelo, df, request.mapa,
     float(request.es_main), request.num_amigos,

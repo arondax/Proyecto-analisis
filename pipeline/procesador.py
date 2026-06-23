@@ -1,8 +1,10 @@
+
 from importlib.metadata import metadata
+from pipeline import api, limpieza_datos
+
 import json
 import pandas as pd
-import os
-import csv
+
 
 def extraccion_datos(nombre, tag):
     """_summary_ Función que se encarga de extraer los datos relevantes de las partidas del jugador, a partir del archivo JSON obtenido de la API, y luego guarda estos datos en un archivo CSV específico para cada jugador. La función procesa cada partida del jugador, extrae información como el agente jugado, las kills, asistencias, muertes, compañeros de equipo, rango, composición del equipo, acs, entre otros datos relevantes para el análisis y entrenamiento del modelo. Luego, organiza estos datos en un DataFrame de pandas y lo guarda en un archivo CSV dentro de la carpeta designada para datasets, utilizando el nombre del jugador para nombrar el archivo. Además, la función también añade el jugador a un JSON de amigos recurrentes para su posterior uso en el entrenamiento del modelo.

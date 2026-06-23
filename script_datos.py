@@ -1,5 +1,7 @@
-import api, procesador, entrenamiento, limpieza_datos, modelos
-import prediccion
+import entrenamiento
+import pipeline.api as api
+import pipeline.procesador as procesador
+import pipeline.limpieza_datos as limpieza_datos
 from dotenv import load_dotenv #para proteger la clave api
 import os
 

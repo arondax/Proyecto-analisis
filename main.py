@@ -1,7 +1,12 @@
-import api, procesador, entrenamiento, limpieza_datos, modelos
-import prediccion
+import entrenamiento
+import modelos
+import pipeline.api as api 
+import pipeline.procesador as procesador
+import pipeline.limpieza_datos as limpieza_datos
+import pipeline.predictor as predictor
 from dotenv import load_dotenv #para proteger la clave api
 import os
+
 """_summary_ Función principal del programa, que se encarga de coordinar la obtención de datos, el procesamiento, la limpieza y el entrenamiento del modelo de machine learning. La función sigue una secuencia lógica para asegurar que los datos se obtienen correctamente, se procesan y limpian adecuadamente, y finalmente se entrena el modelo con el dataset preparado.
 
     Raises:
@@ -78,7 +83,7 @@ else:
         modelo = modelos.cargar_modelo('randomforest')
         print("Pasamos a prediccion")
         if not df.empty:
-            prediccion.predecir_jugador(modelo,df, mapa, es_main, num_amigos, desconocidos, nombre_jugador)
+            predictor.predecir_jugador(modelo,df, mapa, es_main, num_amigos, desconocidos, nombre_jugador)
             
             
 
