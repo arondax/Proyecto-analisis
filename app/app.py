@@ -1,30 +1,21 @@
-import sys
-import os
-sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
-
-from fastapi.staticfiles import StaticFiles
-from fastapi.responses import FileResponse
-
-DIST_DIR = os.path.join(ROOT_DIR, "dist")
-
-if os.path.exists(DIST_DIR):
-    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
-
-
-import json
-
-from dotenv import load_dotenv
-from fastapi import FastAPI, HTTPException
-from fastapi.middleware.cors import CORSMiddleware
-from pydantic import BaseModel, Field
-from typing import Optional
 import pandas as pd
 import joblib
 import entrenamiento
 import pipeline.api as api
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
-import pipeline.predictor as pred_module
+import json
+import pipeline.predictor as predictor
+import os
+
+from fastapi.staticfiles import StaticFiles
+from fastapi.responses import FileResponse, RedirectResponse
+from dotenv import load_dotenv
+from fastapi import FastAPI, HTTPException
+from fastapi.middleware.cors import CORSMiddleware
+from pydantic import BaseModel, Field
+from typing import Optional
+
 # Carga las variables del archivo .env en el sistema
 load_dotenv()
 
@@ -57,6 +48,12 @@ JUGADORES_DIR = os.path.join(ROOT_DIR, 'dataset_ingest')
 MODELOS_DIR = os.path.join(ROOT_DIR, 'modelos')
 
 MAPAS_DIR = os.path.join(ROOT_DIR, 'json')
+
+DIST_DIR = os.path.join(ROOT_DIR, "dist")
+
+if os.path.exists(DIST_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
+
 
 #Modelos Pydantic
 
@@ -117,39 +114,6 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
             raise HTTPException(status_code=404, detail=f"Jugador '{nombre}' no encontrado.")
     return pd.read_csv(ruta_jugador)
 
-def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:
-    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas", "racha"]
-    columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
- 
-    columnas_numericas = ["kills", "asistencias", "muertes", "headshots", "acs", "fb", "fd"]
-    columnas_mapa = [col for col in df.columns if col.startswith("mapa_")]
- 
-    ultima = df.iloc[-1]
-    medias = df[columnas_numericas].mean()
- 
-    partida = {}
-    partida["rango"]        = ultima["rango"]
-    partida["subrango"]     = ultima["subrango"]
-    #partida["racha"]        = ultima["racha"]
-    partida["es_main"]      = es_main
-    partida["num_amigos"]   = float(num_amigos)
-    partida["desconocidos"] = float(4 - num_amigos)
-    partida.update(medias.to_dict())
- 
-    for col in columnas_mapa:
-        partida[col] = 0.0
- 
-    mapa_col = f"mapa_{mapa}"
-    if mapa_col not in columnas_mapa:
-        raise HTTPException(
-            status_code=400,
-            detail=f"Mapa '{mapa}' no reconocido. Disponibles: {MAPAS}"
-        )
-    partida[mapa_col] = 1.0
-    
-    df=pd.DataFrame([partida])[columnas_modelo]
- 
-    return df
 
 #Endpoints
 
@@ -160,14 +124,8 @@ def frontend():
 
 @app.get("/")
 def root():
-    from fastapi.responses import RedirectResponse
     return RedirectResponse(url="/app")
 
-@app.get("/jugadores")
-def get_jugadores():
-    """Devuelve la lista de jugadores disponibles."""
-    return {"jugadores": [j["nombre"] for j in JUGADORES]}
- 
  
 @app.get("/mapas")
 def get_mapas():
@@ -202,7 +160,7 @@ def predecir(request: PrediccionRequest):
     desconocidos = 5 - request.num_amigos
 
  
-    resultado = pred_module.predecir_jugador(
+    resultado = predictor.predecir_jugador(
     modelo, df, request.mapa,
     float(request.es_main), request.num_amigos,
     desconocidos, request.nombre
