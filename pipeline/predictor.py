@@ -21,55 +21,10 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
     Returns:
         _type_: _description_ Devuelve un diccionario con las rondas ganadas y perdidas predichas, así como el resultado final (victoria o derrota) de la partida para el jugador específico. El diccionario tiene la siguiente estructura:
     """
-    
-    # 1. Identificar las columnas exactas con las que se entrenó el modelo.
-    # Excluimos el ID y los targets (rondas ganadas/perdidas) manteniendo el orden exacto del df.
-    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas","racha"]
-    columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
 
-    # 2. Definir cuáles son las numéricas para sacar las medias
-    columnas_numericas = [
-        "kills",
-        "asistencias",
-        "muertes",
-        "headshots",
-        "acs",
-        "fb",
-        "fd",
-    ]
-    columnas_mapa = [col for col in df.columns if col.startswith("mapa_")]
 
-    # 3. Extraer datos históricos
-    ultima = df.iloc[-1]
-    medias = df[columnas_numericas].mean()
-
-    # 4. Construir el diccionario de la nueva partida
-    partida = {}
-    partida["rango"] = ultima["rango"]
-    partida["subrango"] = ultima["subrango"]
-    #partida["racha"] = ultima["racha"]
-    partida["es_main"] = es_main
-    partida["num_amigos"] = num_amigos
-    partida["desconocidos"] = desconocidos
-
-    # Añadir las medias calculadas
-    partida.update(medias.to_dict())
-
-    # Inicializar los mapas en 0.0
-    for col in columnas_mapa:
-        partida[col] = 0.0
-
-    # Activar el mapa actual
-    mapa_col = f"mapa_{mapa}"
-    if mapa_col not in columnas_mapa:
-        mapas_disponibles = [m.replace("mapa_", "") for m in columnas_mapa]
-        raise ValueError(
-            f"Mapa no reconocido: {mapa}. Disponibles: {mapas_disponibles}"
-        )
-    partida[mapa_col] = 1.0
-
-    # 5. CREAR EL DATAFRAME ASEGURANDO EL ORDEN ORIGINAL
-    X = pd.DataFrame([partida])[columnas_modelo]
+    # CREAR EL DATAFRAME ASEGURANDO EL ORDEN ORIGINAL
+    X = construir_input(df, mapa, es_main, num_amigos)
 
     # 6. Hacer la predicción
     prediccion = modelo.predict(X)[0]
@@ -94,6 +49,41 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
         "resultado": resultado
     }
 
+def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:
+    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas", "racha"]
+    columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
+ 
+    columnas_numericas = ["kills", "asistencias", "muertes", "headshots", "acs", "fb", "fd"]
+    columnas_mapa = [col for col in df.columns if col.startswith("mapa_")]
+ 
+    ultima = df.iloc[-1]
+    medias = df[columnas_numericas].mean()
+ 
+    partida = {}
+    partida["rango"]        = ultima["rango"]
+    partida["subrango"]     = ultima["subrango"]
+    #partida["racha"]        = ultima["racha"]
+    partida["es_main"]      = es_main
+    partida["num_amigos"]   = float(num_amigos)
+    partida["desconocidos"] = float(4 - num_amigos)
+    partida.update(medias.to_dict())
+ 
+    # Inicializar los mapas en 0.0
+    for col in columnas_mapa:
+        partida[col] = 0.0
+
+    # Activar el mapa actual
+    mapa_col = f"mapa_{mapa}"
+    if mapa_col not in columnas_mapa:
+        mapas_disponibles = [m.replace("mapa_", "") for m in columnas_mapa]
+        raise ValueError(
+            f"Mapa no reconocido: {mapa}. Disponibles: {mapas_disponibles}"
+        )
+    partida[mapa_col] = 1.0
+    
+    df=pd.DataFrame([partida])[columnas_modelo]
+ 
+    return df
 
 
 def guardar_prediccion_txt(
