@@ -6,9 +6,10 @@ import time
 import pipeline.api as api
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
-import modelos
+import pipeline.modelos as modelos
 import pandas as pd
 from datetime import datetime
+##TODO arreglar tema rutas relativas, para que funcione en cualquier pc, y no solo en la mia
 
 #Clase
 def obtencion_lista():
