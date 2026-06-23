@@ -4,10 +4,10 @@ from fastapi.responses import FileResponse
 from pydantic import BaseModel
 from fastapi.staticfiles import StaticFiles
 import joblib
-import prediccion
-import api
-import procesador
-import limpieza_datos
+import pipeline.predictor as predictor
+import pipeline.api as api
+import pipeline.procesador as procesador
+import pipeline.limpieza_datos as limpieza_datos
 import os, json
 from fastapi.middleware.cors import CORSMiddleware
 
@@ -104,7 +104,7 @@ def predecir(datos: DatosEntrada):
         raise HTTPException(status_code=422, detail="No hay partidas competitivas para este jugador")
     
     desconocidos = 5 - datos.num_amigos
-    resultado = prediccion.predecir_jugador(
+    resultado = predictor.predecir_jugador(
         modelo, df, datos.mapa,
         float(datos.es_main), datos.num_amigos,
         desconocidos, datos.nombre

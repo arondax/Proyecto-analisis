@@ -3,7 +3,7 @@ import pandas as pd
 import numpy as np
 
 # Importamos tu función modificada (asegúrate de que el archivo se llame prediccion.py)
-import prediccion
+import pipeline.predictor as predictor
 
 # ==========================================
 # 1. CONFIGURACIÓN DE DATOS DE PRUEBA
@@ -138,7 +138,7 @@ if __name__ == "__main__":
 
         # Ejecutamos tu lógica
         try:
-            prediccion.predecir_jugador(
+            predictor.predecir_jugador(
                 modelo=modelo_prueba,
                 df=df_prueba,
                 mapa=mapa_partida,

@@ -1,11 +1,9 @@
 import pandas as pd
+from pipeline import api, procesador
 from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
 from sklearn.compose import ColumnTransformer
-import matplotlib.pyplot as plt
 import numpy as np
-import ast
-import json
-import os
+import ast, json, os
 """
 Archivo que realiza unalimpieza inicial de los datos.
 1. Elimina entradas duplciadas en base al id de la partida

@@ -1,5 +1,12 @@
 #Imports
-import json ,api, procesador, limpieza_datos, glob, os, modelos, time
+import json
+import glob
+import os
+import time
+import pipeline.api as api
+import pipeline.procesador as procesador
+import pipeline.limpieza_datos as limpieza_datos
+import modelos
 import pandas as pd
 from datetime import datetime
 
