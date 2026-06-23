@@ -72434,8 +72434,8 @@
                     },
                     {
                         "puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                        "name": "spray demon",
-                        "tag": "KITOS",
+                        "name": "kitos",
+                        "tag": "ego",
                         "team": "Blue",
                         "level": 242,
                         "character": "Jett",
@@ -73460,8 +73460,8 @@
                     },
                     {
                         "puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                        "name": "spray demon",
-                        "tag": "KITOS",
+                        "name": "kitos",
+                        "tag": "ego",
                         "team": "Blue",
                         "level": 242,
                         "character": "Jett",
@@ -73726,7 +73726,7 @@
                             },
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -1445,
@@ -73773,14 +73773,14 @@
                         },
                         "defused_by": {
                             "puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "display_name": "spray demon#KITOS",
+                            "display_name": "kitos#ego",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 67149,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2756,
@@ -73879,7 +73879,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1330,
@@ -74032,7 +74032,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -74054,7 +74054,7 @@
                                     "kill_time_in_round": 46279,
                                     "kill_time_in_match": 101342,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                                     "victim_display_name": "Mayonesa#BAD",
@@ -74083,7 +74083,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1152,
@@ -74242,7 +74242,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1400,
@@ -74398,7 +74398,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 94,
@@ -74492,7 +74492,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1376,
@@ -74644,7 +74644,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1894,
@@ -74816,7 +74816,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1176,
@@ -74870,7 +74870,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3769,
@@ -75102,7 +75102,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2108,
@@ -75256,7 +75256,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -75429,7 +75429,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1946,
@@ -75513,7 +75513,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1554,
@@ -75577,7 +75577,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2506,
@@ -75746,7 +75746,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1551,
@@ -75902,7 +75902,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2006,
@@ -76106,7 +76106,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 904,
@@ -76190,7 +76190,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2608,
@@ -76323,7 +76323,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -76477,7 +76477,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1080,
@@ -76762,7 +76762,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 402,
@@ -76852,7 +76852,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3972,
@@ -76975,7 +76975,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 757,
@@ -77131,7 +77131,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1031,
@@ -77246,7 +77246,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -202,
@@ -77362,7 +77362,7 @@
                             },
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6485,
@@ -77416,7 +77416,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6009,
@@ -77549,7 +77549,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -77589,7 +77589,7 @@
                                     "kill_time_in_round": 59277,
                                     "kill_time_in_match": 359261,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                                     "victim_display_name": "Mayonesa#BAD",
@@ -77618,7 +77618,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -77673,7 +77673,7 @@
                                     "kill_time_in_round": 78686,
                                     "kill_time_in_match": 378670,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0f140b24-d880-5269-8a4a-181b7907ca8c",
                                     "victim_display_name": "idk#nni",
@@ -77702,7 +77702,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6464,
@@ -77737,7 +77737,7 @@
                                     "kill_time_in_round": 80395,
                                     "kill_time_in_match": 380379,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                                     "victim_display_name": "Lovehe4D#kick",
@@ -77756,7 +77756,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6822,
@@ -77882,7 +77882,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7052,
@@ -77992,7 +77992,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -78155,7 +78155,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -78396,7 +78396,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -78624,7 +78624,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6768,
@@ -78724,7 +78724,7 @@
                             },
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1228,
@@ -78803,7 +78803,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -78849,7 +78849,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1368,
@@ -78927,7 +78927,7 @@
                                     "killer_display_name": "rosalotengo#0425",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1076,
@@ -79071,7 +79071,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -79093,7 +79093,7 @@
                                     "kill_time_in_round": 44732,
                                     "kill_time_in_match": 474660,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -79122,7 +79122,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3742,
@@ -79513,7 +79513,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3249,
@@ -79722,7 +79722,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3229,
@@ -80174,7 +80174,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -80196,7 +80196,7 @@
                                     "kill_time_in_round": 24754,
                                     "kill_time_in_match": 578696,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                                     "victim_display_name": "Mayonesa#BAD",
@@ -80235,7 +80235,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4959,
@@ -80507,7 +80507,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -80759,7 +80759,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5322,
@@ -80869,7 +80869,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -80934,7 +80934,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5170,
@@ -80998,7 +80998,7 @@
                                     "killer_display_name": "CRK Mystyco#SSJ",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5356,
@@ -81309,7 +81309,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3171,
@@ -81433,7 +81433,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -81464,7 +81464,7 @@
                                     "kill_time_in_round": 34930,
                                     "kill_time_in_match": 711603,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -81493,7 +81493,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3557,
@@ -81534,7 +81534,7 @@
                                     "kill_time_in_round": 42271,
                                     "kill_time_in_match": 718944,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                                     "victim_display_name": "rosalotengo#0425",
@@ -81553,7 +81553,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2371,
@@ -81774,7 +81774,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3557,
@@ -81950,7 +81950,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 777,
@@ -82034,7 +82034,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 626,
@@ -82285,7 +82285,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3126,
@@ -82463,7 +82463,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5235,
@@ -82591,7 +82591,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -82613,7 +82613,7 @@
                                     "kill_time_in_round": 74716,
                                     "kill_time_in_match": 830666,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                                     "victim_display_name": "rosalotengo#0425",
@@ -82642,7 +82642,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5435,
@@ -82943,7 +82943,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3757,
@@ -83037,7 +83037,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6469,
@@ -83111,7 +83111,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -83248,7 +83248,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3464,
@@ -83731,7 +83731,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -83760,7 +83760,7 @@
                                     "killer_display_name": "Lovehe4D#kick",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -3406,
@@ -83898,7 +83898,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -83929,7 +83929,7 @@
                                     "kill_time_in_round": 10342,
                                     "kill_time_in_match": 889554,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                                     "victim_display_name": "Mayonesa#BAD",
@@ -83968,7 +83968,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2999,
@@ -84743,7 +84743,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "assistant_display_name": "spray demon#KITOS",
+                                            "assistant_display_name": "kitos#ego",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -84809,7 +84809,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -84829,7 +84829,7 @@
                                     "killer_display_name": "rosalotengo#0425",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6315,
@@ -84969,7 +84969,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -84991,7 +84991,7 @@
                                     "kill_time_in_round": 48582,
                                     "kill_time_in_match": 1025456,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                                     "victim_display_name": "Lovehe4D#kick",
@@ -85020,7 +85020,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5685,
@@ -85176,7 +85176,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5396,
@@ -85434,7 +85434,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3158,
@@ -85538,7 +85538,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5938,
@@ -85744,7 +85744,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4744,
@@ -85858,7 +85858,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5294,
@@ -86092,7 +86092,7 @@
                             },
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -740,
@@ -86149,14 +86149,14 @@
                         },
                         "defused_by": {
                             "puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "display_name": "spray demon#KITOS",
+                            "display_name": "kitos#ego",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 69218,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -3524,
@@ -86245,7 +86245,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2454,
@@ -86388,7 +86388,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1480,
@@ -86490,7 +86490,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -86530,7 +86530,7 @@
                                     "kill_time_in_round": 36424,
                                     "kill_time_in_match": 1131629,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                                     "victim_display_name": "Lovehe4D#kick",
@@ -86559,7 +86559,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2509,
@@ -86610,7 +86610,7 @@
                                     "kill_time_in_round": 49264,
                                     "kill_time_in_match": 1144469,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                                     "victim_display_name": "rosalotengo#0425",
@@ -86629,7 +86629,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2835,
@@ -86660,7 +86660,7 @@
                                     "kill_time_in_round": 61317,
                                     "kill_time_in_match": 1156522,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -86679,7 +86679,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3341,
@@ -86838,7 +86838,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1531,
@@ -87010,7 +87010,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2136,
@@ -87248,7 +87248,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2857,
@@ -87374,7 +87374,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2835,
@@ -87565,7 +87565,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -87585,7 +87585,7 @@
                                     "killer_display_name": "Lovehe4D#kick",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4961,
@@ -87677,7 +87677,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -87874,7 +87874,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6203,
@@ -88050,7 +88050,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6657,
@@ -88144,7 +88144,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5226,
@@ -88299,7 +88299,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5569,
@@ -88393,7 +88393,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5212,
@@ -88799,7 +88799,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -88846,7 +88846,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -88893,7 +88893,7 @@
                                     "killer_display_name": "idk#nni",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6201,
@@ -89441,7 +89441,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -89888,7 +89888,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -89917,7 +89917,7 @@
                                     "killer_display_name": "Lovehe4D#kick",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5466,
@@ -90123,7 +90123,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -90455,7 +90455,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5342,
@@ -90727,7 +90727,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4361,
@@ -90787,7 +90787,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -90839,7 +90839,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -90895,7 +90895,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -90917,7 +90917,7 @@
                                     "kill_time_in_round": 61421,
                                     "kill_time_in_match": 1509368,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -90936,7 +90936,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4257,
@@ -91228,7 +91228,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 342,
@@ -91394,7 +91394,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 588,
@@ -91488,7 +91488,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2141,
@@ -91615,7 +91615,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1594,
@@ -91761,7 +91761,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1568,
@@ -92140,7 +92140,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -92187,7 +92187,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -92207,7 +92207,7 @@
                                     "killer_display_name": "idk#nni",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4455,
@@ -92390,7 +92390,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4394,
@@ -92931,7 +92931,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4373,
@@ -93243,7 +93243,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5290,
@@ -93357,7 +93357,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6147,
@@ -93453,7 +93453,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -93475,7 +93475,7 @@
                                     "kill_time_in_round": 50699,
                                     "kill_time_in_match": 1699337,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -93504,7 +93504,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -162,
@@ -93627,7 +93627,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 857,
@@ -93775,7 +93775,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -93821,7 +93821,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1533,
@@ -93885,7 +93885,7 @@
                                     "killer_display_name": "Mayonesa#BAD",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -162,
@@ -94154,7 +94154,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3521,
@@ -94284,7 +94284,7 @@
                             },
                             {
                                 "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                "player_display_name": "spray demon#KITOS",
+                                "player_display_name": "kitos#ego",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6967,
@@ -94364,7 +94364,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "receiver_display_name": "spray demon#KITOS",
+                                    "receiver_display_name": "kitos#ego",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -94384,7 +94384,7 @@
                                     "killer_display_name": "rosalotengo#0425",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "victim_display_name": "spray demon#KITOS",
+                                    "victim_display_name": "kitos#ego",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6006,
@@ -94548,7 +94548,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -94570,7 +94570,7 @@
                                     "kill_time_in_round": 21817,
                                     "kill_time_in_match": 1758269,
                                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                    "killer_display_name": "spray demon#KITOS",
+                                    "killer_display_name": "kitos#ego",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                                     "victim_display_name": "Mayonesa#BAD",
@@ -94609,7 +94609,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5389,
@@ -95150,7 +95150,7 @@
                                         },
                                         {
                                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                                            "player_display_name": "spray demon#KITOS",
+                                            "player_display_name": "kitos#ego",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4888,
@@ -95446,7 +95446,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1894,
@@ -95567,7 +95567,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 94,
@@ -95672,7 +95672,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1330,
@@ -95763,7 +95763,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1400,
@@ -95848,7 +95848,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1376,
@@ -95929,7 +95929,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1176,
@@ -95965,7 +95965,7 @@
                     "kill_time_in_match": 101342,
                     "round": 0,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                     "victim_display_name": "Mayonesa#BAD",
@@ -95994,7 +95994,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1152,
@@ -96039,7 +96039,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3769,
@@ -96104,7 +96104,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2006,
@@ -96219,7 +96219,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2108,
@@ -96330,7 +96330,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1946,
@@ -96415,7 +96415,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1551,
@@ -96500,7 +96500,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1554,
@@ -96565,7 +96565,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2506,
@@ -96640,7 +96640,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1080,
@@ -96751,7 +96751,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1031,
@@ -96867,7 +96867,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 757,
@@ -96962,7 +96962,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 402,
@@ -97053,7 +97053,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -202,
@@ -97134,7 +97134,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3972,
@@ -97225,7 +97225,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -97330,7 +97330,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -97445,7 +97445,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7052,
@@ -97556,7 +97556,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -97628,7 +97628,7 @@
                     "kill_time_in_match": 359261,
                     "round": 3,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                     "victim_display_name": "Mayonesa#BAD",
@@ -97657,7 +97657,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -97742,7 +97742,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6768,
@@ -97788,7 +97788,7 @@
                     "kill_time_in_match": 378670,
                     "round": 3,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "0f140b24-d880-5269-8a4a-181b7907ca8c",
                     "victim_display_name": "idk#nni",
@@ -97817,7 +97817,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6464,
@@ -97853,7 +97853,7 @@
                     "kill_time_in_match": 380379,
                     "round": 3,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                     "victim_display_name": "Lovehe4D#kick",
@@ -97872,7 +97872,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6822,
@@ -97937,7 +97937,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3249,
@@ -98052,7 +98052,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1368,
@@ -98157,7 +98157,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3229,
@@ -98223,7 +98223,7 @@
                     "kill_time_in_match": 474660,
                     "round": 4,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -98252,7 +98252,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3742,
@@ -98311,7 +98311,7 @@
                     "killer_display_name": "rosalotengo#0425",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1076,
@@ -98548,7 +98548,7 @@
                     "kill_time_in_match": 578696,
                     "round": 5,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                     "victim_display_name": "Mayonesa#BAD",
@@ -98587,7 +98587,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4959,
@@ -98708,7 +98708,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5322,
@@ -98813,7 +98813,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5170,
@@ -98878,7 +98878,7 @@
                     "killer_display_name": "CRK Mystyco#SSJ",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5356,
@@ -99200,7 +99200,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3557,
@@ -99315,7 +99315,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3126,
@@ -99420,7 +99420,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 777,
@@ -99505,7 +99505,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 626,
@@ -99590,7 +99590,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3171,
@@ -99642,7 +99642,7 @@
                     "kill_time_in_match": 711603,
                     "round": 6,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -99671,7 +99671,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3557,
@@ -99713,7 +99713,7 @@
                     "kill_time_in_match": 718944,
                     "round": 6,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                     "victim_display_name": "rosalotengo#0425",
@@ -99732,7 +99732,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2371,
@@ -99807,7 +99807,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3757,
@@ -99922,7 +99922,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3464,
@@ -100027,7 +100027,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5235,
@@ -100083,7 +100083,7 @@
                     "kill_time_in_match": 830666,
                     "round": 7,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                     "victim_display_name": "rosalotengo#0425",
@@ -100112,7 +100112,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5435,
@@ -100187,7 +100187,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6469,
@@ -100262,7 +100262,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -100308,7 +100308,7 @@
                     "kill_time_in_match": 889554,
                     "round": 8,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                     "victim_display_name": "Mayonesa#BAD",
@@ -100347,7 +100347,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2999,
@@ -100426,7 +100426,7 @@
                     "killer_display_name": "Lovehe4D#kick",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -3406,
@@ -100973,7 +100973,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "assistant_display_name": "spray demon#KITOS",
+                            "assistant_display_name": "kitos#ego",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -101022,7 +101022,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3158,
@@ -101127,7 +101127,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4744,
@@ -101242,7 +101242,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5294,
@@ -101347,7 +101347,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5396,
@@ -101409,7 +101409,7 @@
                     "kill_time_in_match": 1025456,
                     "round": 9,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                     "victim_display_name": "Lovehe4D#kick",
@@ -101438,7 +101438,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5685,
@@ -101523,7 +101523,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5938,
@@ -101572,7 +101572,7 @@
                     "killer_display_name": "rosalotengo#0425",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6315,
@@ -101734,7 +101734,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2136,
@@ -101860,7 +101860,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1531,
@@ -101971,7 +101971,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1480,
@@ -102082,7 +102082,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2454,
@@ -102134,7 +102134,7 @@
                     "kill_time_in_match": 1131629,
                     "round": 10,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "6f18f8ad-042c-5a0f-b495-bbcef4651579",
                     "victim_display_name": "Lovehe4D#kick",
@@ -102163,7 +102163,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2509,
@@ -102244,7 +102244,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2857,
@@ -102309,7 +102309,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2835,
@@ -102341,7 +102341,7 @@
                     "kill_time_in_match": 1144469,
                     "round": 10,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "dc01535a-7fa1-5c59-bf8a-bc4624591d4b",
                     "victim_display_name": "rosalotengo#0425",
@@ -102360,7 +102360,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2835,
@@ -102392,7 +102392,7 @@
                     "kill_time_in_match": 1156522,
                     "round": 10,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -102411,7 +102411,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3341,
@@ -102466,7 +102466,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6203,
@@ -102581,7 +102581,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6657,
@@ -102676,7 +102676,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5569,
@@ -102771,7 +102771,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5226,
@@ -102856,7 +102856,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5212,
@@ -102905,7 +102905,7 @@
                     "killer_display_name": "Lovehe4D#kick",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4961,
@@ -103031,7 +103031,7 @@
                     "killer_display_name": "idk#nni",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6201,
@@ -103625,7 +103625,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5342,
@@ -103710,7 +103710,7 @@
                     "killer_display_name": "Lovehe4D#kick",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5466,
@@ -104106,7 +104106,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 342,
@@ -104211,7 +104211,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 588,
@@ -104306,7 +104306,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1568,
@@ -104401,7 +104401,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1594,
@@ -104486,7 +104486,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2141,
@@ -104542,7 +104542,7 @@
                     "kill_time_in_match": 1509368,
                     "round": 14,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -104561,7 +104561,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4257,
@@ -104646,7 +104646,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4373,
@@ -104761,7 +104761,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4394,
@@ -104830,7 +104830,7 @@
                     "killer_display_name": "idk#nni",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4455,
@@ -105258,7 +105258,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5290,
@@ -105373,7 +105373,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6147,
@@ -105468,7 +105468,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3521,
@@ -105563,7 +105563,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1533,
@@ -105654,7 +105654,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 857,
@@ -105706,7 +105706,7 @@
                     "kill_time_in_match": 1699337,
                     "round": 16,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "89627ba8-da4c-5c58-9a9c-9454bcd06783",
                     "victim_display_name": "CRK Mystyco#SSJ",
@@ -105735,7 +105735,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": -162,
@@ -105780,7 +105780,7 @@
                     "killer_display_name": "Mayonesa#BAD",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -162,
@@ -105871,7 +105871,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4888,
@@ -105947,7 +105947,7 @@
                     "kill_time_in_match": 1758269,
                     "round": 17,
                     "killer_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "killer_display_name": "spray demon#KITOS",
+                    "killer_display_name": "kitos#ego",
                     "killer_team": "Blue",
                     "victim_puuid": "4ba8e8fd-2359-5419-8cd1-79f64ac1f377",
                     "victim_display_name": "Mayonesa#BAD",
@@ -105986,7 +105986,7 @@
                         },
                         {
                             "player_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                            "player_display_name": "spray demon#KITOS",
+                            "player_display_name": "kitos#ego",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5389,
@@ -106055,7 +106055,7 @@
                     "killer_display_name": "rosalotengo#0425",
                     "killer_team": "Red",
                     "victim_puuid": "d7a45f05-b38e-5cd6-8acf-59a50377bb39",
-                    "victim_display_name": "spray demon#KITOS",
+                    "victim_display_name": "kitos#ego",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6006,
