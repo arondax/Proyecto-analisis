@@ -24,7 +24,7 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
     
     # 1. Identificar las columnas exactas con las que se entrenó el modelo.
     # Excluimos el ID y los targets (rondas ganadas/perdidas) manteniendo el orden exacto del df.
-    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas"]
+    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas","racha"]
     columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
 
     # 2. Definir cuáles son las numéricas para sacar las medias
