@@ -7,6 +7,7 @@ import pipeline.limpieza_datos as limpieza_datos
 import json
 import pipeline.predictor as predictor
 import os
+import config
 
 from fastapi.staticfiles import StaticFiles
 from fastapi.responses import FileResponse, RedirectResponse
@@ -37,22 +38,8 @@ app.add_middleware(
     allow_credentials=False,
 )
 
-#configuramos las rutas
-
-BASE_DIR= os.path.dirname(os.path.abspath(__file__))
-
-ROOT_DIR = os.path.dirname(BASE_DIR)
-
-JUGADORES_DIR = os.path.join(ROOT_DIR, 'dataset_ingest')
-
-MODELOS_DIR = os.path.join(ROOT_DIR, 'modelos')
-
-MAPAS_DIR = os.path.join(ROOT_DIR, 'json')
-
-DIST_DIR = os.path.join(ROOT_DIR, "dist")
-
-if os.path.exists(DIST_DIR):
-    app.mount("/assets", StaticFiles(directory=os.path.join(DIST_DIR, "assets")), name="assets")
+if os.path.exists(config.DIST_DIR):
+    app.mount("/assets", StaticFiles(directory=os.path.join(config.DIST_DIR, "assets")), name="assets")
 
 
 #Modelos Pydantic
@@ -90,21 +77,21 @@ def cargar_modelo(modelo_nombre: str):
     Returns:
         _type_: _description_ Devuelve el modelo cargado desde el archivo correspondiente en la carpeta de modelos.
     """
-    ruta_modelo = os.path.join(MODELOS_DIR, f"{modelo_nombre}.pkl")
+    ruta_modelo = os.path.join(config.MODELOS_DIR, f"{modelo_nombre}.pkl")
     if not os.path.exists(ruta_modelo):
         raise HTTPException(status_code=400, detail=f"Modelo '{modelo_nombre}' no encontrado.")
     return joblib.load(ruta_modelo)
 
 def cargar_mapas():
     
-    with open(os.path.join(MAPAS_DIR, 'info_valorant.json'), 'r') as f:
+    with open(os.path.join(config.JSON_INFO_DIR, 'info_valorant.json'), 'r') as f:
         info = json.load(f)
         mapas = info['mapas']['ranked']
         
     return mapas
 
 def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
-    ruta_jugador = os.path.join(JUGADORES_DIR, f"dataset_ingest_{nombre}.csv")
+    ruta_jugador = os.path.join(config.DATASET_INGEST_DIR, f"dataset_ingest_{nombre}.csv")
     if not os.path.exists(ruta_jugador):
         print("[DEBUG] No se encontró el CSV del jugador. Intentando extraer datos...")
         try:
@@ -119,7 +106,7 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
 
 @app.get("/app")
 def frontend():
-    return FileResponse(os.path.join(DIST_DIR, "index.html"))
+    return FileResponse(os.path.join(config.DIST_DIR, "index.html"))
 
 @app.get("/")
 def root():
@@ -136,9 +123,9 @@ def get_mapas():
 @app.get("/modelos")
 def get_modelos():
     """Devuelve los modelos disponibles en /modelos/."""
-    if not os.path.exists(MODELOS_DIR):
+    if not os.path.exists(config.MODELOS_DIR):
         return {"modelos": []}
-    archivos = [f.replace(".pkl", "") for f in os.listdir(MODELOS_DIR) if f.endswith(".pkl")]
+    archivos = [f.replace(".pkl", "") for f in os.listdir(config.MODELOS_DIR) if f.endswith(".pkl")]
     return {"modelos": archivos}
 
 @app.post("/predecir", response_model=PrediccionResponse)

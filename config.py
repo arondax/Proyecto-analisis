@@ -16,3 +16,5 @@ JSON_INFO_DIR = os.path.join(BASE_DIR, 'json')
 PARTIDAS_DIR = os.path.join(BASE_DIR, 'partidas')
 
 LOGS_DIR = os.path.join(BASE_DIR, 'modelos', 'logs')
+
+DIST_DIR = os.path.join(BASE_DIR, 'dist')
