@@ -131,9 +131,9 @@ def extraccion_datos(nombre, tag):
         return None
     
     pd.set_option('display.max_columns', None)
-    print("\n--- Vista previa del DataFrame ---")
+    #print("\n--- Vista previa del DataFrame ---")
     #print(df.columns.values)
-    print(df.head())
+    #print(df.head())
     
     if existe_archivo:
         df.to_csv(direccion_archivo, mode='a', header=False, index=False)
@@ -191,8 +191,9 @@ def buscar_personaje(partida, nombre_jugador, tag_jugador):
     """
 
     for jugador in partida['players']['all_players']:
-        print(f"[DEBUG] Jugador en JSON: nombre='{jugador['name']}' tag='{jugador['tag']}'")
+        
         if jugador['name'].lower() == nombre_jugador.lower() and jugador['tag'].lower() == tag_jugador.lower():
+            print(f"[DEBUG] Jugador en JSON: nombre='{jugador['name']}' tag='{jugador['tag']}'")
             personaje = jugador.get('character')
             kills = jugador['stats']['kills']
             asistencias =  jugador['stats']['assists']
