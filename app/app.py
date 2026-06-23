@@ -117,7 +117,6 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
 
 #Endpoints
 
-
 @app.get("/app")
 def frontend():
     return FileResponse(os.path.join(DIST_DIR, "index.html"))

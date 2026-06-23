@@ -1,5 +1,5 @@
 import entrenamiento
-import modelos
+import pipeline.modelos as modelos
 import pipeline.api as api 
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
