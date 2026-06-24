@@ -1,9 +1,13 @@
+import sys
+import os
+sys.path.insert(0, os.path.dirname(os.path.dirname(os.path.abspath(__file__))))
+
 import pipeline.entrenamiento as entrenamiento
 import pipeline.api as api
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
 from dotenv import load_dotenv #para proteger la clave api
-import os
+
 
 # Carga las variables del archivo .env en el sistema
 load_dotenv()
