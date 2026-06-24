@@ -1,9 +1,15 @@
-import pandas as pd
+
 from pipeline import api, procesador
 from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
 from sklearn.compose import ColumnTransformer
+
+import pandas as pd
 import numpy as np
-import ast, json, os
+import ast 
+import json 
+import os
+import config
+
 """
 Archivo que realiza unalimpieza inicial de los datos.
 1. Elimina entradas duplciadas en base al id de la partida
@@ -23,7 +29,7 @@ def limpieza_jugador(nombre_jugador):
     Returns:
         _type_: _description_ Devuelve un DataFrame limpio y transformado, listo para ser utilizado en el entrenamiento del modelo de machine learning. El DataFrame resultante contiene solo las columnas relevantes en formato numérico, con las filas correspondientes únicamente a partidas competitivas, y con información adicional sobre el personaje principal, número de amigos y desconocidos en cada partida.
     """
-    ruta_csv=f"./datasets/dataset_{nombre_jugador}.csv"
+    ruta_csv= os.path.join(config.DATASET_DIR, f'dataset_{nombre_jugador}.csv')
     
     df = pd.read_csv(ruta_csv)
     
@@ -56,7 +62,7 @@ def limpieza_jugador(nombre_jugador):
     print("-------------------------")
     #print(df.info())
     
-    ruta_json = "./json/amigos_recurrentes.json"
+    ruta_json = os.path.join(config.JSON_INFO_DIR, 'amigos_recurrentes.json')
     df= obtener_amigos(df, ruta_json)
     print("-------------------------")
     #print(df.info())
@@ -91,7 +97,7 @@ def guardar_dataset(nombre_jugador, df):
     """
     #Guardamos el Datasetlimpio 
     
-    direccion_archivo = f"./dataset_ingest/dataset_ingest_{nombre_jugador}.csv"
+    direccion_archivo = os.path.join(config.DATASET_INGEST_DIR, f'dataset_ingest_{nombre_jugador}.csv')
     existe_archivo= os.path.exists(direccion_archivo) 
     if existe_archivo:
         df_existente = pd.read_csv(direccion_archivo)
@@ -209,11 +215,13 @@ def transformacion_a_numeros(df):
         >>> df_numerico = transformacion_a_numeros(df_limpio)
         >>> df_numerico.dtypes
     """
-    with open('./json/info_valorant.json', 'r', encoding='utf-8') as f:
-        config = json.load(f)
+    
+    ruta_info_valorant = os.path.join(config.JSON_INFO_DIR, 'info_valorant.json')
+    with open(ruta_info_valorant , 'r', encoding='utf-8') as f:
+        info = json.load(f)
 
-    mapas = config['mapas']['ranked']
-    rangos = config['rangos']
+    mapas = info['mapas']['ranked']
+    rangos = info['rangos']
 
     ordinal_features = ['rango']
     nominal_features = ['mapa']
