@@ -36,7 +36,7 @@ jobs:
         PYTHONIOENCODING: utf-8
       run: |
         echo "=== INICIANDO EJECUCIÓN DEL SCRIPT ==="
-        python script_entrenamiento.py
+        python scripts/script_entrenamiento.py
         echo "=== SCRIPT FINALIZADO ==="
 
     - name: Subir datos recopilados
