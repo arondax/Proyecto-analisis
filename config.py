@@ -3,18 +3,18 @@ import os
 
 BASE_DIR= os.path.dirname(os.path.abspath(__file__))
 
-DATASET_DIR = os.path.join(BASE_DIR, 'datasets')
+DATASET_DIR = os.path.join(BASE_DIR, 'data','raw')
 
-DATASET_INGEST_DIR = os.path.join(BASE_DIR, 'dataset_ingest')
+DATASET_INGEST_DIR = os.path.join(BASE_DIR, 'data','procesado')
 
-DATASET_ENTRENAMIENTO_DIR = os.path.join(BASE_DIR, 'dataset_entrenamiento')
+DATASET_ENTRENAMIENTO_DIR = os.path.join(BASE_DIR, 'data','entrenamiento')
 
-MODELOS_DIR = os.path.join(BASE_DIR, 'modelos')
+MODELOS_DIR = os.path.join(BASE_DIR, 'ml', 'modelos')
 
-JSON_INFO_DIR = os.path.join(BASE_DIR, 'json')
+JSON_INFO_DIR = os.path.join(BASE_DIR, 'data','info')
 
-PARTIDAS_DIR = os.path.join(BASE_DIR, 'partidas')
+PARTIDAS_DIR = os.path.join(BASE_DIR, 'data','partidas')
 
-LOGS_DIR = os.path.join(BASE_DIR, 'modelos', 'logs')
+LOGS_DIR = os.path.join(BASE_DIR, 'ml', 'modelos', 'logs')
 
 DIST_DIR = os.path.join(BASE_DIR, 'dist')
