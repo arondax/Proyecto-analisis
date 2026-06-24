@@ -63,18 +63,18 @@ def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
 def predecir(request: PrediccionRequest):
     
     print(f"[PREDECIR] Iniciando para {request.nombre}#{request.tag}")
-    resultado_api = api.getData(request.nombre, request.tag, request.region, api_key)
+    resultado_api = api.getData(request.nombre.strip(), request.tag.strip(), request.region, api_key)
     print(f"[PREDECIR] resultado_api: {resultado_api is not None}")
     
     if not resultado_api:
         raise HTTPException(status_code=404, detail="No se encontraron datos del jugador")
 
-    df_raw = procesador.extraccion_datos(request.nombre, request.tag)
+    df_raw = procesador.extraccion_datos(request.nombre.strip(), request.tag.strip())
     print(f"[PREDECIR] df_raw shape: {df_raw.shape if df_raw is not None else None}")
     if df_raw is None or df_raw.empty:
         raise HTTPException(status_code=422, detail=f"El jugador {request.nombre} no tiene partidas válidas")
 
-    df = limpieza_datos.limpieza_jugador(request.nombre)
+    df = limpieza_datos.limpieza_jugador(request.nombre.strip())
     if df is None or df.empty:
         raise HTTPException(status_code=422, detail="No hay partidas competitivas para este jugador")
 
