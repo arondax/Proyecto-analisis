@@ -17,4 +17,4 @@ PARTIDAS_DIR = os.path.join(BASE_DIR, 'data','partidas')
 
 LOGS_DIR = os.path.join(BASE_DIR, 'ml', 'modelos', 'logs')
 
-DIST_DIR = os.path.join(BASE_DIR, 'dist')
+DIST_DIR = os.path.join(BASE_DIR, 'frontend','dist')
