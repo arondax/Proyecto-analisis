@@ -10,7 +10,7 @@ def getData(nombre, tag, region, api_key):
     print(f"Buscando datos de {nombre}#{tag}...")
     headers = {"Authorization": api_key, "Accept": "*/*"}
     
-    print(f"[DEBUG] API Key primeros 10 chars: '{api_key[:10]}'")
+    #print(f"[DEBUG] API Key primeros 10 chars: '{api_key[:10]}'")
     for intento in range(3):
         response = requests.get(URL, headers=headers)
         
