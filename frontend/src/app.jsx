@@ -5,7 +5,7 @@ const API_BASE = "https://valorantpredicter.onrender.com";
 
 const MAPAS = [
   "Abyss", "Ascent", "Bind", "Breeze", "Corrode",
-  "Fracture", "Haven", "Icebox", "Lotus", "Pearl", "Split", "Sunset",
+  "Fracture", "Haven", "Icebox", "Lotus", "Pearl", "Split", "Sunset", "Summit"
 ];
 
 const REGIONES = [
