@@ -1,6 +1,8 @@
 import requests
 import json
 import time
+import os
+import config
 
 ##Funcion para conseguir los datos en bruto
 def getData(nombre, tag, region, api_key):
@@ -15,7 +17,8 @@ def getData(nombre, tag, region, api_key):
             print('Solicitud existosa')
             data = response.json()
             nombre_archivo = f"matches_{nombre}.json"
-            direccion_archivo = f"./partidas/{nombre_archivo}"
+            os.makedirs(config.PARTIDAS_DIR, exist_ok=True)
+            direccion_archivo = os.path.join(config.PARTIDAS_DIR, nombre_archivo)
             with open(direccion_archivo, "w", encoding="utf-8") as f:
                 json.dump(data, f, indent=4)
             print(f"Archivo '{nombre_archivo}' creado con éxito.")
