@@ -1,6 +1,7 @@
 import pandas as pd
 import numpy as np
 import unicodedata, os, joblib
+import config
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
@@ -19,11 +20,11 @@ def lectura_csv(identificador):
     Returns:
         _type_: _description_ Devuelve un DataFrame de pandas que contiene los datos cargados desde el archivo CSV específico del dataset de entrenamiento, identificado por el parámetro de entrada. Este DataFrame se utiliza posteriormente en el proceso de entrenamiento del modelo de machine learning.
     """
-    ruta_csv=f"./dataset_entrenamiento/dataset_ingest_{identificador}.csv"
+    ruta_csv= os.path.join(config.DATASET_INGEST_DIR, f"dataset_ingest_{identificador}.csv")
     df= pd.read_csv(ruta_csv)
     return df
 
-def guardar_modelo (modelo, nombre:str, ruta:str='./modelos/'):
+def guardar_modelo (modelo, nombre:str, ruta:str=os.path.join(config.MODELOS_DIR)):
     """_summary_ Función que se encarga de guardar un modelo de machine learning entrenado en un archivo específico dentro de una carpeta designada para modelos. La función utiliza la biblioteca joblib para serializar el modelo y guardarlo en un archivo con un nombre basado en el parámetro de entrada, dentro de la ruta especificada. Si la carpeta no existe, se crea automáticamente antes de guardar el modelo.
 
     Args:
@@ -36,7 +37,7 @@ def guardar_modelo (modelo, nombre:str, ruta:str='./modelos/'):
     joblib.dump(modelo, ruta_completa)
     print(f"Modelo guardado en {ruta_completa}")
     
-def cargar_modelo(nombre: str, ruta: str = './modelos/'):
+def cargar_modelo(nombre: str, ruta: str = os.path.join(config.MODELOS_DIR)):
     """_summary_ Función que se encarga de cargar un modelo de machine learning previamente guardado desde un archivo específico dentro de una carpeta designada para modelos. La función utiliza la biblioteca joblib para deserializar el modelo desde el archivo, utilizando el nombre del modelo y la ruta especificada para localizar el archivo correcto. Si el archivo no existe, se lanza un error indicando que no se encontró el modelo.
 
     Args:
@@ -136,11 +137,14 @@ def crear_log (identificador):
     Returns:
         _type_: _description_ Devuelve un objeto de archivo abierto en modo de escritura o adición, que se utiliza para escribir las métricas de evaluación del modelo de regresión durante el proceso de entrenamiento. Este objeto de archivo se puede utilizar posteriormente para escribir nuevas entradas al log a medida que se evalúan los modelos durante el entrenamiento, y se asegura de que las métricas se guarden correctamente en el archivo de log correspondiente al entrenamiento del modelo.
     """
-    os.makedirs('./modelos/logs', exist_ok=True)
     
-    archivo_existe = os.path.exists(f'./modelos/logs/log_{identificador}.txt')
+    ruta_logs = os.path.join(config.MODELOS_DIR, 'logs')
+    os.makedirs(ruta_logs, exist_ok=True)
     
-    archivo = open(f'./modelos/logs/log_{identificador}.txt', 'a' if archivo_existe else 'w')
+    ruta_logs_identificdos = os.path.join(ruta_logs, f'log_{identificador}.txt')
+    archivo_existe = os.path.exists(ruta_logs_identificdos)
+    
+    archivo = open(ruta_logs_identificdos, 'a' if archivo_existe else 'w')
     
     if not archivo_existe:
         archivo.write(f"Log de entrenamiento - {identificador}\n")

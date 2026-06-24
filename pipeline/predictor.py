@@ -98,6 +98,7 @@ def guardar_prediccion_txt(
         rondas_perdidas (_type_): _description_ El número de rondas perdidas predichas por el modelo para la partida del jugador específico. Este valor se incluye en el bloque de texto que se guarda en el archivo "predicciones.txt", proporcionando información sobre la cantidad de rondas perdidas que se espera que el jugador obtenga en la partida según la predicción del modelo. Las rondas perdidas predichas se muestran junto con el nombre del jugador, el mapa, las rondas ganadas predichas, y el resultado final (victoria o derrota) en el bloque de texto registrado en el archivo.
         resultado (_type_): _description_ El resultado final de la partida predicho por el modelo, que puede ser "Victoria" o "Derrota". Este valor se incluye en el bloque de texto que se guarda en el archivo "predicciones.txt", proporcionando una interpretación clara de la predicción realizada por el modelo en términos de si se espera que el jugador gane o pierda la partida. El resultado se muestra junto con el nombre del jugador, el mapa, las rondas ganadas y perdidas predichas en el bloque de texto registrado en el archivo.
     """
+    #TODO Arreglar esta direccion relativa
     archivo = "predicciones.txt"
 
     # Comprobar si el archivo existe; si no, crearlo con un encabezado

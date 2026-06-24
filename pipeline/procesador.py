@@ -4,6 +4,8 @@ from pipeline import api, limpieza_datos
 
 import json
 import pandas as pd
+import config
+import os
 
 
 def extraccion_datos(nombre, tag):
@@ -16,16 +18,17 @@ def extraccion_datos(nombre, tag):
     Returns:
         _type_: _description_   Devuelve un DataFrame de pandas que contiene los datos extraídos de las partidas del jugador, organizados en columnas relevantes para el análisis y entrenamiento del modelo. Este DataFrame se puede utilizar posteriormente para realizar análisis exploratorios, limpieza de datos, y entrenamiento del modelo de machine learning. Además, la función también guarda estos datos en un archivo CSV específico para el jugador, dentro de la carpeta designada para datasets, utilizando el nombre del jugador para nombrar el archivo.
     """
-    import os
-    print(f"[DEBUG] Directorio de trabajo actual: {os.getcwd()}")
-    print(f"[DEBUG] Buscando JSON en: {os.path.abspath(f'./partidas/matches_{nombre}.json')}")
-    print(f"[DEBUG] CSV destino: {os.path.abspath(f'./datasets/dataset_{nombre}.csv')}")
+    
+    #print(f"[DEBUG] Directorio de trabajo actual: {os.getcwd()}")
+    #print(f"[DEBUG] Buscando JSON en: {os.path.abspath(f'./partidas/matches_{nombre}.json')}")
+    #print(f"[DEBUG] CSV destino: {os.path.abspath(f'./datasets/dataset_{nombre}.csv')}")
     
     filas_finales = []
     agentes= cargar_config_personajes()
     #Leemos el archivo
-    try:                                                            
-        with open(f'./partidas/matches_{nombre}.json','r', encoding='utf-8') as archivo:
+    try:              
+        ruta_partidas = os.path.join(config.PARTIDAS_DIR, f'matches_{nombre}.json')                                              
+        with open(ruta_partidas,'r', encoding='utf-8') as archivo:
             datos = json.load(archivo)
     except FileNotFoundError:
         print(f"No se encontró el archivo matches_{nombre}.json")
@@ -34,7 +37,7 @@ def extraccion_datos(nombre, tag):
     racha = 0
     
     #Revisamos si el archivo existe
-    direccion_archivo = f"./datasets/dataset_{nombre}.csv"
+    direccion_archivo = os.path.join(config.DATASET_DIR,f'dataset_{nombre}.csv')
     existe_archivo= os.path.exists(direccion_archivo)
     
     for partida in datos['data']:
@@ -161,7 +164,8 @@ def añadir_jugador_json(nombre, tag, region):
     """
     
     #Guardamos el jugador en los dos json de amigos recurrentes y jugadores recurrentes para luego cargarlo en el csv general de entrenamiento
-    with open('./json/amigos_recurrentes.json', 'r+', encoding='utf-8') as f:
+    ruta_amigos = os.path.join(config.JSON_INFO_DIR, 'amigos_recurrentes.json')
+    with open(ruta_amigos, 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
@@ -173,8 +177,9 @@ def añadir_jugador_json(nombre, tag, region):
             f.seek(0)
             json.dump(datos_amigos, f, indent=4)
             f.truncate()
-            
-    with open('./json/jugadores_entrenamiento.json', 'r+', encoding='utf-8') as f:
+    
+    ruta_jugadores_entrenamiento = os.path.join(config.JSON_INFO_DIR, 'jugadores_entrenamiento.json')        
+    with open(ruta_jugadores_entrenamiento, 'r+', encoding='utf-8') as f:
         datos_amigos = json.load(f)
         nuevo_amigo = {
             "nombre": nombre,
@@ -224,8 +229,9 @@ def cargar_config_personajes():
     Returns:
         _type_: _description_ Devuelve un diccionario que mapea cada personaje con su rol correspondiente, cargado desde un archivo JSON específico. Este diccionario se utiliza para identificar el rol de cada personaje durante el proceso de extracción de datos de las partidas, y es esencial para organizar los datos de manera adecuada para el análisis y entrenamiento del modelo. Si el archivo JSON no es encontrado, la función devuelve un diccionario vacío, lo que permite que el programa continúe ejecutándose sin interrupciones incluso si la configuración de personajes no está disponible.
     """
+    ruta_agentes = os.path.join(config.JSON_INFO_DIR, 'agentes_config.json')
     try:
-        with open('./json/agentes_config.json', 'r', encoding='utf-8') as f:
+        with open(ruta_agentes, 'r', encoding='utf-8') as f:
             return json.load(f)
     except FileNotFoundError:
         print("Error: No se encontró 'agentes_config.json'. Usando diccionario vacío.")
