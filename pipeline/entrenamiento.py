@@ -128,7 +128,7 @@ def entrenar_modelo_regression():
     dia_texto= dia.strftime('%Y%m%d')
     identificador = (f'entrenamiento_{dia_texto}')
 
-    direccion_archivo= os.path.join(config.DATASET_ENTRENAMIENTO_DIR, f'dataset_ingest_{identificador}.csv')
+    direccion_archivo= os.path.join(config.DATASET_ENTRENAMIENTO_DIR, f'dataset_ingest__entrenamiento{identificador}.csv')
     existe_archivo= os.path.exists(direccion_archivo)
     
     if not existe_archivo:
