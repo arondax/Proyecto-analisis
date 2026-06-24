@@ -20,7 +20,7 @@ def lectura_csv(identificador):
     Returns:
         _type_: _description_ Devuelve un DataFrame de pandas que contiene los datos cargados desde el archivo CSV específico del dataset de entrenamiento, identificado por el parámetro de entrada. Este DataFrame se utiliza posteriormente en el proceso de entrenamiento del modelo de machine learning.
     """
-    ruta_csv= os.path.join(config.DATASET_INGEST_DIR, f"dataset_ingest_{identificador}.csv")
+    ruta_csv= os.path.join(config.DATASET_ENTRENAMIENTO_DIR , f"dataset_ingest_entrenamiento_{identificador}.csv")
     df= pd.read_csv(ruta_csv)
     return df
 
