@@ -75,8 +75,15 @@ def predecir(request: PrediccionRequest):
         raise HTTPException(status_code=422, detail=f"El jugador {request.nombre} no tiene partidas válidas")
 
     df = limpieza_datos.limpieza_jugador(request.nombre.strip())
+
     if df is None or df.empty:
-        raise HTTPException(status_code=422, detail="No hay partidas competitivas para este jugador")
+        # Fallback: usar el dataset de ingest existente
+        ruta_ingest = os.path.join(config.DATASET_INGEST_DIR, f'dataset_ingest_{request.nombre.strip()}.csv')
+        if os.path.exists(ruta_ingest):
+            df = pd.read_csv(ruta_ingest)
+            print(f"[PREDECIR] Usando dataset ingest existente para {request.nombre}")
+        else:
+            raise HTTPException(status_code=422, detail=f"No hay partidas válidas para {request.nombre}")
 
     modelo = cargar_modelo(request.modelo)
     desconocidos = 5 - request.num_amigos
