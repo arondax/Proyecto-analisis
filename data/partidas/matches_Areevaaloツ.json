@@ -319,7 +319,7 @@
                     },
                     {
                         "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                        "name": "Ryuuh",
+                        "name": "Etol",
                         "tag": "\u30ad\u30f3\u30b0",
                         "team": "Red",
                         "level": 360,
@@ -905,7 +905,7 @@
                     },
                     {
                         "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                        "name": "Ryuuh",
+                        "name": "Etol",
                         "tag": "\u30ad\u30f3\u30b0",
                         "team": "Red",
                         "level": 360,
@@ -1636,7 +1636,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6557,
@@ -2141,7 +2141,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -2179,7 +2179,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5955,
@@ -2399,7 +2399,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2430,7 +2430,7 @@
                                     "kill_time_in_round": 17286,
                                     "kill_time_in_match": 72353,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                                     "victim_display_name": "VoxeadorMario#8913",
@@ -2509,7 +2509,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6548,
@@ -2842,7 +2842,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2549,
@@ -2946,7 +2946,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2663,
@@ -3283,7 +3283,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2656,
@@ -3414,7 +3414,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -3434,7 +3434,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2124,
@@ -3536,7 +3536,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3773,7 +3773,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2641,
@@ -3845,7 +3845,7 @@
                         },
                         "planted_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -3893,7 +3893,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6319,
@@ -3999,7 +3999,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6426,
@@ -4141,7 +4141,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5717,
@@ -4226,7 +4226,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6235,
@@ -4421,7 +4421,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3955,
@@ -4577,7 +4577,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5939,
@@ -4651,7 +4651,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5963,
@@ -4749,7 +4749,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4771,7 +4771,7 @@
                                     "kill_time_in_round": 60874,
                                     "kill_time_in_match": 266389,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "1c93e3c1-790b-5061-8db7-2b12aa3ba13b",
                                     "victim_display_name": "Pecolsito#Frost",
@@ -4800,7 +4800,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4968,
@@ -5007,7 +5007,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5998,
@@ -5151,7 +5151,7 @@
                         },
                         "planted_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -5209,7 +5209,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2998,
@@ -5372,7 +5372,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2041,
@@ -5466,7 +5466,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1349,
@@ -5824,7 +5824,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2857,
@@ -5955,7 +5955,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5984,7 +5984,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2229,
@@ -6086,7 +6086,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -6342,7 +6342,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3091,
@@ -6414,7 +6414,7 @@
                         },
                         "planted_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -6462,7 +6462,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1822,
@@ -6639,7 +6639,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2220,
@@ -6776,7 +6776,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1822,
@@ -6964,7 +6964,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2252,
@@ -7072,7 +7072,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7103,7 +7103,7 @@
                                     "kill_time_in_round": 4835,
                                     "kill_time_in_match": 429405,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -7172,7 +7172,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3245,
@@ -7217,7 +7217,7 @@
                                     "kill_time_in_round": 48288,
                                     "kill_time_in_match": 472858,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "1c93e3c1-790b-5061-8db7-2b12aa3ba13b",
                                     "victim_display_name": "Pecolsito#Frost",
@@ -7256,7 +7256,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2162,
@@ -7444,7 +7444,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1366,
@@ -7525,7 +7525,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -7545,7 +7545,7 @@
                                     "killer_display_name": "VoxeadorMario#8913",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2240,
@@ -7671,7 +7671,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7354,
@@ -7730,7 +7730,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -8046,7 +8046,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7344,
@@ -8102,7 +8102,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8133,7 +8133,7 @@
                                     "kill_time_in_round": 28802,
                                     "kill_time_in_match": 564916,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -8202,7 +8202,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5910,
@@ -8376,7 +8376,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6382,
@@ -8460,7 +8460,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7354,
@@ -8534,7 +8534,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6742,
@@ -8697,7 +8697,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3235,
@@ -8768,7 +8768,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -8788,7 +8788,7 @@
                                     "killer_display_name": "VoxeadorMario#8913",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3251,
@@ -8942,7 +8942,7 @@
                         },
                         "planted_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -9000,7 +9000,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1657,
@@ -9215,7 +9215,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1654,
@@ -9289,7 +9289,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 90,
@@ -9359,7 +9359,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -9445,7 +9445,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1836,
@@ -9600,7 +9600,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -9620,7 +9620,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -377,
@@ -9708,7 +9708,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9748,7 +9748,7 @@
                                     "kill_time_in_round": 44886,
                                     "kill_time_in_match": 673548,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardoisback#002",
@@ -9787,7 +9787,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1092,
@@ -9953,7 +9953,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 821,
@@ -10152,7 +10152,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1654,
@@ -10334,7 +10334,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -10354,7 +10354,7 @@
                                     "killer_display_name": "Pecolsito#Frost",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5540,
@@ -10582,7 +10582,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6267,
@@ -10892,7 +10892,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -10939,7 +10939,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10970,7 +10970,7 @@
                                     "kill_time_in_round": 4719,
                                     "kill_time_in_match": 734148,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                                     "victim_display_name": "VoxeadorMario#8913",
@@ -11049,7 +11049,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3124,
@@ -11084,7 +11084,7 @@
                                     "kill_time_in_round": 23632,
                                     "kill_time_in_match": 753061,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -11153,7 +11153,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6388,
@@ -11425,7 +11425,7 @@
                         },
                         "planted_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -11473,7 +11473,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1657,
@@ -11767,7 +11767,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1092,
@@ -11923,7 +11923,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1657,
@@ -11979,7 +11979,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12010,7 +12010,7 @@
                                     "kill_time_in_round": 2377,
                                     "kill_time_in_match": 820972,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -12079,7 +12079,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 649,
@@ -12245,7 +12245,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2121,
@@ -12329,7 +12329,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1657,
@@ -12537,7 +12537,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -12546,7 +12546,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -12566,7 +12566,7 @@
                                     "killer_display_name": "Pecolsito#Frost",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6610,
@@ -12660,7 +12660,7 @@
                                     "killer_display_name": "Pecolsito#Frost",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6866,
@@ -12894,7 +12894,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6634,
@@ -13050,7 +13050,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3108,
@@ -13244,7 +13244,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6629,
@@ -13438,7 +13438,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13599,7 +13599,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6486,
@@ -13631,7 +13631,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -13888,7 +13888,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1149,
@@ -13928,7 +13928,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14003,7 +14003,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1793,
@@ -14156,7 +14156,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1088,
@@ -14375,7 +14375,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1709,
@@ -14531,7 +14531,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14753,7 +14753,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1283,
@@ -14837,7 +14837,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1344,
@@ -14859,7 +14859,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -14917,7 +14917,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1325,
@@ -15097,7 +15097,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2943,
@@ -15265,7 +15265,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3521,
@@ -15424,7 +15424,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3813,
@@ -15560,7 +15560,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2943,
@@ -15658,7 +15658,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15680,7 +15680,7 @@
                                     "kill_time_in_round": 2745,
                                     "kill_time_in_match": 1151512,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -15749,7 +15749,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 647,
@@ -15934,7 +15934,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3303,
@@ -16028,7 +16028,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5234,
@@ -16398,7 +16398,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2841,
@@ -16851,7 +16851,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -16940,7 +16940,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -16969,7 +16969,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2043,
@@ -17191,7 +17191,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17326,7 +17326,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -17588,7 +17588,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17674,7 +17674,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6553,
@@ -17833,7 +17833,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4173,
@@ -17855,7 +17855,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -17947,7 +17947,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17978,7 +17978,7 @@
                                     "kill_time_in_round": 65731,
                                     "kill_time_in_match": 1445510,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardoisback#002",
@@ -18027,7 +18027,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3425,
@@ -18201,7 +18201,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6515,
@@ -18395,7 +18395,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6473,
@@ -18495,7 +18495,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7037,
@@ -18803,7 +18803,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -18823,7 +18823,7 @@
                                     "killer_display_name": "Pecolsito#Frost",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2511,
@@ -19035,7 +19035,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2495,
@@ -19275,7 +19275,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2494,
@@ -19445,7 +19445,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19476,7 +19476,7 @@
                                     "kill_time_in_round": 33395,
                                     "kill_time_in_match": 1521709,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                                     "victim_display_name": "VoxeadorMario#8913",
@@ -19545,7 +19545,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2509,
@@ -19693,7 +19693,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -20354,7 +20354,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20383,7 +20383,7 @@
                                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7317,
@@ -20505,7 +20505,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -20647,7 +20647,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7095,
@@ -21048,7 +21048,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6811,
@@ -21168,7 +21168,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 24,
@@ -21340,7 +21340,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21406,7 +21406,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 264,
@@ -21496,7 +21496,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 50,
@@ -21524,7 +21524,7 @@
                                     "killer_display_name": "bardoisback#002",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -182,
@@ -21701,7 +21701,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21748,7 +21748,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21788,7 +21788,7 @@
                                     "kill_time_in_round": 12913,
                                     "kill_time_in_match": 1717795,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -21847,7 +21847,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3340,
@@ -22026,7 +22026,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 34,
@@ -22202,7 +22202,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4130,
@@ -22292,7 +22292,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 38,
@@ -22432,7 +22432,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6673,
@@ -22486,7 +22486,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6246,
@@ -22582,7 +22582,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -22666,7 +22666,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6799,
@@ -22943,7 +22943,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6215,
@@ -23017,7 +23017,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5889,
@@ -23131,7 +23131,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -23163,7 +23163,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -23189,7 +23189,7 @@
                                     "kill_time_in_round": 33031,
                                     "kill_time_in_match": 1816238,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardoisback#002",
@@ -23258,7 +23258,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6592,
@@ -23309,7 +23309,7 @@
                                     "kill_time_in_round": 35184,
                                     "kill_time_in_match": 1818391,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -23368,7 +23368,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6647,
@@ -23419,7 +23419,7 @@
                                     "kill_time_in_round": 55405,
                                     "kill_time_in_match": 1838612,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                                     "victim_display_name": "VoxeadorMario#8913",
@@ -23438,7 +23438,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6492,
@@ -23663,7 +23663,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5900,
@@ -23723,7 +23723,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5957,
@@ -23962,7 +23962,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3785,
@@ -24042,7 +24042,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -24118,7 +24118,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1737,
@@ -24162,7 +24162,7 @@
                                     "killer_display_name": "bardoisback#002",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2154,
@@ -24335,7 +24335,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1737,
@@ -24457,7 +24457,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -24523,7 +24523,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1606,
@@ -24579,7 +24579,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24619,7 +24619,7 @@
                                     "kill_time_in_round": 57725,
                                     "kill_time_in_match": 1932468,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                                     "victim_display_name": "VoxeadorMario#8913",
@@ -24668,7 +24668,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1611,
@@ -24689,7 +24689,7 @@
                                     "kill_time_in_round": 64630,
                                     "kill_time_in_match": 1939373,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardoisback#002",
@@ -24728,7 +24728,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2261,
@@ -24743,7 +24743,7 @@
                                     "kill_time_in_round": 79507,
                                     "kill_time_in_match": 1954250,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -24772,7 +24772,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2281,
@@ -24898,7 +24898,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1548,
@@ -25112,7 +25112,7 @@
                             },
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6585,
@@ -25139,14 +25139,14 @@
                         },
                         "defused_by": {
                             "puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "display_name": "Etol#\u30ad\u30f3\u30b0",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 110298,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6560,
@@ -25245,7 +25245,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6620,
@@ -25305,7 +25305,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6416,
@@ -25452,7 +25452,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5347,
@@ -25693,7 +25693,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6428,
@@ -25791,7 +25791,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -25805,7 +25805,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -25952,7 +25952,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4851,
@@ -26137,7 +26137,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5242,
@@ -26221,7 +26221,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6487,
@@ -26271,7 +26271,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6593,
@@ -26504,7 +26504,7 @@
                                 },
                                 {
                                     "receiver_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "receiver_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "receiver_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -26570,7 +26570,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2029,
@@ -26726,7 +26726,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 298,
@@ -26882,7 +26882,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -26913,7 +26913,7 @@
                                     "kill_time_in_round": 21441,
                                     "kill_time_in_match": 2160000,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -26972,7 +26972,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -457,
@@ -27018,7 +27018,7 @@
                                     "kill_time_in_round": 33495,
                                     "kill_time_in_match": 2172054,
                                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                                     "killer_team": "Red",
                                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                                     "victim_display_name": "bardoisback#002",
@@ -27057,7 +27057,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1818,
@@ -27170,7 +27170,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2287,
@@ -27306,7 +27306,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -916,
@@ -27338,7 +27338,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -27469,7 +27469,7 @@
                                         },
                                         {
                                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1911,
@@ -27546,7 +27546,7 @@
                     "kill_time_in_match": 72353,
                     "round": 0,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                     "victim_display_name": "VoxeadorMario#8913",
@@ -27625,7 +27625,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6548,
@@ -27740,7 +27740,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6557,
@@ -27775,7 +27775,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5955,
@@ -28277,7 +28277,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2549,
@@ -28382,7 +28382,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2641,
@@ -28487,7 +28487,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2663,
@@ -28572,7 +28572,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2656,
@@ -28607,7 +28607,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2124,
@@ -28878,7 +28878,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3955,
@@ -28983,7 +28983,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5998,
@@ -29089,7 +29089,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5939,
@@ -29184,7 +29184,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5717,
@@ -29280,7 +29280,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6426,
@@ -29351,7 +29351,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6235,
@@ -29412,7 +29412,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5963,
@@ -29428,7 +29428,7 @@
                     "kill_time_in_match": 266389,
                     "round": 2,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "1c93e3c1-790b-5061-8db7-2b12aa3ba13b",
                     "victim_display_name": "Pecolsito#Frost",
@@ -29457,7 +29457,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 4968,
@@ -29552,7 +29552,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3091,
@@ -29667,7 +29667,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2857,
@@ -29768,7 +29768,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2041,
@@ -29863,7 +29863,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1349,
@@ -29882,7 +29882,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2229,
@@ -30085,7 +30085,7 @@
                     "kill_time_in_match": 429405,
                     "round": 4,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -30154,7 +30154,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3245,
@@ -30259,7 +30259,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1366,
@@ -30364,7 +30364,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1822,
@@ -30459,7 +30459,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2220,
@@ -30534,7 +30534,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2252,
@@ -30560,7 +30560,7 @@
                     "kill_time_in_match": 472858,
                     "round": 4,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "1c93e3c1-790b-5061-8db7-2b12aa3ba13b",
                     "victim_display_name": "Pecolsito#Frost",
@@ -30599,7 +30599,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2162,
@@ -30628,7 +30628,7 @@
                     "killer_display_name": "VoxeadorMario#8913",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2240,
@@ -30683,7 +30683,7 @@
                     "killer_display_name": "VoxeadorMario#8913",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3251,
@@ -30880,7 +30880,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3235,
@@ -30916,7 +30916,7 @@
                     "kill_time_in_match": 564916,
                     "round": 5,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -30985,7 +30985,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5910,
@@ -31080,7 +31080,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6382,
@@ -31165,7 +31165,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 7354,
@@ -31250,7 +31250,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 7344,
@@ -31315,7 +31315,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6742,
@@ -31416,7 +31416,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 821,
@@ -31531,7 +31531,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1836,
@@ -31626,7 +31626,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1654,
@@ -31711,7 +31711,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1654,
@@ -31747,7 +31747,7 @@
                     "kill_time_in_match": 673548,
                     "round": 6,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardoisback#002",
@@ -31786,7 +31786,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1092,
@@ -31861,7 +31861,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 90,
@@ -31890,7 +31890,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -377,
@@ -31948,7 +31948,7 @@
                     "kill_time_in_match": 734148,
                     "round": 7,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                     "victim_display_name": "VoxeadorMario#8913",
@@ -32027,7 +32027,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3124,
@@ -32142,7 +32142,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6267,
@@ -32168,7 +32168,7 @@
                     "kill_time_in_match": 753061,
                     "round": 7,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -32237,7 +32237,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6388,
@@ -32266,7 +32266,7 @@
                     "killer_display_name": "Pecolsito#Frost",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5540,
@@ -32555,7 +32555,7 @@
                     "kill_time_in_match": 820972,
                     "round": 8,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -32624,7 +32624,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 649,
@@ -32739,7 +32739,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1092,
@@ -32834,7 +32834,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2121,
@@ -32929,7 +32929,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1657,
@@ -33004,7 +33004,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1657,
@@ -33099,7 +33099,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3108,
@@ -33214,7 +33214,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6486,
@@ -33246,7 +33246,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         },
                         {
@@ -33264,7 +33264,7 @@
                     "killer_display_name": "Pecolsito#Frost",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6610,
@@ -33425,7 +33425,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6629,
@@ -33510,7 +33510,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6634,
@@ -33539,7 +33539,7 @@
                     "killer_display_name": "Pecolsito#Frost",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6866,
@@ -33896,7 +33896,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1088,
@@ -34022,7 +34022,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1283,
@@ -34117,7 +34117,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1709,
@@ -34208,7 +34208,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1344,
@@ -34230,7 +34230,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -34289,7 +34289,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1325,
@@ -34364,7 +34364,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1793,
@@ -34386,7 +34386,7 @@
                     "kill_time_in_match": 1151512,
                     "round": 11,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -34455,7 +34455,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 647,
@@ -34570,7 +34570,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3303,
@@ -34675,7 +34675,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3521,
@@ -34760,7 +34760,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5234,
@@ -34835,7 +34835,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2943,
@@ -34900,7 +34900,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3813,
@@ -35005,7 +35005,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2841,
@@ -35044,7 +35044,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2043,
@@ -35474,7 +35474,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -35535,7 +35535,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -35669,7 +35669,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6473,
@@ -35780,7 +35780,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6515,
@@ -35885,7 +35885,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6553,
@@ -35970,7 +35970,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 7037,
@@ -36002,7 +36002,7 @@
                     "kill_time_in_match": 1445510,
                     "round": 13,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardoisback#002",
@@ -36051,7 +36051,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3425,
@@ -36116,7 +36116,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 4173,
@@ -36138,7 +36138,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36217,7 +36217,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2494,
@@ -36332,7 +36332,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2495,
@@ -36368,7 +36368,7 @@
                     "kill_time_in_match": 1521709,
                     "round": 14,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                     "victim_display_name": "VoxeadorMario#8913",
@@ -36437,7 +36437,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2509,
@@ -36466,7 +36466,7 @@
                     "killer_display_name": "Pecolsito#Frost",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2511,
@@ -36684,7 +36684,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36904,7 +36904,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6811,
@@ -37019,7 +37019,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 7095,
@@ -37058,7 +37058,7 @@
                     "killer_display_name": "Areevaalo\u30c4#SCOTT",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7317,
@@ -37579,7 +37579,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 4130,
@@ -37631,7 +37631,7 @@
                     "kill_time_in_match": 1717795,
                     "round": 16,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -37690,7 +37690,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3340,
@@ -37785,7 +37785,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 264,
@@ -37876,7 +37876,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 34,
@@ -37961,7 +37961,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 38,
@@ -38036,7 +38036,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 50,
@@ -38065,7 +38065,7 @@
                     "killer_display_name": "bardoisback#002",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -182,
@@ -38123,7 +38123,7 @@
                     "kill_time_in_match": 1816238,
                     "round": 17,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardoisback#002",
@@ -38192,7 +38192,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6592,
@@ -38244,7 +38244,7 @@
                     "kill_time_in_match": 1818391,
                     "round": 17,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -38303,7 +38303,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6647,
@@ -38404,7 +38404,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6215,
@@ -38499,7 +38499,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6799,
@@ -38574,7 +38574,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5900,
@@ -38645,7 +38645,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5889,
@@ -38706,7 +38706,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5957,
@@ -38742,7 +38742,7 @@
                     "kill_time_in_match": 1838612,
                     "round": 17,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                     "victim_display_name": "VoxeadorMario#8913",
@@ -38761,7 +38761,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6492,
@@ -38872,7 +38872,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 3785,
@@ -38977,7 +38977,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1737,
@@ -39072,7 +39072,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1737,
@@ -39163,7 +39163,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1548,
@@ -39248,7 +39248,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1606,
@@ -39274,7 +39274,7 @@
                     "kill_time_in_match": 1932468,
                     "round": 18,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "50a07c99-bdf3-50f0-8788-9a864e472c43",
                     "victim_display_name": "VoxeadorMario#8913",
@@ -39323,7 +39323,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1611,
@@ -39348,7 +39348,7 @@
                     "killer_display_name": "bardoisback#002",
                     "killer_team": "Blue",
                     "victim_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "victim_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "victim_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2154,
@@ -39400,7 +39400,7 @@
                     "kill_time_in_match": 1939373,
                     "round": 18,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardoisback#002",
@@ -39439,7 +39439,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2261,
@@ -39455,7 +39455,7 @@
                     "kill_time_in_match": 1954250,
                     "round": 18,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "3c036070-ea46-5d65-bd37-3bde17427fc7",
                     "victim_display_name": "Areevaalo\u30c4#SCOTT",
@@ -39484,7 +39484,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 2281,
@@ -39569,7 +39569,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 4851,
@@ -39684,7 +39684,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5242,
@@ -39789,7 +39789,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 5347,
@@ -39874,7 +39874,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6428,
@@ -39949,7 +39949,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6487,
@@ -40020,7 +40020,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6620,
@@ -40081,7 +40081,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6416,
@@ -40126,7 +40126,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 6593,
@@ -40227,7 +40227,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 1911,
@@ -40342,7 +40342,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": 298,
@@ -40384,7 +40384,7 @@
                     "kill_time_in_match": 2160000,
                     "round": 20,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "f9cd9d1b-7c86-52a2-aea0-6e7fb73fc78c",
                     "victim_display_name": "Rayito \u30c4#ESP",
@@ -40443,7 +40443,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -457,
@@ -40539,7 +40539,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -916,
@@ -40571,7 +40571,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "assistant_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "assistant_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "assistant_team": "Red"
                         }
                     ]
@@ -40630,7 +40630,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -2029,
@@ -40656,7 +40656,7 @@
                     "kill_time_in_match": 2172054,
                     "round": 20,
                     "killer_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                    "killer_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                    "killer_display_name": "Etol#\u30ad\u30f3\u30b0",
                     "killer_team": "Red",
                     "victim_puuid": "6250b6dc-a091-56be-958f-3a57916b2343",
                     "victim_display_name": "bardoisback#002",
@@ -40695,7 +40695,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -1818,
@@ -40756,7 +40756,7 @@
                         },
                         {
                             "player_puuid": "4f35440e-6b21-58a4-be10-83d4342de0b8",
-                            "player_display_name": "Ryuuh#\u30ad\u30f3\u30b0",
+                            "player_display_name": "Etol#\u30ad\u30f3\u30b0",
                             "player_team": "Red",
                             "location": {
                                 "x": -2287,
