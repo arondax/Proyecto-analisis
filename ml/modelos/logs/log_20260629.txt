@@ -1,0 +1,51 @@
+Log de entrenamiento - 20260629
+==================================================
+Dataset: 20260629 | Tamaño: 1392
+
+========================================
+  Regresión Lineal
+========================================
+  [rondas_ganadas] MAE: 2.23
+  [rondas_ganadas] RMSE: 2.69
+  [rondas_ganadas] R²: 0.4300
+  CV R² (5-fold): 0.4771 ± 0.0273
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.83
+  [rondas_perdidas] RMSE: 2.24
+  [rondas_perdidas] R²: 0.5658
+  CV R² (5-fold): 0.4771 ± 0.0273
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
+
+========================================
+  Árbol de Decisión
+========================================
+  [rondas_ganadas] MAE: 2.33
+  [rondas_ganadas] RMSE: 2.94
+  [rondas_ganadas] R²: 0.3212
+  CV R² (5-fold): 0.4361 ± 0.0584
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.78
+  [rondas_perdidas] RMSE: 2.25
+  [rondas_perdidas] R²: 0.5608
+  CV R² (5-fold): 0.4361 ± 0.0584
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
+
+========================================
+  Random Forest
+========================================
+  [rondas_ganadas] MAE: 2.21
+  [rondas_ganadas] RMSE: 2.77
+  [rondas_ganadas] R²: 0.3973
+  CV R² (5-fold): 0.5156 ± 0.0509
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
+  [rondas_perdidas] MAE: 1.74
+  [rondas_perdidas] RMSE: 2.19
+  [rondas_perdidas] R²: 0.5847
+  CV R² (5-fold): 0.5156 ± 0.0509
+Muestras totales: 1392 | Train: 974 | Test: 418
+Split: random (sin fecha disponible)
