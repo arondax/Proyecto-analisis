@@ -88,11 +88,16 @@ def entrenamiento_regresion(df, identificador):
     #df_train = df_train.drop(columns=columnas_drop, errors='ignore')
     #df_test  = df_test.drop(columns=columnas_drop, errors='ignore')
         
-    df, preprocessor= transformacion_a_numeros(df)
-    scaler= StandardScaler()
-    y = df[['rondas_ganadas', 'rondas_perdidas']] 
-    X= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas','racha'])
+   
 
+    y = df[['rondas_ganadas', 'rondas_perdidas']] 
+    df= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas','racha'])
+    df, preprocessor= transformacion_a_numeros(df)
+    X=df
+    
+    feature_names = list(X.columns)
+    
+    scaler= StandardScaler()
     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
     x_train = scaler.fit_transform(x_train)
     x_test = scaler.transform(x_test)
@@ -108,6 +113,7 @@ def entrenamiento_regresion(df, identificador):
     
     guardar_modelo(preprocessor, 'preprocessor')
     guardar_modelo(scaler, 'scaler')
+    guardar_modelo(feature_names, 'feature_names')
     
     for nombre, modelo  in algoritmos.items():
         
