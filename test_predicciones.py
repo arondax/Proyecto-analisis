@@ -1,7 +1,7 @@
 import random
 import pandas as pd
 import numpy as np
-
+#TODO ACTUALZIAR
 # Importamos tu función modificada (asegúrate de que el archivo se llame prediccion.py)
 import pipeline.predictor as predictor
 

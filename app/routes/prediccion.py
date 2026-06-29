@@ -31,6 +31,7 @@ if not api_key:
 
 #Helpers
 
+
 def cargar_modelo(modelo_nombre: str):
     """_summary_ Carga el modelo de machine learning especificado por el usuario.
 
@@ -47,6 +48,12 @@ def cargar_modelo(modelo_nombre: str):
     if not os.path.exists(ruta_modelo):
         raise HTTPException(status_code=400, detail=f"Modelo '{modelo_nombre}' no encontrado.")
     return joblib.load(ruta_modelo)
+
+def cargar_artefactos():
+    preprocessor = cargar_modelo('preprocessor')
+    scaler = cargar_modelo('scaler')
+    nombres_columnas = cargar_modelo('feature_names')
+    return preprocessor, scaler, nombres_columnas
 
 def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
     ruta_jugador = os.path.join(config.DATASET_INGEST_DIR, f"dataset_ingest_{nombre}.csv")
@@ -86,11 +93,12 @@ def predecir(request: PrediccionRequest):
             raise HTTPException(status_code=422, detail=f"No hay partidas válidas para {request.nombre}")
 
     modelo = cargar_modelo(request.modelo)
+    preprocessor, scaler, nombres_columnas = cargar_artefactos()
     desconocidos = 5 - request.num_amigos
 
  
     resultado = predictor.predecir_jugador(
-    modelo, df, request.mapa,
+    modelo, preprocessor, scaler, nombres_columnas ,df, request.mapa,
     float(request.es_main), request.num_amigos,
     desconocidos, request.nombre
     )

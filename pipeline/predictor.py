@@ -3,7 +3,7 @@ import os
 from datetime import datetime
 
 
-def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre_jugador):
+def predecir_jugador(modelo, preprocessor, scaler, nombre_columnas, df, mapa, es_main, num_amigos, nombre_jugador):
     """_summary_ Función que se encarga de predecir el resultado de una partida para un jugador específico utilizando un modelo de machine learning entrenado. La función toma como entrada el modelo, un DataFrame con los datos históricos del jugador, el mapa en el que se va a jugar la partida, si el jugador es main o no, el número de amigos que jugarán la partida, el número de desconocidos que jugarán la partida, y el nombre del jugador. La función procesa estos datos para construir un nuevo DataFrame con las características necesarias para la predicción, asegurando que las columnas estén en el mismo orden que durante el entrenamiento del modelo. Luego, utiliza el modelo para predecir las rondas ganadas y perdidas, determina el resultado final (victoria o derrota), muestra la predicción en consola, y guarda la predicción en un archivo de texto específico para mantener un historial de predicciones realizadas.
 
     Args:
@@ -25,7 +25,9 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
 
     # CREAR EL DATAFRAME ASEGURANDO EL ORDEN ORIGINAL
     X = construir_input(df, mapa, es_main, num_amigos)
-
+    X = preprocessor.transform(X)
+    X = pd.DataFrame(X, columns=nombre_columnas)
+    X = scaler.transform(X)
     # 6. Hacer la predicción
     prediccion = modelo.predict(X)[0]
     rondas_g = prediccion[0]
@@ -49,41 +51,22 @@ def predecir_jugador(modelo, df, mapa, es_main, num_amigos, desconocidos, nombre
         "resultado": resultado
     }
 
-def construir_input(df: pd.DataFrame, mapa:str, es_main: float, num_amigos:int) ->pd.DataFrame:
-    columnas_a_excluir = ["id_partida", "rondas_ganadas", "rondas_perdidas", "racha"]
-    columnas_modelo = [col for col in df.columns if col not in columnas_a_excluir]
- 
+def construir_input(df, mapa, es_main, num_amigos):
     columnas_numericas = ["kills", "asistencias", "muertes", "headshots", "acs", "fb", "fd"]
-    columnas_mapa = [col for col in df.columns if col.startswith("mapa_")]
- 
+    
     ultima = df.iloc[-1]
     medias = df[columnas_numericas].mean()
- 
+    
     partida = {}
     partida["rango"]        = ultima["rango"]
+    partida["mapa"]         = mapa
     partida["subrango"]     = ultima["subrango"]
-    #partida["racha"]        = ultima["racha"]
     partida["es_main"]      = es_main
     partida["num_amigos"]   = float(num_amigos)
     partida["desconocidos"] = float(4 - num_amigos)
     partida.update(medias.to_dict())
- 
-    # Inicializar los mapas en 0.0
-    for col in columnas_mapa:
-        partida[col] = 0.0
-
-    # Activar el mapa actual
-    mapa_col = f"mapa_{mapa}"
-    if mapa_col not in columnas_mapa:
-        mapas_disponibles = [m.replace("mapa_", "") for m in columnas_mapa]
-        raise ValueError(
-            f"Mapa no reconocido: {mapa}. Disponibles: {mapas_disponibles}"
-        )
-    partida[mapa_col] = 1.0
     
-    df=pd.DataFrame([partida])[columnas_modelo]
- 
-    return df
+    return pd.DataFrame([partida])
 
 
 def guardar_prediccion_txt(
