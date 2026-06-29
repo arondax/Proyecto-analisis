@@ -9,6 +9,7 @@ from sklearn.ensemble import RandomForestRegressor
 from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
+from sklearn.preprocessing import StandardScaler
 
 #FUNCIONES GENERICAS
 def lectura_csv(identificador):
@@ -82,11 +83,13 @@ def entrenamiento_regresion(df, identificador):
     #df_train = df_train.drop(columns=columnas_drop, errors='ignore')
     #df_test  = df_test.drop(columns=columnas_drop, errors='ignore')
         
-    
+    scaler= StandardScaler()
     y = df[['rondas_ganadas', 'rondas_perdidas']] 
     X= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas','racha'])
+
     x_train, x_test, y_train, y_test = train_test_split(X, y, test_size=0.3, random_state=42)
-    
+    x_train = scaler.fit_transform(x_train)
+    x_test = scaler.transform(x_test)
     algoritmos = {
     "Regresión Lineal": LinearRegression(),
     "Árbol de Decisión": DecisionTreeRegressor(random_state=42, max_depth=4),
