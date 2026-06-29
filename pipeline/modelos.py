@@ -117,7 +117,6 @@ def entrenamiento_regresion(df, identificador):
     
     for nombre, modelo  in algoritmos.items():
         
-    
        modelo.fit(x_train, y_train)
        y_pred = modelo.predict(x_test) 
        #Limpiamos los nombres
@@ -145,6 +144,22 @@ def entrenamiento_regresion(df, identificador):
             archivo.write(f"Split: random (sin fecha disponible)\n")
             
             archivo.flush()  # Asegura que se escriba en el archivo después de cada modelo
+        
+    if hasattr(modelo, 'feature_importances_'):
+        importancias = modelo.feature_importances_
+        feature_names_modelo = X.columns.tolist()
+        archivo.write(f"\n  Feature Importances:\n")
+        for feat, imp in sorted(zip(feature_names_modelo, importancias), key=lambda x: x[1], reverse=True):
+            archivo.write(f"    {feat}: {imp*100:.2f}%\n")
+    else:
+        # Regresión Lineal — coeficientes
+        coefs = modelo.coef_
+        feature_names_modelo = X.columns.tolist()
+        archivo.write(f"\n  Coeficientes (rondas_ganadas | rondas_perdidas):\n")
+        for feat, coef_g, coef_p in zip(feature_names_modelo, coefs[0], coefs[1]):
+            archivo.write(f"    {feat}: {coef_g:.4f} | {coef_p:.4f}\n")
+            
+
     return None
 
 def crear_log (identificador):
