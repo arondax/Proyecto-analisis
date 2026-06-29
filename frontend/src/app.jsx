@@ -1,5 +1,6 @@
 import { useState } from "react";
-import { createRoot } from "react-dom/client"; // 👈 1. IMPORTANTE: Añadido para poder renderizar
+import { createRoot } from "react-dom/client";
+import Estadisticas from "./estadisticas";
 
 const API_BASE = "https://valorantpredicter.onrender.com";
 
@@ -9,12 +10,12 @@ const MAPAS = [
 ];
 
 const REGIONES = [
-  { value: "eu", label: "EU — Europa" },
-  { value: "na", label: "NA — Norteamérica" },
-  { value: "ap", label: "AP — Asia Pacífico" },
-  { value: "kr", label: "KR — Corea" },
+  { value: "eu",    label: "EU — Europa" },
+  { value: "na",    label: "NA — Norteamérica" },
+  { value: "ap",    label: "AP — Asia Pacífico" },
+  { value: "kr",    label: "KR — Corea" },
   { value: "latam", label: "LATAM — Latinoamérica" },
-  { value: "br",   label: "BR — Brasil" },
+  { value: "br",    label: "BR — Brasil" },
 ];
 
 const MODELOS = [
@@ -78,7 +79,7 @@ function ResultCard({ data, onReset }) {
           textTransform: "uppercase",
           margin: "0 0 0.5rem",
         }}>
-          {data.jugador} · {data.mapa}
+          {data.nombre} · {data.mapa}
         </p>
 
         <p style={{
@@ -101,7 +102,7 @@ function ResultCard({ data, onReset }) {
           marginTop: "1.5rem",
         }}>
           {[
-            { label: "rondas ganadas", val: data.rondas_ganadas, color: "#22c55e" },
+            { label: "rondas ganadas",  val: data.rondas_ganadas,  color: "#22c55e" },
             { label: "rondas perdidas", val: data.rondas_perdidas, color: "#ef4444" },
           ].map(({ label, val, color }) => (
             <div key={label} style={{ textAlign: "center" }}>
@@ -152,18 +153,21 @@ function ResultCard({ data, onReset }) {
   );
 }
 
-// Cambiado a función normal (quitado el export default de la línea para poder instanciarlo abajo)
 function App() {
-  const [nombre,     setNombre]     = useState("");
-  const [tag,        setTag]        = useState("");
-  const [region,     setRegion]     = useState("eu");
-  const [mapa,       setMapa]       = useState("");
-  const [esMain,     setEsMain]     = useState(true);
-  const [numAmigos,  setNumAmigos]  = useState(2);
-  const [modelo,     setModelo]     = useState("randomforest");
-  const [loading,    setLoading]    = useState(false);
-  const [result,     setResult]     = useState(null);
-  const [error,      setError]      = useState("");
+  // ── navegación ──────────────────────────────────────────────
+  const [vista, setVista] = useState("prediccion");
+
+  // ── predicción ───────────────────────────────────────────────
+  const [nombre,    setNombre]    = useState("");
+  const [tag,       setTag]       = useState("");
+  const [region,    setRegion]    = useState("eu");
+  const [mapa,      setMapa]      = useState("");
+  const [esMain,    setEsMain]    = useState(true);
+  const [numAmigos, setNumAmigos] = useState(2);
+  const [modelo,    setModelo]    = useState("randomforest");
+  const [loading,   setLoading]   = useState(false);
+  const [result,    setResult]    = useState(null);
+  const [error,     setError]     = useState("");
 
   async function handleSubmit(e) {
     e.preventDefault();
@@ -177,7 +181,7 @@ function App() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          nombre:    nombre.trim(),
+          nombre:     nombre.trim(),
           tag:        tag.trim(),
           region,
           mapa,
@@ -204,14 +208,14 @@ function App() {
         @import url('https://fonts.googleapis.com/css2?family=Rajdhani:wght@400;600;700&family=Space+Mono:wght@400;700&display=swap');
 
         :root {
-          --c-bg:          #0d0f11;
-          --c-surface:     #13161a;
-          --c-surface-2:   #1a1e24;
-          --c-border:      rgba(255,255,255,0.08);
-          --c-accent:      #ff4655;
+          --c-bg:            #0d0f11;
+          --c-surface:       #13161a;
+          --c-surface-2:     #1a1e24;
+          --c-border:        rgba(255,255,255,0.08);
+          --c-accent:        #ff4655;
           --c-accent-border: #ff4655aa;
-          --c-text:        #e8eaec;
-          --c-text-muted:  #6b7280;
+          --c-text:          #e8eaec;
+          --c-text-muted:    #6b7280;
         }
 
         * { box-sizing: border-box; margin: 0; padding: 0; }
@@ -240,13 +244,8 @@ function App() {
           -webkit-appearance: none;
         }
 
-        input[type=text]::placeholder {
-          color: var(--c-text-muted);
-        }
-
-        input[type=text]:focus, select:focus {
-          border-color: var(--c-accent);
-        }
+        input[type=text]::placeholder { color: var(--c-text-muted); }
+        input[type=text]:focus, select:focus { border-color: var(--c-accent); }
 
         input[type=range] {
           padding: 0;
@@ -259,7 +258,6 @@ function App() {
           from { opacity: 0; transform: translateY(12px); }
           to   { opacity: 1; transform: translateY(0); }
         }
-
         @keyframes spin {
           from { transform: rotate(0deg); }
           to   { transform: rotate(360deg); }
@@ -267,7 +265,9 @@ function App() {
       `}</style>
 
       <div style={{ width: "100%", maxWidth: 460 }}>
-        <div style={{ marginBottom: "2rem" }}>
+
+        {/* ── Header ── */}
+        <div style={{ marginBottom: "1.5rem" }}>
           <p style={{
             fontFamily: "'Space Mono', monospace",
             fontSize: 10,
@@ -286,7 +286,7 @@ function App() {
             letterSpacing: "-0.01em",
             lineHeight: 1.1,
           }}>
-            Predicción de partida
+            {vista === "prediccion" ? "Predicción de partida" : "Estadísticas"}
           </h1>
           <p style={{
             fontFamily: "'Space Mono', monospace",
@@ -294,212 +294,238 @@ function App() {
             color: "var(--c-text-muted)",
             marginTop: "0.5rem",
           }}>
-            Basada en tu historial de los últimos 5 partidos
+            {vista === "prediccion"
+              ? "Basada en tu historial de los últimos 5 partidos"
+              : "Resumen de rendimiento por jugador"}
           </p>
         </div>
 
-        {result ? (
-          <ResultCard data={result} onReset={() => setResult(null)} />
-        ) : (
-          <form onSubmit={handleSubmit}>
-            <div style={{ display: "grid", gridTemplateColumns: "1fr auto", gap: 8, marginBottom: "1.5rem" }}>
-              <div>
-                <label style={labelStyle}>Nombre de jugador</label>
-                <input
-                  type="text"
-                  value={nombre}
-                  onChange={e => setNombre(e.target.value)}
-                  placeholder="rondax"
-                  autoComplete="off"
-                  spellCheck={false}
-                />
-              </div>
-              <div style={{ width: 100 }}>
-                <label style={labelStyle}>Tag</label>
-                <div style={{ position: "relative", display: "flex", alignItems: "center" }}>
-                  <span style={{
-                    position: "absolute",
-                    left: 10,
-                    color: "var(--c-text-muted)",
-                    fontFamily: "'Space Mono', monospace",
-                    fontSize: 13,
-                    pointerEvents: "none",
-                    userSelect: "none",
-                  }}>#</span>
-                  <input
-                    type="text"
-                    value={tag}
-                    onChange={e => setTag(e.target.value)}
-                    placeholder="EUW"
-                    autoComplete="off"
-                    spellCheck={false}
-                    style={{ paddingLeft: 22 }}
-                  />
-                </div>
-              </div>
-            </div>
-
-            <div style={{ marginBottom: "1.5rem" }}>
-              <label style={labelStyle}>Región</label>
-              <select value={region} onChange={e => setRegion(e.target.value)}>
-                {REGIONES.map(r => (
-                  <option key={r.value} value={r.value}>{r.label}</option>
-                ))}
-              </select>
-            </div>
-
-            <div style={{ marginBottom: "1.5rem" }}>
-              <label style={labelStyle}>
-                Mapa
-                {!mapa && (
-                  <span style={{ color: "var(--c-accent)", marginLeft: 6, fontSize: 11 }}>
-                    requerido
-                  </span>
-                )}
-              </label>
-              <div style={{
-                display: "grid",
-                gridTemplateColumns: "repeat(3, 1fr)",
-                gap: 6,
-              }}>
-                {MAPAS.map(m => (
-                  <MapCard key={m} mapa={m} selected={mapa === m} onClick={setMapa} />
-                ))}
-              </div>
-            </div>
-
-            <div style={{ marginBottom: "1.5rem" }}>
-              <label style={labelStyle}>¿Juegas tu main?</label>
-              <div style={{ display: "flex", gap: 8 }}>
-                {[true, false].map(v => (
-                  <button
-                    key={String(v)}
-                    type="button"
-                    onClick={() => setEsMain(v)}
-                    style={{
-                      flex: 1,
-                      padding: "9px",
-                      background: esMain === v ? "var(--c-accent)" : "var(--c-surface-2)",
-                      border: `1px solid ${esMain === v ? "var(--c-accent)" : "var(--c-border)"}`,
-                      borderRadius: 6,
-                      color: esMain === v ? "#fff" : "var(--c-text-muted)",
-                      fontFamily: "'Space Mono', monospace",
-                      fontSize: 12,
-                      cursor: "pointer",
-                      letterSpacing: "0.05em",
-                      transition: "all 0.15s ease",
-                    }}
-                  >
-                    {v ? "Sí" : "No"}
-                  </button>
-                ))}
-              </div>
-            </div>
-
-            <div style={{ marginBottom: "1.5rem" }}>
-              <label style={{ ...labelStyle, display: "flex", justifyContent: "space-between" }}>
-                <span>Amigos en el equipo</span>
-                <span style={{
-                  fontFamily: "'Rajdhani', sans-serif",
-                  fontSize: 20,
-                  fontWeight: 700,
-                  color: "var(--c-text)",
-                }}>
-                  {numAmigos} <span style={{ color: "var(--c-text-muted)", fontSize: 13, fontFamily: "'Space Mono'" }}>/ 4</span>
-                </span>
-              </label>
-              <input
-                type="range"
-                min={0}
-                max={4}
-                step={1}
-                value={numAmigos}
-                onChange={e => setNumAmigos(Number(e.target.value))}
-              />
-              <div style={{
-                display: "flex",
-                justifyContent: "space-between",
-                fontFamily: "'Space Mono', monospace",
-                fontSize: 10,
-                color: "var(--c-text-muted)",
-                marginTop: 6,
-              }}>
-                {[0, 1, 2, 3, 4].map(n => (
-                  <span key={n}>{n}</span>
-                ))}
-              </div>
-            </div>
-
-            <div style={{ marginBottom: "2rem" }}>
-              <label style={labelStyle}>Modelo</label>
-              <select value={modelo} onChange={e => setModelo(e.target.value)}>
-                {MODELOS.map(m => (
-                  <option key={m.value} value={m.value}>{m.label}</option>
-                ))}
-              </select>
-            </div>
-
-            {error && (
-              <div style={{
-                background: "#ef444415",
-                border: "1px solid #ef444440",
-                borderRadius: 6,
-                padding: "10px 14px",
-                fontFamily: "'Space Mono', monospace",
-                fontSize: 12,
-                color: "#ef4444",
-                marginBottom: "1rem",
-              }}>
-                {error}
-              </div>
-            )}
-
+        {/* ── Nav ── */}
+        <div style={{ display: "flex", gap: 8, marginBottom: "1.5rem" }}>
+          {["prediccion", "estadisticas"].map(v => (
             <button
-              type="submit"
-              disabled={loading}
+              key={v}
+              type="button"
+              onClick={() => setVista(v)}
               style={{
-                width: "100%",
-                padding: "14px",
-                background: loading ? "var(--c-surface-2)" : "var(--c-accent)",
-                border: "none",
-                borderRadius: 8,
-                color: loading ? "var(--c-text-muted)" : "#fff",
-                fontFamily: "'Rajdhani', sans-serif",
-                fontSize: 17,
-                fontWeight: 700,
-                letterSpacing: "0.08em",
+                background: vista === v ? "var(--c-accent)" : "var(--c-surface)",
+                border: `1px solid ${vista === v ? "var(--c-accent-border)" : "var(--c-border)"}`,
+                borderRadius: 6,
+                padding: "7px 16px",
+                color: vista === v ? "#fff" : "var(--c-text-muted)",
+                fontFamily: "'Space Mono', monospace",
+                fontSize: 11,
+                letterSpacing: "0.1em",
                 textTransform: "uppercase",
-                cursor: loading ? "not-allowed" : "pointer",
-                transition: "all 0.15s ease",
-                display: "flex",
-                alignItems: "center",
-                justifyContent: "center",
-                gap: 10,
+                cursor: "pointer",
               }}
             >
-              {loading ? (
-                <>
-                  <span style={{
-                    display: "inline-block",
-                    width: 14,
-                    height: 14,
-                    border: "2px solid var(--c-text-muted)",
-                    borderTopColor: "transparent",
-                    borderRadius: "50%",
-                    animation: "spin 0.7s linear infinite",
-                  }} />
-                  Calculando...
-                </>
-              ) : "Predecir partida →"}
+              {v === "prediccion" ? "Predicción" : "Estadísticas"}
             </button>
-          </form>
+          ))}
+        </div>
+
+        {/* ── Contenido según vista ── */}
+        {vista === "estadisticas" ? (
+          <Estadisticas />
+        ) : (
+          result ? (
+            <ResultCard data={result} onReset={() => setResult(null)} />
+          ) : (
+            <form onSubmit={handleSubmit}>
+
+              <div style={{ display: "grid", gridTemplateColumns: "1fr auto", gap: 8, marginBottom: "1.5rem" }}>
+                <div>
+                  <label style={labelStyle}>Nombre de jugador</label>
+                  <input
+                    type="text"
+                    value={nombre}
+                    onChange={e => setNombre(e.target.value)}
+                    placeholder="rondax"
+                    autoComplete="off"
+                    spellCheck={false}
+                  />
+                </div>
+                <div style={{ width: 100 }}>
+                  <label style={labelStyle}>Tag</label>
+                  <div style={{ position: "relative", display: "flex", alignItems: "center" }}>
+                    <span style={{
+                      position: "absolute",
+                      left: 10,
+                      color: "var(--c-text-muted)",
+                      fontFamily: "'Space Mono', monospace",
+                      fontSize: 13,
+                      pointerEvents: "none",
+                      userSelect: "none",
+                    }}>#</span>
+                    <input
+                      type="text"
+                      value={tag}
+                      onChange={e => setTag(e.target.value)}
+                      placeholder="EUW"
+                      autoComplete="off"
+                      spellCheck={false}
+                      style={{ paddingLeft: 22 }}
+                    />
+                  </div>
+                </div>
+              </div>
+
+              <div style={{ marginBottom: "1.5rem" }}>
+                <label style={labelStyle}>Región</label>
+                <select value={region} onChange={e => setRegion(e.target.value)}>
+                  {REGIONES.map(r => (
+                    <option key={r.value} value={r.value}>{r.label}</option>
+                  ))}
+                </select>
+              </div>
+
+              <div style={{ marginBottom: "1.5rem" }}>
+                <label style={labelStyle}>
+                  Mapa
+                  {!mapa && (
+                    <span style={{ color: "var(--c-accent)", marginLeft: 6, fontSize: 11 }}>
+                      requerido
+                    </span>
+                  )}
+                </label>
+                <div style={{ display: "grid", gridTemplateColumns: "repeat(3, 1fr)", gap: 6 }}>
+                  {MAPAS.map(m => (
+                    <MapCard key={m} mapa={m} selected={mapa === m} onClick={setMapa} />
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ marginBottom: "1.5rem" }}>
+                <label style={labelStyle}>¿Juegas tu main?</label>
+                <div style={{ display: "flex", gap: 8 }}>
+                  {[true, false].map(v => (
+                    <button
+                      key={String(v)}
+                      type="button"
+                      onClick={() => setEsMain(v)}
+                      style={{
+                        flex: 1,
+                        padding: "9px",
+                        background: esMain === v ? "var(--c-accent)" : "var(--c-surface-2)",
+                        border: `1px solid ${esMain === v ? "var(--c-accent)" : "var(--c-border)"}`,
+                        borderRadius: 6,
+                        color: esMain === v ? "#fff" : "var(--c-text-muted)",
+                        fontFamily: "'Space Mono', monospace",
+                        fontSize: 12,
+                        cursor: "pointer",
+                        letterSpacing: "0.05em",
+                        transition: "all 0.15s ease",
+                      }}
+                    >
+                      {v ? "Sí" : "No"}
+                    </button>
+                  ))}
+                </div>
+              </div>
+
+              <div style={{ marginBottom: "1.5rem" }}>
+                <label style={{ ...labelStyle, display: "flex", justifyContent: "space-between" }}>
+                  <span>Amigos en el equipo</span>
+                  <span style={{
+                    fontFamily: "'Rajdhani', sans-serif",
+                    fontSize: 20,
+                    fontWeight: 700,
+                    color: "var(--c-text)",
+                  }}>
+                    {numAmigos} <span style={{ color: "var(--c-text-muted)", fontSize: 13, fontFamily: "'Space Mono'" }}>/ 4</span>
+                  </span>
+                </label>
+                <input
+                  type="range"
+                  min={0} max={4} step={1}
+                  value={numAmigos}
+                  onChange={e => setNumAmigos(Number(e.target.value))}
+                />
+                <div style={{
+                  display: "flex",
+                  justifyContent: "space-between",
+                  fontFamily: "'Space Mono', monospace",
+                  fontSize: 10,
+                  color: "var(--c-text-muted)",
+                  marginTop: 6,
+                }}>
+                  {[0, 1, 2, 3, 4].map(n => <span key={n}>{n}</span>)}
+                </div>
+              </div>
+
+              <div style={{ marginBottom: "2rem" }}>
+                <label style={labelStyle}>Modelo</label>
+                <select value={modelo} onChange={e => setModelo(e.target.value)}>
+                  {MODELOS.map(m => (
+                    <option key={m.value} value={m.value}>{m.label}</option>
+                  ))}
+                </select>
+              </div>
+
+              {error && (
+                <div style={{
+                  background: "#ef444415",
+                  border: "1px solid #ef444440",
+                  borderRadius: 6,
+                  padding: "10px 14px",
+                  fontFamily: "'Space Mono', monospace",
+                  fontSize: 12,
+                  color: "#ef4444",
+                  marginBottom: "1rem",
+                }}>
+                  {error}
+                </div>
+              )}
+
+              <button
+                type="submit"
+                disabled={loading}
+                style={{
+                  width: "100%",
+                  padding: "14px",
+                  background: loading ? "var(--c-surface-2)" : "var(--c-accent)",
+                  border: "none",
+                  borderRadius: 8,
+                  color: loading ? "var(--c-text-muted)" : "#fff",
+                  fontFamily: "'Rajdhani', sans-serif",
+                  fontSize: 17,
+                  fontWeight: 700,
+                  letterSpacing: "0.08em",
+                  textTransform: "uppercase",
+                  cursor: loading ? "not-allowed" : "pointer",
+                  transition: "all 0.15s ease",
+                  display: "flex",
+                  alignItems: "center",
+                  justifyContent: "center",
+                  gap: 10,
+                }}
+              >
+                {loading ? (
+                  <>
+                    <span style={{
+                      display: "inline-block",
+                      width: 14,
+                      height: 14,
+                      border: "2px solid var(--c-text-muted)",
+                      borderTopColor: "transparent",
+                      borderRadius: "50%",
+                      animation: "spin 0.7s linear infinite",
+                    }} />
+                    Calculando...
+                  </>
+                ) : "Predecir partida →"}
+              </button>
+
+            </form>
+          )
         )}
+
       </div>
     </>
   );
 }
 
-// 👈 2. IMPORTANTE: Las líneas de arranque que le faltaban al archivo abajo del todo
 const container = document.getElementById("root");
 const root = createRoot(container);
 root.render(<App />);

@@ -6,7 +6,7 @@ from fastapi.responses import FileResponse, RedirectResponse
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routes import modelos, mapas, prediccion
+from app.routes import modelos, mapas, prediccion, estadisticas
 
 
 
@@ -14,6 +14,7 @@ app = FastAPI(title="Valorant Predicter", version="1.0")
 app.include_router(modelos.router)
 app.include_router(mapas.router)
 app.include_router(prediccion.router)
+app.include_router(estadisticas.router)
 
 app.add_middleware(
     CORSMiddleware,
