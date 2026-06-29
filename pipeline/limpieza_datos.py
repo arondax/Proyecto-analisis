@@ -1,7 +1,5 @@
 
-from pipeline import api, procesador
-from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
-from sklearn.compose import ColumnTransformer
+
 
 import pandas as pd
 import numpy as np
@@ -80,7 +78,6 @@ def limpieza_jugador(nombre_jugador):
     
     print("-------------------------")
     #print(df.info())
-    df=transformacion_a_numeros(df)
     print("-------------------------")
     #print(df.info())
     pd.set_option('display.max_columns', None)
@@ -186,78 +183,4 @@ def borrar_no_competitivo(df):
     return df_limpio
 
 
-def transformacion_a_numeros(df):
-    """
-    Transforma las columnas categóricas de un DataFrame de partidas a representaciones numéricas
-    para su uso en modelos de machine learning.
 
-    Transformaciones aplicadas:
-        - 'rango'  → Codificación ordinal respetando el orden jerárquico de rangos de Valorant
-                     (Iron=0, Bronze=1, ..., Radiant=8)
-        - 'mapa'   → One-Hot Encoding usando el pool de mapas ranked definido en info_valorant.json
-        - Resto    → Passthrough (ya son numéricas)
-
-    Args:
-        df (pd.DataFrame): DataFrame limpio sin columnas de texto innecesarias
-                           (jugador, modo, id_partida deben estar eliminadas previamente).
-                           Debe contener las columnas 'rango' y 'mapa'.
-
-    Returns:
-        pd.DataFrame: DataFrame con todas las columnas en formato numérico listo para entrenar.
-                      Las columnas de mapa se expanden en formato 'mapa_<NombreMapa>'.
-
-    Raises:
-        FileNotFoundError: Si no se encuentra el archivo info_valorant.json.
-        ValueError: Si alguna columna no esperada no puede convertirse a float.
-
-    Example:
-        >>> df_limpio = df.drop(columns=['jugador', 'id_partida', 'modo'])
-        >>> df_numerico = transformacion_a_numeros(df_limpio)
-        >>> df_numerico.dtypes
-    """
-    
-    ruta_info_valorant = os.path.join(config.JSON_INFO_DIR, 'info_valorant.json')
-    with open(ruta_info_valorant , 'r', encoding='utf-8') as f:
-        info = json.load(f)
-
-    mapas = info['mapas']['ranked']
-    rangos = info['rangos']
-
-    ordinal_features = ['rango']
-    nominal_features = ['mapa']
-    
-    df['subrango'] = df['subrango'].fillna(0)
-    
-    onehot_encoder = OneHotEncoder(
-        categories=[mapas],
-        handle_unknown='ignore',
-        sparse_output=False
-    )
-    ordinal_encoder = OrdinalEncoder(
-        categories=[rangos]
-    )
-
-    preprocessor = ColumnTransformer(
-        transformers=[
-            ('ord', ordinal_encoder, ordinal_features),
-            ('nom', onehot_encoder, nominal_features)
-        ],
-        remainder='passthrough'
-    )
-
-    datos_transformados = preprocessor.fit_transform(df)
-
-    # columnas definida antes de usarla
-    columnas_nom = preprocessor.named_transformers_['nom'].get_feature_names_out(['mapa'])
-    columnas = ordinal_features + list(columnas_nom) + [c for c in df.columns if c not in ordinal_features + nominal_features]
-
-    df_transformado = pd.DataFrame(datos_transformados, columns=columnas)
-
-    # Convertir numéricas a float
-    no_numericas = ordinal_features + list(columnas_nom) + ['id_partida']
-    columnas_numericas = [c for c in df_transformado.columns if c not in no_numericas]
-    df_transformado[columnas_numericas] = df_transformado[columnas_numericas].astype(float)
-    df_transformado['rango'] = df_transformado['rango'].astype(float)
-    return df_transformado
-
-#prueba = limpieza_jugador("angelutrix")

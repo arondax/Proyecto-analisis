@@ -2,6 +2,7 @@ import pandas as pd
 import numpy as np
 import unicodedata, os, joblib
 import config
+import json
 from sklearn.model_selection import train_test_split
 from sklearn.linear_model import LinearRegression
 from sklearn.tree import DecisionTreeRegressor
@@ -10,6 +11,10 @@ from sklearn.metrics import mean_absolute_error, mean_squared_error, r2_score
 from sklearn.model_selection import cross_val_score
 from sklearn.ensemble import RandomForestRegressor
 from sklearn.preprocessing import StandardScaler
+from sklearn.pipeline import Pipeline as SkPipeline
+from pipeline import api, procesador
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
+from sklearn.compose import ColumnTransformer
 
 #FUNCIONES GENERICAS
 def lectura_csv(identificador):
@@ -83,6 +88,7 @@ def entrenamiento_regresion(df, identificador):
     #df_train = df_train.drop(columns=columnas_drop, errors='ignore')
     #df_test  = df_test.drop(columns=columnas_drop, errors='ignore')
         
+    df, preprocessor= transformacion_a_numeros(df)
     scaler= StandardScaler()
     y = df[['rondas_ganadas', 'rondas_perdidas']] 
     X= df.drop(columns=['id_partida', 'rondas_ganadas','rondas_perdidas','racha'])
@@ -99,6 +105,10 @@ def entrenamiento_regresion(df, identificador):
     archivo=crear_log(identificador)
     tamanyo= len(df)
     archivo.write(f"Dataset: {identificador} | Tamaño: {tamanyo}\n")
+    
+    guardar_modelo(preprocessor, 'preprocessor')
+    guardar_modelo(scaler, 'scaler')
+    
     for nombre, modelo  in algoritmos.items():
         
     
@@ -106,7 +116,6 @@ def entrenamiento_regresion(df, identificador):
        y_pred = modelo.predict(x_test) 
        #Limpiamos los nombres
        limpiar = lambda texto: "".join(c for c in unicodedata.normalize('NFKD', texto) if unicodedata.category(c) != 'Mn').replace(" ", "")
-       guardar_modelo(modelo, limpiar(nombre).lower().replace(' ', '_'))
        
        print(f"\n{'='*40}")
        archivo.write(f"\n{'='*40}\n")
@@ -123,7 +132,8 @@ def entrenamiento_regresion(df, identificador):
             archivo.write(f"  [{col}] R²: {r2:.4f}\n")
             print(f"  [{col}] MAE: {mae:.2f} | RMSE: {rmse:.2f} | R²: {r2:.4f}")
             
-            scores = cross_val_score(modelo, X, y, cv=5, scoring='r2')
+            pipeline_cv = SkPipeline([('scaler', StandardScaler()), ('modelo', modelo)])
+            scores = cross_val_score(pipeline_cv, X, y, cv=5, scoring='r2')
             archivo.write(f"  CV R² (5-fold): {scores.mean():.4f} ± {scores.std():.4f}\n")
             archivo.write(f"Muestras totales: {len(df)} | Train: {len(x_train)} | Test: {len(x_test)}\n")
             archivo.write(f"Split: random (sin fecha disponible)\n")
@@ -153,3 +163,80 @@ def crear_log (identificador):
         archivo.write(f"Log de entrenamiento - {identificador}\n")
         archivo.write(f"{'='*50}\n")
     return archivo
+
+def transformacion_a_numeros(df):
+    """
+    Transforma las columnas categóricas de un DataFrame de partidas a representaciones numéricas
+    para su uso en modelos de machine learning.
+
+    Transformaciones aplicadas:
+        - 'rango'  → Codificación ordinal respetando el orden jerárquico de rangos de Valorant
+                     (Iron=0, Bronze=1, ..., Radiant=8)
+        - 'mapa'   → One-Hot Encoding usando el pool de mapas ranked definido en info_valorant.json
+        - Resto    → Passthrough (ya son numéricas)
+
+    Args:
+        df (pd.DataFrame): DataFrame limpio sin columnas de texto innecesarias
+                           (jugador, modo, id_partida deben estar eliminadas previamente).
+                           Debe contener las columnas 'rango' y 'mapa'.
+
+    Returns:
+        pd.DataFrame: DataFrame con todas las columnas en formato numérico listo para entrenar.
+                      Las columnas de mapa se expanden en formato 'mapa_<NombreMapa>'.
+
+    Raises:
+        FileNotFoundError: Si no se encuentra el archivo info_valorant.json.
+        ValueError: Si alguna columna no esperada no puede convertirse a float.
+
+    Example:
+        >>> df_limpio = df.drop(columns=['jugador', 'id_partida', 'modo'])
+        >>> df_numerico = transformacion_a_numeros(df_limpio)
+        >>> df_numerico.dtypes
+    """
+    
+    ruta_info_valorant = os.path.join(config.JSON_INFO_DIR, 'info_valorant.json')
+    with open(ruta_info_valorant , 'r', encoding='utf-8') as f:
+        info = json.load(f)
+
+    mapas = info['mapas']['ranked']
+    rangos = info['rangos']
+
+    ordinal_features = ['rango']
+    nominal_features = ['mapa']
+    
+    df['subrango'] = df['subrango'].fillna(0)
+    
+    onehot_encoder = OneHotEncoder(
+        categories=[mapas],
+        handle_unknown='ignore',
+        sparse_output=False
+    )
+    ordinal_encoder = OrdinalEncoder(
+        categories=[rangos]
+    )
+
+    preprocessor = ColumnTransformer(
+        transformers=[
+            ('ord', ordinal_encoder, ordinal_features),
+            ('nom', onehot_encoder, nominal_features)
+        ],
+        remainder='passthrough'
+    )
+
+    datos_transformados = preprocessor.fit_transform(df)
+
+    # columnas definida antes de usarla
+    columnas_nom = preprocessor.named_transformers_['nom'].get_feature_names_out(['mapa'])
+    columnas = ordinal_features + list(columnas_nom) + [c for c in df.columns if c not in ordinal_features + nominal_features]
+
+    df_transformado = pd.DataFrame(datos_transformados, columns=columnas)
+
+    # Convertir numéricas a float
+    no_numericas = ordinal_features + list(columnas_nom) + ['id_partida']
+    columnas_numericas = [c for c in df_transformado.columns if c not in no_numericas]
+    df_transformado[columnas_numericas] = df_transformado[columnas_numericas].astype(float)
+    df_transformado['rango'] = df_transformado['rango'].astype(float)
+    
+    return df_transformado, preprocessor
+
+#prueba = limpieza_jugador("angelutrix")
