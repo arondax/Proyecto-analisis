@@ -1,7 +1,8 @@
 
 from pipeline import api, procesador
-from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder
+from sklearn.preprocessing import OrdinalEncoder, OneHotEncoder, StandardScaler
 from sklearn.compose import ColumnTransformer
+
 
 import pandas as pd
 import numpy as np
@@ -195,7 +196,7 @@ def transformacion_a_numeros(df):
         - 'rango'  → Codificación ordinal respetando el orden jerárquico de rangos de Valorant
                      (Iron=0, Bronze=1, ..., Radiant=8)
         - 'mapa'   → One-Hot Encoding usando el pool de mapas ranked definido en info_valorant.json
-        - Resto    → Passthrough (ya son numéricas)
+        - Resto    → Se hace una estandarización
 
     Args:
         df (pd.DataFrame): DataFrame limpio sin columnas de texto innecesarias
@@ -236,11 +237,14 @@ def transformacion_a_numeros(df):
     ordinal_encoder = OrdinalEncoder(
         categories=[rangos]
     )
+    
+    columnas_numericas= ['kills', 'asistencias', 'muertes', 'headshots', 'acs', 'fb', 'fd', 'subrango', 'num_amigos', 'desconocidos', 'es_main']
 
     preprocessor = ColumnTransformer(
         transformers=[
             ('ord', ordinal_encoder, ordinal_features),
-            ('nom', onehot_encoder, nominal_features)
+            ('nom', onehot_encoder, nominal_features),
+            ('num', StandardScaler(), columnas_numericas)
         ],
         remainder='passthrough'
     )
@@ -249,7 +253,7 @@ def transformacion_a_numeros(df):
 
     # columnas definida antes de usarla
     columnas_nom = preprocessor.named_transformers_['nom'].get_feature_names_out(['mapa'])
-    columnas = ordinal_features + list(columnas_nom) + [c for c in df.columns if c not in ordinal_features + nominal_features]
+    columnas = ordinal_features + list(columnas_nom)+ columnas_numericas + [c for c in df.columns if c not in ordinal_features + nominal_features]
 
     df_transformado = pd.DataFrame(datos_transformados, columns=columnas)
 
