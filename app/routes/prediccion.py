@@ -52,7 +52,8 @@ def cargar_modelo(modelo_nombre: str):
 def cargar_artefactos():
     preprocessor = cargar_modelo('preprocessor')
     scaler = cargar_modelo('scaler')
-    return preprocessor, scaler
+    nombres_columnas = cargar_modelo('feature_names')
+    return preprocessor, scaler, nombres_columnas
 
 def cargar_df_jugador(nombre: str, tag:str, region: str) -> pd.DataFrame:
     ruta_jugador = os.path.join(config.DATASET_INGEST_DIR, f"dataset_ingest_{nombre}.csv")
@@ -92,13 +93,12 @@ def predecir(request: PrediccionRequest):
             raise HTTPException(status_code=422, detail=f"No hay partidas válidas para {request.nombre}")
 
     modelo = cargar_modelo(request.modelo)
-    preprocessor, scaler = cargar_artefactos()
-    feature_names = cargar_modelo('feature_names')
+    preprocessor, scaler, nombres_columnas = cargar_artefactos()
     desconocidos = 5 - request.num_amigos
 
  
     resultado = predictor.predecir_jugador(
-    modelo, preprocessor, scaler, feature_names ,df, request.mapa,
+    modelo, preprocessor, scaler, nombres_columnas ,df, request.mapa,
     float(request.es_main), request.num_amigos,
     desconocidos, request.nombre
     )
