@@ -159,4 +159,24 @@ def entrenar_modelo_regression():
     return True, 
 
 
+def relimpiar_jugadores():
+    ruta_json = os.path.join(config.JSON_INFO_DIR, 'jugadores_entrenamiento.json')
+    with open(ruta_json, 'r', encoding='utf-8') as f:
+        datos = json.load(f)
+    
+    jugadores = datos.get('jugadores', [])
+    
+    for jugador in jugadores:
+        nombre = jugador['nombre']
+        print(f"Relimpiando {nombre}...")
+        try:
+            df = limpieza_datos.limpieza_jugador(nombre)
+            if df is None or df.empty:
+                print(f"! {nombre} sin partidas válidas, saltando...")
+                continue
+            limpieza_datos.guardar_dataset(nombre, df)
+            print(f"✓ {nombre} guardado correctamente")
+        except Exception as e:
+            print(f"! Error con {nombre}: {e}")
+
 
