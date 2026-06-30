@@ -6,7 +6,7 @@ from fastapi.responses import FileResponse, RedirectResponse
 from dotenv import load_dotenv
 from fastapi import FastAPI
 from fastapi.middleware.cors import CORSMiddleware
-from app.routes import modelos, mapas, prediccion, estadisticas, estadisticas_globales
+from app.routes import estadisticas_modelo, modelos, mapas, prediccion, estadisticas, estadisticas_globales
 
 
 
@@ -16,6 +16,7 @@ app.include_router(mapas.router)
 app.include_router(prediccion.router)
 app.include_router(estadisticas.router)
 app.include_router(estadisticas_globales.router)
+app.include_router(estadisticas_modelo.router)
 
 app.add_middleware(
     CORSMiddleware,
