@@ -244,10 +244,11 @@ Actualmente en uso para logging de predicciones (tabla `consultas`). Migración 
 - [x] Frontend React — Astralis Analytics (build servido por FastAPI)
 - [x] Despliegue en producción (Render)
 - [x] Logging de predicciones en Supabase
-- [ ] Sección de estadísticas por jugador (endpoint + charts con Recharts)
-- [ ] StandardScaler dentro de sklearn Pipeline
-- [ ] Migración completa de datasets a Supabase (fase 2)
+- [x] Sección de estadísticas por jugador (endpoint + charts con Recharts)
+- [x] StandardScaler dentro de sklearn Pipeline
+- [ ] Añadir los amigos al json de los jugadores. 
 - [ ] Auto-discovery de jugadores nuevos encontrados en partidas
+- [ ] Migración completa de datasets a Supabase (fase 2)
 - [ ] Split temporal train/test (cuando el dataset tenga suficiente histórico fechado)
 - [ ] Fine-tuning por jugador con `warm_start`
 - [ ] Red neuronal incorporando todos los jugadores de una partida
