@@ -1,7 +1,8 @@
 import { useState } from "react";
 import { createRoot } from "react-dom/client";
 import Estadisticas from "./estadisticas";
-import EstadisticasGlobales from "./EstadisticasGlobales";
+import EstadisticasGlobales from "./estadisticasGlobales";
+import EstadisticasModelo from "./estadisticasmodelo";
 
 const API_BASE = "https://valorantpredicter.onrender.com";
 
@@ -11,16 +12,16 @@ const MAPAS = [
 ];
 
 const REGIONES = [
-  { value: "eu",    label: "EU — Europa" },
-  { value: "na",    label: "NA — Norteamérica" },
-  { value: "ap",    label: "AP — Asia Pacífico" },
-  { value: "kr",    label: "KR — Corea" },
+  { value: "eu", label: "EU — Europa" },
+  { value: "na", label: "NA — Norteamérica" },
+  { value: "ap", label: "AP — Asia Pacífico" },
+  { value: "kr", label: "KR — Corea" },
   { value: "latam", label: "LATAM — Latinoamérica" },
-  { value: "br",    label: "BR — Brasil" },
+  { value: "br", label: "BR — Brasil" },
 ];
 
 const MODELOS = [
-  { value: "randomforest",    label: "Random Forest" },
+  { value: "randomforest", label: "Random Forest" },
   { value: "arboldeDecision", label: "Árbol de Decisión" },
   { value: "RegresionLineal", label: "Regresión Lineal" },
 ];
@@ -103,7 +104,7 @@ function ResultCard({ data, onReset }) {
           marginTop: "1.5rem",
         }}>
           {[
-            { label: "rondas ganadas",  val: data.rondas_ganadas,  color: "#22c55e" },
+            { label: "rondas ganadas", val: data.rondas_ganadas, color: "#22c55e" },
             { label: "rondas perdidas", val: data.rondas_perdidas, color: "#ef4444" },
           ].map(({ label, val, color }) => (
             <div key={label} style={{ textAlign: "center" }}>
@@ -159,22 +160,22 @@ function App() {
   const [vista, setVista] = useState("prediccion");
 
   // ── predicción ───────────────────────────────────────────────
-  const [nombre,    setNombre]    = useState("");
-  const [tag,       setTag]       = useState("");
-  const [region,    setRegion]    = useState("eu");
-  const [mapa,      setMapa]      = useState("");
-  const [esMain,    setEsMain]    = useState(true);
+  const [nombre, setNombre] = useState("");
+  const [tag, setTag] = useState("");
+  const [region, setRegion] = useState("eu");
+  const [mapa, setMapa] = useState("");
+  const [esMain, setEsMain] = useState(true);
   const [numAmigos, setNumAmigos] = useState(2);
-  const [modelo,    setModelo]    = useState("randomforest");
-  const [loading,   setLoading]   = useState(false);
-  const [result,    setResult]    = useState(null);
-  const [error,     setError]     = useState("");
+  const [modelo, setModelo] = useState("randomforest");
+  const [loading, setLoading] = useState(false);
+  const [result, setResult] = useState(null);
+  const [error, setError] = useState("");
 
   async function handleSubmit(e) {
     e.preventDefault();
     if (!nombre.trim()) { setError("Introduce tu nombre de jugador."); return; }
-    if (!tag.trim())    { setError("Introduce tu tag (sin #)."); return; }
-    if (!mapa)          { setError("Selecciona un mapa antes de continuar."); return; }
+    if (!tag.trim()) { setError("Introduce tu tag (sin #)."); return; }
+    if (!mapa) { setError("Selecciona un mapa antes de continuar."); return; }
     setError("");
     setLoading(true);
     try {
@@ -182,11 +183,11 @@ function App() {
         method: "POST",
         headers: { "Content-Type": "application/json" },
         body: JSON.stringify({
-          nombre:     nombre.trim(),
-          tag:        tag.trim(),
+          nombre: nombre.trim(),
+          tag: tag.trim(),
           region,
           mapa,
-          es_main:    esMain ? 1.0 : 0.0,
+          es_main: esMain ? 1.0 : 0.0,
           num_amigos: numAmigos,
           modelo,
         }),
@@ -303,7 +304,7 @@ function App() {
 
         {/* ── Nav ── */}
         <div style={{ display: "flex", gap: 8, marginBottom: "1.5rem" }}>
-          {["prediccion", "estadisticas", "globales"].map(v => (
+          {["prediccion", "estadisticas", "globales", "modelo"].map(v => (
             <button
               key={v}
               type="button"
@@ -321,17 +322,22 @@ function App() {
                 cursor: "pointer",
               }}
             >
-              {v === "prediccion" ? "Predicción" : v === "estadisticas" ? "Estadísticas" : "Global"}
+              {v === "prediccion" ? "Predicción"
+                : v === "estadisticas" ? "Estadísticas"
+                  : v === "globales" ? "Global"
+                    : "Modelo"}
             </button>
           ))}
         </div>
 
         {/* ── Contenido según vista ── */}
-          {vista === "estadisticas" ? (
-            <Estadisticas />
-          ) : vista === "globales" ? (
-            <EstadisticasGlobales />
-          ) : (
+        {vista === "estadisticas" ? (
+          <Estadisticas />
+        ) : vista === "globales" ? (
+          <EstadisticasGlobales />
+        ) : vista === "modelo" ? (
+          <EstadisticasModelo />
+        ) : (
           result ? (
             <ResultCard data={result} onReset={() => setResult(null)} />
           ) : (

@@ -59,3 +59,27 @@ class EstadisticasGlobalesResponse(BaseModel):
     main_vs_no_main: List[StatsGrupo]
     correlacion: List[CorrelacionItem]
     
+class MetricasObjetivo(BaseModel):
+    objetivo: str          # "rondas_ganadas" | "rondas_perdidas"
+    mae: float
+    rmse: float
+    r2: float
+ 
+ 
+class MetricasModelo(BaseModel):
+    nombre: str             # "Regresión Lineal" | "Árbol de Decisión" | "Random Forest"
+    metricas: List[MetricasObjetivo]
+    cv_r2_mean: Optional[float] = None
+    cv_r2_std: Optional[float] = None
+ 
+ 
+class FeatureImportance(BaseModel):
+    feature: str
+    importancia: float
+ 
+ 
+class EstadisticasModeloResponse(BaseModel):
+    identificador: str
+    tamanyo_dataset: Optional[int] = None
+    modelos: List[MetricasModelo]
+    feature_importance: List[FeatureImportance]
