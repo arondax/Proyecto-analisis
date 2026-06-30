@@ -58,6 +58,8 @@ class EstadisticasGlobalesResponse(BaseModel):
     por_num_amigos: List[StatsGrupo]
     main_vs_no_main: List[StatsGrupo]
     correlacion: List[CorrelacionItem]
+    jugadores_por_rango: List[RangoJugadores]
+    heatmap_rango_mapa: List[CeldaHeatmap]
     
 class MetricasObjetivo(BaseModel):
     objetivo: str          # "rondas_ganadas" | "rondas_perdidas"
@@ -83,3 +85,13 @@ class EstadisticasModeloResponse(BaseModel):
     tamanyo_dataset: Optional[int] = None
     modelos: List[MetricasModelo]
     feature_importance: List[FeatureImportance]
+    
+class RangoJugadores(BaseModel):
+    rango: str
+    jugadores: int
+    
+class CeldaHeatmap(BaseModel):
+    rango: str
+    mapa: str
+    partidas: int
+    winrate: float

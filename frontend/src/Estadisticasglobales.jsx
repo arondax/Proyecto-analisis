@@ -2,6 +2,7 @@ import { useState, useEffect } from "react";
 import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
+import { PieChart, Pie, Cell as PieCell, Legend } from "recharts";
 
 const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
@@ -23,6 +24,188 @@ const tooltipStyle = {
   fontSize: 12,
   color: "var(--c-text)",
 };
+
+const COLORES_RANGO = [
+  "#ff4655", "#ff6b58", "#ffa45c", "#ffd166", "#9be564",
+  "#5ed6a0", "#5ec8d6", "#7a9cff", "#a07aff", "#c77aff",
+];
+
+function winrateAColor(winrate) {
+  // 0% -> rojo, 50% -> gris neutro, 100% -> verde
+  if (winrate >= 50) {
+    const t = Math.min((winrate - 50) / 50, 1); // 0..1
+    const r = Math.round(107 + (34 - 107) * t);
+    const g = Math.round(114 + (197 - 114) * t);
+    const b = Math.round(128 + (94 - 128) * t);
+    return `rgb(${r},${g},${b})`;
+  } else {
+    const t = Math.min((50 - winrate) / 50, 1); // 0..1
+    const r = Math.round(107 + (239 - 107) * t);
+    const g = Math.round(114 + (68 - 114) * t);
+    const b = Math.round(128 + (68 - 128) * t);
+    return `rgb(${r},${g},${b})`;
+  }
+}
+
+function HeatmapRangoMapa({ data }) {
+  if (!data || data.length === 0) return null;
+
+  const rangos = [...new Set(data.map(d => d.rango))];
+  const mapas = [...new Set(data.map(d => d.mapa))].sort();
+
+  const lookup = {};
+  data.forEach(d => { lookup[`${d.rango}__${d.mapa}`] = d; });
+
+  return (
+    <div style={{ overflowX: "auto" }}>
+      <table style={{ borderCollapse: "collapse", width: "100%", minWidth: mapas.length * 70 + 90 }}>
+        <thead>
+          <tr>
+            <th style={{
+              padding: "6px 8px",
+              fontFamily: "'Space Mono', monospace",
+              fontSize: 10,
+              color: "var(--c-text-muted)",
+              textAlign: "left",
+              position: "sticky",
+              left: 0,
+              background: "var(--c-surface)",
+            }} />
+            {mapas.map(mapa => (
+              <th key={mapa} style={{
+                padding: "6px 4px",
+                fontFamily: "'Space Mono', monospace",
+                fontSize: 10,
+                letterSpacing: "0.05em",
+                color: "var(--c-text-muted)",
+                textTransform: "uppercase",
+                textAlign: "center",
+                whiteSpace: "nowrap",
+              }}>
+                {mapa}
+              </th>
+            ))}
+          </tr>
+        </thead>
+        <tbody>
+          {rangos.map(rango => (
+            <tr key={rango}>
+              <td style={{
+                padding: "6px 8px",
+                fontFamily: "'Rajdhani', sans-serif",
+                fontSize: 13,
+                fontWeight: 600,
+                color: "var(--c-text)",
+                whiteSpace: "nowrap",
+                position: "sticky",
+                left: 0,
+                background: "var(--c-surface)",
+              }}>
+                {rango}
+              </td>
+              {mapas.map(mapa => {
+                const celda = lookup[`${rango}__${mapa}`];
+                if (!celda) {
+                  return (
+                    <td key={mapa} style={{
+                      padding: 4,
+                      textAlign: "center",
+                    }}>
+                      <div style={{
+                        width: "100%",
+                        height: 36,
+                        borderRadius: 4,
+                        background: "var(--c-surface-2)",
+                      }} />
+                    </td>
+                  );
+                }
+                return (
+                  <td key={mapa} style={{ padding: 4, textAlign: "center" }} title={`${celda.partidas} partidas`}>
+                    <div style={{
+                      width: "100%",
+                      height: 36,
+                      borderRadius: 4,
+                      background: winrateAColor(celda.winrate),
+                      display: "flex",
+                      flexDirection: "column",
+                      alignItems: "center",
+                      justifyContent: "center",
+                    }}>
+                      <span style={{
+                        fontFamily: "'Space Mono', monospace",
+                        fontSize: 11,
+                        fontWeight: 700,
+                        color: "#fff",
+                        textShadow: "0 1px 2px rgba(0,0,0,0.4)",
+                      }}>
+                        {celda.winrate}%
+                      </span>
+                    </div>
+                  </td>
+                );
+              })}
+            </tr>
+          ))}
+        </tbody>
+      </table>
+      <p style={{
+        fontFamily: "'Space Mono', monospace",
+        fontSize: 10,
+        color: "var(--c-text-muted)",
+        marginTop: 10,
+      }}>
+        Celdas con menos de 3 partidas no se muestran. Pasa el cursor sobre una celda para ver el nº de partidas.
+      </p>
+    </div>
+  );
+}
+
+function GraficaJugadoresPorRango({ data }) {
+  const total = data.reduce((acc, d) => acc + d.jugadores, 0);
+  return (
+    <div>
+      <div style={{ display: "flex", height: 28, borderRadius: 6, overflow: "hidden", marginBottom: 14 }}>
+        {data.map((d, i) => (
+          <div
+            key={d.rango}
+            title={`${d.rango}: ${d.jugadores} jugadores`}
+            style={{
+              flex: d.jugadores,
+              background: COLORES_RANGO[i % COLORES_RANGO.length],
+            }}
+          />
+        ))}
+      </div>
+      <div style={{ display: "grid", gridTemplateColumns: "repeat(auto-fill, minmax(110px, 1fr))", gap: 8 }}>
+        {data.map((d, i) => (
+          <div key={d.rango} style={{ display: "flex", alignItems: "center", gap: 8 }}>
+            <span style={{
+              width: 10, height: 10, borderRadius: 2,
+              background: COLORES_RANGO[i % COLORES_RANGO.length],
+              flexShrink: 0,
+            }} />
+            <span style={{ fontFamily: "'Space Mono', monospace", fontSize: 11, color: "var(--c-text)" }}>
+              {d.rango}
+            </span>
+            <span style={{ fontFamily: "'Space Mono', monospace", fontSize: 11, color: "var(--c-text-muted)", marginLeft: "auto" }}>
+              {d.jugadores}
+            </span>
+          </div>
+        ))}
+      </div>
+      <p style={{
+        fontFamily: "'Space Mono', monospace",
+        fontSize: 10,
+        color: "var(--c-text-muted)",
+        marginTop: 10,
+      }}>
+        {total} jugadores en seguimiento, agrupados por su rango más reciente
+      </p>
+    </div>
+  );
+}
+
 
 function Seccion({ titulo, children }) {
   return (
@@ -186,6 +369,9 @@ export default function EstadisticasGlobales() {
       }}>
         Basado en {data.total_partidas} partidas del dataset de entrenamiento
       </p>
+      <Seccion titulo="Jugadores por rango actual">
+        <GraficaJugadoresPorRango data={data.jugadores_por_rango} />
+      </Seccion>
 
       <Seccion titulo="Winrate por mapa">
         <GraficaWinrate data={data.por_mapa} />
@@ -197,6 +383,10 @@ export default function EstadisticasGlobales() {
         <TablaDetalle data={data.por_rango} />
       </Seccion>
 
+      <Seccion titulo="Winrate por rango y mapa">
+        <HeatmapRangoMapa data={data.heatmap_rango_mapa} />
+      </Seccion>
+      
       <Seccion titulo="Winrate por número de amigos">
         <GraficaWinrate data={data.por_num_amigos} />
         <TablaDetalle data={data.por_num_amigos} />

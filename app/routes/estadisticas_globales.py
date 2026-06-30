@@ -5,8 +5,8 @@ import pandas as pd
 import config
 
 from fastapi import APIRouter, HTTPException
-from typing import List, Optional
-from app.schemas import CorrelacionItem, StatsGrupo, StatsMapa, EstadisticasGlobalesResponse
+from typing import List
+from app.schemas import CorrelacionItem, StatsGrupo, StatsMapa, EstadisticasGlobalesResponse, RangoJugadores, CeldaHeatmap
 
 
 router = APIRouter()
@@ -39,6 +39,41 @@ def _agrupar (df: pd.DataFrame, columna: str) -> List[StatsGrupo]:
     grupos.sort(key=lambda g:g.partidas, reverse=True)
     return grupos
 
+def _jugadores_por_rango_actual() -> List[RangoJugadores]:
+    patron = os.path.join(config.DATASET_INGEST_DIR, "dataset_*.csv")
+    archivos = glob.glob(patron)
+
+    conteo = {}
+    for ruta in archivos:
+        try:
+            df_jugador = pd.read_csv(ruta)
+            if df_jugador.empty or "rango" not in df_jugador.columns:
+                continue
+            rango_actual = df_jugador.iloc[-1]["rango"]
+            if pd.isna(rango_actual):
+                continue
+            rango_actual = str(rango_actual)
+            conteo[rango_actual] = conteo.get(rango_actual, 0) + 1
+        except Exception:
+            continue
+
+    resultado = [RangoJugadores(rango=r, jugadores=n) for r, n in conteo.items()]
+    resultado.sort(key=lambda x: x.jugadores, reverse=True)
+    return resultado
+
+
+def _heatmap_rango_mapa(df: pd.DataFrame) -> List[CeldaHeatmap]:
+    celdas = []
+    for (rango, mapa), grupo in df.groupby(["rango", "mapa"]):
+        if len(grupo) < 3:  # evita celdas con 1-2 partidas que distorsionan el winrate
+            continue
+        celdas.append(CeldaHeatmap(
+            rango=str(rango),
+            mapa=str(mapa),
+            partidas=len(grupo),
+            winrate=round(grupo["victoria"].mean() * 100, 1),
+        ))
+    return celdas
 #Endpoints
 
 @router.get("/estadisticas-globales", response_model=EstadisticasGlobalesResponse)
@@ -82,6 +117,8 @@ def estadisticas_globales():
         correlaciones.append(CorrelacionItem(feature=feature, correlacion=round(float(valor),3)))
     correlaciones.sort(key = lambda c: abs(c.correlacion), reverse = True) 
     
+    jugadores_por_rango = _jugadores_por_rango_actual()
+    heatmap_rango_mapa = _heatmap_rango_mapa(df)
     return EstadisticasGlobalesResponse(
         total_partidas=total,
         por_mapa=por_mapa,
@@ -89,4 +126,6 @@ def estadisticas_globales():
         por_num_amigos=por_num_amigos,
         main_vs_no_main=main_vs_no_main,
         correlacion=correlaciones,
+        jugadores_por_rango=jugadores_por_rango,
+        heatmap_rango_mapa=heatmap_rango_mapa,
     )   
