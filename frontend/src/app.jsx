@@ -1,6 +1,7 @@
 import { useState } from "react";
 import { createRoot } from "react-dom/client";
 import Estadisticas from "./estadisticas";
+import EstadisticasGlobales from "./EstadisticasGlobales";
 
 const API_BASE = "https://valorantpredicter.onrender.com";
 
@@ -302,7 +303,7 @@ function App() {
 
         {/* ── Nav ── */}
         <div style={{ display: "flex", gap: 8, marginBottom: "1.5rem" }}>
-          {["prediccion", "estadisticas"].map(v => (
+          {["prediccion", "estadisticas", "globales"].map(v => (
             <button
               key={v}
               type="button"
@@ -320,15 +321,17 @@ function App() {
                 cursor: "pointer",
               }}
             >
-              {v === "prediccion" ? "Predicción" : "Estadísticas"}
+              {v === "prediccion" ? "Predicción" : v === "estadisticas" ? "Estadísticas" : "Global"}
             </button>
           ))}
         </div>
 
         {/* ── Contenido según vista ── */}
-        {vista === "estadisticas" ? (
-          <Estadisticas />
-        ) : (
+          {vista === "estadisticas" ? (
+            <Estadisticas />
+          ) : vista === "globales" ? (
+            <EstadisticasGlobales />
+          ) : (
           result ? (
             <ResultCard data={result} onReset={() => setResult(null)} />
           ) : (

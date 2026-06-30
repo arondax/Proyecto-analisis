@@ -1,31 +1,11 @@
 from fastapi import APIRouter, HTTPException
-from pydantic import BaseModel
-from typing import List, Optional
 import pandas as pd
 import os
 import config
+from app.schemas import EstadisticasResponse, StatsMapa
 
 router = APIRouter()
 
-class StatsMapa(BaseModel):
-    mapa: str
-    partidas: int
-    winrate: float
-    media_acs: float
-    media_kills: float
-
-class EstadisticasResponse(BaseModel):
-    nombre: str
-    total_partidas: int
-    winrate: float
-    media_kills: float
-    media_muertes: float
-    media_acs: float
-    media_headshots: float
-    mejor_mapa: Optional[str]
-    peor_mapa: Optional[str]
-    agente_mas_jugado: Optional[str]
-    stats_por_mapa: List[StatsMapa]
 
 @router.get("/estadisticas/{nombre}", response_model=EstadisticasResponse)
 def estadisticas(nombre: str):
