@@ -4,6 +4,8 @@ import Estadisticas from "./estadisticas";
 import EstadisticasGlobales from "./estadisticasGlobales";
 import EstadisticasModelo from "./estadisticasmodelo";
 
+
+
 const API_BASE = "https://valorantpredicter.onrender.com";
 
 const MAPAS = [

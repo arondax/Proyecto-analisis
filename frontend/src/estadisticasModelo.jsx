@@ -3,7 +3,7 @@ import {
   BarChart, Bar, XAxis, YAxis, CartesianGrid, Tooltip, ResponsiveContainer, Cell,
 } from "recharts";
 
-const API_BASE = "http://localhost:8000";
+const API_BASE = "https://valorantpredicter.onrender.com";
 
 const MODELOS = [
   { value: "randomforest",   label: "Random Forest" },
