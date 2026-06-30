@@ -100,7 +100,7 @@ def predecir(request: PrediccionRequest):
     resultado = predictor.predecir_jugador(
     modelo, preprocessor, scaler, nombres_columnas ,df, request.mapa,
     float(request.es_main), request.num_amigos,
-    desconocidos, request.nombre
+    request.nombre
     )
 
     return PrediccionResponse(
