@@ -6,7 +6,7 @@ import EstadisticasModelo from "./estadisticasmodelo";
 
 
 
-const API_BASE = "https://valorantpredicter.onrender.com";
+const API_BASE = import.meta.env.VITE_API_URL || "http://localhost:8000";
 
 const MAPAS = [
   "Abyss", "Ascent", "Bind", "Breeze", "Corrode",
