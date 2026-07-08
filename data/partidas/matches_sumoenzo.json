@@ -122542,7 +122542,7 @@
                     },
                     {
                         "puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                        "name": "1111111",
+                        "name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430",
                         "tag": "8082",
                         "team": "Red",
                         "level": 56,
@@ -123055,7 +123055,7 @@
                 "red": [
                     {
                         "puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                        "name": "1111111",
+                        "name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430",
                         "tag": "8082",
                         "team": "Red",
                         "level": 56,
@@ -123874,7 +123874,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -123903,7 +123903,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -241,
@@ -124596,7 +124596,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -125145,7 +125145,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -125174,7 +125174,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3202,
@@ -125501,7 +125501,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2864,
@@ -125789,7 +125789,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -126105,7 +126105,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2280,
@@ -126465,7 +126465,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3366,
@@ -126706,7 +126706,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4380,
@@ -126866,7 +126866,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -126906,7 +126906,7 @@
                                     "kill_time_in_round": 47122,
                                     "kill_time_in_match": 330255,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "cad9a54e-5665-5879-a7af-fc67765e2e28",
                                     "victim_display_name": "Magubvk#EUW",
@@ -126955,7 +126955,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2754,
@@ -126986,7 +126986,7 @@
                                     "kill_time_in_round": 68418,
                                     "kill_time_in_match": 351551,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "1745b8ef-62ab-5f35-9266-11181a437b28",
                                     "victim_display_name": "sumoenzo#1988",
@@ -127005,7 +127005,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4067,
@@ -127160,7 +127160,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2631,
@@ -127182,7 +127182,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "assistant_display_name": "1111111#8082",
+                                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -127220,7 +127220,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3322,
@@ -127376,7 +127376,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4352,
@@ -127470,7 +127470,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4601,
@@ -127710,7 +127710,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3150,
@@ -128269,7 +128269,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -128358,7 +128358,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -128387,7 +128387,7 @@
                                     "killer_display_name": "Castelao#1886",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2436,
@@ -128742,7 +128742,7 @@
                         },
                         "planted_by": {
                             "puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "display_name": "1111111#8082",
+                            "display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -128770,7 +128770,7 @@
                             },
                             {
                                 "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                "player_display_name": "1111111#8082",
+                                "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2937,
@@ -128845,7 +128845,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -128921,7 +128921,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2579,
@@ -128995,7 +128995,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2416,
@@ -129049,7 +129049,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1748,
@@ -129073,7 +129073,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1549,
@@ -129246,7 +129246,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 117,
@@ -129322,7 +129322,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -129388,7 +129388,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 616,
@@ -129544,7 +129544,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 399,
@@ -129638,7 +129638,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1526,
@@ -129778,7 +129778,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -129818,7 +129818,7 @@
                                     "kill_time_in_round": 11443,
                                     "kill_time_in_match": 486707,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                                     "victim_display_name": "Castelao#1886",
@@ -129897,7 +129897,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 283,
@@ -129912,7 +129912,7 @@
                                     "kill_time_in_round": 71239,
                                     "kill_time_in_match": 546503,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "1745b8ef-62ab-5f35-9266-11181a437b28",
                                     "victim_display_name": "sumoenzo#1988",
@@ -129951,7 +129951,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1334,
@@ -130044,7 +130044,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -130139,7 +130139,7 @@
                         },
                         "planted_by": {
                             "puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "display_name": "1111111#8082",
+                            "display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -130187,7 +130187,7 @@
                             },
                             {
                                 "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                "player_display_name": "1111111#8082",
+                                "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6413,
@@ -130245,7 +130245,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -130367,7 +130367,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -130443,7 +130443,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6413,
@@ -130497,7 +130497,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5590,
@@ -130515,7 +130515,7 @@
                                     "killer_display_name": "sumoenzo#1988",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5542,
@@ -130668,7 +130668,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -130754,7 +130754,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6342,
@@ -130818,7 +130818,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5542,
@@ -130916,7 +130916,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -130938,7 +130938,7 @@
                                     "kill_time_in_round": 23445,
                                     "kill_time_in_match": 643964,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                                     "victim_display_name": "ilikemariguana#EUW",
@@ -131007,7 +131007,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6019,
@@ -131189,7 +131189,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4230,
@@ -131293,7 +131293,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6095,
@@ -131615,7 +131615,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -132207,7 +132207,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -132306,7 +132306,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -132344,7 +132344,7 @@
                                     "killer_display_name": "Castelao#1886",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -10,
@@ -132792,7 +132792,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6032,
@@ -132863,7 +132863,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -132892,7 +132892,7 @@
                                     "killer_display_name": "ilikemariguana#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4520,
@@ -132969,7 +132969,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -133104,7 +133104,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5771,
@@ -133168,7 +133168,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4808,
@@ -133180,7 +133180,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "assistant_display_name": "1111111#8082",
+                                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -133303,7 +133303,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -133392,7 +133392,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -133534,7 +133534,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6002,
@@ -133618,7 +133618,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5585,
@@ -133794,7 +133794,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6030,
@@ -133884,7 +133884,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5242,
@@ -134050,7 +134050,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -134192,7 +134192,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -671,
@@ -134286,7 +134286,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -757,
@@ -134304,7 +134304,7 @@
                                     "killer_display_name": "ilikemariguana#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -609,
@@ -134702,7 +134702,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -134724,7 +134724,7 @@
                                     "kill_time_in_round": 4884,
                                     "kill_time_in_match": 957068,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                                     "victim_display_name": "Castelao#1886",
@@ -134813,7 +134813,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -267,
@@ -135263,7 +135263,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -135283,7 +135283,7 @@
                                     "killer_display_name": "ilikemariguana#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6400,
@@ -136075,7 +136075,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -136106,7 +136106,7 @@
                                     "kill_time_in_round": 11989,
                                     "kill_time_in_match": 1065646,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "36e4c27a-1982-5958-a557-d4673aeb2708",
                                     "victim_display_name": "talibandudu#chuen",
@@ -136185,7 +136185,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7283,
@@ -136514,7 +136514,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -136620,7 +136620,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1864,
@@ -136648,7 +136648,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6201,
@@ -136872,7 +136872,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5773,
@@ -137094,7 +137094,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5735,
@@ -137188,7 +137188,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4464,
@@ -137403,7 +137403,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -137587,7 +137587,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5178,
@@ -137697,7 +137697,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4404,
@@ -137936,7 +137936,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1848,
@@ -138049,7 +138049,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -138151,7 +138151,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2768,
@@ -138235,7 +138235,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1371,
@@ -138279,7 +138279,7 @@
                                     "killer_display_name": "sumoenzo#1988",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1999,
@@ -138527,7 +138527,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -138969,7 +138969,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1653,
@@ -139001,7 +139001,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "assistant_display_name": "1111111#8082",
+                                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -139069,7 +139069,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2516,
@@ -139239,7 +139239,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -139277,7 +139277,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1181,
@@ -139656,7 +139656,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -140054,7 +140054,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -140143,7 +140143,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -140418,7 +140418,7 @@
                             },
                             {
                                 "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                "player_display_name": "1111111#8082",
+                                "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2025,
@@ -140564,7 +140564,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4413,
@@ -140686,7 +140686,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -140732,7 +140732,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2125,
@@ -140750,7 +140750,7 @@
                                     "killer_display_name": "sumoenzo#1988",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2290,
@@ -140964,7 +140964,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1388,
@@ -141109,7 +141109,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1911,
@@ -141173,7 +141173,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -762,
@@ -141219,7 +141219,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -141241,7 +141241,7 @@
                                     "kill_time_in_round": 37972,
                                     "kill_time_in_match": 1486284,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                                     "victim_display_name": "ilikemariguana#EUW",
@@ -141300,7 +141300,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1860,
@@ -141453,7 +141453,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2360,
@@ -141586,7 +141586,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2654,
@@ -141758,7 +141758,7 @@
                             },
                             {
                                 "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                "player_display_name": "1111111#8082",
+                                "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2163,
@@ -141903,7 +141903,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7028,
@@ -141997,7 +141997,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1040,
@@ -142173,7 +142173,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7028,
@@ -142267,7 +142267,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1037,
@@ -142431,7 +142431,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -142451,7 +142451,7 @@
                                     "killer_display_name": "Magubvk#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1161,
@@ -142595,7 +142595,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -142694,7 +142694,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -142837,7 +142837,7 @@
                             },
                             {
                                 "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                "player_display_name": "1111111#8082",
+                                "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5126,
@@ -142980,7 +142980,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -143056,7 +143056,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4528,
@@ -143090,7 +143090,7 @@
                                     "killer_display_name": "sumoenzo#1988",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5499,
@@ -143258,7 +143258,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3107,
@@ -143322,7 +143322,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4745,
@@ -143425,7 +143425,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -143472,7 +143472,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -143494,7 +143494,7 @@
                                     "kill_time_in_round": 34391,
                                     "kill_time_in_match": 1653415,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                                     "victim_display_name": "Castelao#1886",
@@ -143523,7 +143523,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4590,
@@ -143643,7 +143643,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -143739,7 +143739,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2483,
@@ -143813,7 +143813,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5034,
@@ -143873,7 +143873,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4360,
@@ -144039,7 +144039,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2307,
@@ -144167,7 +144167,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -144243,7 +144243,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4241,
@@ -144317,7 +144317,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3621,
@@ -144371,7 +144371,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2352,
@@ -144425,7 +144425,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1934,
@@ -144443,7 +144443,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2792,
@@ -144516,7 +144516,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -144731,7 +144731,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -144753,7 +144753,7 @@
                                     "kill_time_in_round": 29415,
                                     "kill_time_in_match": 1743654,
                                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "killer_display_name": "1111111#8082",
+                                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "killer_team": "Red",
                                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                                     "victim_display_name": "ilikemariguana#EUW",
@@ -144792,7 +144792,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3581,
@@ -144957,7 +144957,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6039,
@@ -145061,7 +145061,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4449,
@@ -145260,7 +145260,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6833,
@@ -145352,7 +145352,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "receiver_display_name": "1111111#8082",
+                                    "receiver_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -145390,7 +145390,7 @@
                                     "killer_display_name": "talibandudu#chuen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                    "victim_display_name": "1111111#8082",
+                                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5984,
@@ -146271,7 +146271,7 @@
                                         },
                                         {
                                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                                            "player_display_name": "1111111#8082",
+                                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5918,
@@ -146337,7 +146337,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -146519,7 +146519,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -241,
@@ -147247,7 +147247,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2864,
@@ -147352,7 +147352,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2280,
@@ -147397,7 +147397,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3202,
@@ -147940,7 +147940,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4380,
@@ -148045,7 +148045,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4352,
@@ -148140,7 +148140,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4601,
@@ -148235,7 +148235,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2631,
@@ -148257,7 +148257,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "assistant_display_name": "1111111#8082",
+                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "assistant_team": "Red"
                         }
                     ]
@@ -148267,7 +148267,7 @@
                     "kill_time_in_match": 330255,
                     "round": 2,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "cad9a54e-5665-5879-a7af-fc67765e2e28",
                     "victim_display_name": "Magubvk#EUW",
@@ -148316,7 +148316,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2754,
@@ -148387,7 +148387,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3366,
@@ -148442,7 +148442,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3322,
@@ -148468,7 +148468,7 @@
                     "kill_time_in_match": 351551,
                     "round": 2,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "1745b8ef-62ab-5f35-9266-11181a437b28",
                     "victim_display_name": "sumoenzo#1988",
@@ -148487,7 +148487,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4067,
@@ -148592,7 +148592,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3150,
@@ -148631,7 +148631,7 @@
                     "killer_display_name": "Castelao#1886",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2436,
@@ -149214,7 +149214,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 117,
@@ -149325,7 +149325,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 399,
@@ -149351,7 +149351,7 @@
                     "kill_time_in_match": 486707,
                     "round": 4,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                     "victim_display_name": "Castelao#1886",
@@ -149430,7 +149430,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 283,
@@ -149515,7 +149515,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1526,
@@ -149590,7 +149590,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2579,
@@ -149665,7 +149665,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2416,
@@ -149740,7 +149740,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 616,
@@ -149756,7 +149756,7 @@
                     "kill_time_in_match": 546503,
                     "round": 4,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "1745b8ef-62ab-5f35-9266-11181a437b28",
                     "victim_display_name": "sumoenzo#1988",
@@ -149795,7 +149795,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 1334,
@@ -149840,7 +149840,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1748,
@@ -149865,7 +149865,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1549,
@@ -149986,7 +149986,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4230,
@@ -150091,7 +150091,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6095,
@@ -150117,7 +150117,7 @@
                     "kill_time_in_match": 643964,
                     "round": 5,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                     "victim_display_name": "ilikemariguana#EUW",
@@ -150186,7 +150186,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6019,
@@ -150287,7 +150287,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6342,
@@ -150362,7 +150362,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6413,
@@ -150427,7 +150427,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5542,
@@ -150482,7 +150482,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5590,
@@ -150501,7 +150501,7 @@
                     "killer_display_name": "sumoenzo#1988",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5542,
@@ -150552,7 +150552,7 @@
                     "killer_display_name": "Castelao#1886",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -10,
@@ -151265,7 +151265,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6030,
@@ -151376,7 +151376,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6032,
@@ -151471,7 +151471,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6002,
@@ -151556,7 +151556,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5585,
@@ -151641,7 +151641,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5242,
@@ -151706,7 +151706,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5771,
@@ -151771,7 +151771,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4808,
@@ -151783,7 +151783,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "assistant_display_name": "1111111#8082",
+                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "assistant_team": "Red"
                         }
                     ]
@@ -151796,7 +151796,7 @@
                     "killer_display_name": "ilikemariguana#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4520,
@@ -151918,7 +151918,7 @@
                     "kill_time_in_match": 957068,
                     "round": 8,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                     "victim_display_name": "Castelao#1886",
@@ -152007,7 +152007,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -267,
@@ -152122,7 +152122,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -671,
@@ -152217,7 +152217,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -757,
@@ -152236,7 +152236,7 @@
                     "killer_display_name": "ilikemariguana#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -609,
@@ -152513,7 +152513,7 @@
                     "kill_time_in_match": 1065646,
                     "round": 9,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "36e4c27a-1982-5958-a557-d4673aeb2708",
                     "victim_display_name": "talibandudu#chuen",
@@ -152592,7 +152592,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 7283,
@@ -152631,7 +152631,7 @@
                     "killer_display_name": "ilikemariguana#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6400,
@@ -153289,7 +153289,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 1864,
@@ -153394,7 +153394,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5735,
@@ -153499,7 +153499,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5178,
@@ -153610,7 +153610,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4404,
@@ -153695,7 +153695,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4464,
@@ -153770,7 +153770,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5773,
@@ -153805,7 +153805,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6201,
@@ -154052,7 +154052,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1848,
@@ -154157,7 +154157,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1653,
@@ -154189,7 +154189,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "assistant_display_name": "1111111#8082",
+                            "assistant_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "assistant_team": "Red"
                         }
                     ]
@@ -154258,7 +154258,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2516,
@@ -154343,7 +154343,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2768,
@@ -154428,7 +154428,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1371,
@@ -154473,7 +154473,7 @@
                     "killer_display_name": "sumoenzo#1988",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1999,
@@ -154719,7 +154719,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1181,
@@ -155353,7 +155353,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4413,
@@ -155458,7 +155458,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2360,
@@ -155569,7 +155569,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1388,
@@ -155595,7 +155595,7 @@
                     "kill_time_in_match": 1486284,
                     "round": 13,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                     "victim_display_name": "ilikemariguana#EUW",
@@ -155654,7 +155654,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1860,
@@ -155735,7 +155735,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1911,
@@ -155800,7 +155800,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2654,
@@ -155865,7 +155865,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -762,
@@ -155910,7 +155910,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -2125,
@@ -155929,7 +155929,7 @@
                     "killer_display_name": "sumoenzo#1988",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2290,
@@ -156040,7 +156040,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 7028,
@@ -156145,7 +156145,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 7028,
@@ -156240,7 +156240,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1040,
@@ -156335,7 +156335,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1037,
@@ -156364,7 +156364,7 @@
                     "killer_display_name": "Magubvk#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1161,
@@ -156515,7 +156515,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2307,
@@ -156630,7 +156630,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2483,
@@ -156725,7 +156725,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3107,
@@ -156810,7 +156810,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4528,
@@ -156891,7 +156891,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5034,
@@ -156962,7 +156962,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4745,
@@ -157017,7 +157017,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4360,
@@ -157043,7 +157043,7 @@
                     "kill_time_in_match": 1653415,
                     "round": 15,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "3c8239b4-f481-5cea-b362-cf0f47d1353c",
                     "victim_display_name": "Castelao#1886",
@@ -157072,7 +157072,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4590,
@@ -157091,7 +157091,7 @@
                     "killer_display_name": "sumoenzo#1988",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5499,
@@ -157208,7 +157208,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6833,
@@ -157313,7 +157313,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 6039,
@@ -157418,7 +157418,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4449,
@@ -157503,7 +157503,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 4241,
@@ -157578,7 +157578,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3621,
@@ -157604,7 +157604,7 @@
                     "kill_time_in_match": 1743654,
                     "round": 16,
                     "killer_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "killer_display_name": "1111111#8082",
+                    "killer_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "killer_team": "Red",
                     "victim_puuid": "dba737a6-7658-5c8e-9c7e-da4b6d2bd110",
                     "victim_display_name": "ilikemariguana#EUW",
@@ -157643,7 +157643,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 3581,
@@ -157698,7 +157698,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 2352,
@@ -157753,7 +157753,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": -1934,
@@ -157772,7 +157772,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2792,
@@ -157889,7 +157889,7 @@
                         },
                         {
                             "player_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                            "player_display_name": "1111111#8082",
+                            "player_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                             "player_team": "Red",
                             "location": {
                                 "x": 5918,
@@ -157928,7 +157928,7 @@
                     "killer_display_name": "talibandudu#chuen",
                     "killer_team": "Blue",
                     "victim_puuid": "71c5e831-2698-5bee-821d-949ca6e179ba",
-                    "victim_display_name": "1111111#8082",
+                    "victim_display_name": "\u0438\u0445\u043e \u0434\u0435 \u043f\u0443\u0442\u0430#8082",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5984,
