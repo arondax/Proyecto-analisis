@@ -465,8 +465,8 @@
                     },
                     {
                         "puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                        "name": "solgo",
-                        "tag": "ezeze",
+                        "name": "SatonoDiamond",
+                        "tag": "0001",
                         "team": "Blue",
                         "level": 117,
                         "character": "Sova",
@@ -1272,8 +1272,8 @@
                     },
                     {
                         "puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                        "name": "solgo",
-                        "tag": "ezeze",
+                        "name": "SatonoDiamond",
+                        "tag": "0001",
                         "team": "Blue",
                         "level": 117,
                         "character": "Sova",
@@ -1586,7 +1586,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3536,
@@ -1668,12 +1668,12 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -1726,7 +1726,7 @@
                                     "kill_time_in_round": 21237,
                                     "kill_time_in_match": 88763,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ccbe03c6-562c-5cfe-8aa3-604e1514821a",
                                     "victim_display_name": "MrPawa#EUW",
@@ -1755,7 +1755,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3259,
@@ -1846,7 +1846,7 @@
                                     "kill_time_in_round": 22963,
                                     "kill_time_in_match": 90489,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                                     "victim_display_name": "NotCallMeKevv#0420",
@@ -1875,7 +1875,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3344,
@@ -1950,7 +1950,7 @@
                                     "kill_time_in_round": 24672,
                                     "kill_time_in_match": 92198,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                                     "victim_display_name": "LeBomb#1019",
@@ -1979,7 +1979,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3525,
@@ -2121,7 +2121,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3957,
@@ -2366,7 +2366,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2516,7 +2516,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3364,
@@ -2717,7 +2717,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -3082,7 +3082,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -3102,7 +3102,7 @@
                                     "killer_display_name": "NotCallMeKevv#0420",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2713,
@@ -3325,7 +3325,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3131,
@@ -3650,7 +3650,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3957,
@@ -3790,7 +3790,7 @@
                             },
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4663,
@@ -3934,7 +3934,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5396,
@@ -4039,7 +4039,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5216,
@@ -4125,7 +4125,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -4156,7 +4156,7 @@
                                     "kill_time_in_round": 33733,
                                     "kill_time_in_match": 256901,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                                     "victim_display_name": "Papa Gianca#1997",
@@ -4175,7 +4175,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5222,
@@ -4327,7 +4327,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4391,7 +4391,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3535,
@@ -4475,7 +4475,7 @@
                                     "killer_display_name": "Mischgeburt#271",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6173,
@@ -4946,7 +4946,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1803,
@@ -5086,7 +5086,7 @@
                             },
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7057,
@@ -5269,7 +5269,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6987,
@@ -5375,7 +5375,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -5502,7 +5502,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -5609,7 +5609,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -6019,7 +6019,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "assistant_display_name": "solgo#ezeze",
+                                            "assistant_display_name": "SatonoDiamond#0001",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -6162,7 +6162,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -6182,7 +6182,7 @@
                                     "killer_display_name": "NotCallMeKevv#0420",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7057,
@@ -6529,7 +6529,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -6560,7 +6560,7 @@
                                     "kill_time_in_round": 27943,
                                     "kill_time_in_match": 459947,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                                     "victim_display_name": "LeBomb#1019",
@@ -6579,7 +6579,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1498,
@@ -6644,7 +6644,7 @@
                                     "kill_time_in_round": 57776,
                                     "kill_time_in_match": 489780,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -6663,7 +6663,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -945,
@@ -7105,7 +7105,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3068,
@@ -7219,7 +7219,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1657,
@@ -7376,7 +7376,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1505,
@@ -7526,7 +7526,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7572,7 +7572,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2499,
@@ -7646,7 +7646,7 @@
                                     "killer_display_name": "Papa Gianca#1997",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4645,
@@ -7738,7 +7738,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -7760,7 +7760,7 @@
                                     "kill_time_in_round": 41276,
                                     "kill_time_in_match": 568064,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -7789,7 +7789,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2307,
@@ -8187,7 +8187,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 244,
@@ -8297,7 +8297,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3909,
@@ -8581,7 +8581,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2687,
@@ -8732,7 +8732,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -8779,7 +8779,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -8810,7 +8810,7 @@
                                     "kill_time_in_round": 34178,
                                     "kill_time_in_match": 650434,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -8839,7 +8839,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -922,
@@ -9015,7 +9015,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -918,
@@ -9109,7 +9109,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -918,
@@ -9330,7 +9330,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -789,
@@ -9382,7 +9382,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "assistant_display_name": "solgo#ezeze",
+                                            "assistant_display_name": "SatonoDiamond#0001",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -9482,7 +9482,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -664,
@@ -9733,7 +9733,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -942,
@@ -9843,7 +9843,7 @@
                             },
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4721,
@@ -9997,7 +9997,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4692,
@@ -10093,7 +10093,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -10211,7 +10211,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -10240,7 +10240,7 @@
                                     "killer_display_name": "Mischgeburt#271",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6301,
@@ -10401,7 +10401,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10508,7 +10508,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7057,
@@ -10608,7 +10608,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10663,7 +10663,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3714,
@@ -10938,7 +10938,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2096,
@@ -11187,7 +11187,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -11298,7 +11298,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1979,
@@ -11392,7 +11392,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4108,
@@ -11633,7 +11633,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2173,
@@ -11874,7 +11874,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4804,
@@ -12001,7 +12001,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3351,
@@ -12185,7 +12185,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3342,
@@ -12271,7 +12271,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -12293,7 +12293,7 @@
                                     "kill_time_in_round": 45193,
                                     "kill_time_in_match": 919185,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                                     "victim_display_name": "Papa Gianca#1997",
@@ -12312,7 +12312,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1950,
@@ -12452,7 +12452,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3915,
@@ -12516,7 +12516,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3031,
@@ -12632,7 +12632,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3461,
@@ -12810,7 +12810,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3435,
@@ -12977,7 +12977,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3342,
@@ -13238,7 +13238,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3956,
@@ -13369,7 +13369,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13415,7 +13415,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 159,
@@ -13531,7 +13531,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -13553,7 +13553,7 @@
                                     "kill_time_in_round": 16973,
                                     "kill_time_in_match": 973170,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                                     "victim_display_name": "Papa Gianca#1997",
@@ -13572,7 +13572,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -805,
@@ -13883,7 +13883,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1777,
@@ -13977,7 +13977,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -913,
@@ -14255,7 +14255,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -907,
@@ -14329,7 +14329,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 902,
@@ -14437,7 +14437,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14484,7 +14484,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -14601,7 +14601,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -14621,7 +14621,7 @@
                                     "killer_display_name": "Mischgeburt#271",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2747,
@@ -14779,7 +14779,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2704,
@@ -15024,7 +15024,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3619,
@@ -15328,7 +15328,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3021,
@@ -15410,7 +15410,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "assistant_display_name": "solgo#ezeze",
+                                            "assistant_display_name": "SatonoDiamond#0001",
                                             "assistant_team": "Blue"
                                         },
                                         {
@@ -15448,7 +15448,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2760,
@@ -15740,7 +15740,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -4489,
@@ -15877,7 +15877,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -15899,7 +15899,7 @@
                                     "kill_time_in_round": 17512,
                                     "kill_time_in_match": 1165984,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                                     "victim_display_name": "NotCallMeKevv#0420",
@@ -15918,7 +15918,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2666,
@@ -16117,7 +16117,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2932,
@@ -16231,7 +16231,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4072,
@@ -16599,7 +16599,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3370,
@@ -16744,7 +16744,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4572,
@@ -16906,7 +16906,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3597,
@@ -17106,7 +17106,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3556,
@@ -17256,7 +17256,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -17409,7 +17409,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "assistant_display_name": "solgo#ezeze",
+                                            "assistant_display_name": "SatonoDiamond#0001",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -17590,7 +17590,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17693,7 +17693,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -17748,7 +17748,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3486,
@@ -17806,7 +17806,7 @@
                                     "killer_display_name": "NotCallMeKevv#0420",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3503,
@@ -18010,7 +18010,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -342,
@@ -18124,7 +18124,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3556,
@@ -18306,7 +18306,7 @@
                             },
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -1821,
@@ -18433,7 +18433,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -18455,7 +18455,7 @@
                                     "kill_time_in_round": 43638,
                                     "kill_time_in_match": 1421408,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                                     "victim_display_name": "Papa Gianca#1997",
@@ -18474,7 +18474,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2369,
@@ -18626,7 +18626,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1933,
@@ -18730,7 +18730,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2504,
@@ -18843,7 +18843,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -18872,7 +18872,7 @@
                                     "killer_display_name": "MrPawa#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1610,
@@ -19087,7 +19087,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1845,
@@ -19234,7 +19234,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2589,
@@ -19454,7 +19454,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1758,
@@ -19711,7 +19711,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -19862,7 +19862,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -19917,7 +19917,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4675,
@@ -20099,7 +20099,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 3,
@@ -20119,7 +20119,7 @@
                                     "killer_display_name": "NotCallMeKevv#0420",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5884,
@@ -20641,7 +20641,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4675,
@@ -20741,7 +20741,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4675,
@@ -21151,7 +21151,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -21182,7 +21182,7 @@
                                     "kill_time_in_round": 21299,
                                     "kill_time_in_match": 1601505,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -21211,7 +21211,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2457,
@@ -21570,7 +21570,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1372,
@@ -21765,7 +21765,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -21794,7 +21794,7 @@
                                     "killer_display_name": "LeBomb#1019",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -493,
@@ -22339,7 +22339,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -22370,7 +22370,7 @@
                                     "kill_time_in_round": 16533,
                                     "kill_time_in_match": 1734831,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                                     "victim_display_name": "LeBomb#1019",
@@ -22399,7 +22399,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2407,
@@ -22647,7 +22647,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -22667,7 +22667,7 @@
                                     "killer_display_name": "Mischgeburt#271",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2407,
@@ -22800,7 +22800,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -23337,7 +23337,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2670,
@@ -23488,7 +23488,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -23534,7 +23534,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -67,
@@ -23602,7 +23602,7 @@
                                     "killer_display_name": "Papa Gianca#1997",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1366,
@@ -23680,7 +23680,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -23711,7 +23711,7 @@
                                     "kill_time_in_round": 24368,
                                     "kill_time_in_match": 1878721,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -23740,7 +23740,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4,
@@ -23821,7 +23821,7 @@
                                     "kill_time_in_round": 37630,
                                     "kill_time_in_match": 1891983,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                                     "victim_display_name": "LeBomb#1019",
@@ -23850,7 +23850,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -352,
@@ -24060,7 +24060,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -30,
@@ -24221,7 +24221,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 6,
                                     "headshots": 0,
@@ -24276,7 +24276,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1814,
@@ -24396,7 +24396,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2585,
@@ -24587,7 +24587,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 88,
@@ -24677,7 +24677,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                "player_display_name": "solgo#ezeze",
+                                "player_display_name": "SatonoDiamond#0001",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -2223,
@@ -24791,7 +24791,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3723,
@@ -24875,7 +24875,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2455,
@@ -24941,7 +24941,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -24999,7 +24999,7 @@
                                     "kill_time_in_round": 27021,
                                     "kill_time_in_match": 1995643,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                                     "victim_display_name": "Mischgeburt#271",
@@ -25028,7 +25028,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2225,
@@ -25113,7 +25113,7 @@
                                     "kill_time_in_round": 33594,
                                     "kill_time_in_match": 2002216,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                                     "victim_display_name": "NotCallMeKevv#0420",
@@ -25142,7 +25142,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2081,
@@ -25207,7 +25207,7 @@
                                     "kill_time_in_round": 57152,
                                     "kill_time_in_match": 2025774,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                                     "victim_display_name": "Papa Gianca#1997",
@@ -25226,7 +25226,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2642,
@@ -25272,7 +25272,7 @@
                                     "kill_time_in_round": 116336,
                                     "kill_time_in_match": 2084958,
                                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "killer_display_name": "solgo#ezeze",
+                                    "killer_display_name": "SatonoDiamond#0001",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ccbe03c6-562c-5cfe-8aa3-604e1514821a",
                                     "victim_display_name": "MrPawa#EUW",
@@ -25291,7 +25291,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3495,
@@ -25451,7 +25451,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -25506,7 +25506,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2851,
@@ -25554,7 +25554,7 @@
                                     "killer_display_name": "MrPawa#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "victim_display_name": "solgo#ezeze",
+                                    "victim_display_name": "SatonoDiamond#0001",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1590,
@@ -25620,7 +25620,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1635,
@@ -25733,7 +25733,7 @@
                                         },
                                         {
                                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                            "player_display_name": "solgo#ezeze",
+                                            "player_display_name": "SatonoDiamond#0001",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2204,
@@ -25853,7 +25853,7 @@
                                 },
                                 {
                                     "receiver_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                                    "receiver_display_name": "solgo#ezeze",
+                                    "receiver_display_name": "SatonoDiamond#0001",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -26037,7 +26037,7 @@
                     "kill_time_in_match": 88763,
                     "round": 0,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "ccbe03c6-562c-5cfe-8aa3-604e1514821a",
                     "victim_display_name": "MrPawa#EUW",
@@ -26066,7 +26066,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3259,
@@ -26158,7 +26158,7 @@
                     "kill_time_in_match": 90489,
                     "round": 0,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                     "victim_display_name": "NotCallMeKevv#0420",
@@ -26187,7 +26187,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3344,
@@ -26292,7 +26292,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3364,
@@ -26358,7 +26358,7 @@
                     "kill_time_in_match": 92198,
                     "round": 0,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                     "victim_display_name": "LeBomb#1019",
@@ -26387,7 +26387,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3525,
@@ -26478,7 +26478,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3536,
@@ -26549,7 +26549,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3957,
@@ -26614,7 +26614,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3131,
@@ -26729,7 +26729,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3957,
@@ -26818,7 +26818,7 @@
                     "killer_display_name": "NotCallMeKevv#0420",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2713,
@@ -27219,7 +27219,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1803,
@@ -27334,7 +27334,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3535,
@@ -27445,7 +27445,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5396,
@@ -27551,7 +27551,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5216,
@@ -27607,7 +27607,7 @@
                     "kill_time_in_match": 256901,
                     "round": 2,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                     "victim_display_name": "Papa Gianca#1997",
@@ -27626,7 +27626,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5222,
@@ -27685,7 +27685,7 @@
                     "killer_display_name": "Mischgeburt#271",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6173,
@@ -27876,7 +27876,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -28002,7 +28002,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6987,
@@ -28081,7 +28081,7 @@
                     "killer_display_name": "NotCallMeKevv#0420",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7057,
@@ -28406,7 +28406,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "assistant_display_name": "solgo#ezeze",
+                            "assistant_display_name": "SatonoDiamond#0001",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -28535,7 +28535,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3068,
@@ -28650,7 +28650,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1657,
@@ -28755,7 +28755,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1505,
@@ -28831,7 +28831,7 @@
                     "kill_time_in_match": 459947,
                     "round": 4,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                     "victim_display_name": "LeBomb#1019",
@@ -28850,7 +28850,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1498,
@@ -28916,7 +28916,7 @@
                     "kill_time_in_match": 489780,
                     "round": 4,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -28935,7 +28935,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -945,
@@ -29026,7 +29026,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2687,
@@ -29141,7 +29141,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 244,
@@ -29252,7 +29252,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2499,
@@ -29324,7 +29324,7 @@
                     "kill_time_in_match": 568064,
                     "round": 5,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -29353,7 +29353,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2307,
@@ -29438,7 +29438,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3909,
@@ -29487,7 +29487,7 @@
                     "killer_display_name": "Papa Gianca#1997",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4645,
@@ -29660,7 +29660,7 @@
                     "kill_time_in_match": 650434,
                     "round": 6,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -29689,7 +29689,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -922,
@@ -29804,7 +29804,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -664,
@@ -29909,7 +29909,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -918,
@@ -30004,7 +30004,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -918,
@@ -30089,7 +30089,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -942,
@@ -30164,7 +30164,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -789,
@@ -30216,7 +30216,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "assistant_display_name": "solgo#ezeze",
+                            "assistant_display_name": "SatonoDiamond#0001",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -30255,7 +30255,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2096,
@@ -30370,7 +30370,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3714,
@@ -30481,7 +30481,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4692,
@@ -30576,7 +30576,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7057,
@@ -30635,7 +30635,7 @@
                     "killer_display_name": "Mischgeburt#271",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6301,
@@ -30862,7 +30862,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2173,
@@ -30977,7 +30977,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1979,
@@ -31072,7 +31072,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3351,
@@ -31173,7 +31173,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4108,
@@ -31258,7 +31258,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4804,
@@ -31343,7 +31343,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3435,
@@ -31458,7 +31458,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3342,
@@ -31563,7 +31563,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3956,
@@ -31658,7 +31658,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3342,
@@ -31743,7 +31743,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3461,
@@ -31818,7 +31818,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3915,
@@ -31883,7 +31883,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3031,
@@ -31909,7 +31909,7 @@
                     "kill_time_in_match": 919185,
                     "round": 9,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                     "victim_display_name": "Papa Gianca#1997",
@@ -31928,7 +31928,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1950,
@@ -31989,7 +31989,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 159,
@@ -32075,7 +32075,7 @@
                     "kill_time_in_match": 973170,
                     "round": 10,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                     "victim_display_name": "Papa Gianca#1997",
@@ -32094,7 +32094,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -805,
@@ -32199,7 +32199,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1777,
@@ -32294,7 +32294,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -913,
@@ -32385,7 +32385,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -907,
@@ -32460,7 +32460,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 902,
@@ -32541,7 +32541,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3619,
@@ -32646,7 +32646,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3021,
@@ -32728,7 +32728,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "assistant_display_name": "solgo#ezeze",
+                            "assistant_display_name": "SatonoDiamond#0001",
                             "assistant_team": "Blue"
                         },
                         {
@@ -32767,7 +32767,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2704,
@@ -32862,7 +32862,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2760,
@@ -32931,7 +32931,7 @@
                     "killer_display_name": "Mischgeburt#271",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2747,
@@ -33240,7 +33240,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2932,
@@ -33336,7 +33336,7 @@
                     "kill_time_in_match": 1165984,
                     "round": 12,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                     "victim_display_name": "NotCallMeKevv#0420",
@@ -33355,7 +33355,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2666,
@@ -33466,7 +33466,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4572,
@@ -33567,7 +33567,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4072,
@@ -33658,7 +33658,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3370,
@@ -33733,7 +33733,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3597,
@@ -33814,7 +33814,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -342,
@@ -33929,7 +33929,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3556,
@@ -34034,7 +34034,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3556,
@@ -34129,7 +34129,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3486,
@@ -34188,7 +34188,7 @@
                     "killer_display_name": "NotCallMeKevv#0420",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3503,
@@ -34321,7 +34321,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "assistant_display_name": "solgo#ezeze",
+                            "assistant_display_name": "SatonoDiamond#0001",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -34501,7 +34501,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1933,
@@ -34616,7 +34616,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1845,
@@ -34695,7 +34695,7 @@
                     "killer_display_name": "MrPawa#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1610,
@@ -34901,7 +34901,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1758,
@@ -34957,7 +34957,7 @@
                     "kill_time_in_match": 1421408,
                     "round": 14,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                     "victim_display_name": "Papa Gianca#1997",
@@ -34976,7 +34976,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2369,
@@ -35057,7 +35057,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2589,
@@ -35122,7 +35122,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2504,
@@ -35187,7 +35187,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4675,
@@ -35302,7 +35302,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4675,
@@ -35403,7 +35403,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4675,
@@ -35488,7 +35488,7 @@
                     "killer_display_name": "NotCallMeKevv#0420",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5884,
@@ -35857,7 +35857,7 @@
                     "kill_time_in_match": 1601505,
                     "round": 16,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -35886,7 +35886,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2457,
@@ -36007,7 +36007,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1372,
@@ -36086,7 +36086,7 @@
                     "killer_display_name": "LeBomb#1019",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -493,
@@ -36493,7 +36493,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2670,
@@ -36579,7 +36579,7 @@
                     "kill_time_in_match": 1734831,
                     "round": 17,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                     "victim_display_name": "LeBomb#1019",
@@ -36608,7 +36608,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2407,
@@ -36687,7 +36687,7 @@
                     "killer_display_name": "Mischgeburt#271",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2407,
@@ -37180,7 +37180,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1814,
@@ -37272,7 +37272,7 @@
                     "kill_time_in_match": 1878721,
                     "round": 18,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -37301,7 +37301,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4,
@@ -37412,7 +37412,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -67,
@@ -37507,7 +37507,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -30,
@@ -37592,7 +37592,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 88,
@@ -37638,7 +37638,7 @@
                     "kill_time_in_match": 1891983,
                     "round": 18,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "c8b199cb-e071-5924-ab73-60c3e79b0ec5",
                     "victim_display_name": "LeBomb#1019",
@@ -37667,7 +37667,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -352,
@@ -37732,7 +37732,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2585,
@@ -37761,7 +37761,7 @@
                     "killer_display_name": "Papa Gianca#1997",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1366,
@@ -37809,7 +37809,7 @@
                     "kill_time_in_match": 1995643,
                     "round": 19,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "584d0db1-17b0-5f72-87e6-006103e5684a",
                     "victim_display_name": "Mischgeburt#271",
@@ -37838,7 +37838,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2225,
@@ -37953,7 +37953,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2204,
@@ -38029,7 +38029,7 @@
                     "kill_time_in_match": 2002216,
                     "round": 19,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "2666b1c4-f426-5474-bd01-7ec5a08e0e22",
                     "victim_display_name": "NotCallMeKevv#0420",
@@ -38058,7 +38058,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2081,
@@ -38153,7 +38153,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3723,
@@ -38238,7 +38238,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2851,
@@ -38313,7 +38313,7 @@
                         },
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2455,
@@ -38349,7 +38349,7 @@
                     "kill_time_in_match": 2025774,
                     "round": 19,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "de5520d9-0aa2-51dd-a936-b043b36368ef",
                     "victim_display_name": "Papa Gianca#1997",
@@ -38368,7 +38368,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2642,
@@ -38418,7 +38418,7 @@
                     "killer_display_name": "MrPawa#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "victim_display_name": "solgo#ezeze",
+                    "victim_display_name": "SatonoDiamond#0001",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1590,
@@ -38485,7 +38485,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1635,
@@ -38517,7 +38517,7 @@
                     "kill_time_in_match": 2084958,
                     "round": 19,
                     "killer_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                    "killer_display_name": "solgo#ezeze",
+                    "killer_display_name": "SatonoDiamond#0001",
                     "killer_team": "Blue",
                     "victim_puuid": "ccbe03c6-562c-5cfe-8aa3-604e1514821a",
                     "victim_display_name": "MrPawa#EUW",
@@ -38536,7 +38536,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "6fc80976-93b0-56ab-ada5-4b2aa244093a",
-                            "player_display_name": "solgo#ezeze",
+                            "player_display_name": "SatonoDiamond#0001",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3495,
