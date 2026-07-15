@@ -100,8 +100,8 @@
                     },
                     {
                         "puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                        "name": "santaCLAUS",
-                        "tag": "snt",
+                        "name": "COLDOOPR1ME",
+                        "tag": "cld",
                         "team": "Blue",
                         "level": 139,
                         "character": "Raze",
@@ -1199,8 +1199,8 @@
                     },
                     {
                         "puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                        "name": "santaCLAUS",
-                        "tag": "snt",
+                        "name": "COLDOOPR1ME",
+                        "tag": "cld",
                         "team": "Blue",
                         "level": 139,
                         "character": "Raze",
@@ -1601,7 +1601,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -1632,7 +1632,7 @@
                                     "kill_time_in_round": 24200,
                                     "kill_time_in_match": 107432,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -1651,7 +1651,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5342,
@@ -1716,7 +1716,7 @@
                                     "kill_time_in_round": 25168,
                                     "kill_time_in_match": 108400,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                                     "victim_display_name": "ZG y4mi#1TAP",
@@ -1735,7 +1735,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5267,
@@ -1868,7 +1868,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -2059,7 +2059,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5680,
@@ -2189,7 +2189,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2225,7 +2225,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5111,
@@ -2303,7 +2303,7 @@
                                     "killer_display_name": "K4GE#1TAP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5263,
@@ -2613,7 +2613,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5703,
@@ -2875,7 +2875,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -2915,7 +2915,7 @@
                                     "kill_time_in_round": 29226,
                                     "kill_time_in_match": 229927,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -2934,7 +2934,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6237,
@@ -3009,7 +3009,7 @@
                                     "kill_time_in_round": 34187,
                                     "kill_time_in_match": 234888,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -3028,7 +3028,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5556,
@@ -3145,7 +3145,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6315,
@@ -3251,7 +3251,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5751,
@@ -3335,7 +3335,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6236,
@@ -3466,7 +3466,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9061,
@@ -3580,7 +3580,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8292,
@@ -3752,7 +3752,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -3804,7 +3804,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -3849,7 +3849,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5702,
@@ -4085,7 +4085,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6278,
@@ -4200,7 +4200,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -4409,7 +4409,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -5050,7 +5050,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -5070,7 +5070,7 @@
                                     "killer_display_name": "Cryboy#1102",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6034,
@@ -5307,7 +5307,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -5418,7 +5418,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4636,
@@ -5594,7 +5594,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5671,
@@ -5698,7 +5698,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5671,
@@ -5770,7 +5770,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "assistant_display_name": "santaCLAUS#snt",
+                                            "assistant_display_name": "COLDOOPR1ME#cld",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -5798,7 +5798,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5671,
@@ -5882,7 +5882,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5910,
@@ -6070,7 +6070,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5754,
@@ -6151,7 +6151,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6333,7 +6333,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5671,
@@ -6486,7 +6486,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -6517,7 +6517,7 @@
                                     "kill_time_in_round": 20144,
                                     "kill_time_in_match": 465329,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -6536,7 +6536,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4987,
@@ -6597,7 +6597,7 @@
                                     "kill_time_in_round": 33352,
                                     "kill_time_in_match": 478537,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -6616,7 +6616,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5081,
@@ -6728,7 +6728,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5255,
@@ -6957,7 +6957,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6363,
@@ -7097,7 +7097,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -7133,7 +7133,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5201,
@@ -7240,7 +7240,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5119,
@@ -7395,7 +7395,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5466,
@@ -7499,7 +7499,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5295,
@@ -7716,7 +7716,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -7747,7 +7747,7 @@
                                     "kill_time_in_round": 19782,
                                     "kill_time_in_match": 535329,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -7766,7 +7766,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5496,
@@ -7861,7 +7861,7 @@
                                     "kill_time_in_round": 30863,
                                     "kill_time_in_match": 546410,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -7880,7 +7880,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5384,
@@ -8101,7 +8101,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5967,
@@ -8264,7 +8264,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -8445,7 +8445,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5496,
@@ -8549,7 +8549,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5849,
@@ -8691,7 +8691,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6139,
@@ -8834,7 +8834,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -8874,7 +8874,7 @@
                                     "kill_time_in_round": 10748,
                                     "kill_time_in_match": 603654,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -8893,7 +8893,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6139,
@@ -8994,7 +8994,7 @@
                                     "kill_time_in_round": 24782,
                                     "kill_time_in_match": 617688,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -9013,7 +9013,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7218,
@@ -9150,7 +9150,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6098,
@@ -9271,7 +9271,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -9300,7 +9300,7 @@
                                     "killer_display_name": "ZG y4mi#1TAP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5449,
@@ -9442,7 +9442,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5958,
@@ -9596,7 +9596,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9632,7 +9632,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5865,
@@ -9972,7 +9972,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7078,
@@ -10039,14 +10039,14 @@
                         },
                         "defused_by": {
                             "puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "display_name": "santaCLAUS#snt",
+                            "display_name": "COLDOOPR1ME#cld",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 73904,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6317,
@@ -10075,7 +10075,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -10115,7 +10115,7 @@
                                     "kill_time_in_round": 57948,
                                     "kill_time_in_match": 735179,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -10134,7 +10134,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7162,
@@ -10175,7 +10175,7 @@
                                     "kill_time_in_round": 61172,
                                     "kill_time_in_match": 738403,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -10194,7 +10194,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6832,
@@ -10225,7 +10225,7 @@
                                     "kill_time_in_round": 78702,
                                     "kill_time_in_match": 755933,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                                     "victim_display_name": "ZG y4mi#1TAP",
@@ -10244,7 +10244,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5781,
@@ -10362,7 +10362,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -10459,7 +10459,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9389,
@@ -10615,7 +10615,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9892,
@@ -10725,7 +10725,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6737,
@@ -10893,7 +10893,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8550,
@@ -10983,7 +10983,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6927,
@@ -11119,7 +11119,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7313,
@@ -11353,7 +11353,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5183,
@@ -11408,12 +11408,12 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11519,7 +11519,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6250,
@@ -11633,7 +11633,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6013,
@@ -11883,7 +11883,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2749,
@@ -12017,7 +12017,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -12053,7 +12053,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5935,
@@ -12137,7 +12137,7 @@
                                     "killer_display_name": "ragdoll#rawr",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4663,
@@ -12260,7 +12260,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5257,
@@ -12439,7 +12439,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4359,
@@ -12644,7 +12644,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -12816,7 +12816,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6574,
@@ -13000,7 +13000,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6523,
@@ -13104,7 +13104,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6562,
@@ -13188,7 +13188,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5477,
@@ -13240,7 +13240,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "assistant_display_name": "santaCLAUS#snt",
+                                            "assistant_display_name": "COLDOOPR1ME#cld",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -13378,7 +13378,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13503,7 +13503,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -13523,7 +13523,7 @@
                                     "killer_display_name": "ragdoll#rawr",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5474,
@@ -13674,7 +13674,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7251,
@@ -13788,7 +13788,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6612,
@@ -14047,7 +14047,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -14087,7 +14087,7 @@
                                     "kill_time_in_round": 8213,
                                     "kill_time_in_match": 1043368,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73eb634b-d896-5c24-9dfc-2f1aa557570f",
                                     "victim_display_name": "Cryboy#1102",
@@ -14106,7 +14106,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6919,
@@ -14201,7 +14201,7 @@
                                     "kill_time_in_round": 34615,
                                     "kill_time_in_match": 1069770,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                                     "victim_display_name": "ZG y4mi#1TAP",
@@ -14220,7 +14220,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3085,
@@ -14385,7 +14385,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3744,
@@ -14743,7 +14743,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5611,
@@ -14837,7 +14837,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3863,
@@ -14974,7 +14974,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6192,
@@ -15095,7 +15095,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -15163,7 +15163,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -15203,7 +15203,7 @@
                                     "kill_time_in_round": 12160,
                                     "kill_time_in_match": 1118934,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73eb634b-d896-5c24-9dfc-2f1aa557570f",
                                     "victim_display_name": "Cryboy#1102",
@@ -15222,7 +15222,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4625,
@@ -15297,7 +15297,7 @@
                                     "kill_time_in_round": 18606,
                                     "kill_time_in_match": 1125380,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -15316,7 +15316,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5076,
@@ -15381,7 +15381,7 @@
                                     "kill_time_in_round": 19540,
                                     "kill_time_in_match": 1126314,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -15400,7 +15400,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4962,
@@ -15542,7 +15542,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -15587,7 +15587,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5026,
@@ -15635,7 +15635,7 @@
                                     "killer_display_name": "ZG y4mi#1TAP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4874,
@@ -15884,7 +15884,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6428,
@@ -16060,7 +16060,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6241,
@@ -16384,7 +16384,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -16558,7 +16558,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "assistant_display_name": "santaCLAUS#snt",
+                                            "assistant_display_name": "COLDOOPR1ME#cld",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -16850,7 +16850,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3629,
@@ -16987,7 +16987,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -17025,7 +17025,7 @@
                                     "killer_display_name": "GalarKun#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5391,
@@ -17622,7 +17622,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -17644,7 +17644,7 @@
                                     "kill_time_in_round": 4057,
                                     "kill_time_in_match": 1305092,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -17663,7 +17663,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4353,
@@ -17910,7 +17910,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -17948,7 +17948,7 @@
                                     "killer_display_name": "ZG y4mi#1TAP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6781,
@@ -18672,7 +18672,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -18694,7 +18694,7 @@
                                     "kill_time_in_round": 16493,
                                     "kill_time_in_match": 1459232,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                                     "victim_display_name": "ZG y4mi#1TAP",
@@ -18713,7 +18713,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7255,
@@ -19198,7 +19198,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -19243,7 +19243,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4534,
@@ -19321,7 +19321,7 @@
                                     "killer_display_name": "K4GE#1TAP",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7255,
@@ -19614,7 +19614,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -19645,7 +19645,7 @@
                                     "kill_time_in_round": 2049,
                                     "kill_time_in_match": 1534879,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -19664,7 +19664,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1373,
@@ -20028,7 +20028,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -20073,7 +20073,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5673,
@@ -20141,7 +20141,7 @@
                                     "killer_display_name": "ragdoll#rawr",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6082,
@@ -20500,7 +20500,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                "player_display_name": "santaCLAUS#snt",
+                                "player_display_name": "COLDOOPR1ME#cld",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9602,
@@ -20555,7 +20555,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -20586,7 +20586,7 @@
                                     "kill_time_in_round": 17123,
                                     "kill_time_in_match": 1615190,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                                     "victim_display_name": "ZG y4mi#1TAP",
@@ -20605,7 +20605,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7524,
@@ -20696,7 +20696,7 @@
                                     "kill_time_in_round": 34976,
                                     "kill_time_in_match": 1633043,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -20715,7 +20715,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8726,
@@ -20848,7 +20848,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8960,
@@ -21016,7 +21016,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7438,
@@ -21127,7 +21127,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -21285,7 +21285,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8026,
@@ -21375,7 +21375,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8468,
@@ -21684,7 +21684,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -22110,7 +22110,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4390,
@@ -22362,7 +22362,7 @@
                                 },
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -22391,7 +22391,7 @@
                                     "killer_display_name": "ragdoll#rawr",
                                     "killer_team": "Red",
                                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "victim_display_name": "santaCLAUS#snt",
+                                    "victim_display_name": "COLDOOPR1ME#cld",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6903,
@@ -22831,7 +22831,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -22871,7 +22871,7 @@
                                     "kill_time_in_round": 15561,
                                     "kill_time_in_match": 1807091,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                                     "victim_display_name": "K4GE#1TAP",
@@ -22890,7 +22890,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6156,
@@ -22975,7 +22975,7 @@
                                     "kill_time_in_round": 18145,
                                     "kill_time_in_match": 1809675,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                                     "victim_display_name": "ragdoll#rawr",
@@ -22994,7 +22994,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6100,
@@ -23059,7 +23059,7 @@
                                     "kill_time_in_round": 27230,
                                     "kill_time_in_match": 1818760,
                                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "killer_display_name": "santaCLAUS#snt",
+                                    "killer_display_name": "COLDOOPR1ME#cld",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                                     "victim_display_name": "GalarKun#EUW",
@@ -23078,7 +23078,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -49784,
@@ -23246,7 +23246,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6428,
@@ -23379,7 +23379,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                    "receiver_display_name": "santaCLAUS#snt",
+                                    "receiver_display_name": "COLDOOPR1ME#cld",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -23467,7 +23467,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5940,
@@ -23662,7 +23662,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                                            "player_display_name": "santaCLAUS#snt",
+                                            "player_display_name": "COLDOOPR1ME#cld",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -49462,
@@ -23832,7 +23832,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5703,
@@ -23947,7 +23947,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5680,
@@ -24052,7 +24052,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5111,
@@ -24128,7 +24128,7 @@
                     "kill_time_in_match": 107432,
                     "round": 0,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -24147,7 +24147,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5342,
@@ -24213,7 +24213,7 @@
                     "kill_time_in_match": 108400,
                     "round": 0,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                     "victim_display_name": "ZG y4mi#1TAP",
@@ -24232,7 +24232,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5267,
@@ -24291,7 +24291,7 @@
                     "killer_display_name": "K4GE#1TAP",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5263,
@@ -24525,7 +24525,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9061,
@@ -24640,7 +24640,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8292,
@@ -24726,7 +24726,7 @@
                     "kill_time_in_match": 229927,
                     "round": 1,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -24745,7 +24745,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6237,
@@ -24840,7 +24840,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5751,
@@ -24925,7 +24925,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5702,
@@ -24981,7 +24981,7 @@
                     "kill_time_in_match": 234888,
                     "round": 1,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -25000,7 +25000,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5556,
@@ -25065,7 +25065,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6236,
@@ -25126,7 +25126,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6315,
@@ -25155,7 +25155,7 @@
                     "killer_display_name": "Cryboy#1102",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6034,
@@ -25723,7 +25723,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5671,
@@ -25844,7 +25844,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5671,
@@ -25949,7 +25949,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5671,
@@ -26021,7 +26021,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "assistant_display_name": "santaCLAUS#snt",
+                            "assistant_display_name": "COLDOOPR1ME#cld",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -26050,7 +26050,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5671,
@@ -26135,7 +26135,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5910,
@@ -26210,7 +26210,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5754,
@@ -26275,7 +26275,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4636,
@@ -26330,7 +26330,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6363,
@@ -26445,7 +26445,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5466,
@@ -26550,7 +26550,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5295,
@@ -26651,7 +26651,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5119,
@@ -26717,7 +26717,7 @@
                     "kill_time_in_match": 465329,
                     "round": 4,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -26736,7 +26736,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4987,
@@ -26817,7 +26817,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5255,
@@ -26882,7 +26882,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5201,
@@ -26918,7 +26918,7 @@
                     "kill_time_in_match": 478537,
                     "round": 4,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -26937,7 +26937,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5081,
@@ -26969,7 +26969,7 @@
                     "kill_time_in_match": 535329,
                     "round": 5,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -26988,7 +26988,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5496,
@@ -27103,7 +27103,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5496,
@@ -27208,7 +27208,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5967,
@@ -27284,7 +27284,7 @@
                     "kill_time_in_match": 546410,
                     "round": 5,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -27303,7 +27303,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5384,
@@ -27388,7 +27388,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5849,
@@ -27444,7 +27444,7 @@
                     "kill_time_in_match": 603654,
                     "round": 6,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -27463,7 +27463,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6139,
@@ -27584,7 +27584,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6098,
@@ -27689,7 +27689,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5865,
@@ -27765,7 +27765,7 @@
                     "kill_time_in_match": 617688,
                     "round": 6,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -27784,7 +27784,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7218,
@@ -27869,7 +27869,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5958,
@@ -27928,7 +27928,7 @@
                     "killer_display_name": "ZG y4mi#1TAP",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5449,
@@ -28064,7 +28064,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7313,
@@ -28179,7 +28179,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9892,
@@ -28290,7 +28290,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9389,
@@ -28385,7 +28385,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8550,
@@ -28476,7 +28476,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6927,
@@ -28551,7 +28551,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6737,
@@ -28597,7 +28597,7 @@
                     "kill_time_in_match": 735179,
                     "round": 7,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -28616,7 +28616,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7162,
@@ -28658,7 +28658,7 @@
                     "kill_time_in_match": 738403,
                     "round": 7,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -28677,7 +28677,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6832,
@@ -28709,7 +28709,7 @@
                     "kill_time_in_match": 755933,
                     "round": 7,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                     "victim_display_name": "ZG y4mi#1TAP",
@@ -28728,7 +28728,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5781,
@@ -28769,7 +28769,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6250,
@@ -28884,7 +28884,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6013,
@@ -28989,7 +28989,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5935,
@@ -29090,7 +29090,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5257,
@@ -29175,7 +29175,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4359,
@@ -29250,7 +29250,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2749,
@@ -29299,7 +29299,7 @@
                     "killer_display_name": "ragdoll#rawr",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4663,
@@ -29415,7 +29415,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7251,
@@ -29530,7 +29530,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6523,
@@ -29635,7 +29635,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6612,
@@ -29736,7 +29736,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6574,
@@ -29832,7 +29832,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6562,
@@ -29917,7 +29917,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5477,
@@ -29969,7 +29969,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "assistant_display_name": "santaCLAUS#snt",
+                            "assistant_display_name": "COLDOOPR1ME#cld",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -29982,7 +29982,7 @@
                     "killer_display_name": "ragdoll#rawr",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5474,
@@ -30185,7 +30185,7 @@
                     "kill_time_in_match": 1043368,
                     "round": 10,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "73eb634b-d896-5c24-9dfc-2f1aa557570f",
                     "victim_display_name": "Cryboy#1102",
@@ -30204,7 +30204,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6919,
@@ -30319,7 +30319,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6192,
@@ -30424,7 +30424,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5611,
@@ -30519,7 +30519,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3863,
@@ -30604,7 +30604,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3744,
@@ -30666,7 +30666,7 @@
                     "kill_time_in_match": 1069770,
                     "round": 10,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                     "victim_display_name": "ZG y4mi#1TAP",
@@ -30685,7 +30685,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3085,
@@ -30756,7 +30756,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6428,
@@ -30871,7 +30871,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6241,
@@ -30957,7 +30957,7 @@
                     "kill_time_in_match": 1118934,
                     "round": 11,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "73eb634b-d896-5c24-9dfc-2f1aa557570f",
                     "victim_display_name": "Cryboy#1102",
@@ -30976,7 +30976,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4625,
@@ -31052,7 +31052,7 @@
                     "kill_time_in_match": 1125380,
                     "round": 11,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -31071,7 +31071,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5076,
@@ -31137,7 +31137,7 @@
                     "kill_time_in_match": 1126314,
                     "round": 11,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -31156,7 +31156,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4962,
@@ -31231,7 +31231,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5026,
@@ -31280,7 +31280,7 @@
                     "killer_display_name": "ZG y4mi#1TAP",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4874,
@@ -31396,7 +31396,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3629,
@@ -31501,7 +31501,7 @@
                     "killer_display_name": "GalarKun#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5391,
@@ -31694,7 +31694,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "assistant_display_name": "santaCLAUS#snt",
+                            "assistant_display_name": "COLDOOPR1ME#cld",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -31984,7 +31984,7 @@
                     "kill_time_in_match": 1305092,
                     "round": 13,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -32003,7 +32003,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4353,
@@ -32092,7 +32092,7 @@
                     "killer_display_name": "ZG y4mi#1TAP",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6781,
@@ -32528,7 +32528,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4534,
@@ -32604,7 +32604,7 @@
                     "kill_time_in_match": 1459232,
                     "round": 14,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                     "victim_display_name": "ZG y4mi#1TAP",
@@ -32623,7 +32623,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7255,
@@ -32692,7 +32692,7 @@
                     "killer_display_name": "K4GE#1TAP",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7255,
@@ -32935,7 +32935,7 @@
                     "kill_time_in_match": 1534879,
                     "round": 15,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -32954,7 +32954,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1373,
@@ -33049,7 +33049,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5673,
@@ -33118,7 +33118,7 @@
                     "killer_display_name": "ragdoll#rawr",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6082,
@@ -33310,7 +33310,7 @@
                     "kill_time_in_match": 1615190,
                     "round": 16,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "1ba73080-2e6e-5d9e-9314-d677f7842f7a",
                     "victim_display_name": "ZG y4mi#1TAP",
@@ -33329,7 +33329,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7524,
@@ -33440,7 +33440,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7438,
@@ -33535,7 +33535,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8026,
@@ -33626,7 +33626,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8468,
@@ -33682,7 +33682,7 @@
                     "kill_time_in_match": 1633043,
                     "round": 16,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -33701,7 +33701,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8726,
@@ -33782,7 +33782,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8960,
@@ -33847,7 +33847,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4390,
@@ -33936,7 +33936,7 @@
                     "killer_display_name": "ragdoll#rawr",
                     "killer_team": "Red",
                     "victim_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "victim_display_name": "santaCLAUS#snt",
+                    "victim_display_name": "COLDOOPR1ME#cld",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6903,
@@ -34406,7 +34406,7 @@
                     "kill_time_in_match": 1807091,
                     "round": 18,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "f9f4aa37-d5dc-5342-a0e5-3a599282c452",
                     "victim_display_name": "K4GE#1TAP",
@@ -34425,7 +34425,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6156,
@@ -34530,7 +34530,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5940,
@@ -34612,7 +34612,7 @@
                     "kill_time_in_match": 1809675,
                     "round": 18,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "09794af0-b20d-5941-ab63-8a8a6e60dba9",
                     "victim_display_name": "ragdoll#rawr",
@@ -34631,7 +34631,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6100,
@@ -34716,7 +34716,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6428,
@@ -34772,7 +34772,7 @@
                     "kill_time_in_match": 1818760,
                     "round": 18,
                     "killer_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                    "killer_display_name": "santaCLAUS#snt",
+                    "killer_display_name": "COLDOOPR1ME#cld",
                     "killer_team": "Blue",
                     "victim_puuid": "d0b407df-3212-58ad-9947-cec75a20278e",
                     "victim_display_name": "GalarKun#EUW",
@@ -34791,7 +34791,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": -49784,
@@ -34856,7 +34856,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "c9c64a34-6cf4-5d54-8b25-6a7ec554c60e",
-                            "player_display_name": "santaCLAUS#snt",
+                            "player_display_name": "COLDOOPR1ME#cld",
                             "player_team": "Blue",
                             "location": {
                                 "x": -49462,
