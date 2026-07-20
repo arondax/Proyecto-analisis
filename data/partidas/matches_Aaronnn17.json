@@ -160266,8 +160266,8 @@
                     },
                     {
                         "puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                        "name": "2dead",
-                        "tag": "0000",
+                        "name": "Obanai Iguro",
+                        "tag": "sn4k3",
                         "team": "Red",
                         "level": 668,
                         "character": "Yoru",
@@ -160706,8 +160706,8 @@
                     },
                     {
                         "puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                        "name": "2dead",
-                        "tag": "0000",
+                        "name": "Obanai Iguro",
+                        "tag": "sn4k3",
                         "team": "Red",
                         "level": 668,
                         "character": "Yoru",
@@ -161329,7 +161329,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6451,
@@ -161482,7 +161482,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -161677,7 +161677,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6656,
@@ -162298,7 +162298,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6656,
@@ -162428,7 +162428,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -162464,7 +162464,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6656,
@@ -162548,7 +162548,7 @@
                                     "killer_display_name": "margre1#4073",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6643,
@@ -162681,7 +162681,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -163461,7 +163461,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -163481,7 +163481,7 @@
                                     "killer_display_name": "sitkolo#636",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2426,
@@ -163848,7 +163848,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -909,
@@ -163951,7 +163951,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -164000,7 +164000,7 @@
                                     "kill_time_in_round": 15298,
                                     "kill_time_in_match": 252975,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -164019,7 +164019,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2206,
@@ -164110,7 +164110,7 @@
                                     "kill_time_in_round": 25277,
                                     "kill_time_in_match": 262954,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -164129,7 +164129,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -909,
@@ -164194,7 +164194,7 @@
                                     "kill_time_in_round": 31747,
                                     "kill_time_in_match": 269424,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "15dfd8ff-df3b-5eaa-a6e0-0b6f980b5b23",
                                     "victim_display_name": "Aaronnn17#1704",
@@ -164213,7 +164213,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1241,
@@ -164438,7 +164438,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1440,
@@ -164532,7 +164532,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -909,
@@ -164606,7 +164606,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -642,
@@ -164763,7 +164763,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -164783,7 +164783,7 @@
                                     "killer_display_name": "papa pito#4284",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -4552,
@@ -164875,7 +164875,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -164911,7 +164911,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -846,
@@ -165152,7 +165152,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -165346,7 +165346,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -166014,7 +166014,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2670,
@@ -166314,7 +166314,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -166343,7 +166343,7 @@
                                     "killer_display_name": "margre1#4073",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1141,
@@ -166489,7 +166489,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6333,
@@ -166574,7 +166574,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -166596,7 +166596,7 @@
                                     "kill_time_in_round": 14882,
                                     "kill_time_in_match": 444138,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -166615,7 +166615,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3559,
@@ -166831,7 +166831,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4394,
@@ -166945,7 +166945,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3532,
@@ -167512,7 +167512,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -167541,7 +167541,7 @@
                                     "killer_display_name": "margre1#4073",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5636,
@@ -167667,7 +167667,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2016,
@@ -167780,7 +167780,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -167802,7 +167802,7 @@
                                     "kill_time_in_round": 29836,
                                     "kill_time_in_match": 541380,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -167821,7 +167821,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -384,
@@ -168138,7 +168138,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -168501,7 +168501,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2078,
@@ -168711,7 +168711,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -168765,7 +168765,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1641,
@@ -168863,7 +168863,7 @@
                                     "killer_display_name": "margre1#4073",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -383,
@@ -169059,7 +169059,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6537,
@@ -169154,7 +169154,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -169203,7 +169203,7 @@
                                     "kill_time_in_round": 18976,
                                     "kill_time_in_match": 632000,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "15dfd8ff-df3b-5eaa-a6e0-0b6f980b5b23",
                                     "victim_display_name": "Aaronnn17#1704",
@@ -169222,7 +169222,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5233,
@@ -169317,7 +169317,7 @@
                                     "kill_time_in_round": 22548,
                                     "kill_time_in_match": 635572,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -169336,7 +169336,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5908,
@@ -169705,7 +169705,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "assistant_display_name": "2dead#0000",
+                                            "assistant_display_name": "Obanai Iguro#sn4k3",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -169965,7 +169965,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -169985,7 +169985,7 @@
                                     "killer_display_name": "sitkolo#636",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6537,
@@ -170247,7 +170247,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5645,
@@ -170362,7 +170362,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -170393,7 +170393,7 @@
                                     "kill_time_in_round": 42049,
                                     "kill_time_in_match": 738556,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -170412,7 +170412,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5214,
@@ -170497,7 +170497,7 @@
                                     "kill_time_in_round": 43586,
                                     "kill_time_in_match": 740093,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -170516,7 +170516,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5365,
@@ -170729,7 +170729,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4952,
@@ -171069,7 +171069,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -171089,7 +171089,7 @@
                                     "killer_display_name": "sitkolo#636",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4618,
@@ -171274,7 +171274,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5012,
@@ -171426,7 +171426,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1178,
@@ -171511,7 +171511,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -171542,7 +171542,7 @@
                                     "kill_time_in_round": 15628,
                                     "kill_time_in_match": 798717,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                                     "victim_display_name": "sitkolo#636",
@@ -171561,7 +171561,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4593,
@@ -171636,7 +171636,7 @@
                                     "kill_time_in_round": 27676,
                                     "kill_time_in_match": 810765,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -171655,7 +171655,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -530,
@@ -171801,7 +171801,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1933,
@@ -171928,7 +171928,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1649,
@@ -172325,7 +172325,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3765,
@@ -172513,7 +172513,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3434,
@@ -172588,7 +172588,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -172610,7 +172610,7 @@
                                     "kill_time_in_round": 68104,
                                     "kill_time_in_match": 922984,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -172629,7 +172629,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3341,
@@ -172742,7 +172742,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2125,
@@ -172936,7 +172936,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -642,
@@ -173040,7 +173040,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1817,
@@ -173124,7 +173124,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3456,
@@ -173285,7 +173285,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -173330,7 +173330,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3419,
@@ -173505,7 +173505,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -651,
@@ -173767,7 +173767,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -442,
@@ -173872,7 +173872,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -174015,7 +174015,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -448,
@@ -174119,7 +174119,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2133,
@@ -174203,7 +174203,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1591,
@@ -174350,7 +174350,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1052,
@@ -174488,7 +174488,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -174698,7 +174698,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1098,
@@ -174812,7 +174812,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1550,
@@ -175112,7 +175112,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -175872,7 +175872,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -175892,7 +175892,7 @@
                                     "killer_display_name": "sitkolo#636",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1486,
@@ -176347,7 +176347,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -176369,7 +176369,7 @@
                                     "kill_time_in_round": 20680,
                                     "kill_time_in_match": 1180290,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                                     "victim_display_name": "sitkolo#636",
@@ -176388,7 +176388,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1065,
@@ -176576,7 +176576,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2529,
@@ -176827,7 +176827,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2349,
@@ -176984,7 +176984,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -56,
@@ -177140,7 +177140,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -17,
@@ -177224,7 +177224,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3969,
@@ -177331,7 +177331,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3448,
@@ -177476,7 +177476,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -177507,7 +177507,7 @@
                                     "kill_time_in_round": 3278,
                                     "kill_time_in_match": 1228565,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -177526,7 +177526,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 730,
@@ -177818,7 +177818,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "assistant_display_name": "2dead#0000",
+                                            "assistant_display_name": "Obanai Iguro#sn4k3",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -177908,7 +177908,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 758,
@@ -178279,7 +178279,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -178308,7 +178308,7 @@
                                     "killer_display_name": "sitkolo#636",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1108,
@@ -178664,7 +178664,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -247,
@@ -178721,14 +178721,14 @@
                         },
                         "defused_by": {
                             "puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "display_name": "2dead#0000",
+                            "display_name": "Obanai Iguro#sn4k3",
                             "team": "Red"
                         },
                         "defuse_time_in_round": 75321,
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2853,
@@ -178757,7 +178757,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -178797,7 +178797,7 @@
                                     "kill_time_in_round": 10789,
                                     "kill_time_in_match": 1318974,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -178816,7 +178816,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2703,
@@ -178911,7 +178911,7 @@
                                     "kill_time_in_round": 33568,
                                     "kill_time_in_match": 1341753,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                                     "victim_display_name": "sitkolo#636",
@@ -178930,7 +178930,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1034,
@@ -179077,7 +179077,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4797,
@@ -179159,7 +179159,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "assistant_display_name": "2dead#0000",
+                                            "assistant_display_name": "Obanai Iguro#sn4k3",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -179301,7 +179301,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2595,
@@ -179474,7 +179474,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -179510,7 +179510,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -4777,
@@ -179604,7 +179604,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1424,
@@ -179741,7 +179741,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2853,
@@ -179838,7 +179838,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1969,
@@ -180043,7 +180043,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -180144,7 +180144,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2365,
@@ -180577,7 +180577,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -180606,7 +180606,7 @@
                                     "killer_display_name": "Aaronnn17#1704",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "victim_display_name": "2dead#0000",
+                                    "victim_display_name": "Obanai Iguro#sn4k3",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1459,
@@ -181139,7 +181139,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2516,
@@ -181269,7 +181269,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -141,
@@ -181343,7 +181343,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1679,
@@ -181392,7 +181392,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -181423,7 +181423,7 @@
                                     "kill_time_in_round": 4769,
                                     "kill_time_in_match": 1559984,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                                     "victim_display_name": "sitkolo#636",
@@ -181442,7 +181442,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1272,
@@ -181537,7 +181537,7 @@
                                     "kill_time_in_round": 45142,
                                     "kill_time_in_match": 1600357,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -181556,7 +181556,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -49,
@@ -181831,7 +181831,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -182073,7 +182073,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -141,
@@ -182157,7 +182157,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1861,
@@ -182209,7 +182209,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "assistant_display_name": "2dead#0000",
+                                            "assistant_display_name": "Obanai Iguro#sn4k3",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -182237,7 +182237,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -165,
@@ -182338,7 +182338,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -182374,7 +182374,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 48,
@@ -182504,7 +182504,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2056,
@@ -182578,7 +182578,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                "player_display_name": "2dead#0000",
+                                "player_display_name": "Obanai Iguro#sn4k3",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5689,
@@ -182627,7 +182627,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -182667,7 +182667,7 @@
                                     "kill_time_in_round": 18262,
                                     "kill_time_in_match": 1685546,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                                     "victim_display_name": "sitkolo#636",
@@ -182686,7 +182686,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 879,
@@ -182787,7 +182787,7 @@
                                     "kill_time_in_round": 52003,
                                     "kill_time_in_match": 1719287,
                                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "killer_display_name": "2dead#0000",
+                                    "killer_display_name": "Obanai Iguro#sn4k3",
                                     "killer_team": "Red",
                                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                                     "victim_display_name": "margre1#4073",
@@ -182806,7 +182806,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5675,
@@ -182980,7 +182980,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1588,
@@ -183227,7 +183227,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                    "receiver_display_name": "2dead#0000",
+                                    "receiver_display_name": "Obanai Iguro#sn4k3",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -183315,7 +183315,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1419,
@@ -183496,7 +183496,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5551,
@@ -183623,7 +183623,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                                            "player_display_name": "2dead#0000",
+                                            "player_display_name": "Obanai Iguro#sn4k3",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1586,
@@ -183739,7 +183739,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 6656,
@@ -183854,7 +183854,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 6656,
@@ -183959,7 +183959,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 6656,
@@ -184044,7 +184044,7 @@
                     "killer_display_name": "margre1#4073",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6643,
@@ -184330,7 +184330,7 @@
                     "killer_display_name": "sitkolo#636",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2426,
@@ -184986,7 +184986,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -846,
@@ -185088,7 +185088,7 @@
                     "kill_time_in_match": 252975,
                     "round": 2,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -185107,7 +185107,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2206,
@@ -185218,7 +185218,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1440,
@@ -185294,7 +185294,7 @@
                     "kill_time_in_match": 262954,
                     "round": 2,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -185313,7 +185313,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -909,
@@ -185398,7 +185398,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -909,
@@ -185473,7 +185473,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -642,
@@ -185525,7 +185525,7 @@
                     "kill_time_in_match": 269424,
                     "round": 2,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "15dfd8ff-df3b-5eaa-a6e0-0b6f980b5b23",
                     "victim_display_name": "Aaronnn17#1704",
@@ -185544,7 +185544,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1241,
@@ -185589,7 +185589,7 @@
                     "killer_display_name": "papa pito#4284",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -4552,
@@ -185656,7 +185656,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2670,
@@ -185755,7 +185755,7 @@
                     "killer_display_name": "margre1#4073",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1141,
@@ -186251,7 +186251,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 4394,
@@ -186366,7 +186366,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3532,
@@ -186452,7 +186452,7 @@
                     "kill_time_in_match": 444138,
                     "round": 4,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -186471,7 +186471,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3559,
@@ -186550,7 +186550,7 @@
                     "killer_display_name": "margre1#4073",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5636,
@@ -186797,7 +186797,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1641,
@@ -186912,7 +186912,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2078,
@@ -186998,7 +186998,7 @@
                     "kill_time_in_match": 541380,
                     "round": 5,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -187017,7 +187017,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -384,
@@ -187096,7 +187096,7 @@
                     "killer_display_name": "margre1#4073",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -383,
@@ -187483,7 +187483,7 @@
                     "kill_time_in_match": 632000,
                     "round": 6,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "15dfd8ff-df3b-5eaa-a6e0-0b6f980b5b23",
                     "victim_display_name": "Aaronnn17#1704",
@@ -187502,7 +187502,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5233,
@@ -187598,7 +187598,7 @@
                     "kill_time_in_match": 635572,
                     "round": 6,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -187617,7 +187617,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5908,
@@ -187712,7 +187712,7 @@
                     "killer_display_name": "sitkolo#636",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6537,
@@ -187960,7 +187960,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "assistant_display_name": "2dead#0000",
+                            "assistant_display_name": "Obanai Iguro#sn4k3",
                             "assistant_team": "Red"
                         }
                     ]
@@ -188060,7 +188060,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 4952,
@@ -188156,7 +188156,7 @@
                     "kill_time_in_match": 738556,
                     "round": 7,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -188175,7 +188175,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5214,
@@ -188261,7 +188261,7 @@
                     "kill_time_in_match": 740093,
                     "round": 7,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -188280,7 +188280,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5365,
@@ -188381,7 +188381,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5012,
@@ -188450,7 +188450,7 @@
                     "killer_display_name": "sitkolo#636",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4618,
@@ -188606,7 +188606,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1649,
@@ -188721,7 +188721,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -3765,
@@ -188813,7 +188813,7 @@
                     "kill_time_in_match": 798717,
                     "round": 8,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                     "victim_display_name": "sitkolo#636",
@@ -188832,7 +188832,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -4593,
@@ -188908,7 +188908,7 @@
                     "kill_time_in_match": 810765,
                     "round": 8,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -188927,7 +188927,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -530,
@@ -189012,7 +189012,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1933,
@@ -189087,7 +189087,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2125,
@@ -189202,7 +189202,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -642,
@@ -189307,7 +189307,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -651,
@@ -189418,7 +189418,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1817,
@@ -189503,7 +189503,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3456,
@@ -189578,7 +189578,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3419,
@@ -189630,7 +189630,7 @@
                     "kill_time_in_match": 922984,
                     "round": 9,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e572505e-dc71-518f-97b2-b26386b51d9e",
                     "victim_display_name": "Capit\u00e1n Cachopo#FRITO",
@@ -189649,7 +189649,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3341,
@@ -189710,7 +189710,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1098,
@@ -189825,7 +189825,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -448,
@@ -189930,7 +189930,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1052,
@@ -190025,7 +190025,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2133,
@@ -190110,7 +190110,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1591,
@@ -190196,7 +190196,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1550,
@@ -190256,7 +190256,7 @@
                     "killer_display_name": "sitkolo#636",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1486,
@@ -190953,7 +190953,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2529,
@@ -191068,7 +191068,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2349,
@@ -191173,7 +191173,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -56,
@@ -191268,7 +191268,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -17,
@@ -191334,7 +191334,7 @@
                     "kill_time_in_match": 1180290,
                     "round": 12,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                     "victim_display_name": "sitkolo#636",
@@ -191353,7 +191353,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1065,
@@ -191428,7 +191428,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3448,
@@ -191499,7 +191499,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 3969,
@@ -191535,7 +191535,7 @@
                     "kill_time_in_match": 1228565,
                     "round": 13,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -191554,7 +191554,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 730,
@@ -191669,7 +191669,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 758,
@@ -191758,7 +191758,7 @@
                     "killer_display_name": "sitkolo#636",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1108,
@@ -192071,7 +192071,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "assistant_display_name": "2dead#0000",
+                            "assistant_display_name": "Obanai Iguro#sn4k3",
                             "assistant_team": "Red"
                         }
                     ]
@@ -192187,7 +192187,7 @@
                     "kill_time_in_match": 1318974,
                     "round": 14,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -192206,7 +192206,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2703,
@@ -192321,7 +192321,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -4797,
@@ -192403,7 +192403,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "assistant_display_name": "2dead#0000",
+                            "assistant_display_name": "Obanai Iguro#sn4k3",
                             "assistant_team": "Red"
                         }
                     ]
@@ -192432,7 +192432,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -4777,
@@ -192527,7 +192527,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1424,
@@ -192593,7 +192593,7 @@
                     "kill_time_in_match": 1341753,
                     "round": 14,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                     "victim_display_name": "sitkolo#636",
@@ -192612,7 +192612,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1034,
@@ -192698,7 +192698,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1969,
@@ -192763,7 +192763,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2595,
@@ -192818,7 +192818,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2853,
@@ -192863,7 +192863,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2365,
@@ -192978,7 +192978,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -2516,
@@ -193067,7 +193067,7 @@
                     "killer_display_name": "Aaronnn17#1704",
                     "killer_team": "Blue",
                     "victim_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "victim_display_name": "2dead#0000",
+                    "victim_display_name": "Obanai Iguro#sn4k3",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1459,
@@ -193496,7 +193496,7 @@
                     "kill_time_in_match": 1559984,
                     "round": 16,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                     "victim_display_name": "sitkolo#636",
@@ -193515,7 +193515,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1272,
@@ -193630,7 +193630,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 48,
@@ -193716,7 +193716,7 @@
                     "kill_time_in_match": 1600357,
                     "round": 16,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -193735,7 +193735,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -49,
@@ -193830,7 +193830,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -141,
@@ -193915,7 +193915,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -1861,
@@ -193967,7 +193967,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "assistant_display_name": "2dead#0000",
+                            "assistant_display_name": "Obanai Iguro#sn4k3",
                             "assistant_team": "Red"
                         }
                     ]
@@ -193996,7 +193996,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": -165,
@@ -194053,7 +194053,7 @@
                     "kill_time_in_match": 1685546,
                     "round": 17,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "e11c6f65-3eb1-50b0-8432-e8fa8c43661c",
                     "victim_display_name": "sitkolo#636",
@@ -194072,7 +194072,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 879,
@@ -194193,7 +194193,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1419,
@@ -194304,7 +194304,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1588,
@@ -194399,7 +194399,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 1586,
@@ -194484,7 +194484,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5551,
@@ -194540,7 +194540,7 @@
                     "kill_time_in_match": 1719287,
                     "round": 17,
                     "killer_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                    "killer_display_name": "2dead#0000",
+                    "killer_display_name": "Obanai Iguro#sn4k3",
                     "killer_team": "Red",
                     "victim_puuid": "7e051844-05d7-506a-bb7a-c2188e313872",
                     "victim_display_name": "margre1#4073",
@@ -194559,7 +194559,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "a0f64e2d-5aed-574c-9b06-ab90f32e54e7",
-                            "player_display_name": "2dead#0000",
+                            "player_display_name": "Obanai Iguro#sn4k3",
                             "player_team": "Red",
                             "location": {
                                 "x": 5675,

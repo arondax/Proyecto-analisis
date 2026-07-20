@@ -164566,8 +164566,8 @@
                     },
                     {
                         "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                        "name": "karmaken",
-                        "tag": "SSJ",
+                        "name": "Parker",
+                        "tag": "SENSE",
                         "team": "Red",
                         "level": 334,
                         "character": "Skye",
@@ -165298,8 +165298,8 @@
                     },
                     {
                         "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                        "name": "karmaken",
-                        "tag": "SSJ",
+                        "name": "Parker",
+                        "tag": "SENSE",
                         "team": "Red",
                         "level": 334,
                         "character": "Skye",
@@ -166129,7 +166129,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6004,
@@ -166225,7 +166225,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -166245,7 +166245,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6948,
@@ -166758,7 +166758,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -166900,7 +166900,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5058,
@@ -167200,7 +167200,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -167296,7 +167296,7 @@
                         },
                         "planted_by": {
                             "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "display_name": "karmaken#SSJ",
+                            "display_name": "Parker#SENSE",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -167344,7 +167344,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5720,
@@ -167488,7 +167488,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -167668,7 +167668,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5917,
@@ -167744,7 +167744,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -167894,7 +167894,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5721,
@@ -167994,7 +167994,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5372,
@@ -168068,7 +168068,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6042,
@@ -168142,7 +168142,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6132,
@@ -168255,7 +168255,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -168381,7 +168381,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6027,
@@ -168483,7 +168483,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -168577,7 +168577,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7382,
@@ -168748,7 +168748,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -168833,7 +168833,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6910,
@@ -168881,7 +168881,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7320,
@@ -169189,7 +169189,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -169448,7 +169448,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6670,
@@ -169558,7 +169558,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6557,
@@ -169712,7 +169712,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -169810,7 +169810,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5742,
@@ -169976,7 +169976,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6642,
@@ -170052,7 +170052,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -170211,7 +170211,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6131,
@@ -170243,7 +170243,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -170291,7 +170291,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5809,
@@ -170323,7 +170323,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -170476,7 +170476,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6563,
@@ -170586,7 +170586,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6111,
@@ -170820,7 +170820,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -170967,7 +170967,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5076,
@@ -171061,7 +171061,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4095,
@@ -171372,7 +171372,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -171394,7 +171394,7 @@
                                     "kill_time_in_round": 22821,
                                     "kill_time_in_match": 368914,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "2baa4701-8bac-5e15-8384-b0cdd63de1a3",
                                     "victim_display_name": "Charmander#TUMAI",
@@ -171443,7 +171443,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4598,
@@ -171627,7 +171627,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -171702,7 +171702,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4601,
@@ -171746,7 +171746,7 @@
                                     "killer_display_name": "ggperez#ggpe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4946,
@@ -171934,7 +171934,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5520,
@@ -172113,7 +172113,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -172199,7 +172199,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6517,
@@ -172253,7 +172253,7 @@
                                     "killer_display_name": "QuitameElBaneo#Unban",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6991,
@@ -172654,7 +172654,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -173236,7 +173236,7 @@
                         },
                         "planted_by": {
                             "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "display_name": "karmaken#SSJ",
+                            "display_name": "Parker#SENSE",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -173294,7 +173294,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5722,
@@ -173512,7 +173512,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -173532,7 +173532,7 @@
                                     "killer_display_name": "Markitos\u30c4#KR\u00dc",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5592,
@@ -173824,7 +173824,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -173914,7 +173914,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -173974,7 +173974,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -174037,7 +174037,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -174183,7 +174183,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -174317,7 +174317,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -174357,7 +174357,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -174663,7 +174663,7 @@
                         },
                         "planted_by": {
                             "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "display_name": "karmaken#SSJ",
+                            "display_name": "Parker#SENSE",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -174681,7 +174681,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7526,
@@ -174956,7 +174956,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -175106,7 +175106,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4148,
@@ -175210,7 +175210,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3539,
@@ -175304,7 +175304,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5218,
@@ -175388,7 +175388,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7526,
@@ -175619,7 +175619,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6691,
@@ -175731,7 +175731,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -175751,7 +175751,7 @@
                                     "killer_display_name": "QuitameElBaneo#Unban",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5377,
@@ -176117,7 +176117,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5392,
@@ -176231,7 +176231,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5342,
@@ -176372,7 +176372,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -176394,7 +176394,7 @@
                                     "kill_time_in_round": 31380,
                                     "kill_time_in_match": 741050,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "2baa4701-8bac-5e15-8384-b0cdd63de1a3",
                                     "victim_display_name": "Charmander#TUMAI",
@@ -176453,7 +176453,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5216,
@@ -176694,7 +176694,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4856,
@@ -176804,7 +176804,7 @@
                         },
                         "planted_by": {
                             "puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "display_name": "karmaken#SSJ",
+                            "display_name": "Parker#SENSE",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -176842,7 +176842,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7523,
@@ -177013,7 +177013,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5954,
@@ -177118,7 +177118,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7523,
@@ -177259,7 +177259,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -177419,7 +177419,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7556,
@@ -177517,7 +177517,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -177640,7 +177640,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5954,
@@ -177792,7 +177792,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 8,
                                     "headshots": 0,
@@ -177858,7 +177858,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7523,
@@ -177892,7 +177892,7 @@
                                     "killer_display_name": "ggperez#ggpe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7545,
@@ -178045,7 +178045,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5789,
@@ -178242,7 +178242,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5544,
@@ -178602,7 +178602,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5625,
@@ -178778,7 +178778,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -178800,7 +178800,7 @@
                                     "kill_time_in_round": 14995,
                                     "kill_time_in_match": 887142,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "e2743619-c2c8-51af-84df-ae4900b26323",
                                     "victim_display_name": "Markitos\u30c4#KR\u00dc",
@@ -178849,7 +178849,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5863,
@@ -178992,7 +178992,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5865,
@@ -179131,7 +179131,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -179160,7 +179160,7 @@
                                     "killer_display_name": "ggperez#ggpe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5861,
@@ -179390,7 +179390,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -179476,7 +179476,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6148,
@@ -179530,7 +179530,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6846,
@@ -180044,7 +180044,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -180143,7 +180143,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -180260,7 +180260,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -180637,7 +180637,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7888,
@@ -180821,7 +180821,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 2,
@@ -180867,7 +180867,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5829,
@@ -180905,7 +180905,7 @@
                                     "killer_display_name": "Leolulo#6731",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5744,
@@ -180987,7 +180987,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -181090,7 +181090,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6506,
@@ -181147,7 +181147,7 @@
                                         },
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -181299,7 +181299,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9814,
@@ -181393,7 +181393,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9703,
@@ -181477,7 +181477,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6555,
@@ -181563,7 +181563,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -181925,7 +181925,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6445,
@@ -182052,7 +182052,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -182193,7 +182193,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6824,
@@ -182297,7 +182297,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6895,
@@ -182367,7 +182367,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6440,
@@ -182513,7 +182513,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7545,
@@ -182670,7 +182670,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7347,
@@ -183059,7 +183059,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9141,
@@ -183159,7 +183159,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7019,
@@ -183305,7 +183305,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6687,
@@ -183397,7 +183397,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -183538,7 +183538,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10019,
@@ -183618,7 +183618,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6149,
@@ -183660,7 +183660,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -183756,7 +183756,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6149,
@@ -184073,7 +184073,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -184111,7 +184111,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7141,
@@ -184670,7 +184670,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -185280,7 +185280,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7709,
@@ -185427,7 +185427,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -185503,7 +185503,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8696,
@@ -185613,7 +185613,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7571,
@@ -185647,7 +185647,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9029,
@@ -185865,7 +185865,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -186101,7 +186101,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9661,
@@ -186211,7 +186211,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9749,
@@ -186348,7 +186348,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7727,
@@ -186482,7 +186482,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -186502,7 +186502,7 @@
                                     "killer_display_name": "Charmander#TUMAI",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8620,
@@ -186760,7 +186760,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -186791,7 +186791,7 @@
                                     "kill_time_in_round": 7742,
                                     "kill_time_in_match": 1485037,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "bbdc7266-92fb-52c9-b6c6-23966557f012",
                                     "victim_display_name": "QuitameElBaneo#Unban",
@@ -186850,7 +186850,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7383,
@@ -187364,7 +187364,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7764,
@@ -187416,7 +187416,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -187486,7 +187486,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -187590,7 +187590,7 @@
                             },
                             {
                                 "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                "player_display_name": "karmaken#SSJ",
+                                "player_display_name": "Parker#SENSE",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8794,
@@ -187659,7 +187659,7 @@
                                 },
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -187806,7 +187806,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9181,
@@ -188188,7 +188188,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -188348,7 +188348,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -188377,7 +188377,7 @@
                                     "killer_display_name": "ggperez#ggpe",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6520,
@@ -188654,7 +188654,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8150,
@@ -188770,7 +188770,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -189014,7 +189014,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "receiver_display_name": "karmaken#SSJ",
+                                    "receiver_display_name": "Parker#SENSE",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -189052,7 +189052,7 @@
                                     "killer_display_name": "Leolulo#6731",
                                     "killer_team": "Blue",
                                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "victim_display_name": "karmaken#SSJ",
+                                    "victim_display_name": "Parker#SENSE",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4655,
@@ -189198,7 +189198,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -189238,7 +189238,7 @@
                                     "kill_time_in_round": 53349,
                                     "kill_time_in_match": 1689528,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "03408281-1c62-5915-907d-330caaceb57a",
                                     "victim_display_name": "ggperez#ggpe",
@@ -189287,7 +189287,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4681,
@@ -189328,7 +189328,7 @@
                                     "kill_time_in_round": 54419,
                                     "kill_time_in_match": 1690598,
                                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                    "killer_display_name": "karmaken#SSJ",
+                                    "killer_display_name": "Parker#SENSE",
                                     "killer_team": "Red",
                                     "victim_puuid": "bbdc7266-92fb-52c9-b6c6-23966557f012",
                                     "victim_display_name": "QuitameElBaneo#Unban",
@@ -189367,7 +189367,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4954,
@@ -189529,7 +189529,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7348,
@@ -189728,7 +189728,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5357,
@@ -189902,7 +189902,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7348,
@@ -189998,7 +189998,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "assistant_display_name": "karmaken#SSJ",
+                                            "assistant_display_name": "Parker#SENSE",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -190289,7 +190289,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -190410,7 +190410,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8137,
@@ -190494,7 +190494,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5212,
@@ -190578,7 +190578,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3212,
@@ -190743,7 +190743,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9561,
@@ -190853,7 +190853,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9611,
@@ -191014,7 +191014,7 @@
                                         },
                                         {
                                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                                            "player_display_name": "karmaken#SSJ",
+                                            "player_display_name": "Parker#SENSE",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4746,
@@ -191192,7 +191192,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5058,
@@ -191307,7 +191307,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6004,
@@ -191362,7 +191362,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6948,
@@ -191681,7 +191681,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -191872,7 +191872,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5917,
@@ -191977,7 +191977,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5721,
@@ -192078,7 +192078,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5372,
@@ -192163,7 +192163,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6027,
@@ -192238,7 +192238,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6042,
@@ -192313,7 +192313,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6132,
@@ -192408,7 +192408,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6670,
@@ -192523,7 +192523,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6910,
@@ -192628,7 +192628,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7382,
@@ -192673,7 +192673,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7320,
@@ -192981,7 +192981,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6642,
@@ -193086,7 +193086,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6563,
@@ -193197,7 +193197,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6111,
@@ -193288,7 +193288,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6131,
@@ -193320,7 +193320,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -193369,7 +193369,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5809,
@@ -193401,7 +193401,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         },
                         {
@@ -193445,7 +193445,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5742,
@@ -193550,7 +193550,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5076,
@@ -193655,7 +193655,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5520,
@@ -193701,7 +193701,7 @@
                     "kill_time_in_match": 368914,
                     "round": 4,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "2baa4701-8bac-5e15-8384-b0cdd63de1a3",
                     "victim_display_name": "Charmander#TUMAI",
@@ -193750,7 +193750,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4598,
@@ -193845,7 +193845,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4601,
@@ -193936,7 +193936,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4095,
@@ -193965,7 +193965,7 @@
                     "killer_display_name": "ggperez#ggpe",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4946,
@@ -194237,7 +194237,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6517,
@@ -194292,7 +194292,7 @@
                     "killer_display_name": "QuitameElBaneo#Unban",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6991,
@@ -194778,7 +194778,7 @@
                     "killer_display_name": "Markitos\u30c4#KR\u00dc",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5592,
@@ -194991,7 +194991,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -195177,7 +195177,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -195329,7 +195329,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -195390,7 +195390,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -195476,7 +195476,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -195545,7 +195545,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4148,
@@ -195650,7 +195650,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 3539,
@@ -195745,7 +195745,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5218,
@@ -195830,7 +195830,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6691,
@@ -195915,7 +195915,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7526,
@@ -196030,7 +196030,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5392,
@@ -196145,7 +196145,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5342,
@@ -196250,7 +196250,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4856,
@@ -196282,7 +196282,7 @@
                     "kill_time_in_match": 741050,
                     "round": 8,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "2baa4701-8bac-5e15-8384-b0cdd63de1a3",
                     "victim_display_name": "Charmander#TUMAI",
@@ -196341,7 +196341,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5216,
@@ -196370,7 +196370,7 @@
                     "killer_display_name": "QuitameElBaneo#Unban",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5377,
@@ -196577,7 +196577,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5954,
@@ -196692,7 +196692,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5954,
@@ -196798,7 +196798,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5789,
@@ -196893,7 +196893,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7523,
@@ -196989,7 +196989,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7523,
@@ -197060,7 +197060,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7556,
@@ -197089,7 +197089,7 @@
                     "killer_display_name": "ggperez#ggpe",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7545,
@@ -197261,7 +197261,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5544,
@@ -197377,7 +197377,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5625,
@@ -197429,7 +197429,7 @@
                     "kill_time_in_match": 887142,
                     "round": 10,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "e2743619-c2c8-51af-84df-ae4900b26323",
                     "victim_display_name": "Markitos\u30c4#KR\u00dc",
@@ -197478,7 +197478,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5863,
@@ -197569,7 +197569,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5865,
@@ -197624,7 +197624,7 @@
                     "killer_display_name": "ggperez#ggpe",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5861,
@@ -197897,7 +197897,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6148,
@@ -197952,7 +197952,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6846,
@@ -198151,7 +198151,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -198512,7 +198512,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7888,
@@ -198617,7 +198617,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9814,
@@ -198712,7 +198712,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9703,
@@ -198797,7 +198797,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6506,
@@ -198854,7 +198854,7 @@
                         },
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         },
                         {
@@ -198898,7 +198898,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6555,
@@ -198973,7 +198973,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5829,
@@ -199012,7 +199012,7 @@
                     "killer_display_name": "Leolulo#6731",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5744,
@@ -199105,7 +199105,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -199174,7 +199174,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6824,
@@ -199279,7 +199279,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7545,
@@ -199384,7 +199384,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7347,
@@ -199485,7 +199485,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6895,
@@ -199566,7 +199566,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6445,
@@ -199631,7 +199631,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6440,
@@ -199726,7 +199726,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 10019,
@@ -199837,7 +199837,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9141,
@@ -199938,7 +199938,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7019,
@@ -200023,7 +200023,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6687,
@@ -200114,7 +200114,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6149,
@@ -200190,7 +200190,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 6149,
@@ -200232,7 +200232,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         },
                         {
@@ -200250,7 +200250,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7141,
@@ -200958,7 +200958,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 8696,
@@ -201079,7 +201079,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9661,
@@ -201190,7 +201190,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9749,
@@ -201275,7 +201275,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7727,
@@ -201360,7 +201360,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7571,
@@ -201395,7 +201395,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9029,
@@ -201457,7 +201457,7 @@
                     "kill_time_in_match": 1485037,
                     "round": 17,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "bbdc7266-92fb-52c9-b6c6-23966557f012",
                     "victim_display_name": "QuitameElBaneo#Unban",
@@ -201516,7 +201516,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7383,
@@ -201621,7 +201621,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7764,
@@ -201673,7 +201673,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -201686,7 +201686,7 @@
                     "killer_display_name": "Charmander#TUMAI",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8620,
@@ -202005,7 +202005,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -202084,7 +202084,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9181,
@@ -202195,7 +202195,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 8150,
@@ -202244,7 +202244,7 @@
                     "killer_display_name": "ggperez#ggpe",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6520,
@@ -202492,7 +202492,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -202698,7 +202698,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7348,
@@ -202803,7 +202803,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 7348,
@@ -202908,7 +202908,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5357,
@@ -202954,7 +202954,7 @@
                     "kill_time_in_match": 1689528,
                     "round": 19,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "03408281-1c62-5915-907d-330caaceb57a",
                     "victim_display_name": "ggperez#ggpe",
@@ -203003,7 +203003,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4681,
@@ -203045,7 +203045,7 @@
                     "kill_time_in_match": 1690598,
                     "round": 19,
                     "killer_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "killer_display_name": "karmaken#SSJ",
+                    "killer_display_name": "Parker#SENSE",
                     "killer_team": "Red",
                     "victim_puuid": "bbdc7266-92fb-52c9-b6c6-23966557f012",
                     "victim_display_name": "QuitameElBaneo#Unban",
@@ -203084,7 +203084,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4954,
@@ -203129,7 +203129,7 @@
                     "killer_display_name": "Leolulo#6731",
                     "killer_team": "Blue",
                     "victim_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                    "victim_display_name": "karmaken#SSJ",
+                    "victim_display_name": "Parker#SENSE",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4655,
@@ -203287,7 +203287,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "assistant_display_name": "karmaken#SSJ",
+                            "assistant_display_name": "Parker#SENSE",
                             "assistant_team": "Red"
                         }
                     ]
@@ -203356,7 +203356,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9561,
@@ -203467,7 +203467,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 9611,
@@ -203568,7 +203568,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 8137,
@@ -203653,7 +203653,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 5212,
@@ -203738,7 +203738,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 4746,
@@ -203813,7 +203813,7 @@
                         },
                         {
                             "player_puuid": "73a7c993-3334-5f8d-b10e-375ae35f1792",
-                            "player_display_name": "karmaken#SSJ",
+                            "player_display_name": "Parker#SENSE",
                             "player_team": "Red",
                             "location": {
                                 "x": 3212,
