@@ -133776,8 +133776,8 @@
                     },
                     {
                         "puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                        "name": "coldified",
-                        "tag": "mace",
+                        "name": "Xeroh",
+                        "tag": "cold",
                         "team": "Red",
                         "level": 300,
                         "character": "Iso",
@@ -134435,8 +134435,8 @@
                     },
                     {
                         "puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                        "name": "coldified",
-                        "tag": "mace",
+                        "name": "Xeroh",
+                        "tag": "cold",
                         "team": "Red",
                         "level": 300,
                         "character": "Iso",
@@ -135446,7 +135446,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                            "assistant_display_name": "coldified#mace",
+                                            "assistant_display_name": "Xeroh#cold",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -135607,7 +135607,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                            "assistant_display_name": "coldified#mace",
+                                            "assistant_display_name": "Xeroh#cold",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -135728,7 +135728,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                            "assistant_display_name": "coldified#mace",
+                                            "assistant_display_name": "Xeroh#cold",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -135980,7 +135980,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -136187,7 +136187,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -136518,7 +136518,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -136617,7 +136617,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -136653,7 +136653,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -136698,7 +136698,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -136806,7 +136806,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -136824,7 +136824,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -136842,7 +136842,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -136871,7 +136871,7 @@
                                     "killer_display_name": "3sila#9999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -380,
@@ -137096,7 +137096,7 @@
                                     "killer_display_name": "3sila#9999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1330,
@@ -137206,7 +137206,7 @@
                                     "killer_display_name": "3sila#9999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -644,
@@ -137443,7 +137443,7 @@
                                     "killer_display_name": "3sila#9999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1946,
@@ -137495,7 +137495,7 @@
                                     "killer_display_name": "3sila#9999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1138,
@@ -137623,7 +137623,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -137956,7 +137956,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -137983,7 +137983,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -138082,7 +138082,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -138091,7 +138091,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -138145,7 +138145,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -138244,7 +138244,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -138280,7 +138280,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -138307,7 +138307,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -138343,7 +138343,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -138476,7 +138476,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 79,
@@ -138545,7 +138545,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 943,
@@ -138695,7 +138695,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1718,
@@ -138845,7 +138845,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -385,
@@ -139087,7 +139087,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 804,
@@ -139162,7 +139162,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 944,
@@ -139225,7 +139225,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -386,
@@ -139306,7 +139306,7 @@
                                     "killer_display_name": "Mango Rex#2105",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -49246,
@@ -140111,7 +140111,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                            "assistant_display_name": "coldified#mace",
+                                            "assistant_display_name": "Xeroh#cold",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -140532,7 +140532,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "player_display_name": "coldified#mace",
+                            "player_display_name": "Xeroh#cold",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -140815,7 +140815,7 @@
                                     "kill_time_in_round": 8892,
                                     "kill_time_in_match": 58121,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -140838,7 +140838,7 @@
                                     "kill_time_in_round": 79182,
                                     "kill_time_in_match": 128411,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                                     "victim_display_name": "itzRealNix#0010",
@@ -140867,7 +140867,7 @@
                                     "kill_time_in_round": 83389,
                                     "kill_time_in_match": 132618,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                                     "victim_display_name": "Oxeny#EUW",
@@ -140890,7 +140890,7 @@
                                     "kill_time_in_round": 108439,
                                     "kill_time_in_match": 157668,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -140919,7 +140919,7 @@
                                     "kill_time_in_round": 117995,
                                     "kill_time_in_match": 167224,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -140942,7 +140942,7 @@
                                     "kill_time_in_round": 120805,
                                     "kill_time_in_match": 170034,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -140971,7 +140971,7 @@
                                     "kill_time_in_round": 180200,
                                     "kill_time_in_match": 229429,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                                     "victim_display_name": "3sila#9999",
@@ -140994,7 +140994,7 @@
                                     "kill_time_in_round": 197322,
                                     "kill_time_in_match": 246551,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                                     "victim_display_name": "Oxeny#EUW",
@@ -141017,7 +141017,7 @@
                                     "kill_time_in_round": 207418,
                                     "kill_time_in_match": 256647,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -141040,7 +141040,7 @@
                                     "kill_time_in_round": 211750,
                                     "kill_time_in_match": 260979,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                                     "victim_display_name": "itzRealNix#0010",
@@ -141063,7 +141063,7 @@
                                     "kill_time_in_round": 223219,
                                     "kill_time_in_match": 272448,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -141086,7 +141086,7 @@
                                     "kill_time_in_round": 270341,
                                     "kill_time_in_match": 319570,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                                     "victim_display_name": "Oxeny#EUW",
@@ -141109,7 +141109,7 @@
                                     "kill_time_in_round": 282373,
                                     "kill_time_in_match": 331602,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                                     "victim_display_name": "itzRealNix#0010",
@@ -141132,7 +141132,7 @@
                                     "kill_time_in_round": 325360,
                                     "kill_time_in_match": 374589,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                                     "victim_display_name": "3sila#9999",
@@ -141155,7 +141155,7 @@
                                     "kill_time_in_round": 350193,
                                     "kill_time_in_match": 399422,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -141178,7 +141178,7 @@
                                     "kill_time_in_round": 362501,
                                     "kill_time_in_match": 411730,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                                     "victim_display_name": "Oxeny#EUW",
@@ -141201,7 +141201,7 @@
                                     "kill_time_in_round": 378009,
                                     "kill_time_in_match": 427238,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                                     "victim_display_name": "itzRealNix#0010",
@@ -141224,7 +141224,7 @@
                                     "kill_time_in_round": 381181,
                                     "kill_time_in_match": 430410,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -141247,7 +141247,7 @@
                                     "kill_time_in_round": 390059,
                                     "kill_time_in_match": 439288,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                                     "victim_display_name": "3sila#9999",
@@ -141270,7 +141270,7 @@
                                     "kill_time_in_round": 391662,
                                     "kill_time_in_match": 440891,
                                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "killer_display_name": "coldified#mace",
+                                    "killer_display_name": "Xeroh#cold",
                                     "killer_team": "Red",
                                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                                     "victim_display_name": "Mango Rex#2105",
@@ -141698,7 +141698,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -141716,7 +141716,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -141734,7 +141734,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -141752,7 +141752,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -141788,7 +141788,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "receiver_display_name": "coldified#mace",
+                                    "receiver_display_name": "Xeroh#cold",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -141840,7 +141840,7 @@
                                     "killer_display_name": "itzRealNix#0010",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1829,
@@ -141863,7 +141863,7 @@
                                     "killer_display_name": "itzRealNix#0010",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -172,
@@ -141892,7 +141892,7 @@
                                     "killer_display_name": "itzRealNix#0010",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                    "victim_display_name": "coldified#mace",
+                                    "victim_display_name": "Xeroh#cold",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1832,
@@ -142410,7 +142410,7 @@
                                         },
                                         {
                                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                                            "assistant_display_name": "coldified#mace",
+                                            "assistant_display_name": "Xeroh#cold",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -142855,7 +142855,7 @@
                     "kill_time_in_match": 58121,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -142906,7 +142906,7 @@
                     "killer_display_name": "3sila#9999",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -380,
@@ -143056,7 +143056,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 79,
@@ -143236,7 +143236,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 943,
@@ -143707,7 +143707,7 @@
                     "kill_time_in_match": 128411,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                     "victim_display_name": "itzRealNix#0010",
@@ -143785,7 +143785,7 @@
                     "kill_time_in_match": 132618,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                     "victim_display_name": "Oxeny#EUW",
@@ -143812,7 +143812,7 @@
                     "killer_display_name": "3sila#9999",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1330,
@@ -143920,7 +143920,7 @@
                     "killer_display_name": "itzRealNix#0010",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1829,
@@ -143966,7 +143966,7 @@
                         },
                         {
                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "assistant_display_name": "coldified#mace",
+                            "assistant_display_name": "Xeroh#cold",
                             "assistant_team": "Red"
                         }
                     ]
@@ -144054,7 +144054,7 @@
                     "kill_time_in_match": 157668,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -144210,7 +144210,7 @@
                     "kill_time_in_match": 167224,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -144258,7 +144258,7 @@
                     "kill_time_in_match": 170034,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -144321,7 +144321,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1718,
@@ -144362,7 +144362,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "assistant_display_name": "coldified#mace",
+                            "assistant_display_name": "Xeroh#cold",
                             "assistant_team": "Red"
                         }
                     ]
@@ -144530,7 +144530,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "assistant_display_name": "coldified#mace",
+                            "assistant_display_name": "Xeroh#cold",
                             "assistant_team": "Red"
                         }
                     ]
@@ -144543,7 +144543,7 @@
                     "killer_display_name": "itzRealNix#0010",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -172,
@@ -144843,7 +144843,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -385,
@@ -144995,7 +144995,7 @@
                     "kill_time_in_match": 229429,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                     "victim_display_name": "3sila#9999",
@@ -145235,7 +145235,7 @@
                     "kill_time_in_match": 246551,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                     "victim_display_name": "Oxeny#EUW",
@@ -145355,7 +145355,7 @@
                     "kill_time_in_match": 256647,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -145403,7 +145403,7 @@
                     "kill_time_in_match": 260979,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                     "victim_display_name": "itzRealNix#0010",
@@ -145430,7 +145430,7 @@
                     "killer_display_name": "3sila#9999",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -644,
@@ -145477,7 +145477,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "assistant_display_name": "coldified#mace",
+                            "assistant_display_name": "Xeroh#cold",
                             "assistant_team": "Red"
                         }
                     ]
@@ -145511,7 +145511,7 @@
                     "kill_time_in_match": 272448,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -145748,7 +145748,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 804,
@@ -146077,7 +146077,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                            "assistant_display_name": "coldified#mace",
+                            "assistant_display_name": "Xeroh#cold",
                             "assistant_team": "Red"
                         }
                     ]
@@ -146147,7 +146147,7 @@
                     "kill_time_in_match": 319570,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                     "victim_display_name": "Oxeny#EUW",
@@ -146198,7 +146198,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 944,
@@ -146278,7 +146278,7 @@
                     "kill_time_in_match": 331602,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                     "victim_display_name": "itzRealNix#0010",
@@ -146467,7 +146467,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -386,
@@ -146677,7 +146677,7 @@
                     "killer_display_name": "Mango Rex#2105",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -49246,
@@ -146800,7 +146800,7 @@
                     "kill_time_in_match": 374589,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                     "victim_display_name": "3sila#9999",
@@ -147064,7 +147064,7 @@
                     "kill_time_in_match": 399422,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "8f90c550-98a0-56f0-8d88-2a0d3fdd01c0",
                     "victim_display_name": "williamdepiyanzi#EUW",
@@ -147091,7 +147091,7 @@
                     "killer_display_name": "3sila#9999",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1946,
@@ -147166,7 +147166,7 @@
                     "kill_time_in_match": 411730,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "5a464eb0-1a0d-5b9a-bc3b-50934becd34f",
                     "victim_display_name": "Oxeny#EUW",
@@ -147241,7 +147241,7 @@
                     "killer_display_name": "itzRealNix#0010",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1832,
@@ -147418,7 +147418,7 @@
                     "kill_time_in_match": 427238,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "7a035765-f076-5273-95f8-7f7808b54b2f",
                     "victim_display_name": "itzRealNix#0010",
@@ -147466,7 +147466,7 @@
                     "kill_time_in_match": 430410,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -147538,7 +147538,7 @@
                     "kill_time_in_match": 439288,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "242196ab-82aa-53a9-b9fa-d8aba783ef7e",
                     "victim_display_name": "3sila#9999",
@@ -147616,7 +147616,7 @@
                     "kill_time_in_match": 440891,
                     "round": 0,
                     "killer_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "killer_display_name": "coldified#mace",
+                    "killer_display_name": "Xeroh#cold",
                     "killer_team": "Red",
                     "victim_puuid": "1725f01a-f5de-5181-ab58-319b3b0d5d4d",
                     "victim_display_name": "Mango Rex#2105",
@@ -147715,7 +147715,7 @@
                     "killer_display_name": "3sila#9999",
                     "killer_team": "Blue",
                     "victim_puuid": "9c931c79-27bc-50dc-90e8-3f5dea4f8dfd",
-                    "victim_display_name": "coldified#mace",
+                    "victim_display_name": "Xeroh#cold",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1138,
