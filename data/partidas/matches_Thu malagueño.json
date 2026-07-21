@@ -145851,8 +145851,8 @@
                     },
                     {
                         "puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                        "name": "IEM AhsTro",
-                        "tag": "1234",
+                        "name": "\u03b1hsT\u044fo",
+                        "tag": "IEM",
                         "team": "Blue",
                         "level": 346,
                         "character": "Phoenix",
@@ -146585,8 +146585,8 @@
                     },
                     {
                         "puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                        "name": "IEM AhsTro",
-                        "tag": "1234",
+                        "name": "\u03b1hsT\u044fo",
+                        "tag": "IEM",
                         "team": "Blue",
                         "level": 346,
                         "character": "Phoenix",
@@ -146759,7 +146759,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -147159,7 +147159,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -147188,7 +147188,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5606,
@@ -147740,7 +147740,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -147762,7 +147762,7 @@
                                     "kill_time_in_round": 6976,
                                     "kill_time_in_match": 62037,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                                     "victim_display_name": "haru#8969",
@@ -147861,7 +147861,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5596,
@@ -147975,7 +147975,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -147995,7 +147995,7 @@
                                     "killer_display_name": "haru#8969",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6641,
@@ -148198,7 +148198,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8945,
@@ -148500,7 +148500,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8137,
@@ -148736,7 +148736,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7530,
@@ -148820,7 +148820,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8816,
@@ -148918,7 +148918,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -148940,7 +148940,7 @@
                                     "kill_time_in_round": 22715,
                                     "kill_time_in_match": 154720,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                                     "victim_display_name": "solomihombre#ANGEL",
@@ -148999,7 +148999,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8832,
@@ -149721,7 +149721,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -149750,7 +149750,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8972,
@@ -150190,7 +150190,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -150722,7 +150722,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9146,
@@ -150858,7 +150858,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -150887,7 +150887,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8668,
@@ -151349,7 +151349,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7932,
@@ -151595,7 +151595,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -151856,7 +151856,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6952,
@@ -151967,7 +151967,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -151996,7 +151996,7 @@
                                     "killer_display_name": "haru#8969",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7214,
@@ -152213,7 +152213,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -152689,7 +152689,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -152729,7 +152729,7 @@
                                     "kill_time_in_round": 3207,
                                     "kill_time_in_match": 454656,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -152828,7 +152828,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6051,
@@ -153030,7 +153030,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -153068,7 +153068,7 @@
                                     "killer_display_name": "haru#8969",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6808,
@@ -153515,7 +153515,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -154065,7 +154065,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -154437,7 +154437,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8138,
@@ -154725,7 +154725,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7967,
@@ -154825,7 +154825,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9393,
@@ -154889,7 +154889,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4290,
@@ -155035,7 +155035,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9434,
@@ -155115,7 +155115,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9263,
@@ -155167,7 +155167,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -155273,7 +155273,7 @@
                             },
                             {
                                 "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                "player_display_name": "IEM AhsTro#1234",
+                                "player_display_name": "\u03b1hsT\u044fo#IEM",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6870,
@@ -155312,7 +155312,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -155408,7 +155408,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9134,
@@ -155677,7 +155677,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -155802,7 +155802,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9874,
@@ -155886,7 +155886,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8970,
@@ -155937,7 +155937,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -155957,7 +155957,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5781,
@@ -156250,7 +156250,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9746,
@@ -156296,7 +156296,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -156336,7 +156336,7 @@
                                     "kill_time_in_round": 32336,
                                     "kill_time_in_match": 767889,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "099df5c4-bde5-5a24-a6c6-7fccb03a6b33",
                                     "victim_display_name": "marran\u043e#MyBad",
@@ -156395,7 +156395,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6999,
@@ -156410,7 +156410,7 @@
                                     "kill_time_in_round": 47015,
                                     "kill_time_in_match": 782568,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "61fcc0ed-e59c-5773-b430-94f863907868",
                                     "victim_display_name": "Lucia#2BK",
@@ -156459,7 +156459,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6366,
@@ -156599,7 +156599,7 @@
                             },
                             {
                                 "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                "player_display_name": "IEM AhsTro#1234",
+                                "player_display_name": "\u03b1hsT\u044fo#IEM",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8404,
@@ -156671,7 +156671,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -156723,7 +156723,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -156741,7 +156741,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -156817,7 +156817,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8161,
@@ -156835,7 +156835,7 @@
                                     "killer_display_name": "solomihombre#ANGEL",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7899,
@@ -157202,7 +157202,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8223,
@@ -157292,7 +157292,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7877,
@@ -157501,7 +157501,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9148,
@@ -157589,7 +157589,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -157611,7 +157611,7 @@
                                     "kill_time_in_round": 27024,
                                     "kill_time_in_match": 852988,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                                     "victim_display_name": "haru#8969",
@@ -157700,7 +157700,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8388,
@@ -157830,7 +157830,7 @@
                             },
                             {
                                 "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                "player_display_name": "IEM AhsTro#1234",
+                                "player_display_name": "\u03b1hsT\u044fo#IEM",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8024,
@@ -157860,7 +157860,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -157889,7 +157889,7 @@
                                     "killer_display_name": "Lucia#2BK",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7943,
@@ -158444,7 +158444,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7931,
@@ -158643,7 +158643,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8025,
@@ -159004,7 +159004,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -159026,7 +159026,7 @@
                                     "kill_time_in_round": 25120,
                                     "kill_time_in_match": 927212,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                                     "victim_display_name": "solomihombre#ANGEL",
@@ -159115,7 +159115,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7973,
@@ -159275,7 +159275,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -159304,7 +159304,7 @@
                                     "killer_display_name": "Lucia#2BK",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2409,
@@ -159631,7 +159631,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2593,
@@ -160260,7 +160260,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -160532,7 +160532,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5653,
@@ -160908,7 +160908,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -160937,7 +160937,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5985,
@@ -161337,7 +161337,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -161619,7 +161619,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4304,
@@ -161723,7 +161723,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2035,
@@ -161823,7 +161823,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1542,
@@ -161986,7 +161986,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -162006,7 +162006,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5798,
@@ -162318,7 +162318,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1585,
@@ -162392,7 +162392,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2795,
@@ -162532,7 +162532,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -163250,7 +163250,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -163279,7 +163279,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4164,
@@ -163777,7 +163777,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -163923,7 +163923,7 @@
                             },
                             {
                                 "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                "player_display_name": "IEM AhsTro#1234",
+                                "player_display_name": "\u03b1hsT\u044fo#IEM",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7126,
@@ -164019,7 +164019,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6922,
@@ -164228,7 +164228,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6867,
@@ -164400,7 +164400,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6863,
@@ -164494,7 +164494,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6688,
@@ -164597,7 +164597,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -164805,7 +164805,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6655,
@@ -164859,7 +164859,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6933,
@@ -164947,7 +164947,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -164969,7 +164969,7 @@
                                     "kill_time_in_round": 45142,
                                     "kill_time_in_match": 1424826,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -165028,7 +165028,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6953,
@@ -165447,7 +165447,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5409,
@@ -165543,7 +165543,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "assistant_display_name": "IEM AhsTro#1234",
+                                            "assistant_display_name": "\u03b1hsT\u044fo#IEM",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -165630,7 +165630,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -165668,7 +165668,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5759,
@@ -166076,7 +166076,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -166125,7 +166125,7 @@
                                     "kill_time_in_round": 23722,
                                     "kill_time_in_match": 1490108,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "099df5c4-bde5-5a24-a6c6-7fccb03a6b33",
                                     "victim_display_name": "marran\u043e#MyBad",
@@ -166214,7 +166214,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5440,
@@ -166437,7 +166437,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -166541,7 +166541,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5444,
@@ -166653,7 +166653,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -166691,7 +166691,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6172,
@@ -166878,7 +166878,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -166984,7 +166984,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5357,
@@ -167164,7 +167164,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5501,
@@ -167473,7 +167473,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -167495,7 +167495,7 @@
                                     "kill_time_in_round": 7561,
                                     "kill_time_in_match": 1561390,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                                     "victim_display_name": "haru#8969",
@@ -167594,7 +167594,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4972,
@@ -167931,7 +167931,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -168055,7 +168055,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5651,
@@ -168073,7 +168073,7 @@
                                     "killer_display_name": "solomihombre#ANGEL",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6934,
@@ -168360,7 +168360,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5370,
@@ -168516,7 +168516,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6936,
@@ -168874,7 +168874,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "assistant_display_name": "IEM AhsTro#1234",
+                                            "assistant_display_name": "\u03b1hsT\u044fo#IEM",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -168914,7 +168914,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -169264,7 +169264,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8150,
@@ -169489,7 +169489,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8589,
@@ -169727,7 +169727,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -169747,7 +169747,7 @@
                                     "killer_display_name": "Thu malague\u00f1o#RICO",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8550,
@@ -170199,7 +170199,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -170255,7 +170255,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -170589,7 +170589,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -170618,7 +170618,7 @@
                                     "killer_display_name": "solomihombre#ANGEL",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9275,
@@ -171371,7 +171371,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4601,
@@ -171561,7 +171561,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -171677,7 +171677,7 @@
                             },
                             {
                                 "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                "player_display_name": "IEM AhsTro#1234",
+                                "player_display_name": "\u03b1hsT\u044fo#IEM",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9605,
@@ -171786,7 +171786,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -171950,7 +171950,7 @@
                                 },
                                 {
                                     "receiver_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "receiver_display_name": "IEM AhsTro#1234",
+                                    "receiver_display_name": "\u03b1hsT\u044fo#IEM",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -172054,7 +172054,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9274,
@@ -172118,7 +172118,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8982,
@@ -172136,7 +172136,7 @@
                                     "killer_display_name": "marran\u043e#MyBad",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "victim_display_name": "IEM AhsTro#1234",
+                                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8745,
@@ -172565,7 +172565,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4308,
@@ -172611,7 +172611,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -172651,7 +172651,7 @@
                                     "kill_time_in_round": 12556,
                                     "kill_time_in_match": 1901969,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "61fcc0ed-e59c-5773-b430-94f863907868",
                                     "victim_display_name": "Lucia#2BK",
@@ -172740,7 +172740,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6949,
@@ -172761,7 +172761,7 @@
                                     "kill_time_in_round": 19683,
                                     "kill_time_in_match": 1909096,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                                     "victim_display_name": "solomihombre#ANGEL",
@@ -172840,7 +172840,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9701,
@@ -172855,7 +172855,7 @@
                                     "kill_time_in_round": 29042,
                                     "kill_time_in_match": 1918455,
                                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                    "killer_display_name": "IEM AhsTro#1234",
+                                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                                     "killer_team": "Blue",
                                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                                     "victim_display_name": "haru#8969",
@@ -172914,7 +172914,7 @@
                                         },
                                         {
                                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                                            "player_display_name": "IEM AhsTro#1234",
+                                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8967,
@@ -172961,7 +172961,7 @@
                     "kill_time_in_match": 62037,
                     "round": 0,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                     "victim_display_name": "haru#8969",
@@ -173060,7 +173060,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5596,
@@ -173079,7 +173079,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5606,
@@ -173712,7 +173712,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7530,
@@ -173817,7 +173817,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8945,
@@ -173912,7 +173912,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8137,
@@ -173997,7 +173997,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8816,
@@ -174013,7 +174013,7 @@
                     "kill_time_in_match": 154720,
                     "round": 1,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                     "victim_display_name": "solomihombre#ANGEL",
@@ -174072,7 +174072,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8832,
@@ -174091,7 +174091,7 @@
                     "killer_display_name": "haru#8969",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6641,
@@ -174217,7 +174217,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8972,
@@ -174865,7 +174865,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9146,
@@ -174970,7 +174970,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7932,
@@ -174989,7 +174989,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8668,
@@ -175526,7 +175526,7 @@
                     "kill_time_in_match": 454656,
                     "round": 4,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -175625,7 +175625,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6051,
@@ -175730,7 +175730,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6952,
@@ -175755,7 +175755,7 @@
                     "killer_display_name": "haru#8969",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7214,
@@ -176136,7 +176136,7 @@
                     "killer_display_name": "haru#8969",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6808,
@@ -176845,7 +176845,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7967,
@@ -176956,7 +176956,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8138,
@@ -177051,7 +177051,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9393,
@@ -177136,7 +177136,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9434,
@@ -177217,7 +177217,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9263,
@@ -177288,7 +177288,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4290,
@@ -177403,7 +177403,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9874,
@@ -177508,7 +177508,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9746,
@@ -177603,7 +177603,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9134,
@@ -177688,7 +177688,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8970,
@@ -177704,7 +177704,7 @@
                     "kill_time_in_match": 767889,
                     "round": 7,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "099df5c4-bde5-5a24-a6c6-7fccb03a6b33",
                     "victim_display_name": "marran\u043e#MyBad",
@@ -177763,7 +177763,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6999,
@@ -177779,7 +177779,7 @@
                     "kill_time_in_match": 782568,
                     "round": 7,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "61fcc0ed-e59c-5773-b430-94f863907868",
                     "victim_display_name": "Lucia#2BK",
@@ -177828,7 +177828,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6366,
@@ -177847,7 +177847,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5781,
@@ -178049,7 +178049,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9148,
@@ -178065,7 +178065,7 @@
                     "kill_time_in_match": 852988,
                     "round": 8,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                     "victim_display_name": "haru#8969",
@@ -178154,7 +178154,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8388,
@@ -178249,7 +178249,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8223,
@@ -178340,7 +178340,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7877,
@@ -178415,7 +178415,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8161,
@@ -178434,7 +178434,7 @@
                     "killer_display_name": "solomihombre#ANGEL",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7899,
@@ -178656,7 +178656,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7931,
@@ -178761,7 +178761,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8025,
@@ -178777,7 +178777,7 @@
                     "kill_time_in_match": 927212,
                     "round": 9,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                     "victim_display_name": "solomihombre#ANGEL",
@@ -178866,7 +178866,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7973,
@@ -178885,7 +178885,7 @@
                     "killer_display_name": "Lucia#2BK",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7943,
@@ -179447,7 +179447,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2593,
@@ -179472,7 +179472,7 @@
                     "killer_display_name": "Lucia#2BK",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2409,
@@ -179993,7 +179993,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5653,
@@ -180012,7 +180012,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5985,
@@ -180474,7 +180474,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4304,
@@ -180579,7 +180579,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2035,
@@ -180680,7 +180680,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1542,
@@ -180765,7 +180765,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1585,
@@ -180840,7 +180840,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2795,
@@ -180859,7 +180859,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5798,
@@ -180985,7 +180985,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4164,
@@ -181682,7 +181682,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6867,
@@ -181793,7 +181793,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6863,
@@ -181888,7 +181888,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6688,
@@ -181973,7 +181973,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6655,
@@ -181989,7 +181989,7 @@
                     "kill_time_in_match": 1424826,
                     "round": 14,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "ad803a4e-e84c-53ca-92f8-f76f6996fc13",
                     "victim_display_name": "Thu malague\u00f1o#RICO",
@@ -182048,7 +182048,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6953,
@@ -182113,7 +182113,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6922,
@@ -182168,7 +182168,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6933,
@@ -182283,7 +182283,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5409,
@@ -182299,7 +182299,7 @@
                     "kill_time_in_match": 1490108,
                     "round": 15,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "099df5c4-bde5-5a24-a6c6-7fccb03a6b33",
                     "victim_display_name": "marran\u043e#MyBad",
@@ -182388,7 +182388,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5440,
@@ -182407,7 +182407,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5759,
@@ -182580,7 +182580,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "assistant_display_name": "IEM AhsTro#1234",
+                            "assistant_display_name": "\u03b1hsT\u044fo#IEM",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -182730,7 +182730,7 @@
                     "kill_time_in_match": 1561390,
                     "round": 16,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                     "victim_display_name": "haru#8969",
@@ -182829,7 +182829,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4972,
@@ -182934,7 +182934,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5357,
@@ -183035,7 +183035,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5501,
@@ -183126,7 +183126,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5444,
@@ -183145,7 +183145,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6172,
@@ -183553,7 +183553,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5370,
@@ -183658,7 +183658,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5651,
@@ -183753,7 +183753,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6936,
@@ -183772,7 +183772,7 @@
                     "killer_display_name": "solomihombre#ANGEL",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6934,
@@ -183990,7 +183990,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "assistant_display_name": "IEM AhsTro#1234",
+                            "assistant_display_name": "\u03b1hsT\u044fo#IEM",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -184219,7 +184219,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8150,
@@ -184324,7 +184324,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8589,
@@ -184343,7 +184343,7 @@
                     "killer_display_name": "Thu malague\u00f1o#RICO",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8550,
@@ -184876,7 +184876,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4601,
@@ -184895,7 +184895,7 @@
                     "killer_display_name": "solomihombre#ANGEL",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9275,
@@ -185522,7 +185522,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4308,
@@ -185538,7 +185538,7 @@
                     "kill_time_in_match": 1901969,
                     "round": 20,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "61fcc0ed-e59c-5773-b430-94f863907868",
                     "victim_display_name": "Lucia#2BK",
@@ -185627,7 +185627,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6949,
@@ -185649,7 +185649,7 @@
                     "kill_time_in_match": 1909096,
                     "round": 20,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "acb95e33-02df-5c74-bc5e-58569665d662",
                     "victim_display_name": "solomihombre#ANGEL",
@@ -185728,7 +185728,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9701,
@@ -185813,7 +185813,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9274,
@@ -185829,7 +185829,7 @@
                     "kill_time_in_match": 1918455,
                     "round": 20,
                     "killer_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "killer_display_name": "IEM AhsTro#1234",
+                    "killer_display_name": "\u03b1hsT\u044fo#IEM",
                     "killer_team": "Blue",
                     "victim_puuid": "f3e31104-2826-5424-a5fd-ab9e322c314d",
                     "victim_display_name": "haru#8969",
@@ -185888,7 +185888,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8967,
@@ -185953,7 +185953,7 @@
                         },
                         {
                             "player_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                            "player_display_name": "IEM AhsTro#1234",
+                            "player_display_name": "\u03b1hsT\u044fo#IEM",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8982,
@@ -185972,7 +185972,7 @@
                     "killer_display_name": "marran\u043e#MyBad",
                     "killer_team": "Red",
                     "victim_puuid": "1a79ad7c-724b-5ab4-9af4-c6d83bdfd9ea",
-                    "victim_display_name": "IEM AhsTro#1234",
+                    "victim_display_name": "\u03b1hsT\u044fo#IEM",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8745,
