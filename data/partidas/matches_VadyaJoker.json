@@ -33647,8 +33647,8 @@
                     },
                     {
                         "puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                        "name": "iCantly AST",
-                        "tag": "vac",
+                        "name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440",
+                        "tag": "\u0437\u0434\u0435\u0441\u044c",
                         "team": "Red",
                         "level": 301,
                         "character": "Waylay",
@@ -34087,8 +34087,8 @@
                     },
                     {
                         "puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                        "name": "iCantly AST",
-                        "tag": "vac",
+                        "name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440",
+                        "tag": "\u0437\u0434\u0435\u0441\u044c",
                         "team": "Red",
                         "level": 301,
                         "character": "Waylay",
@@ -34677,7 +34677,7 @@
                             },
                             {
                                 "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                "player_display_name": "iCantly AST#vac",
+                                "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8548,
@@ -34869,7 +34869,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6446,
@@ -35054,7 +35054,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -35074,7 +35074,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7912,
@@ -35357,7 +35357,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -35771,7 +35771,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8021,
@@ -35994,7 +35994,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -36014,7 +36014,7 @@
                                     "killer_display_name": "Jogurtti#7442",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5606,
@@ -36187,7 +36187,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4603,
@@ -36437,7 +36437,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4985,
@@ -36503,7 +36503,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -36525,7 +36525,7 @@
                                     "kill_time_in_round": 25963,
                                     "kill_time_in_match": 273044,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                                     "victim_display_name": "i let her#die",
@@ -36584,7 +36584,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5098,
@@ -36765,7 +36765,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4996,
@@ -36849,7 +36849,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5645,
@@ -36913,7 +36913,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5635,
@@ -37294,7 +37294,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4037,
@@ -37429,7 +37429,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -37449,7 +37449,7 @@
                                     "killer_display_name": "Akutsu#RU1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9034,
@@ -37738,7 +37738,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "assistant_display_name": "iCantly AST#vac",
+                                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -37812,7 +37812,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -37843,7 +37843,7 @@
                                     "kill_time_in_round": 17265,
                                     "kill_time_in_match": 344976,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -37902,7 +37902,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5116,
@@ -37978,7 +37978,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -38054,7 +38054,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5127,
@@ -38300,7 +38300,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4259,
@@ -38411,7 +38411,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -38487,7 +38487,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3742,
@@ -38596,7 +38596,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -38672,7 +38672,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5382,
@@ -38720,7 +38720,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5616,
@@ -38959,7 +38959,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -39101,7 +39101,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5654,
@@ -39195,7 +39195,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5429,
@@ -39567,7 +39567,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -39614,7 +39614,7 @@
                                     "killer_display_name": "VadyaJoker#X007",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6528,
@@ -40055,7 +40055,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4394,
@@ -40265,7 +40265,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -40559,7 +40559,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4790,
@@ -41123,7 +41123,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -41180,7 +41180,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -41200,7 +41200,7 @@
                                     "killer_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4360,
@@ -41733,7 +41733,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "assistant_display_name": "iCantly AST#vac",
+                                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -41944,7 +41944,7 @@
                             },
                             {
                                 "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                "player_display_name": "iCantly AST#vac",
+                                "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7581,
@@ -42186,7 +42186,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8374,
@@ -42300,7 +42300,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -42349,7 +42349,7 @@
                                     "kill_time_in_round": 13360,
                                     "kill_time_in_match": 741327,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                                     "victim_display_name": "Jogurtti#7442",
@@ -42408,7 +42408,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9350,
@@ -42469,7 +42469,7 @@
                                     "kill_time_in_round": 16954,
                                     "kill_time_in_match": 744921,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -42528,7 +42528,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10164,
@@ -42573,7 +42573,7 @@
                                     "kill_time_in_round": 19999,
                                     "kill_time_in_match": 747966,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "3fa9c337-3f5b-54ed-9c14-21e40e7c384e",
                                     "victim_display_name": "Akutsu#RU1",
@@ -42622,7 +42622,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10642,
@@ -42667,7 +42667,7 @@
                                     "kill_time_in_round": 27191,
                                     "kill_time_in_match": 755158,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                                     "victim_display_name": "VadyaJoker#X007",
@@ -42696,7 +42696,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8188,
@@ -42865,7 +42865,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8508,
@@ -43550,7 +43550,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -43597,7 +43597,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -43626,7 +43626,7 @@
                                     "killer_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5491,
@@ -44136,7 +44136,7 @@
                             },
                             {
                                 "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                "player_display_name": "iCantly AST#vac",
+                                "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6283,
@@ -44196,7 +44196,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -44225,7 +44225,7 @@
                                     "killer_display_name": "Jogurtti#7442",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5880,
@@ -44482,7 +44482,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2502,
@@ -44578,7 +44578,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -44738,7 +44738,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6231,
@@ -44814,7 +44814,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -44989,7 +44989,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3305,
@@ -45136,7 +45136,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5369,
@@ -45304,7 +45304,7 @@
                             },
                             {
                                 "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                "player_display_name": "iCantly AST#vac",
+                                "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8364,
@@ -45425,7 +45425,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -45626,7 +45626,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8714,
@@ -45700,7 +45700,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8555,
@@ -45776,7 +45776,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -45949,7 +45949,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8182,
@@ -46167,7 +46167,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6920,
@@ -46271,7 +46271,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8455,
@@ -46567,7 +46567,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -46587,7 +46587,7 @@
                                     "killer_display_name": "VadyaJoker#X007",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6452,
@@ -46781,7 +46781,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -47682,7 +47682,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -47756,7 +47756,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8812,
@@ -47794,7 +47794,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8926,
@@ -48109,7 +48109,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9345,
@@ -48195,7 +48195,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -48217,7 +48217,7 @@
                                     "kill_time_in_round": 30484,
                                     "kill_time_in_match": 1248717,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -48256,7 +48256,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8930,
@@ -48379,7 +48379,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9687,
@@ -48639,7 +48639,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8345,
@@ -48739,7 +48739,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10548,
@@ -48951,7 +48951,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7831,
@@ -49160,7 +49160,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -49180,7 +49180,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7138,
@@ -49609,7 +49609,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -49821,7 +49821,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7442,
@@ -50016,7 +50016,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "assistant_display_name": "iCantly AST#vac",
+                                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -50185,7 +50185,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -50368,7 +50368,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -50399,7 +50399,7 @@
                                     "kill_time_in_round": 26019,
                                     "kill_time_in_match": 1484474,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                                     "victim_display_name": "VadyaJoker#X007",
@@ -50458,7 +50458,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4857,
@@ -50513,7 +50513,7 @@
                                     "kill_time_in_round": 63437,
                                     "kill_time_in_match": 1521892,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                                     "victim_display_name": "i let her#die",
@@ -50542,7 +50542,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1504,
@@ -50763,7 +50763,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2885,
@@ -50939,7 +50939,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3127,
@@ -51033,7 +51033,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3132,
@@ -51145,7 +51145,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -51206,7 +51206,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -51272,7 +51272,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5339,
@@ -51320,7 +51320,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5367,
@@ -51653,7 +51653,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -51684,7 +51684,7 @@
                                     "kill_time_in_round": 2902,
                                     "kill_time_in_match": 1571654,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                                     "victim_display_name": "Jogurtti#7442",
@@ -51743,7 +51743,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5278,
@@ -51798,7 +51798,7 @@
                                     "kill_time_in_round": 5587,
                                     "kill_time_in_match": 1574339,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                                     "victim_display_name": "VadyaJoker#X007",
@@ -51847,7 +51847,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5470,
@@ -52313,7 +52313,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -52342,7 +52342,7 @@
                                     "killer_display_name": "i let her#die",
                                     "killer_team": "Blue",
                                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "victim_display_name": "iCantly AST#vac",
+                                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 915,
@@ -52644,7 +52644,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -52809,7 +52809,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 776,
@@ -52985,7 +52985,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1456,
@@ -53211,7 +53211,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 756,
@@ -53473,7 +53473,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8207,
@@ -53620,7 +53620,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9452,
@@ -53758,7 +53758,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "receiver_display_name": "iCantly AST#vac",
+                                    "receiver_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -53856,7 +53856,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8570,
@@ -53912,7 +53912,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -53952,7 +53952,7 @@
                                     "kill_time_in_round": 22992,
                                     "kill_time_in_match": 1773603,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                                     "victim_display_name": "Jogurtti#7442",
@@ -54001,7 +54001,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9454,
@@ -54046,7 +54046,7 @@
                                     "kill_time_in_round": 30200,
                                     "kill_time_in_match": 1780811,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                                     "victim_display_name": "i let her#die",
@@ -54085,7 +54085,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7720,
@@ -54120,7 +54120,7 @@
                                     "kill_time_in_round": 36837,
                                     "kill_time_in_match": 1787448,
                                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                    "killer_display_name": "iCantly AST#vac",
+                                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                     "killer_team": "Red",
                                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                                     "victim_display_name": "VadyaJoker#X007",
@@ -54149,7 +54149,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8295,
@@ -54384,7 +54384,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9970,
@@ -54797,7 +54797,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4287,
@@ -54921,7 +54921,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -55066,7 +55066,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3945,
@@ -55202,7 +55202,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3127,
@@ -55376,7 +55376,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3677,
@@ -55480,7 +55480,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3677,
@@ -55574,7 +55574,7 @@
                                         },
                                         {
                                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                                            "player_display_name": "iCantly AST#vac",
+                                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4668,
@@ -55730,7 +55730,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 6446,
@@ -55835,7 +55835,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8021,
@@ -55884,7 +55884,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7912,
@@ -56388,7 +56388,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4603,
@@ -56503,7 +56503,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4996,
@@ -56539,7 +56539,7 @@
                     "kill_time_in_match": 273044,
                     "round": 1,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                     "victim_display_name": "i let her#die",
@@ -56598,7 +56598,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5098,
@@ -56689,7 +56689,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4985,
@@ -56774,7 +56774,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5645,
@@ -56839,7 +56839,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5635,
@@ -56874,7 +56874,7 @@
                     "killer_display_name": "Jogurtti#7442",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5606,
@@ -56995,7 +56995,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4037,
@@ -57100,7 +57100,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4259,
@@ -57205,7 +57205,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5127,
@@ -57247,7 +57247,7 @@
                     "kill_time_in_match": 344976,
                     "round": 2,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -57306,7 +57306,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5116,
@@ -57341,7 +57341,7 @@
                     "killer_display_name": "Akutsu#RU1",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9034,
@@ -57574,7 +57574,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "assistant_display_name": "iCantly AST#vac",
+                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "assistant_team": "Red"
                         }
                     ]
@@ -57678,7 +57678,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3742,
@@ -57793,7 +57793,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5382,
@@ -57898,7 +57898,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5654,
@@ -57993,7 +57993,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5429,
@@ -58022,7 +58022,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5616,
@@ -58164,7 +58164,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4394,
@@ -58269,7 +58269,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4790,
@@ -58328,7 +58328,7 @@
                     "killer_display_name": "VadyaJoker#X007",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6528,
@@ -58807,7 +58807,7 @@
                     "killer_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4360,
@@ -59286,7 +59286,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "assistant_display_name": "iCantly AST#vac",
+                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "assistant_team": "Red"
                         }
                     ]
@@ -59467,7 +59467,7 @@
                     "kill_time_in_match": 741327,
                     "round": 6,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                     "victim_display_name": "Jogurtti#7442",
@@ -59526,7 +59526,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9350,
@@ -59588,7 +59588,7 @@
                     "kill_time_in_match": 744921,
                     "round": 6,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -59647,7 +59647,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 10164,
@@ -59693,7 +59693,7 @@
                     "kill_time_in_match": 747966,
                     "round": 6,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "3fa9c337-3f5b-54ed-9c14-21e40e7c384e",
                     "victim_display_name": "Akutsu#RU1",
@@ -59742,7 +59742,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 10642,
@@ -59827,7 +59827,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8508,
@@ -59912,7 +59912,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8374,
@@ -59954,7 +59954,7 @@
                     "kill_time_in_match": 755158,
                     "round": 6,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                     "victim_display_name": "VadyaJoker#X007",
@@ -59983,7 +59983,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8188,
@@ -60022,7 +60022,7 @@
                     "killer_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5491,
@@ -60628,7 +60628,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 2502,
@@ -60739,7 +60739,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3305,
@@ -60834,7 +60834,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5369,
@@ -60925,7 +60925,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 6231,
@@ -60974,7 +60974,7 @@
                     "killer_display_name": "Jogurtti#7442",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5880,
@@ -61170,7 +61170,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 6920,
@@ -61275,7 +61275,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8455,
@@ -61370,7 +61370,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8182,
@@ -61465,7 +61465,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8714,
@@ -61540,7 +61540,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8555,
@@ -61589,7 +61589,7 @@
                     "killer_display_name": "VadyaJoker#X007",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6452,
@@ -62246,7 +62246,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8345,
@@ -62357,7 +62357,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9345,
@@ -62452,7 +62452,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 10548,
@@ -62553,7 +62553,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9687,
@@ -62638,7 +62638,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8812,
@@ -62674,7 +62674,7 @@
                     "kill_time_in_match": 1248717,
                     "round": 11,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "86f8939c-f366-565a-8e79-eaa0e4b6938c",
                     "victim_display_name": "\u0421\u0410\u041c\u0418\u0419 \u041a\u0420\u0423\u0422\u041e\u0419 \u0411\u041e\u0425#trah",
@@ -62713,7 +62713,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8930,
@@ -62748,7 +62748,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8926,
@@ -62939,7 +62939,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 7442,
@@ -63060,7 +63060,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 7831,
@@ -63109,7 +63109,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7138,
@@ -63282,7 +63282,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "assistant_display_name": "iCantly AST#vac",
+                            "assistant_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "assistant_team": "Red"
                         }
                     ]
@@ -63567,7 +63567,7 @@
                     "kill_time_in_match": 1484474,
                     "round": 13,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                     "victim_display_name": "VadyaJoker#X007",
@@ -63626,7 +63626,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4857,
@@ -63731,7 +63731,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3127,
@@ -63826,7 +63826,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3132,
@@ -63882,7 +63882,7 @@
                     "kill_time_in_match": 1521892,
                     "round": 13,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                     "victim_display_name": "i let her#die",
@@ -63911,7 +63911,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 1504,
@@ -63996,7 +63996,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 2885,
@@ -64053,7 +64053,7 @@
                     "kill_time_in_match": 1571654,
                     "round": 14,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                     "victim_display_name": "Jogurtti#7442",
@@ -64112,7 +64112,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5278,
@@ -64168,7 +64168,7 @@
                     "kill_time_in_match": 1574339,
                     "round": 14,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                     "victim_display_name": "VadyaJoker#X007",
@@ -64217,7 +64217,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5470,
@@ -64328,7 +64328,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 5339,
@@ -64377,7 +64377,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5367,
@@ -64713,7 +64713,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 1456,
@@ -64824,7 +64824,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 776,
@@ -64929,7 +64929,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 756,
@@ -64978,7 +64978,7 @@
                     "killer_display_name": "i let her#die",
                     "killer_team": "Blue",
                     "victim_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "victim_display_name": "iCantly AST#vac",
+                    "victim_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 915,
@@ -65324,7 +65324,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8207,
@@ -65429,7 +65429,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9970,
@@ -65481,7 +65481,7 @@
                     "kill_time_in_match": 1773603,
                     "round": 16,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "1a687fc0-e187-5bcc-ae69-ca9eb192e801",
                     "victim_display_name": "Jogurtti#7442",
@@ -65530,7 +65530,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9454,
@@ -65625,7 +65625,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 9452,
@@ -65667,7 +65667,7 @@
                     "kill_time_in_match": 1780811,
                     "round": 16,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "231238a1-a130-5639-86ba-69828919d620",
                     "victim_display_name": "i let her#die",
@@ -65706,7 +65706,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 7720,
@@ -65742,7 +65742,7 @@
                     "kill_time_in_match": 1787448,
                     "round": 16,
                     "killer_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                    "killer_display_name": "iCantly AST#vac",
+                    "killer_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                     "killer_team": "Red",
                     "victim_puuid": "e400c82a-801e-53e1-a423-7bead94bd796",
                     "victim_display_name": "VadyaJoker#X007",
@@ -65771,7 +65771,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8295,
@@ -65836,7 +65836,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 8570,
@@ -65921,7 +65921,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3677,
@@ -66026,7 +66026,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3677,
@@ -66121,7 +66121,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4668,
@@ -66216,7 +66216,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 4287,
@@ -66297,7 +66297,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3945,
@@ -66372,7 +66372,7 @@
                         },
                         {
                             "player_puuid": "a966614b-5f40-51dc-87e9-6f6ddf77b1c4",
-                            "player_display_name": "iCantly AST#vac",
+                            "player_display_name": "\u041c\u0430\u043a\u0441 \u0411\u0438\u0442\u0431\u043e\u043a\u0441\u0435\u0440#\u0437\u0434\u0435\u0441\u044c",
                             "player_team": "Red",
                             "location": {
                                 "x": 3127,
