@@ -31128,8 +31128,8 @@
                     },
                     {
                         "puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                        "name": "RiZeXWASD",
-                        "tag": "4247",
+                        "name": "Tabaco",
+                        "tag": "42473",
                         "team": "Blue",
                         "level": 202,
                         "character": "Yoru",
@@ -32081,8 +32081,8 @@
                     },
                     {
                         "puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                        "name": "RiZeXWASD",
-                        "tag": "4247",
+                        "name": "Tabaco",
+                        "tag": "42473",
                         "team": "Blue",
                         "level": 202,
                         "character": "Yoru",
@@ -32410,7 +32410,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -4332,
@@ -32475,7 +32475,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -32507,7 +32507,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -32524,7 +32524,7 @@
                                     "kill_time_in_round": 36137,
                                     "kill_time_in_match": 91198,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -32543,7 +32543,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2314,
@@ -32608,7 +32608,7 @@
                                     "kill_time_in_round": 87708,
                                     "kill_time_in_match": 142769,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                                     "victim_display_name": "MSJordan31#EUW",
@@ -32627,7 +32627,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4916,
@@ -32652,7 +32652,7 @@
                                     "kill_time_in_round": 97870,
                                     "kill_time_in_match": 152931,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                                     "victim_display_name": "yerai11#3986",
@@ -32671,7 +32671,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6156,
@@ -32686,10 +32686,10 @@
                                     "kill_time_in_round": 103633,
                                     "kill_time_in_match": 158694,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7057,
@@ -32848,7 +32848,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3360,
@@ -32992,7 +32992,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2258,
@@ -33086,7 +33086,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2304,
@@ -33160,7 +33160,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1521,
@@ -33246,7 +33246,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -33282,7 +33282,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -738,
@@ -33551,7 +33551,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -800,
@@ -33798,7 +33798,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -33838,7 +33838,7 @@
                                     "kill_time_in_round": 30328,
                                     "kill_time_in_match": 225599,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -33857,7 +33857,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7507,
@@ -33922,7 +33922,7 @@
                                     "kill_time_in_round": 31401,
                                     "kill_time_in_match": 226672,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -33941,7 +33941,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7507,
@@ -34110,7 +34110,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3742,
@@ -34286,7 +34286,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4213,
@@ -34390,7 +34390,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5165,
@@ -34543,7 +34543,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -34563,7 +34563,7 @@
                                     "killer_display_name": "MSJordan31#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6146,
@@ -34714,7 +34714,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "assistant_display_name": "RiZeXWASD#4247",
+                                            "assistant_display_name": "Tabaco#42473",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -34795,7 +34795,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7190,
@@ -34976,7 +34976,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -34998,7 +34998,7 @@
                                     "kill_time_in_round": 65781,
                                     "kill_time_in_match": 343397,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                                     "victim_display_name": "adrixx#2004",
@@ -35017,7 +35017,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1417,
@@ -35173,7 +35173,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2907,
@@ -35339,7 +35339,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -545,
@@ -35620,7 +35620,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -512,
@@ -35694,7 +35694,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1691,
@@ -35816,7 +35816,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -428,
@@ -35983,7 +35983,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1149,
@@ -36188,7 +36188,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -36245,7 +36245,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -36265,7 +36265,7 @@
                                     "killer_display_name": "adrixx#2004",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4167,
@@ -36490,7 +36490,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4250,
@@ -37435,7 +37435,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -37484,7 +37484,7 @@
                                     "kill_time_in_round": 28629,
                                     "kill_time_in_match": 579194,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                                     "victim_display_name": "adrixx#2004",
@@ -37503,7 +37503,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3756,
@@ -37594,7 +37594,7 @@
                                     "kill_time_in_round": 43401,
                                     "kill_time_in_match": 593966,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -37613,7 +37613,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4322,
@@ -37668,7 +37668,7 @@
                                     "kill_time_in_round": 44422,
                                     "kill_time_in_match": 594987,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -37687,7 +37687,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4321,
@@ -37732,7 +37732,7 @@
                                     "kill_time_in_round": 75149,
                                     "kill_time_in_match": 625714,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                                     "victim_display_name": "yerai11#3986",
@@ -37751,7 +37751,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5320,
@@ -37820,7 +37820,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -37856,7 +37856,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2576,
@@ -38102,7 +38102,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6304,
@@ -38156,7 +38156,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6027,
@@ -38253,7 +38253,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3633,
@@ -38494,7 +38494,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2511,
@@ -38783,7 +38783,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -38830,7 +38830,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -39033,7 +39033,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -39087,7 +39087,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3792,
@@ -39175,7 +39175,7 @@
                                     "killer_display_name": "yerai11#3986",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5317,
@@ -39403,7 +39403,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5351,
@@ -39650,7 +39650,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7344,
@@ -39958,7 +39958,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -40232,7 +40232,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -40288,7 +40288,7 @@
                                     "killer_display_name": "xivitoo#GRX",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6163,
@@ -41108,7 +41108,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -41148,7 +41148,7 @@
                                     "kill_time_in_round": 29623,
                                     "kill_time_in_match": 905889,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                                     "victim_display_name": "yerai11#3986",
@@ -41167,7 +41167,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6987,
@@ -41252,7 +41252,7 @@
                                     "kill_time_in_round": 84524,
                                     "kill_time_in_match": 960790,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -41271,7 +41271,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6898,
@@ -41326,7 +41326,7 @@
                                     "kill_time_in_round": 85509,
                                     "kill_time_in_match": 961775,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                                     "victim_display_name": "MSJordan31#EUW",
@@ -41345,7 +41345,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6990,
@@ -41504,7 +41504,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5208,
@@ -41635,7 +41635,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -41732,7 +41732,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7041,
@@ -41938,7 +41938,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -41983,7 +41983,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6998,
@@ -42083,7 +42083,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6898,
@@ -42241,7 +42241,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4189,
@@ -42355,7 +42355,7 @@
                         "player_locations_on_defuse": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5390,
@@ -42394,7 +42394,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -42425,7 +42425,7 @@
                                     "kill_time_in_round": 44433,
                                     "kill_time_in_match": 1057692,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                                     "victim_display_name": "yerai11#3986",
@@ -42444,7 +42444,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5389,
@@ -42515,7 +42515,7 @@
                                     "kill_time_in_round": 49133,
                                     "kill_time_in_match": 1062392,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -42534,7 +42534,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5072,
@@ -42663,7 +42663,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -42717,7 +42717,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5656,
@@ -42837,7 +42837,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -42873,7 +42873,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6104,
@@ -43003,7 +43003,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -43039,7 +43039,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5039,
@@ -43227,7 +43227,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5219,
@@ -43359,7 +43359,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -43447,7 +43447,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5378,
@@ -43600,7 +43600,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -43622,7 +43622,7 @@
                                     "kill_time_in_round": 43099,
                                     "kill_time_in_match": 1152641,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -43641,7 +43641,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2443,
@@ -43787,7 +43787,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1690,
@@ -44011,7 +44011,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2062,
@@ -44131,7 +44131,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -44151,7 +44151,7 @@
                                     "killer_display_name": "xivitoo#GRX",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2439,
@@ -44417,7 +44417,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3136,
@@ -44785,7 +44785,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -44895,7 +44895,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -44917,7 +44917,7 @@
                                     "kill_time_in_round": 60544,
                                     "kill_time_in_match": 1279588,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -44936,7 +44936,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1668,
@@ -45135,7 +45135,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1940,
@@ -45256,7 +45256,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -45276,7 +45276,7 @@
                                     "killer_display_name": "yerai11#3986",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -193,
@@ -45389,7 +45389,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -45749,7 +45749,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2580,
@@ -45863,7 +45863,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 409,
@@ -45980,7 +45980,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -46002,7 +46002,7 @@
                                     "kill_time_in_round": 48972,
                                     "kill_time_in_match": 1386227,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -46021,7 +46021,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3656,
@@ -46205,7 +46205,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2066,
@@ -46358,7 +46358,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -46497,7 +46497,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3319,
@@ -46656,7 +46656,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2297,
@@ -46802,7 +46802,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3462,
@@ -46927,7 +46927,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4073,
@@ -47070,7 +47070,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -47172,7 +47172,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1570,
@@ -47292,7 +47292,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1635,
@@ -47471,7 +47471,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2472,
@@ -47601,7 +47601,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -47621,7 +47621,7 @@
                                     "killer_display_name": "xivitoo#GRX",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2574,
@@ -47862,7 +47862,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -47898,7 +47898,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1391,
@@ -48044,7 +48044,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1141,
@@ -48164,7 +48164,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5929,
@@ -48307,7 +48307,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -48338,7 +48338,7 @@
                                     "kill_time_in_round": 50831,
                                     "kill_time_in_match": 1621614,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -48357,7 +48357,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5585,
@@ -48492,7 +48492,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5561,
@@ -48586,7 +48586,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5586,
@@ -48670,7 +48670,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5585,
@@ -48813,7 +48813,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -48833,7 +48833,7 @@
                                     "killer_display_name": "yerai11#3986",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5811,
@@ -48926,7 +48926,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -49127,7 +49127,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6019,
@@ -49300,7 +49300,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5542,
@@ -49535,7 +49535,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -49977,7 +49977,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -49997,7 +49997,7 @@
                                     "killer_display_name": "xivitoo#GRX",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1765,
@@ -50383,7 +50383,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "assistant_display_name": "RiZeXWASD#4247",
+                                            "assistant_display_name": "Tabaco#42473",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -50813,7 +50813,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5614,
@@ -50928,7 +50928,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -50968,7 +50968,7 @@
                                     "kill_time_in_round": 46641,
                                     "kill_time_in_match": 1847343,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                                     "victim_display_name": "MSJordan31#EUW",
@@ -50987,7 +50987,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4181,
@@ -51062,7 +51062,7 @@
                                     "kill_time_in_round": 59697,
                                     "kill_time_in_match": 1860399,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -51081,7 +51081,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6370,
@@ -51116,7 +51116,7 @@
                                     "kill_time_in_round": 62702,
                                     "kill_time_in_match": 1863404,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -51135,7 +51135,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6285,
@@ -51284,7 +51284,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4146,
@@ -51424,7 +51424,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -51469,7 +51469,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5078,
@@ -51537,7 +51537,7 @@
                                     "killer_display_name": "yerai11#3986",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6284,
@@ -51681,7 +51681,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4361,
@@ -51785,7 +51785,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5176,
@@ -51870,7 +51870,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5683,
@@ -52234,7 +52234,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 1747,
@@ -52317,7 +52317,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -52357,7 +52357,7 @@
                                     "kill_time_in_round": 30296,
                                     "kill_time_in_match": 1936832,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                                     "victim_display_name": "MSJordan31#EUW",
@@ -52376,7 +52376,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -492,
@@ -52441,7 +52441,7 @@
                                     "kill_time_in_round": 95627,
                                     "kill_time_in_match": 2002163,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                                     "victim_display_name": "OTK Marianela#M0N0",
@@ -52460,7 +52460,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2060,
@@ -52595,7 +52595,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1260,
@@ -52709,7 +52709,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4190,
@@ -52900,7 +52900,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -52938,7 +52938,7 @@
                                     "killer_display_name": "yerai11#3986",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2064,
@@ -53305,7 +53305,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2483,
@@ -53405,7 +53405,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1728,
@@ -53457,7 +53457,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "assistant_display_name": "RiZeXWASD#4247",
+                                            "assistant_display_name": "Tabaco#42473",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -53614,7 +53614,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6044,
@@ -53737,7 +53737,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -53802,7 +53802,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -53847,7 +53847,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6615,
@@ -53935,7 +53935,7 @@
                                     "killer_display_name": "adrixx#2004",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6570,
@@ -54626,7 +54626,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -54774,7 +54774,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6749,
@@ -55014,7 +55014,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6840,
@@ -55089,7 +55089,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -55111,7 +55111,7 @@
                                     "kill_time_in_round": 49203,
                                     "kill_time_in_match": 2212661,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                                     "victim_display_name": "adrixx#2004",
@@ -55130,7 +55130,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4702,
@@ -55392,7 +55392,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2487,
@@ -55506,7 +55506,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5193,
@@ -55693,7 +55693,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2007,
@@ -55797,7 +55797,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2777,
@@ -55891,7 +55891,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2209,
@@ -56112,7 +56112,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4702,
@@ -56247,7 +56247,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -56278,7 +56278,7 @@
                                     "kill_time_in_round": 45689,
                                     "kill_time_in_match": 2295568,
                                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "killer_display_name": "RiZeXWASD#4247",
+                                    "killer_display_name": "Tabaco#42473",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                                     "victim_display_name": "xivitoo#GRX",
@@ -56297,7 +56297,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6956,
@@ -56505,7 +56505,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6366,
@@ -56904,7 +56904,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "assistant_display_name": "RiZeXWASD#4247",
+                                            "assistant_display_name": "Tabaco#42473",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -56985,7 +56985,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6572,
@@ -57115,7 +57115,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -57153,7 +57153,7 @@
                                     "killer_display_name": "OTK Marianela#M0N0",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6908,
@@ -57408,7 +57408,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -57519,7 +57519,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2075,
@@ -57738,7 +57738,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -457,
@@ -57907,7 +57907,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -57927,7 +57927,7 @@
                                     "killer_display_name": "MSJordan31#EUW",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2478,
@@ -58435,7 +58435,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                "player_display_name": "RiZeXWASD#4247",
+                                "player_display_name": "Tabaco#42473",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5923,
@@ -58540,7 +58540,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -58693,7 +58693,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                            "player_display_name": "RiZeXWASD#4247",
+                                            "player_display_name": "Tabaco#42473",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5949,
@@ -58980,7 +58980,7 @@
                                 },
                                 {
                                     "receiver_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "receiver_display_name": "RiZeXWASD#4247",
+                                    "receiver_display_name": "Tabaco#42473",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -59018,7 +59018,7 @@
                                     "killer_display_name": "xivitoo#GRX",
                                     "killer_team": "Red",
                                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                                    "victim_display_name": "RiZeXWASD#4247",
+                                    "victim_display_name": "Tabaco#42473",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5760,
@@ -59808,7 +59808,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -800,
@@ -59929,7 +59929,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -738,
@@ -60034,7 +60034,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2258,
@@ -60110,7 +60110,7 @@
                     "kill_time_in_match": 91198,
                     "round": 0,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -60129,7 +60129,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2314,
@@ -60214,7 +60214,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2304,
@@ -60289,7 +60289,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3360,
@@ -60354,7 +60354,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1521,
@@ -60396,7 +60396,7 @@
                     "kill_time_in_match": 142769,
                     "round": 0,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                     "victim_display_name": "MSJordan31#EUW",
@@ -60415,7 +60415,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4916,
@@ -60441,7 +60441,7 @@
                     "kill_time_in_match": 152931,
                     "round": 0,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                     "victim_display_name": "yerai11#3986",
@@ -60460,7 +60460,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6156,
@@ -60476,10 +60476,10 @@
                     "kill_time_in_match": 158694,
                     "round": 0,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7057,
@@ -60525,7 +60525,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3742,
@@ -60640,7 +60640,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4213,
@@ -60745,7 +60745,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5165,
@@ -60821,7 +60821,7 @@
                     "kill_time_in_match": 225599,
                     "round": 1,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -60840,7 +60840,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7507,
@@ -60906,7 +60906,7 @@
                     "kill_time_in_match": 226672,
                     "round": 1,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -60925,7 +60925,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7507,
@@ -61000,7 +61000,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7190,
@@ -61049,7 +61049,7 @@
                     "killer_display_name": "MSJordan31#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6146,
@@ -61148,7 +61148,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "assistant_display_name": "RiZeXWASD#4247",
+                            "assistant_display_name": "Tabaco#42473",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -61177,7 +61177,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -428,
@@ -61292,7 +61292,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2907,
@@ -61378,7 +61378,7 @@
                     "kill_time_in_match": 343397,
                     "round": 2,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                     "victim_display_name": "adrixx#2004",
@@ -61397,7 +61397,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1417,
@@ -61492,7 +61492,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -545,
@@ -61577,7 +61577,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -512,
@@ -61652,7 +61652,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1149,
@@ -61717,7 +61717,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1691,
@@ -61778,7 +61778,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4250,
@@ -61877,7 +61877,7 @@
                     "killer_display_name": "adrixx#2004",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4167,
@@ -62465,7 +62465,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2576,
@@ -62561,7 +62561,7 @@
                     "kill_time_in_match": 579194,
                     "round": 4,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                     "victim_display_name": "adrixx#2004",
@@ -62580,7 +62580,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3756,
@@ -62691,7 +62691,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2511,
@@ -62786,7 +62786,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3633,
@@ -62863,7 +62863,7 @@
                     "kill_time_in_match": 593966,
                     "round": 4,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -62882,7 +62882,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4322,
@@ -62938,7 +62938,7 @@
                     "kill_time_in_match": 594987,
                     "round": 4,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -62957,7 +62957,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4321,
@@ -63022,7 +63022,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6304,
@@ -63077,7 +63077,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6027,
@@ -63103,7 +63103,7 @@
                     "kill_time_in_match": 625714,
                     "round": 4,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                     "victim_display_name": "yerai11#3986",
@@ -63122,7 +63122,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5320,
@@ -63157,7 +63157,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7344,
@@ -63272,7 +63272,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3792,
@@ -63377,7 +63377,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5351,
@@ -63462,7 +63462,7 @@
                     "killer_display_name": "yerai11#3986",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5317,
@@ -63704,7 +63704,7 @@
                     "killer_display_name": "xivitoo#GRX",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6163,
@@ -64327,7 +64327,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5208,
@@ -64423,7 +64423,7 @@
                     "kill_time_in_match": 905889,
                     "round": 7,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                     "victim_display_name": "yerai11#3986",
@@ -64442,7 +64442,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6987,
@@ -64547,7 +64547,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6998,
@@ -64648,7 +64648,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6898,
@@ -64720,7 +64720,7 @@
                     "kill_time_in_match": 960790,
                     "round": 7,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -64739,7 +64739,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6898,
@@ -64795,7 +64795,7 @@
                     "kill_time_in_match": 961775,
                     "round": 7,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                     "victim_display_name": "MSJordan31#EUW",
@@ -64814,7 +64814,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6990,
@@ -64879,7 +64879,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7041,
@@ -64934,7 +64934,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5378,
@@ -65055,7 +65055,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6104,
@@ -65160,7 +65160,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5656,
@@ -65236,7 +65236,7 @@
                     "kill_time_in_match": 1057692,
                     "round": 8,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "5626863b-5fdb-5a1e-b240-43c5d1174ecd",
                     "victim_display_name": "yerai11#3986",
@@ -65255,7 +65255,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5389,
@@ -65346,7 +65346,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5039,
@@ -65402,7 +65402,7 @@
                     "kill_time_in_match": 1062392,
                     "round": 8,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -65421,7 +65421,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5072,
@@ -65492,7 +65492,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5219,
@@ -65547,7 +65547,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3136,
@@ -65668,7 +65668,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1690,
@@ -65779,7 +65779,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2062,
@@ -65855,7 +65855,7 @@
                     "kill_time_in_match": 1152641,
                     "round": 9,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -65874,7 +65874,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2443,
@@ -65943,7 +65943,7 @@
                     "killer_display_name": "xivitoo#GRX",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2439,
@@ -66252,7 +66252,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2580,
@@ -66367,7 +66367,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1940,
@@ -66453,7 +66453,7 @@
                     "kill_time_in_match": 1279588,
                     "round": 10,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -66472,7 +66472,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1668,
@@ -66567,7 +66567,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 409,
@@ -66636,7 +66636,7 @@
                     "killer_display_name": "yerai11#3986",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -193,
@@ -66798,7 +66798,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3462,
@@ -66924,7 +66924,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4073,
@@ -67035,7 +67035,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2066,
@@ -67130,7 +67130,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2297,
@@ -67196,7 +67196,7 @@
                     "kill_time_in_match": 1386227,
                     "round": 11,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -67215,7 +67215,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3656,
@@ -67296,7 +67296,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3319,
@@ -67361,7 +67361,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1570,
@@ -67482,7 +67482,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2472,
@@ -67587,7 +67587,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1141,
@@ -67682,7 +67682,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1391,
@@ -67767,7 +67767,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1635,
@@ -67826,7 +67826,7 @@
                     "killer_display_name": "xivitoo#GRX",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2574,
@@ -67907,7 +67907,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6019,
@@ -68028,7 +68028,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5542,
@@ -68133,7 +68133,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5561,
@@ -68228,7 +68228,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5586,
@@ -68313,7 +68313,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5585,
@@ -68369,7 +68369,7 @@
                     "kill_time_in_match": 1621614,
                     "round": 13,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -68388,7 +68388,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5585,
@@ -68437,7 +68437,7 @@
                     "killer_display_name": "yerai11#3986",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5811,
@@ -68498,7 +68498,7 @@
                     "killer_display_name": "xivitoo#GRX",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1765,
@@ -68711,7 +68711,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "assistant_display_name": "RiZeXWASD#4247",
+                            "assistant_display_name": "Tabaco#42473",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -69219,7 +69219,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4146,
@@ -69334,7 +69334,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4361,
@@ -69420,7 +69420,7 @@
                     "kill_time_in_match": 1847343,
                     "round": 15,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                     "victim_display_name": "MSJordan31#EUW",
@@ -69439,7 +69439,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4181,
@@ -69534,7 +69534,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5078,
@@ -69619,7 +69619,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5176,
@@ -69705,7 +69705,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5683,
@@ -69757,7 +69757,7 @@
                     "kill_time_in_match": 1860399,
                     "round": 15,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -69776,7 +69776,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6370,
@@ -69812,7 +69812,7 @@
                     "kill_time_in_match": 1863404,
                     "round": 15,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -69831,7 +69831,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6285,
@@ -69860,7 +69860,7 @@
                     "killer_display_name": "yerai11#3986",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6284,
@@ -69935,7 +69935,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1260,
@@ -70050,7 +70050,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4190,
@@ -70155,7 +70155,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2483,
@@ -70237,7 +70237,7 @@
                     "kill_time_in_match": 1936832,
                     "round": 16,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e0c1a820-8547-5c75-a6ef-94a19ddb0e37",
                     "victim_display_name": "MSJordan31#EUW",
@@ -70256,7 +70256,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -492,
@@ -70341,7 +70341,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1728,
@@ -70393,7 +70393,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "assistant_display_name": "RiZeXWASD#4247",
+                            "assistant_display_name": "Tabaco#42473",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -70403,7 +70403,7 @@
                     "kill_time_in_match": 2002163,
                     "round": 16,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "ba7ddeac-682a-53f6-95af-6c6da2d36d58",
                     "victim_display_name": "OTK Marianela#M0N0",
@@ -70422,7 +70422,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2060,
@@ -70471,7 +70471,7 @@
                     "killer_display_name": "yerai11#3986",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2064,
@@ -70634,7 +70634,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6749,
@@ -70755,7 +70755,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6615,
@@ -70844,7 +70844,7 @@
                     "killer_display_name": "adrixx#2004",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6570,
@@ -71339,7 +71339,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2487,
@@ -71454,7 +71454,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2007,
@@ -71559,7 +71559,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2777,
@@ -71654,7 +71654,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2209,
@@ -71739,7 +71739,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5193,
@@ -71795,7 +71795,7 @@
                     "kill_time_in_match": 2212661,
                     "round": 18,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "e672d6e0-0132-5241-9ea3-915daa4c85ab",
                     "victim_display_name": "adrixx#2004",
@@ -71814,7 +71814,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4702,
@@ -71879,7 +71879,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4702,
@@ -71934,7 +71934,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6366,
@@ -72049,7 +72049,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6572,
@@ -72135,7 +72135,7 @@
                     "kill_time_in_match": 2295568,
                     "round": 19,
                     "killer_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "killer_display_name": "RiZeXWASD#4247",
+                    "killer_display_name": "Tabaco#42473",
                     "killer_team": "Blue",
                     "victim_puuid": "b72bfa4b-f707-5b82-890c-7970992032d0",
                     "victim_display_name": "xivitoo#GRX",
@@ -72154,7 +72154,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6956,
@@ -72233,7 +72233,7 @@
                     "killer_display_name": "OTK Marianela#M0N0",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6908,
@@ -72512,7 +72512,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "assistant_display_name": "RiZeXWASD#4247",
+                            "assistant_display_name": "Tabaco#42473",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -72541,7 +72541,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2075,
@@ -72656,7 +72656,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": -457,
@@ -72751,7 +72751,7 @@
                     "killer_display_name": "MSJordan31#EUW",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2478,
@@ -73028,7 +73028,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                            "player_display_name": "RiZeXWASD#4247",
+                            "player_display_name": "Tabaco#42473",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5949,
@@ -73127,7 +73127,7 @@
                     "killer_display_name": "xivitoo#GRX",
                     "killer_team": "Red",
                     "victim_puuid": "b4f0bc52-12e7-5e0b-ad31-cfa4436b8181",
-                    "victim_display_name": "RiZeXWASD#4247",
+                    "victim_display_name": "Tabaco#42473",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5760,
