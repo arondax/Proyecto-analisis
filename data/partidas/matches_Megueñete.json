@@ -173,8 +173,8 @@
                     },
                     {
                         "puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                        "name": "King Nasir",
-                        "tag": "7437",
+                        "name": "TOP FLOOR BOSS",
+                        "tag": "3030",
                         "team": "Blue",
                         "level": 185,
                         "character": "Omen",
@@ -1272,8 +1272,8 @@
                     },
                     {
                         "puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                        "name": "King Nasir",
-                        "tag": "7437",
+                        "name": "TOP FLOOR BOSS",
+                        "tag": "3030",
                         "team": "Blue",
                         "level": 185,
                         "character": "Omen",
@@ -1727,7 +1727,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1206,
@@ -1831,7 +1831,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1048,
@@ -1915,7 +1915,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 975,
@@ -1989,7 +1989,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 216,
@@ -2097,7 +2097,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -2119,7 +2119,7 @@
                                     "kill_time_in_round": 26502,
                                     "kill_time_in_match": 81566,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -2148,7 +2148,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -9,
@@ -2241,7 +2241,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -2324,7 +2324,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1156,
@@ -2424,7 +2424,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1010,
@@ -2508,7 +2508,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 905,
@@ -2646,7 +2646,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -2989,7 +2989,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -3029,7 +3029,7 @@
                                     "kill_time_in_round": 6030,
                                     "kill_time_in_match": 124606,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -3088,7 +3088,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2413,
@@ -3143,7 +3143,7 @@
                                     "kill_time_in_round": 9279,
                                     "kill_time_in_match": 127855,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -3192,7 +3192,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2441,
@@ -3247,7 +3247,7 @@
                                     "kill_time_in_round": 11597,
                                     "kill_time_in_match": 130173,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                                     "victim_display_name": "OsKar#2801",
@@ -3296,7 +3296,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2397,
@@ -3429,7 +3429,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -3458,7 +3458,7 @@
                                     "killer_display_name": "TH Nardow#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2639,
@@ -3645,7 +3645,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3997,7 +3997,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -4026,7 +4026,7 @@
                                     "killer_display_name": "M4RC0SIT0#ESP",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6656,
@@ -4352,7 +4352,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -4934,7 +4934,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5409,
@@ -4986,7 +4986,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -5220,7 +5220,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -753,
@@ -5314,7 +5314,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1083,
@@ -5346,7 +5346,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -5484,7 +5484,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1886,
@@ -5546,7 +5546,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -5586,7 +5586,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -5741,7 +5741,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -241,
@@ -5900,7 +5900,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5929,7 +5929,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2444,
@@ -6151,7 +6151,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1007,
@@ -6345,7 +6345,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6472,7 +6472,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2887,
@@ -6576,7 +6576,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2717,
@@ -6690,7 +6690,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -6721,7 +6721,7 @@
                                     "kill_time_in_round": 8167,
                                     "kill_time_in_match": 337675,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -6770,7 +6770,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6243,
@@ -6835,7 +6835,7 @@
                                     "kill_time_in_round": 27205,
                                     "kill_time_in_match": 356713,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                                     "victim_display_name": "J O W I#GVNG",
@@ -6884,7 +6884,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2437,
@@ -7105,7 +7105,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2604,
@@ -7283,7 +7283,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2464,
@@ -7310,7 +7310,7 @@
                                         },
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -7442,7 +7442,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1264,
@@ -7631,7 +7631,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -814,
@@ -7729,7 +7729,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -7751,7 +7751,7 @@
                                     "kill_time_in_round": 62815,
                                     "kill_time_in_match": 461568,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                                     "victim_display_name": "J O W I#GVNG",
@@ -7790,7 +7790,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1211,
@@ -7916,7 +7916,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1360,
@@ -8010,7 +8010,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1597,
@@ -8320,7 +8320,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2510,
@@ -8424,7 +8424,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2412,
@@ -8560,7 +8560,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3866,
@@ -8737,7 +8737,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4205,
@@ -8821,7 +8821,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4244,
@@ -9005,7 +9005,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4204,
@@ -9135,7 +9135,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -9166,7 +9166,7 @@
                                     "kill_time_in_round": 12345,
                                     "kill_time_in_match": 512101,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -9225,7 +9225,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3490,
@@ -9397,7 +9397,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3490,
@@ -9594,7 +9594,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -9614,7 +9614,7 @@
                                     "killer_display_name": "OsKar#2801",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4230,
@@ -10398,7 +10398,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -10420,7 +10420,7 @@
                                     "kill_time_in_round": 20856,
                                     "kill_time_in_match": 608725,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                                     "victim_display_name": "OsKar#2801",
@@ -10479,7 +10479,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2790,
@@ -10570,7 +10570,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -10608,7 +10608,7 @@
                                     "killer_display_name": "J O W I#GVNG",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2790,
@@ -11305,7 +11305,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -11350,7 +11350,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -11397,7 +11397,7 @@
                                     "killer_display_name": "M4RC0SIT0#ESP",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -3977,
@@ -11717,7 +11717,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4144,
@@ -11769,7 +11769,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -11837,7 +11837,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4185,
@@ -12063,7 +12063,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -12186,7 +12186,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4151,
@@ -12996,7 +12996,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -13175,7 +13175,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -13195,7 +13195,7 @@
                                     "killer_display_name": "TH Nardow#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3042,
@@ -13511,7 +13511,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2732,
@@ -13717,7 +13717,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1879,
@@ -13821,7 +13821,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2258,
@@ -14019,7 +14019,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4898,
@@ -14093,7 +14093,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4896,
@@ -14201,7 +14201,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -14232,7 +14232,7 @@
                                     "kill_time_in_round": 30307,
                                     "kill_time_in_match": 915925,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                                     "victim_display_name": "OsKar#2801",
@@ -14281,7 +14281,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4907,
@@ -14418,7 +14418,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4898,
@@ -15086,7 +15086,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2729,
@@ -15356,7 +15356,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -15610,7 +15610,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -15648,7 +15648,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -3632,
@@ -15882,7 +15882,7 @@
                         },
                         "planted_by": {
                             "puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "display_name": "King Nasir#7437",
+                            "display_name": "TOP FLOOR BOSS#3030",
                             "team": "Blue"
                         },
                         "plant_site": "B",
@@ -15910,7 +15910,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -3566,
@@ -16019,7 +16019,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -16075,7 +16075,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3983,
@@ -16103,7 +16103,7 @@
                                     "killer_display_name": "M4RC0SIT0#ESP",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -3004,
@@ -16245,7 +16245,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1052,
@@ -16329,7 +16329,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1450,
@@ -16465,7 +16465,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1036,
@@ -16551,7 +16551,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -16573,7 +16573,7 @@
                                     "kill_time_in_round": 85801,
                                     "kill_time_in_match": 1143030,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                                     "victim_display_name": "J O W I#GVNG",
@@ -16602,7 +16602,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2953,
@@ -16699,7 +16699,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -3420,
@@ -16905,7 +16905,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1029,
@@ -17081,7 +17081,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1179,
@@ -17306,7 +17306,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -17361,7 +17361,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3397,
@@ -17425,7 +17425,7 @@
                                     "killer_display_name": "M4RC0SIT0#ESP",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3508,
@@ -17657,7 +17657,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -17688,7 +17688,7 @@
                                     "kill_time_in_round": 85779,
                                     "kill_time_in_match": 1276205,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -17717,7 +17717,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3505,
@@ -17822,7 +17822,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -17878,7 +17878,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 406,
@@ -18147,7 +18147,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 375,
@@ -18323,7 +18323,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -81,
@@ -18407,7 +18407,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3507,
@@ -18439,7 +18439,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -18523,7 +18523,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6541,
@@ -18639,7 +18639,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6242,
@@ -18856,7 +18856,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7015,
@@ -18940,7 +18940,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6028,
@@ -19092,7 +19092,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -19223,7 +19223,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -19243,7 +19243,7 @@
                                     "killer_display_name": "OsKar#2801",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5251,
@@ -19406,7 +19406,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5690,
@@ -19563,7 +19563,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4982,
@@ -19693,7 +19693,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6412,
@@ -19940,7 +19940,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5295,
@@ -20030,7 +20030,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6205,
@@ -20144,7 +20144,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -20175,7 +20175,7 @@
                                     "kill_time_in_round": 40047,
                                     "kill_time_in_match": 1438650,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "480c6f53-d938-519f-8868-4b6ccaeaeffe",
                                     "victim_display_name": "TH Nardow#666",
@@ -20214,7 +20214,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5996,
@@ -20336,7 +20336,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -20411,7 +20411,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6143,
@@ -20505,7 +20505,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6004,
@@ -20595,7 +20595,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20650,7 +20650,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6798,
@@ -20684,7 +20684,7 @@
                                     "killer_display_name": "OsKar#2801",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6848,
@@ -20946,7 +20946,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5617,
@@ -21514,7 +21514,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -21545,7 +21545,7 @@
                                     "kill_time_in_round": 25267,
                                     "kill_time_in_match": 1518184,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -21594,7 +21594,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7027,
@@ -21950,7 +21950,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -21970,7 +21970,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5124,
@@ -22346,7 +22346,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6084,
@@ -22510,7 +22510,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6170,
@@ -22572,7 +22572,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -22957,7 +22957,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -23041,7 +23041,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -23403,7 +23403,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -23423,7 +23423,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6744,
@@ -23764,7 +23764,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5146,
@@ -24013,7 +24013,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2585,
@@ -24105,7 +24105,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -24145,7 +24145,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -24248,7 +24248,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2609,
@@ -24560,7 +24560,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2599,
@@ -24661,7 +24661,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 2,
@@ -24681,7 +24681,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2586,
@@ -24834,7 +24834,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2639,
@@ -25295,7 +25295,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -25335,7 +25335,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -25727,7 +25727,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -25756,7 +25756,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5987,
@@ -26093,7 +26093,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1579,
@@ -26187,7 +26187,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -97,
@@ -26333,7 +26333,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1342,
@@ -26365,7 +26365,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -26501,7 +26501,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -26523,7 +26523,7 @@
                                     "kill_time_in_round": 36923,
                                     "kill_time_in_match": 1951294,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "480c6f53-d938-519f-8868-4b6ccaeaeffe",
                                     "victim_display_name": "TH Nardow#666",
@@ -26572,7 +26572,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1341,
@@ -26662,7 +26662,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -26747,7 +26747,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2046,
@@ -26805,7 +26805,7 @@
                                     "killer_display_name": "J O W I#GVNG",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -829,
@@ -26958,7 +26958,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -27157,7 +27157,7 @@
                         },
                         "planted_by": {
                             "puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "display_name": "King Nasir#7437",
+                            "display_name": "TOP FLOOR BOSS#3030",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -27195,7 +27195,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5285,
@@ -27344,7 +27344,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -27419,7 +27419,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5842,
@@ -27467,7 +27467,7 @@
                                     "killer_display_name": "M4RC0SIT0#ESP",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5208,
@@ -27743,7 +27743,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5543,
@@ -27785,7 +27785,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "assistant_display_name": "King Nasir#7437",
+                                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -27950,7 +27950,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -28143,7 +28143,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5213,
@@ -28455,7 +28455,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -4459,
@@ -28580,7 +28580,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -713,
@@ -28674,7 +28674,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4514,
@@ -28820,7 +28820,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2069,
@@ -28977,7 +28977,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1021,
@@ -29150,7 +29150,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -29172,7 +29172,7 @@
                                     "kill_time_in_round": 46363,
                                     "kill_time_in_match": 2168917,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                                     "victim_display_name": "J O W I#GVNG",
@@ -29211,7 +29211,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2341,
@@ -29291,7 +29291,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -29347,7 +29347,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -249,
@@ -29512,7 +29512,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -29532,7 +29532,7 @@
                                     "killer_display_name": "ReactioN \u98a8#5441",
                                     "killer_team": "Red",
                                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "victim_display_name": "King Nasir#7437",
+                                    "victim_display_name": "TOP FLOOR BOSS#3030",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -4404,
@@ -29706,7 +29706,7 @@
                             },
                             {
                                 "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                "player_display_name": "King Nasir#7437",
+                                "player_display_name": "TOP FLOOR BOSS#3030",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": -1147,
@@ -29841,7 +29841,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2155,
@@ -30030,7 +30030,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1343,
@@ -30167,7 +30167,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2052,
@@ -30253,7 +30253,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -30284,7 +30284,7 @@
                                     "kill_time_in_round": 34957,
                                     "kill_time_in_match": 2266355,
                                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "killer_display_name": "King Nasir#7437",
+                                    "killer_display_name": "TOP FLOOR BOSS#3030",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                                     "victim_display_name": "J O W I#GVNG",
@@ -30333,7 +30333,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1147,
@@ -30423,7 +30423,7 @@
                                 },
                                 {
                                     "receiver_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                    "receiver_display_name": "King Nasir#7437",
+                                    "receiver_display_name": "TOP FLOOR BOSS#3030",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -30661,7 +30661,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1146,
@@ -30751,7 +30751,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -723,
@@ -30805,7 +30805,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1002,
@@ -30937,7 +30937,7 @@
                                         },
                                         {
                                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                                            "player_display_name": "King Nasir#7437",
+                                            "player_display_name": "TOP FLOOR BOSS#3030",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -899,
@@ -31053,7 +31053,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1206,
@@ -31158,7 +31158,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1156,
@@ -31269,7 +31269,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1048,
@@ -31354,7 +31354,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1010,
@@ -31439,7 +31439,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 975,
@@ -31514,7 +31514,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 905,
@@ -31585,7 +31585,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 216,
@@ -31611,7 +31611,7 @@
                     "kill_time_in_match": 81566,
                     "round": 0,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -31640,7 +31640,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -9,
@@ -31656,7 +31656,7 @@
                     "kill_time_in_match": 124606,
                     "round": 1,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -31715,7 +31715,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2413,
@@ -31771,7 +31771,7 @@
                     "kill_time_in_match": 127855,
                     "round": 1,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -31820,7 +31820,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2441,
@@ -31876,7 +31876,7 @@
                     "kill_time_in_match": 130173,
                     "round": 1,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                     "victim_display_name": "OsKar#2801",
@@ -31925,7 +31925,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2397,
@@ -31974,7 +31974,7 @@
                     "killer_display_name": "TH Nardow#666",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2639,
@@ -32316,7 +32316,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5409,
@@ -32368,7 +32368,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -32381,7 +32381,7 @@
                     "killer_display_name": "M4RC0SIT0#ESP",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6656,
@@ -32858,7 +32858,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1886,
@@ -32920,7 +32920,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -32969,7 +32969,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -241,
@@ -33080,7 +33080,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -753,
@@ -33175,7 +33175,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1007,
@@ -33260,7 +33260,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1083,
@@ -33292,7 +33292,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -33305,7 +33305,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2444,
@@ -33479,7 +33479,7 @@
                     "kill_time_in_match": 337675,
                     "round": 4,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -33528,7 +33528,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6243,
@@ -33643,7 +33643,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2887,
@@ -33699,7 +33699,7 @@
                     "kill_time_in_match": 356713,
                     "round": 4,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                     "victim_display_name": "J O W I#GVNG",
@@ -33748,7 +33748,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2437,
@@ -33843,7 +33843,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2717,
@@ -33924,7 +33924,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2604,
@@ -33999,7 +33999,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2464,
@@ -34026,7 +34026,7 @@
                         },
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -34085,7 +34085,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2510,
@@ -34200,7 +34200,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1264,
@@ -34295,7 +34295,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1360,
@@ -34390,7 +34390,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2412,
@@ -34481,7 +34481,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1597,
@@ -34517,7 +34517,7 @@
                     "kill_time_in_match": 461568,
                     "round": 5,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                     "victim_display_name": "J O W I#GVNG",
@@ -34556,7 +34556,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1211,
@@ -34621,7 +34621,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -814,
@@ -34696,7 +34696,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3490,
@@ -34752,7 +34752,7 @@
                     "kill_time_in_match": 512101,
                     "round": 6,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -34811,7 +34811,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3490,
@@ -34912,7 +34912,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4205,
@@ -34997,7 +34997,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4244,
@@ -35078,7 +35078,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4204,
@@ -35127,7 +35127,7 @@
                     "killer_display_name": "OsKar#2801",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4230,
@@ -35289,7 +35289,7 @@
                     "kill_time_in_match": 608725,
                     "round": 7,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                     "victim_display_name": "OsKar#2801",
@@ -35348,7 +35348,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2790,
@@ -35407,7 +35407,7 @@
                     "killer_display_name": "J O W I#GVNG",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2790,
@@ -36065,7 +36065,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4144,
@@ -36117,7 +36117,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -36186,7 +36186,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4185,
@@ -36281,7 +36281,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4151,
@@ -36330,7 +36330,7 @@
                     "killer_display_name": "M4RC0SIT0#ESP",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -3977,
@@ -36548,7 +36548,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -36752,7 +36752,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2732,
@@ -36811,7 +36811,7 @@
                     "killer_display_name": "TH Nardow#666",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3042,
@@ -37353,7 +37353,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1879,
@@ -37458,7 +37458,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2258,
@@ -37514,7 +37514,7 @@
                     "kill_time_in_match": 915925,
                     "round": 10,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "56a47dcc-f0d3-5118-a913-4a0acc5a0bd0",
                     "victim_display_name": "OsKar#2801",
@@ -37563,7 +37563,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4907,
@@ -37648,7 +37648,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4898,
@@ -37733,7 +37733,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4898,
@@ -37808,7 +37808,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4896,
@@ -37893,7 +37893,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2729,
@@ -37952,7 +37952,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -3632,
@@ -38496,7 +38496,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1179,
@@ -38611,7 +38611,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1036,
@@ -38716,7 +38716,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1029,
@@ -38822,7 +38822,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1052,
@@ -38907,7 +38907,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1450,
@@ -38972,7 +38972,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3983,
@@ -39027,7 +39027,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -3420,
@@ -39053,7 +39053,7 @@
                     "kill_time_in_match": 1143030,
                     "round": 12,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                     "victim_display_name": "J O W I#GVNG",
@@ -39082,7 +39082,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2953,
@@ -39101,7 +39101,7 @@
                     "killer_display_name": "M4RC0SIT0#ESP",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -3004,
@@ -39192,7 +39192,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -81,
@@ -39297,7 +39297,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 375,
@@ -39392,7 +39392,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 406,
@@ -39477,7 +39477,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3397,
@@ -39539,7 +39539,7 @@
                     "kill_time_in_match": 1276205,
                     "round": 13,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "c2166ce8-0ccf-59fd-b23f-e8612d621e5c",
                     "victim_display_name": "ReactioN \u98a8#5441",
@@ -39568,7 +39568,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3505,
@@ -39649,7 +39649,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3507,
@@ -39681,7 +39681,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -39694,7 +39694,7 @@
                     "killer_display_name": "M4RC0SIT0#ESP",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3508,
@@ -39862,7 +39862,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4982,
@@ -39967,7 +39967,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6242,
@@ -40072,7 +40072,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5690,
@@ -40167,7 +40167,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7015,
@@ -40252,7 +40252,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6028,
@@ -40281,7 +40281,7 @@
                     "killer_display_name": "OsKar#2801",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5251,
@@ -40447,7 +40447,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5617,
@@ -40562,7 +40562,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6143,
@@ -40667,7 +40667,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5295,
@@ -40758,7 +40758,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6004,
@@ -40804,7 +40804,7 @@
                     "kill_time_in_match": 1438650,
                     "round": 15,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "480c6f53-d938-519f-8868-4b6ccaeaeffe",
                     "victim_display_name": "TH Nardow#666",
@@ -40843,7 +40843,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5996,
@@ -40918,7 +40918,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6205,
@@ -40979,7 +40979,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6798,
@@ -41014,7 +41014,7 @@
                     "killer_display_name": "OsKar#2801",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6848,
@@ -41097,7 +41097,7 @@
                     "kill_time_in_match": 1518184,
                     "round": 16,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "b674a181-4385-56e9-9817-1c7ab875f7f5",
                     "victim_display_name": "M4RC0SIT0#ESP",
@@ -41146,7 +41146,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7027,
@@ -41215,7 +41215,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5124,
@@ -41753,7 +41753,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6170,
@@ -41815,7 +41815,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -41828,7 +41828,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6744,
@@ -42181,7 +42181,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -42405,7 +42405,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5146,
@@ -42510,7 +42510,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2599,
@@ -42615,7 +42615,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2639,
@@ -42700,7 +42700,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2609,
@@ -42785,7 +42785,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2585,
@@ -42840,7 +42840,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2586,
@@ -43004,7 +43004,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -43052,7 +43052,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5987,
@@ -43265,7 +43265,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -43600,7 +43600,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2046,
@@ -43705,7 +43705,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1579,
@@ -43761,7 +43761,7 @@
                     "kill_time_in_match": 1951294,
                     "round": 20,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "480c6f53-d938-519f-8868-4b6ccaeaeffe",
                     "victim_display_name": "TH Nardow#666",
@@ -43810,7 +43810,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1341,
@@ -43905,7 +43905,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1342,
@@ -43937,7 +43937,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -43986,7 +43986,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -97,
@@ -44025,7 +44025,7 @@
                     "killer_display_name": "J O W I#GVNG",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -829,
@@ -44258,7 +44258,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5213,
@@ -44379,7 +44379,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5543,
@@ -44421,7 +44421,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "assistant_display_name": "King Nasir#7437",
+                            "assistant_display_name": "TOP FLOOR BOSS#3030",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -44480,7 +44480,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5842,
@@ -44529,7 +44529,7 @@
                     "killer_display_name": "M4RC0SIT0#ESP",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5208,
@@ -44871,7 +44871,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2069,
@@ -44976,7 +44976,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -713,
@@ -45081,7 +45081,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1021,
@@ -45166,7 +45166,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -249,
@@ -45212,7 +45212,7 @@
                     "kill_time_in_match": 2168917,
                     "round": 22,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                     "victim_display_name": "J O W I#GVNG",
@@ -45251,7 +45251,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2341,
@@ -45326,7 +45326,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4514,
@@ -45355,7 +45355,7 @@
                     "killer_display_name": "ReactioN \u98a8#5441",
                     "killer_team": "Red",
                     "victim_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "victim_display_name": "King Nasir#7437",
+                    "victim_display_name": "TOP FLOOR BOSS#3030",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -4404,
@@ -45507,7 +45507,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2155,
@@ -45622,7 +45622,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2052,
@@ -45678,7 +45678,7 @@
                     "kill_time_in_match": 2266355,
                     "round": 23,
                     "killer_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                    "killer_display_name": "King Nasir#7437",
+                    "killer_display_name": "TOP FLOOR BOSS#3030",
                     "killer_team": "Blue",
                     "victim_puuid": "3d739cf5-50f5-5b26-aa70-62f350947919",
                     "victim_display_name": "J O W I#GVNG",
@@ -45727,7 +45727,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1147,
@@ -45812,7 +45812,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1146,
@@ -45903,7 +45903,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -899,
@@ -45978,7 +45978,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -723,
@@ -46033,7 +46033,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1002,
@@ -46094,7 +46094,7 @@
                         },
                         {
                             "player_puuid": "a1de12a4-5904-5864-bfc3-9c97e1ff251d",
-                            "player_display_name": "King Nasir#7437",
+                            "player_display_name": "TOP FLOOR BOSS#3030",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1343,
