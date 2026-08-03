@@ -129324,8 +129324,8 @@
                 "all_players": [
                     {
                         "puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                        "name": "magellan333",
-                        "tag": "7777",
+                        "name": "magellan",
+                        "tag": "77543",
                         "team": "Red",
                         "level": 101,
                         "character": "Sage",
@@ -130056,8 +130056,8 @@
                 "red": [
                     {
                         "puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                        "name": "magellan333",
-                        "tag": "7777",
+                        "name": "magellan",
+                        "tag": "77543",
                         "team": "Red",
                         "level": 101,
                         "character": "Sage",
@@ -130817,7 +130817,7 @@
                         },
                         "planted_by": {
                             "puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "display_name": "magellan333#7777",
+                            "display_name": "magellan#77543",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -130835,7 +130835,7 @@
                             },
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7357,
@@ -130942,7 +130942,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -131054,7 +131054,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6242,
@@ -131116,7 +131116,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -131144,7 +131144,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6692,
@@ -131486,7 +131486,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6953,
@@ -131590,7 +131590,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6291,
@@ -131642,7 +131642,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -131670,7 +131670,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6630,
@@ -131712,7 +131712,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -131854,7 +131854,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7008,
@@ -132023,7 +132023,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -132069,7 +132069,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2576,
@@ -132189,7 +132189,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2614,
@@ -132293,7 +132293,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2265,
@@ -132361,7 +132361,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2302,
@@ -132473,7 +132473,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -132990,7 +132990,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -674,
@@ -133107,7 +133107,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -133129,7 +133129,7 @@
                                     "kill_time_in_round": 12331,
                                     "kill_time_in_match": 195068,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                                     "victim_display_name": "kxs#rafik",
@@ -133158,7 +133158,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 304,
@@ -133348,7 +133348,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1190,
@@ -133442,7 +133442,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 508,
@@ -133621,7 +133621,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 200,
@@ -133742,7 +133742,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -133803,7 +133803,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -133891,7 +133891,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 316,
@@ -133933,7 +133933,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -134065,7 +134065,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -642,
@@ -134165,7 +134165,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1626,
@@ -134302,7 +134302,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -134324,7 +134324,7 @@
                                     "kill_time_in_round": 10875,
                                     "kill_time_in_match": 282423,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                                     "victim_display_name": "kxs#rafik",
@@ -134343,7 +134343,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2384,
@@ -134509,7 +134509,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1466,
@@ -134696,7 +134696,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2769,
@@ -135003,7 +135003,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1793,
@@ -135070,7 +135070,7 @@
                                         },
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -135098,7 +135098,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -921,
@@ -135150,7 +135150,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -135273,7 +135273,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1301,
@@ -135506,7 +135506,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -135747,7 +135747,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2635,
@@ -136051,7 +136051,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1268,
@@ -136165,7 +136165,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2921,
@@ -136237,7 +136237,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -136408,7 +136408,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -136444,7 +136444,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3384,
@@ -136512,7 +136512,7 @@
                                     "killer_display_name": "shazzq\u6226\u3044#lxve",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3254,
@@ -136628,7 +136628,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -892,
@@ -136717,7 +136717,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -136764,7 +136764,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -136813,7 +136813,7 @@
                                     "kill_time_in_round": 22290,
                                     "kill_time_in_match": 443268,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "0b171707-2792-567f-964a-84fbf7ba31fb",
                                     "victim_display_name": "Bomj iz Permi#Harch",
@@ -136842,7 +136842,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1491,
@@ -136927,7 +136927,7 @@
                                     "kill_time_in_round": 26416,
                                     "kill_time_in_match": 447394,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -136946,7 +136946,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 659,
@@ -137031,7 +137031,7 @@
                                     "kill_time_in_round": 53912,
                                     "kill_time_in_match": 474890,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                                     "victim_display_name": "Your Last Enemy#8585",
@@ -137050,7 +137050,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1191,
@@ -137095,7 +137095,7 @@
                                     "kill_time_in_round": 66885,
                                     "kill_time_in_match": 487863,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -137114,7 +137114,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2876,
@@ -137254,7 +137254,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 96,
@@ -137391,7 +137391,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 402,
@@ -137744,7 +137744,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -892,
@@ -137818,7 +137818,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2243,
@@ -137878,7 +137878,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2699,
@@ -137997,7 +137997,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -138043,7 +138043,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1687,
@@ -138121,7 +138121,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1665,
@@ -138243,7 +138243,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -138874,7 +138874,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2654,
@@ -139174,7 +139174,7 @@
                         },
                         "planted_by": {
                             "puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "display_name": "magellan333#7777",
+                            "display_name": "magellan#77543",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -139192,7 +139192,7 @@
                             },
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2142,
@@ -139272,7 +139272,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -139301,7 +139301,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3147,
@@ -139447,7 +139447,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -139549,7 +139549,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -863,
@@ -139758,7 +139758,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2112,
@@ -139953,7 +139953,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1371,
@@ -140128,7 +140128,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2684,
@@ -140212,7 +140212,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2675,
@@ -140451,7 +140451,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2142,
@@ -140591,7 +140591,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -140646,7 +140646,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -134,
@@ -140740,7 +140740,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -319,
@@ -140798,7 +140798,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -643,
@@ -140980,7 +140980,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -141355,7 +141355,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -141513,7 +141513,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1057,
@@ -141627,7 +141627,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3,
@@ -142139,7 +142139,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -142689,7 +142689,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -142709,7 +142709,7 @@
                                     "killer_display_name": "Bomj iz Permi#Harch",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2670,
@@ -142953,7 +142953,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2827,
@@ -143193,7 +143193,7 @@
                             },
                             {
                                 "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                "player_display_name": "magellan333#7777",
+                                "player_display_name": "magellan#77543",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7513,
@@ -143348,7 +143348,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6721,
@@ -143424,7 +143424,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -143535,7 +143535,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7099,
@@ -143609,7 +143609,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7600,
@@ -143673,7 +143673,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8055,
@@ -143977,7 +143977,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6125,
@@ -144091,7 +144091,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7578,
@@ -144290,7 +144290,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7578,
@@ -144412,7 +144412,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -144459,7 +144459,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6890,
@@ -144785,7 +144785,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -144832,7 +144832,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -145256,7 +145256,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "assistant_display_name": "magellan333#7777",
+                                            "assistant_display_name": "magellan#77543",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -145552,7 +145552,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -145574,7 +145574,7 @@
                                     "kill_time_in_round": 11262,
                                     "kill_time_in_match": 1079707,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                                     "victim_display_name": "Your Last Enemy#8585",
@@ -145593,7 +145593,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 232,
@@ -145996,7 +145996,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -146025,7 +146025,7 @@
                                     "killer_display_name": "kxs#rafik",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 235,
@@ -146206,7 +146206,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 311,
@@ -146649,7 +146649,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -146671,7 +146671,7 @@
                                     "kill_time_in_round": 71456,
                                     "kill_time_in_match": 1212519,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -146690,7 +146690,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5694,
@@ -146854,7 +146854,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 995,
@@ -147068,7 +147068,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 716,
@@ -147168,7 +147168,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1159,
@@ -147368,7 +147368,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1042,
@@ -147594,7 +147594,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2828,
@@ -147791,7 +147791,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -147822,7 +147822,7 @@
                                     "kill_time_in_round": 31494,
                                     "kill_time_in_match": 1281025,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                                     "victim_display_name": "Your Last Enemy#8585",
@@ -147851,7 +147851,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 190,
@@ -147916,7 +147916,7 @@
                                     "kill_time_in_round": 36327,
                                     "kill_time_in_match": 1285858,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -147935,7 +147935,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 120,
@@ -148460,7 +148460,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -148506,7 +148506,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -95,
@@ -148584,7 +148584,7 @@
                                     "killer_display_name": "kxs#rafik",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 116,
@@ -148737,7 +148737,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -90,
@@ -148982,7 +148982,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -149037,7 +149037,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5157,
@@ -149085,7 +149085,7 @@
                                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                                     "killer_team": "Blue",
                                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "victim_display_name": "magellan333#7777",
+                                    "victim_display_name": "magellan#77543",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6462,
@@ -149188,7 +149188,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -149228,7 +149228,7 @@
                                     "kill_time_in_round": 18425,
                                     "kill_time_in_match": 1384408,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -149257,7 +149257,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4387,
@@ -149332,7 +149332,7 @@
                                     "kill_time_in_round": 19922,
                                     "kill_time_in_match": 1385905,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                                     "victim_display_name": "Your Last Enemy#8585",
@@ -149361,7 +149361,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4386,
@@ -149426,7 +149426,7 @@
                                     "kill_time_in_round": 50595,
                                     "kill_time_in_match": 1416578,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "0b171707-2792-567f-964a-84fbf7ba31fb",
                                     "victim_display_name": "Bomj iz Permi#Harch",
@@ -149455,7 +149455,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5567,
@@ -149582,7 +149582,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5063,
@@ -149831,7 +149831,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -149877,7 +149877,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4376,
@@ -150134,7 +150134,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -150207,7 +150207,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -150254,7 +150254,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -150285,7 +150285,7 @@
                                     "kill_time_in_round": 40832,
                                     "kill_time_in_match": 1510437,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -150304,7 +150304,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -104,
@@ -150359,7 +150359,7 @@
                                     "kill_time_in_round": 42161,
                                     "kill_time_in_match": 1511766,
                                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "killer_display_name": "magellan333#7777",
+                                    "killer_display_name": "magellan#77543",
                                     "killer_team": "Red",
                                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                                     "victim_display_name": "kxs#rafik",
@@ -150378,7 +150378,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -107,
@@ -150614,7 +150614,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 352,
@@ -150708,7 +150708,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 700,
@@ -150854,7 +150854,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 484,
@@ -150980,7 +150980,7 @@
                                 },
                                 {
                                     "receiver_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                    "receiver_display_name": "magellan333#7777",
+                                    "receiver_display_name": "magellan#77543",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -151078,7 +151078,7 @@
                                         },
                                         {
                                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                                            "player_display_name": "magellan333#7777",
+                                            "player_display_name": "magellan#77543",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 218,
@@ -151318,7 +151318,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 7008,
@@ -151433,7 +151433,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6953,
@@ -151538,7 +151538,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6242,
@@ -151600,7 +151600,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -151639,7 +151639,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6291,
@@ -151691,7 +151691,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -151720,7 +151720,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6692,
@@ -151795,7 +151795,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6630,
@@ -151837,7 +151837,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -151876,7 +151876,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2576,
@@ -151997,7 +151997,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2614,
@@ -152102,7 +152102,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2265,
@@ -152171,7 +152171,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2302,
@@ -152328,7 +152328,7 @@
                     "kill_time_in_match": 195068,
                     "round": 2,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                     "victim_display_name": "kxs#rafik",
@@ -152357,7 +152357,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 304,
@@ -152468,7 +152468,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 200,
@@ -152573,7 +152573,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1190,
@@ -152668,7 +152668,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 508,
@@ -152753,7 +152753,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -642,
@@ -152828,7 +152828,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 316,
@@ -152870,7 +152870,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -152899,7 +152899,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2769,
@@ -152995,7 +152995,7 @@
                     "kill_time_in_match": 282423,
                     "round": 3,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                     "victim_display_name": "kxs#rafik",
@@ -153014,7 +153014,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2384,
@@ -153119,7 +153119,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1301,
@@ -153220,7 +153220,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1793,
@@ -153287,7 +153287,7 @@
                         },
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -153316,7 +153316,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -921,
@@ -153368,7 +153368,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -153397,7 +153397,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1466,
@@ -153462,7 +153462,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1268,
@@ -153577,7 +153577,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2635,
@@ -153682,7 +153682,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2921,
@@ -153754,7 +153754,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -153783,7 +153783,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -3384,
@@ -153852,7 +153852,7 @@
                     "killer_display_name": "shazzq\u6226\u3044#lxve",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3254,
@@ -154099,7 +154099,7 @@
                     "kill_time_in_match": 443268,
                     "round": 5,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "0b171707-2792-567f-964a-84fbf7ba31fb",
                     "victim_display_name": "Bomj iz Permi#Harch",
@@ -154128,7 +154128,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1491,
@@ -154214,7 +154214,7 @@
                     "kill_time_in_match": 447394,
                     "round": 5,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -154233,7 +154233,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 659,
@@ -154338,7 +154338,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 402,
@@ -154433,7 +154433,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 96,
@@ -154518,7 +154518,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -892,
@@ -154574,7 +154574,7 @@
                     "kill_time_in_match": 474890,
                     "round": 5,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                     "victim_display_name": "Your Last Enemy#8585",
@@ -154593,7 +154593,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1191,
@@ -154658,7 +154658,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2243,
@@ -154719,7 +154719,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2699,
@@ -154745,7 +154745,7 @@
                     "kill_time_in_match": 487863,
                     "round": 5,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -154764,7 +154764,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2876,
@@ -154820,7 +154820,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2654,
@@ -154935,7 +154935,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1687,
@@ -155014,7 +155014,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1665,
@@ -155495,7 +155495,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -863,
@@ -155610,7 +155610,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -1371,
@@ -155715,7 +155715,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2112,
@@ -155816,7 +155816,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2142,
@@ -155911,7 +155911,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2684,
@@ -155996,7 +155996,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2675,
@@ -156045,7 +156045,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3147,
@@ -156242,7 +156242,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1057,
@@ -156357,7 +156357,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 3,
@@ -156462,7 +156462,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -134,
@@ -156557,7 +156557,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -319,
@@ -156616,7 +156616,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -643,
@@ -156963,7 +156963,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -2827,
@@ -157058,7 +157058,7 @@
                     "killer_display_name": "Bomj iz Permi#Harch",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2670,
@@ -157627,7 +157627,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6125,
@@ -157742,7 +157742,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 7578,
@@ -157847,7 +157847,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 7578,
@@ -157942,7 +157942,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 7099,
@@ -158027,7 +158027,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 6721,
@@ -158092,7 +158092,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 7600,
@@ -158157,7 +158157,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 8055,
@@ -158196,7 +158196,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6890,
@@ -158409,7 +158409,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "assistant_display_name": "magellan333#7777",
+                            "assistant_display_name": "magellan#77543",
                             "assistant_team": "Red"
                         }
                     ]
@@ -158781,7 +158781,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 311,
@@ -158877,7 +158877,7 @@
                     "kill_time_in_match": 1079707,
                     "round": 12,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                     "victim_display_name": "Your Last Enemy#8585",
@@ -158896,7 +158896,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 232,
@@ -158996,7 +158996,7 @@
                     "killer_display_name": "kxs#rafik",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 235,
@@ -159354,7 +159354,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1042,
@@ -159469,7 +159469,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 716,
@@ -159570,7 +159570,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 995,
@@ -159671,7 +159671,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 1159,
@@ -159767,7 +159767,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 2828,
@@ -159829,7 +159829,7 @@
                     "kill_time_in_match": 1212519,
                     "round": 13,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -159848,7 +159848,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 5694,
@@ -159934,7 +159934,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -90,
@@ -160049,7 +160049,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -95,
@@ -160125,7 +160125,7 @@
                     "kill_time_in_match": 1281025,
                     "round": 14,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                     "victim_display_name": "Your Last Enemy#8585",
@@ -160154,7 +160154,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 190,
@@ -160220,7 +160220,7 @@
                     "kill_time_in_match": 1285858,
                     "round": 14,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -160239,7 +160239,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 120,
@@ -160308,7 +160308,7 @@
                     "killer_display_name": "kxs#rafik",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 116,
@@ -160580,7 +160580,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 4376,
@@ -160666,7 +160666,7 @@
                     "kill_time_in_match": 1384408,
                     "round": 15,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "5e04ea49-ad26-5a40-9d07-d52a7c87c428",
                     "victim_display_name": "shazzq\u6226\u3044#lxve",
@@ -160695,7 +160695,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 4387,
@@ -160771,7 +160771,7 @@
                     "kill_time_in_match": 1385905,
                     "round": 15,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "6e3079c8-cc3b-5113-989a-31240e9af95f",
                     "victim_display_name": "Your Last Enemy#8585",
@@ -160800,7 +160800,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 4386,
@@ -160895,7 +160895,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 5063,
@@ -160980,7 +160980,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 5157,
@@ -161026,7 +161026,7 @@
                     "kill_time_in_match": 1416578,
                     "round": 15,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "0b171707-2792-567f-964a-84fbf7ba31fb",
                     "victim_display_name": "Bomj iz Permi#Harch",
@@ -161055,7 +161055,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 5567,
@@ -161104,7 +161104,7 @@
                     "killer_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
                     "killer_team": "Blue",
                     "victim_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "victim_display_name": "magellan333#7777",
+                    "victim_display_name": "magellan#77543",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6462,
@@ -161261,7 +161261,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 218,
@@ -161376,7 +161376,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 484,
@@ -161487,7 +161487,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 352,
@@ -161582,7 +161582,7 @@
                         },
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": 700,
@@ -161638,7 +161638,7 @@
                     "kill_time_in_match": 1510437,
                     "round": 16,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "98ca090a-2065-5e88-b35a-76022c1ce1df",
                     "victim_display_name": "\u6708\u66dc\u65e5\u306b\u4ea1\u304f\u306a\u308a\u307e\u3057\u305f#666",
@@ -161657,7 +161657,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -104,
@@ -161713,7 +161713,7 @@
                     "kill_time_in_match": 1511766,
                     "round": 16,
                     "killer_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                    "killer_display_name": "magellan333#7777",
+                    "killer_display_name": "magellan#77543",
                     "killer_team": "Red",
                     "victim_puuid": "af622a75-cdb2-54b2-a869-62e3a9b51162",
                     "victim_display_name": "kxs#rafik",
@@ -161732,7 +161732,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "dcdb0af6-2598-5a38-89fe-05ebbb86c9d9",
-                            "player_display_name": "magellan333#7777",
+                            "player_display_name": "magellan#77543",
                             "player_team": "Red",
                             "location": {
                                 "x": -107,
