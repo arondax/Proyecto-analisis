@@ -168984,8 +168984,8 @@
                 "all_players": [
                     {
                         "puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                        "name": "OXI13",
-                        "tag": "1122",
+                        "name": "Nenroku",
+                        "tag": "sen",
                         "team": "Blue",
                         "level": 44,
                         "character": "Clove",
@@ -170083,8 +170083,8 @@
                 "blue": [
                     {
                         "puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                        "name": "OXI13",
-                        "tag": "1122",
+                        "name": "Nenroku",
+                        "tag": "sen",
                         "team": "Blue",
                         "level": 44,
                         "character": "Clove",
@@ -170692,7 +170692,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -170712,7 +170712,7 @@
                                     "killer_display_name": "Caroline Forbes#TR777",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8049,
@@ -171702,7 +171702,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -171850,7 +171850,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5306,
@@ -171985,7 +171985,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5526,
@@ -172160,7 +172160,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8467,
@@ -172254,7 +172254,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5371,
@@ -172475,7 +172475,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7138,
@@ -172587,7 +172587,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -172607,7 +172607,7 @@
                                     "killer_display_name": "c0mrade#2242",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5556,
@@ -172855,7 +172855,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -173013,7 +173013,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -173142,7 +173142,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -173171,7 +173171,7 @@
                                     "killer_display_name": "YusuF0#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7646,
@@ -173348,7 +173348,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -173443,7 +173443,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7503,
@@ -173679,7 +173679,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8032,
@@ -173783,7 +173783,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7518,
@@ -173873,7 +173873,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7561,
@@ -174042,7 +174042,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -174275,7 +174275,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 9179,
@@ -174496,7 +174496,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9657,
@@ -174600,7 +174600,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9685,
@@ -174684,7 +174684,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9533,
@@ -175058,7 +175058,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -175140,7 +175140,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -175162,7 +175162,7 @@
                                     "kill_time_in_round": 31554,
                                     "kill_time_in_match": 338580,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "49fae4de-fd85-5698-b4b2-549a812f6824",
                                     "victim_display_name": "Caroline Forbes#TR777",
@@ -175231,7 +175231,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9846,
@@ -175307,7 +175307,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -175327,7 +175327,7 @@
                                     "killer_display_name": "Gon#PEPPE",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9329,
@@ -175550,7 +175550,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6976,
@@ -175634,7 +175634,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6835,
@@ -175755,7 +175755,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -175861,7 +175861,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8469,
@@ -176164,7 +176164,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8334,
@@ -176297,7 +176297,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5274,
@@ -176343,7 +176343,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -176365,7 +176365,7 @@
                                     "kill_time_in_round": 25567,
                                     "kill_time_in_match": 421778,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                                     "victim_display_name": "dvkz#1717",
@@ -176414,7 +176414,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6109,
@@ -176594,7 +176594,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5247,
@@ -176769,7 +176769,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5567,
@@ -176967,7 +176967,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9642,
@@ -177142,7 +177142,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9725,
@@ -177226,7 +177226,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9813,
@@ -177290,7 +177290,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5340,
@@ -177519,7 +177519,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9918,
@@ -177575,7 +177575,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -177723,7 +177723,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8842,
@@ -177750,7 +177750,7 @@
                         },
                         "defused_by": {
                             "puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "display_name": "OXI13#1122",
+                            "display_name": "Nenroku#sen",
                             "team": "Blue"
                         },
                         "defuse_time_in_round": 58200,
@@ -177787,7 +177787,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7356,
@@ -177975,7 +177975,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9726,
@@ -178078,7 +178078,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -178236,7 +178236,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8514,
@@ -178405,7 +178405,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9833,
@@ -178561,7 +178561,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7769,
@@ -178661,7 +178661,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8631,
@@ -178717,7 +178717,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -178739,7 +178739,7 @@
                                     "kill_time_in_round": 40844,
                                     "kill_time_in_match": 574370,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                                     "victim_display_name": "YusuF0#002",
@@ -178788,7 +178788,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9833,
@@ -178980,7 +178980,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8426,
@@ -179034,7 +179034,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7145,
@@ -179134,7 +179134,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8373,
@@ -179288,7 +179288,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 2,
@@ -179308,7 +179308,7 @@
                                     "killer_display_name": "YusuF0#002",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8069,
@@ -179691,7 +179691,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9210,
@@ -179713,7 +179713,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -179781,7 +179781,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8031,
@@ -179837,7 +179837,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -179868,7 +179868,7 @@
                                     "kill_time_in_round": 33211,
                                     "kill_time_in_match": 661946,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                                     "victim_display_name": "c0mrade#2242",
@@ -179917,7 +179917,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8363,
@@ -179932,7 +179932,7 @@
                                     "kill_time_in_round": 38789,
                                     "kill_time_in_match": 667524,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                                     "victim_display_name": "YusuF0#002",
@@ -179971,7 +179971,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8645,
@@ -180142,7 +180142,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8431,
@@ -180346,7 +180346,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8601,
@@ -180390,7 +180390,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3762,
@@ -180548,7 +180548,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9667,
@@ -180695,7 +180695,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8446,
@@ -180952,7 +180952,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8560,
@@ -181069,7 +181069,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8572,
@@ -181086,7 +181086,7 @@
                                         },
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -181287,7 +181287,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8543,
@@ -181347,7 +181347,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7447,
@@ -181359,7 +181359,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -181399,7 +181399,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -181421,7 +181421,7 @@
                                     "kill_time_in_round": 34018,
                                     "kill_time_in_match": 748889,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "49fae4de-fd85-5698-b4b2-549a812f6824",
                                     "victim_display_name": "Caroline Forbes#TR777",
@@ -181480,7 +181480,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8600,
@@ -181965,7 +181965,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -181985,7 +181985,7 @@
                                     "killer_display_name": "dvkz#1717",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6914,
@@ -182369,7 +182369,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8094,
@@ -182391,7 +182391,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -182481,7 +182481,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -182563,7 +182563,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -182594,7 +182594,7 @@
                                     "kill_time_in_round": 18439,
                                     "kill_time_in_match": 820065,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                                     "victim_display_name": "c0mrade#2242",
@@ -182673,7 +182673,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6956,
@@ -183026,7 +183026,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -183055,7 +183055,7 @@
                                     "killer_display_name": "Caroline Forbes#TR777",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9518,
@@ -183202,7 +183202,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -183815,7 +183815,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -184201,7 +184201,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -184221,7 +184221,7 @@
                                     "killer_display_name": "Caroline Forbes#TR777",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6221,
@@ -184312,7 +184312,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -184408,7 +184408,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9051,
@@ -184554,7 +184554,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5599,
@@ -184628,7 +184628,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5721,
@@ -184885,7 +184885,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 10899,
@@ -184993,7 +184993,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -185033,7 +185033,7 @@
                                     "kill_time_in_round": 38283,
                                     "kill_time_in_match": 1071752,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "fffa76ff-0a00-5e39-844d-392722052b87",
                                     "victim_display_name": "Gon#PEPPE",
@@ -185092,7 +185092,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5488,
@@ -185113,7 +185113,7 @@
                                     "kill_time_in_round": 41947,
                                     "kill_time_in_match": 1075416,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                                     "victim_display_name": "YusuF0#002",
@@ -185152,7 +185152,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5743,
@@ -185167,7 +185167,7 @@
                                     "kill_time_in_round": 43523,
                                     "kill_time_in_match": 1076992,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                                     "victim_display_name": "dvkz#1717",
@@ -185196,7 +185196,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6010,
@@ -185333,7 +185333,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5619,
@@ -185463,7 +185463,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6168,
@@ -185670,7 +185670,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2365,
@@ -185825,7 +185825,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -185991,7 +185991,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3078,
@@ -186216,7 +186216,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6499,
@@ -186312,7 +186312,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -186470,7 +186470,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -186527,7 +186527,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -186556,7 +186556,7 @@
                                     "killer_display_name": "Gon#PEPPE",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6451,
@@ -186742,7 +186742,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 6231,
@@ -187146,7 +187146,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6201,
@@ -187250,7 +187250,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6248,
@@ -187334,7 +187334,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6454,
@@ -187461,7 +187461,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6901,
@@ -187578,7 +187578,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6857,
@@ -187634,7 +187634,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -187767,7 +187767,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6541,
@@ -187829,7 +187829,7 @@
                         },
                         "planted_by": {
                             "puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "display_name": "OXI13#1122",
+                            "display_name": "Nenroku#sen",
                             "team": "Blue"
                         },
                         "plant_site": "A",
@@ -187837,7 +187837,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5118,
@@ -187985,7 +187985,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5479,
@@ -188142,7 +188142,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3199,
@@ -188263,7 +188263,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -188329,7 +188329,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5469,
@@ -188373,7 +188373,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6607,
@@ -188532,7 +188532,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5451,
@@ -188688,7 +188688,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3046,
@@ -188798,7 +188798,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5194,
@@ -188844,7 +188844,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -188875,7 +188875,7 @@
                                     "kill_time_in_round": 25295,
                                     "kill_time_in_match": 1303314,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                                     "victim_display_name": "YusuF0#002",
@@ -188944,7 +188944,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5014,
@@ -188959,7 +188959,7 @@
                                     "kill_time_in_round": 71641,
                                     "kill_time_in_match": 1349660,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                                     "victim_display_name": "c0mrade#2242",
@@ -188978,7 +188978,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5099,
@@ -189134,7 +189134,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -189154,7 +189154,7 @@
                                     "killer_display_name": "Caroline Forbes#TR777",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1855,
@@ -189357,7 +189357,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3826,
@@ -189555,7 +189555,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3570,
@@ -189766,7 +189766,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3881,
@@ -189893,7 +189893,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3023,
@@ -189991,7 +189991,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -190133,7 +190133,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3122,
@@ -190291,7 +190291,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -190329,7 +190329,7 @@
                                     "killer_display_name": "Caroline Forbes#TR777",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5981,
@@ -191317,7 +191317,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -191472,7 +191472,7 @@
                         },
                         "planted_by": {
                             "puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "display_name": "OXI13#1122",
+                            "display_name": "Nenroku#sen",
                             "team": "Blue"
                         },
                         "plant_site": "B",
@@ -191510,7 +191510,7 @@
                             },
                             {
                                 "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                "player_display_name": "OXI13#1122",
+                                "player_display_name": "Nenroku#sen",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 7367,
@@ -191624,7 +191624,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5375,
@@ -191646,7 +191646,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "assistant_display_name": "OXI13#1122",
+                                            "assistant_display_name": "Nenroku#sen",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -191873,7 +191873,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2351,
@@ -191985,7 +191985,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -192051,7 +192051,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5214,
@@ -192085,7 +192085,7 @@
                                     "killer_display_name": "c0mrade#2242",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6246,
@@ -192381,7 +192381,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2769,
@@ -192465,7 +192465,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3901,
@@ -192527,7 +192527,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -192558,7 +192558,7 @@
                                     "kill_time_in_round": 63556,
                                     "kill_time_in_match": 1629946,
                                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "killer_display_name": "OXI13#1122",
+                                    "killer_display_name": "Nenroku#sen",
                                     "killer_team": "Blue",
                                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                                     "victim_display_name": "dvkz#1717",
@@ -192587,7 +192587,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6173,
@@ -192657,7 +192657,7 @@
                                 },
                                 {
                                     "receiver_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "receiver_display_name": "OXI13#1122",
+                                    "receiver_display_name": "Nenroku#sen",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -192743,7 +192743,7 @@
                                         },
                                         {
                                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                            "player_display_name": "OXI13#1122",
+                                            "player_display_name": "Nenroku#sen",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3821,
@@ -192777,7 +192777,7 @@
                                     "killer_display_name": "Gon#PEPPE",
                                     "killer_team": "Red",
                                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                                    "victim_display_name": "OXI13#1122",
+                                    "victim_display_name": "Nenroku#sen",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6361,
@@ -192859,7 +192859,7 @@
                     "killer_display_name": "Caroline Forbes#TR777",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8049,
@@ -193638,7 +193638,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8467,
@@ -193743,7 +193743,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7138,
@@ -193838,7 +193838,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5371,
@@ -193933,7 +193933,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5526,
@@ -193952,7 +193952,7 @@
                     "killer_display_name": "c0mrade#2242",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5556,
@@ -194178,7 +194178,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8032,
@@ -194283,7 +194283,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7518,
@@ -194384,7 +194384,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7503,
@@ -194469,7 +194469,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7561,
@@ -194498,7 +194498,7 @@
                     "killer_display_name": "YusuF0#002",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7646,
@@ -194778,7 +194778,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -194877,7 +194877,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9657,
@@ -194982,7 +194982,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9685,
@@ -195008,7 +195008,7 @@
                     "kill_time_in_match": 338580,
                     "round": 3,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "49fae4de-fd85-5698-b4b2-549a812f6824",
                     "victim_display_name": "Caroline Forbes#TR777",
@@ -195077,7 +195077,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9846,
@@ -195168,7 +195168,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9533,
@@ -195203,7 +195203,7 @@
                     "killer_display_name": "Gon#PEPPE",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9329,
@@ -195336,7 +195336,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -195435,7 +195435,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8469,
@@ -195540,7 +195540,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8334,
@@ -195641,7 +195641,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6976,
@@ -195726,7 +195726,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6835,
@@ -195752,7 +195752,7 @@
                     "kill_time_in_match": 421778,
                     "round": 4,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                     "victim_display_name": "dvkz#1717",
@@ -195801,7 +195801,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6109,
@@ -195876,7 +195876,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5274,
@@ -195981,7 +195981,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9918,
@@ -196086,7 +196086,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9642,
@@ -196191,7 +196191,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9725,
@@ -196276,7 +196276,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9813,
@@ -196351,7 +196351,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5567,
@@ -196416,7 +196416,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5340,
@@ -196482,7 +196482,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5247,
@@ -196593,7 +196593,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8514,
@@ -196698,7 +196698,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7769,
@@ -196799,7 +196799,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8631,
@@ -196884,7 +196884,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9726,
@@ -196910,7 +196910,7 @@
                     "kill_time_in_match": 574370,
                     "round": 6,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                     "victim_display_name": "YusuF0#002",
@@ -196959,7 +196959,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9833,
@@ -197034,7 +197034,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9833,
@@ -197139,7 +197139,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9210,
@@ -197161,7 +197161,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -197250,7 +197250,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8431,
@@ -197279,7 +197279,7 @@
                     "killer_display_name": "YusuF0#002",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8069,
@@ -197521,7 +197521,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8031,
@@ -197606,7 +197606,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8373,
@@ -197622,7 +197622,7 @@
                     "kill_time_in_match": 661946,
                     "round": 7,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                     "victim_display_name": "c0mrade#2242",
@@ -197671,7 +197671,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8363,
@@ -197687,7 +197687,7 @@
                     "kill_time_in_match": 667524,
                     "round": 7,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                     "victim_display_name": "YusuF0#002",
@@ -197726,7 +197726,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8645,
@@ -197847,7 +197847,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9667,
@@ -197952,7 +197952,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8560,
@@ -198047,7 +198047,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8446,
@@ -198138,7 +198138,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8543,
@@ -198160,7 +198160,7 @@
                     "kill_time_in_match": 748889,
                     "round": 8,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "49fae4de-fd85-5698-b4b2-549a812f6824",
                     "victim_display_name": "Caroline Forbes#TR777",
@@ -198219,7 +198219,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8600,
@@ -198290,7 +198290,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8572,
@@ -198307,7 +198307,7 @@
                         },
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -198356,7 +198356,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7447,
@@ -198368,7 +198368,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -198467,7 +198467,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8094,
@@ -198489,7 +198489,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -198499,7 +198499,7 @@
                     "kill_time_in_match": 820065,
                     "round": 9,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                     "victim_display_name": "c0mrade#2242",
@@ -198578,7 +198578,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6956,
@@ -198613,7 +198613,7 @@
                     "killer_display_name": "dvkz#1717",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6914,
@@ -198792,7 +198792,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -199086,7 +199086,7 @@
                     "killer_display_name": "Caroline Forbes#TR777",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9518,
@@ -199767,7 +199767,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 10899,
@@ -199872,7 +199872,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9051,
@@ -199967,7 +199967,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5619,
@@ -200052,7 +200052,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5599,
@@ -200078,7 +200078,7 @@
                     "kill_time_in_match": 1071752,
                     "round": 11,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "fffa76ff-0a00-5e39-844d-392722052b87",
                     "victim_display_name": "Gon#PEPPE",
@@ -200137,7 +200137,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5488,
@@ -200208,7 +200208,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5721,
@@ -200230,7 +200230,7 @@
                     "kill_time_in_match": 1075416,
                     "round": 11,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                     "victim_display_name": "YusuF0#002",
@@ -200269,7 +200269,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5743,
@@ -200285,7 +200285,7 @@
                     "kill_time_in_match": 1076992,
                     "round": 11,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                     "victim_display_name": "dvkz#1717",
@@ -200314,7 +200314,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6010,
@@ -200333,7 +200333,7 @@
                     "killer_display_name": "Caroline Forbes#TR777",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6221,
@@ -200460,7 +200460,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2365,
@@ -200565,7 +200565,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3078,
@@ -200660,7 +200660,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6499,
@@ -200689,7 +200689,7 @@
                     "killer_display_name": "Gon#PEPPE",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6451,
@@ -200842,7 +200842,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -201061,7 +201061,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6201,
@@ -201166,7 +201166,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6248,
@@ -201261,7 +201261,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6541,
@@ -201346,7 +201346,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6454,
@@ -201421,7 +201421,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6857,
@@ -201496,7 +201496,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6901,
@@ -201601,7 +201601,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3199,
@@ -201706,7 +201706,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3046,
@@ -201817,7 +201817,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5194,
@@ -201833,7 +201833,7 @@
                     "kill_time_in_match": 1303314,
                     "round": 14,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "3b1928e3-9acc-5cff-9e9e-2f736e3da1e9",
                     "victim_display_name": "YusuF0#002",
@@ -201902,7 +201902,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5014,
@@ -201977,7 +201977,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5479,
@@ -202042,7 +202042,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5469,
@@ -202097,7 +202097,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5451,
@@ -202142,7 +202142,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6607,
@@ -202158,7 +202158,7 @@
                     "kill_time_in_match": 1349660,
                     "round": 14,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "c7036a97-f4a1-5458-860a-81048896a381",
                     "victim_display_name": "c0mrade#2242",
@@ -202177,7 +202177,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5099,
@@ -202282,7 +202282,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3826,
@@ -202387,7 +202387,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3881,
@@ -202482,7 +202482,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3570,
@@ -202567,7 +202567,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3122,
@@ -202648,7 +202648,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3023,
@@ -202677,7 +202677,7 @@
                     "killer_display_name": "Caroline Forbes#TR777",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1855,
@@ -202797,7 +202797,7 @@
                     "killer_display_name": "Caroline Forbes#TR777",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5981,
@@ -203576,7 +203576,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2351,
@@ -203681,7 +203681,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2769,
@@ -203776,7 +203776,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3821,
@@ -203867,7 +203867,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3901,
@@ -203948,7 +203948,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5214,
@@ -203983,7 +203983,7 @@
                     "killer_display_name": "c0mrade#2242",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6246,
@@ -204084,7 +204084,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5375,
@@ -204106,7 +204106,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "assistant_display_name": "OXI13#1122",
+                            "assistant_display_name": "Nenroku#sen",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -204116,7 +204116,7 @@
                     "kill_time_in_match": 1629946,
                     "round": 17,
                     "killer_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "killer_display_name": "OXI13#1122",
+                    "killer_display_name": "Nenroku#sen",
                     "killer_team": "Blue",
                     "victim_puuid": "375574dd-05a4-5a6b-9097-b5a7e95203b5",
                     "victim_display_name": "dvkz#1717",
@@ -204145,7 +204145,7 @@
                         },
                         {
                             "player_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                            "player_display_name": "OXI13#1122",
+                            "player_display_name": "Nenroku#sen",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6173,
@@ -204174,7 +204174,7 @@
                     "killer_display_name": "Gon#PEPPE",
                     "killer_team": "Red",
                     "victim_puuid": "71af7527-4b3d-50c6-94ce-07ff04d7ddcc",
-                    "victim_display_name": "OXI13#1122",
+                    "victim_display_name": "Nenroku#sen",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6361,
