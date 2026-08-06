@@ -173122,7 +173122,7 @@
                     {
                         "puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
                         "name": "Perna",
-                        "tag": "Aizen",
+                        "tag": "Buse",
                         "team": "Red",
                         "level": 557,
                         "character": "Jett",
@@ -173489,7 +173489,7 @@
                     {
                         "puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
                         "name": "Perna",
-                        "tag": "Aizen",
+                        "tag": "Buse",
                         "team": "Red",
                         "level": 557,
                         "character": "Jett",
@@ -174114,7 +174114,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1640,
@@ -174208,7 +174208,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 737,
@@ -174406,7 +174406,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1543,
@@ -174708,7 +174708,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 771,
@@ -174764,7 +174764,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -174811,7 +174811,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -174858,7 +174858,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3874,
@@ -175488,7 +175488,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "assistant_display_name": "Perna#Aizen",
+                                            "assistant_display_name": "Perna#Buse",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -175580,7 +175580,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -176029,7 +176029,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -176067,7 +176067,7 @@
                                     "killer_display_name": "zeikosha#sccrw",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -223,
@@ -176504,7 +176504,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 932,
@@ -176594,7 +176594,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 6,
                                     "headshots": 0,
@@ -176659,7 +176659,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2988,
@@ -176707,7 +176707,7 @@
                                     "killer_display_name": "S4credR3lic#Fi0",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 215,
@@ -176912,7 +176912,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2756,
@@ -177010,7 +177010,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -177032,7 +177032,7 @@
                                     "kill_time_in_round": 36381,
                                     "kill_time_in_match": 269911,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                                     "victim_display_name": "zeikosha#sccrw",
@@ -177071,7 +177071,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2617,
@@ -177317,7 +177317,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 493,
@@ -177417,7 +177417,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1004,
@@ -177547,7 +177547,7 @@
                             },
                             {
                                 "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                "player_display_name": "Perna#Aizen",
+                                "player_display_name": "Perna#Buse",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2354,
@@ -177652,7 +177652,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -57,
@@ -177779,7 +177779,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 984,
@@ -177926,7 +177926,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1383,
@@ -178128,7 +178128,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -178168,7 +178168,7 @@
                                     "kill_time_in_round": 12602,
                                     "kill_time_in_match": 347797,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "a761b3dd-dd3d-5ab9-a5ca-eae89bdb19de",
                                     "victim_display_name": "Luksa#flex",
@@ -178227,7 +178227,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2011,
@@ -178262,7 +178262,7 @@
                                     "kill_time_in_round": 16618,
                                     "kill_time_in_match": 351813,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                                     "victim_display_name": "zeikosha#sccrw",
@@ -178321,7 +178321,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 427,
@@ -178336,7 +178336,7 @@
                                     "kill_time_in_round": 41951,
                                     "kill_time_in_match": 377146,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c51437f2-94e4-5ea2-a0ed-8aeaebe91cec",
                                     "victim_display_name": "FUT mepeezy#noun",
@@ -178375,7 +178375,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -113,
@@ -178511,7 +178511,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1247,
@@ -178929,7 +178929,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2843,
@@ -179099,7 +179099,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -179164,7 +179164,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -179230,7 +179230,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1344,
@@ -179314,7 +179314,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3545,
@@ -179362,7 +179362,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3545,
@@ -179587,7 +179587,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1369,
@@ -179977,7 +179977,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1535,
@@ -180150,7 +180150,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -404,
@@ -180333,7 +180333,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -180364,7 +180364,7 @@
                                     "kill_time_in_round": 20531,
                                     "kill_time_in_match": 532710,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c3b09f40-b0da-5b02-a8cf-bea5f780ca09",
                                     "victim_display_name": "S4credR3lic#Fi0",
@@ -180423,7 +180423,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2850,
@@ -180494,7 +180494,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -180532,7 +180532,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1988,
@@ -180768,7 +180768,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2632,
@@ -181126,7 +181126,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1471,
@@ -181403,7 +181403,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -181478,7 +181478,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -181564,7 +181564,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1651,
@@ -181705,7 +181705,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -181790,7 +181790,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2123,
@@ -181874,7 +181874,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1963,
@@ -181912,7 +181912,7 @@
                                     "killer_display_name": "zeikosha#sccrw",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1964,
@@ -182128,7 +182128,7 @@
                             },
                             {
                                 "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                "player_display_name": "Perna#Aizen",
+                                "player_display_name": "Perna#Buse",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1283,
@@ -182281,7 +182281,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2175,
@@ -182345,7 +182345,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -681,
@@ -182492,7 +182492,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2936,
@@ -182613,7 +182613,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -182689,7 +182689,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1342,
@@ -182763,7 +182763,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1021,
@@ -182791,7 +182791,7 @@
                                     "killer_display_name": "S4credR3lic#Fi0",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -823,
@@ -183006,7 +183006,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2119,
@@ -183078,7 +183078,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -183109,7 +183109,7 @@
                                     "kill_time_in_round": 28131,
                                     "kill_time_in_match": 775591,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "a7f2812d-afc2-5b54-b545-0ea312955ac0",
                                     "victim_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
@@ -183158,7 +183158,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -673,
@@ -183295,7 +183295,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2735,
@@ -183408,7 +183408,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -183490,7 +183490,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -183575,7 +183575,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1659,
@@ -183895,7 +183895,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1357,
@@ -184135,7 +184135,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -184166,7 +184166,7 @@
                                     "kill_time_in_round": 27136,
                                     "kill_time_in_match": 858341,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "a7f2812d-afc2-5b54-b545-0ea312955ac0",
                                     "victim_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
@@ -184225,7 +184225,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3575,
@@ -184260,7 +184260,7 @@
                                     "kill_time_in_round": 36665,
                                     "kill_time_in_match": 867870,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c51437f2-94e4-5ea2-a0ed-8aeaebe91cec",
                                     "victim_display_name": "FUT mepeezy#noun",
@@ -184299,7 +184299,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4871,
@@ -184458,7 +184458,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5518,
@@ -184544,7 +184544,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -184619,7 +184619,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3418,
@@ -184657,7 +184657,7 @@
                                     "killer_display_name": "zeikosha#sccrw",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5615,
@@ -184789,7 +184789,7 @@
                             },
                             {
                                 "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                "player_display_name": "Perna#Aizen",
+                                "player_display_name": "Perna#Buse",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1211,
@@ -184866,7 +184866,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -184942,7 +184942,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2497,
@@ -185141,7 +185141,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1838,
@@ -185465,7 +185465,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 163,
@@ -185539,7 +185539,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3033,
@@ -185595,7 +185595,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -185693,7 +185693,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -185788,7 +185788,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1885,
@@ -185826,7 +185826,7 @@
                                     "killer_display_name": "Luksa#flex",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1365,
@@ -186078,7 +186078,7 @@
                             },
                             {
                                 "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                "player_display_name": "Perna#Aizen",
+                                "player_display_name": "Perna#Buse",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -3458,
@@ -186265,7 +186265,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2562,
@@ -186661,7 +186661,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3249,
@@ -186777,7 +186777,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -186799,7 +186799,7 @@
                                     "kill_time_in_round": 13232,
                                     "kill_time_in_match": 1026196,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                                     "victim_display_name": "zeikosha#sccrw",
@@ -186868,7 +186868,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2966,
@@ -186948,7 +186948,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -187042,7 +187042,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2675,
@@ -187070,7 +187070,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2620,
@@ -187240,7 +187240,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -187643,7 +187643,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 145,
@@ -188197,7 +188197,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -188328,7 +188328,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -188348,7 +188348,7 @@
                                     "killer_display_name": "zeikosha#sccrw",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1454,
@@ -189260,7 +189260,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -189307,7 +189307,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -189327,7 +189327,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2139,
@@ -190076,7 +190076,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4990,
@@ -190284,7 +190284,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5115,
@@ -190444,7 +190444,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -190491,7 +190491,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -190520,7 +190520,7 @@
                                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5506,
@@ -190895,7 +190895,7 @@
                             },
                             {
                                 "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                "player_display_name": "Perna#Aizen",
+                                "player_display_name": "Perna#Buse",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1259,
@@ -190972,7 +190972,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -191028,7 +191028,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2083,
@@ -191092,7 +191092,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2561,
@@ -191120,7 +191120,7 @@
                                     "killer_display_name": "FUT mepeezy#noun",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2243,
@@ -191294,7 +191294,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3926,
@@ -191525,7 +191525,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2624,
@@ -191633,7 +191633,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -191664,7 +191664,7 @@
                                     "kill_time_in_round": 37346,
                                     "kill_time_in_match": 1363167,
                                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "killer_display_name": "Perna#Aizen",
+                                    "killer_display_name": "Perna#Buse",
                                     "killer_team": "Red",
                                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                                     "victim_display_name": "zeikosha#sccrw",
@@ -191703,7 +191703,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2219,
@@ -191773,7 +191773,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -191849,7 +191849,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4658,
@@ -191981,7 +191981,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -192047,7 +192047,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4043,
@@ -192207,7 +192207,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -192236,7 +192236,7 @@
                                     "killer_display_name": "FUT mepeezy#noun",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 330,
@@ -192757,7 +192757,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -192983,7 +192983,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1983,
@@ -193087,7 +193087,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 342,
@@ -193524,7 +193524,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1029,
@@ -193628,7 +193628,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2422,
@@ -193867,7 +193867,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -194009,7 +194009,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1195,
@@ -194099,7 +194099,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -194128,7 +194128,7 @@
                                     "killer_display_name": "Luksa#flex",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "victim_display_name": "Perna#Aizen",
+                                    "victim_display_name": "Perna#Buse",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1540,
@@ -194304,7 +194304,7 @@
                                 },
                                 {
                                     "receiver_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                    "receiver_display_name": "Perna#Aizen",
+                                    "receiver_display_name": "Perna#Buse",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -194379,7 +194379,7 @@
                                         },
                                         {
                                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                                            "player_display_name": "Perna#Aizen",
+                                            "player_display_name": "Perna#Buse",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2533,
@@ -194515,7 +194515,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1543,
@@ -194630,7 +194630,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1640,
@@ -194735,7 +194735,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 771,
@@ -194820,7 +194820,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 737,
@@ -194849,7 +194849,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3874,
@@ -195124,7 +195124,7 @@
                     "killer_display_name": "zeikosha#sccrw",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -223,
@@ -195517,7 +195517,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "assistant_display_name": "Perna#Aizen",
+                            "assistant_display_name": "Perna#Buse",
                             "assistant_team": "Red"
                         },
                         {
@@ -195758,7 +195758,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 932,
@@ -195863,7 +195863,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 493,
@@ -195964,7 +195964,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -1004,
@@ -196049,7 +196049,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2988,
@@ -196095,7 +196095,7 @@
                     "kill_time_in_match": 269911,
                     "round": 2,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                     "victim_display_name": "zeikosha#sccrw",
@@ -196134,7 +196134,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2617,
@@ -196215,7 +196215,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2756,
@@ -196244,7 +196244,7 @@
                     "killer_display_name": "S4credR3lic#Fi0",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 215,
@@ -196410,7 +196410,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1383,
@@ -196515,7 +196515,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1247,
@@ -196561,7 +196561,7 @@
                     "kill_time_in_match": 347797,
                     "round": 3,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "a761b3dd-dd3d-5ab9-a5ca-eae89bdb19de",
                     "victim_display_name": "Luksa#flex",
@@ -196620,7 +196620,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 2011,
@@ -196715,7 +196715,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 984,
@@ -196741,7 +196741,7 @@
                     "kill_time_in_match": 351813,
                     "round": 3,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                     "victim_display_name": "zeikosha#sccrw",
@@ -196800,7 +196800,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 427,
@@ -196865,7 +196865,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -57,
@@ -196881,7 +196881,7 @@
                     "kill_time_in_match": 377146,
                     "round": 3,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c51437f2-94e4-5ea2-a0ed-8aeaebe91cec",
                     "victim_display_name": "FUT mepeezy#noun",
@@ -196920,7 +196920,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -113,
@@ -197005,7 +197005,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 2843,
@@ -197110,7 +197110,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1369,
@@ -197205,7 +197205,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1344,
@@ -197290,7 +197290,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 3545,
@@ -197339,7 +197339,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3545,
@@ -197490,7 +197490,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -404,
@@ -197595,7 +197595,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -1535,
@@ -197637,7 +197637,7 @@
                     "kill_time_in_match": 532710,
                     "round": 5,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c3b09f40-b0da-5b02-a8cf-bea5f780ca09",
                     "victim_display_name": "S4credR3lic#Fi0",
@@ -197696,7 +197696,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2850,
@@ -197781,7 +197781,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2632,
@@ -197820,7 +197820,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1988,
@@ -198126,7 +198126,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1651,
@@ -198241,7 +198241,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1471,
@@ -198336,7 +198336,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 2123,
@@ -198421,7 +198421,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1963,
@@ -198460,7 +198460,7 @@
                     "killer_display_name": "zeikosha#sccrw",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1964,
@@ -198737,7 +198737,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2119,
@@ -198858,7 +198858,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2936,
@@ -198953,7 +198953,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2735,
@@ -199038,7 +199038,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2175,
@@ -199123,7 +199123,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -1342,
@@ -199198,7 +199198,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -1021,
@@ -199224,7 +199224,7 @@
                     "kill_time_in_match": 775591,
                     "round": 7,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "a7f2812d-afc2-5b54-b545-0ea312955ac0",
                     "victim_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
@@ -199273,7 +199273,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -673,
@@ -199328,7 +199328,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -681,
@@ -199347,7 +199347,7 @@
                     "killer_display_name": "S4credR3lic#Fi0",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -823,
@@ -199458,7 +199458,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1357,
@@ -199563,7 +199563,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1659,
@@ -199609,7 +199609,7 @@
                     "kill_time_in_match": 858341,
                     "round": 8,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "a7f2812d-afc2-5b54-b545-0ea312955ac0",
                     "victim_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
@@ -199668,7 +199668,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 3575,
@@ -199753,7 +199753,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 3418,
@@ -199789,7 +199789,7 @@
                     "kill_time_in_match": 867870,
                     "round": 8,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c51437f2-94e4-5ea2-a0ed-8aeaebe91cec",
                     "victim_display_name": "FUT mepeezy#noun",
@@ -199828,7 +199828,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 4871,
@@ -199893,7 +199893,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 5518,
@@ -199938,7 +199938,7 @@
                     "killer_display_name": "zeikosha#sccrw",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5615,
@@ -200200,7 +200200,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1838,
@@ -200305,7 +200305,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1885,
@@ -200410,7 +200410,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 163,
@@ -200495,7 +200495,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2497,
@@ -200570,7 +200570,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -3033,
@@ -200599,7 +200599,7 @@
                     "killer_display_name": "Luksa#flex",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1365,
@@ -200830,7 +200830,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2562,
@@ -200876,7 +200876,7 @@
                     "kill_time_in_match": 1026196,
                     "round": 10,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                     "victim_display_name": "zeikosha#sccrw",
@@ -200945,7 +200945,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2966,
@@ -201050,7 +201050,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -3249,
@@ -201141,7 +201141,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2675,
@@ -201170,7 +201170,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2620,
@@ -201442,7 +201442,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 145,
@@ -201491,7 +201491,7 @@
                     "killer_display_name": "zeikosha#sccrw",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1454,
@@ -201977,7 +201977,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2139,
@@ -202644,7 +202644,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 4990,
@@ -202749,7 +202749,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 5115,
@@ -202798,7 +202798,7 @@
                     "killer_display_name": "S\u00f1\u03b1ps\u03c4\u1eb9r#MeowW",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5506,
@@ -203296,7 +203296,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 3926,
@@ -203401,7 +203401,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 4658,
@@ -203496,7 +203496,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 4043,
@@ -203591,7 +203591,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 2624,
@@ -203666,7 +203666,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 2083,
@@ -203702,7 +203702,7 @@
                     "kill_time_in_match": 1363167,
                     "round": 14,
                     "killer_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "killer_display_name": "Perna#Aizen",
+                    "killer_display_name": "Perna#Buse",
                     "killer_team": "Red",
                     "victim_puuid": "c8ebc47e-6cb9-5397-bea0-a80e59b664b0",
                     "victim_display_name": "zeikosha#sccrw",
@@ -203741,7 +203741,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2219,
@@ -203796,7 +203796,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2561,
@@ -203825,7 +203825,7 @@
                     "killer_display_name": "FUT mepeezy#noun",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2243,
@@ -203947,7 +203947,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1983,
@@ -204052,7 +204052,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 342,
@@ -204101,7 +204101,7 @@
                     "killer_display_name": "FUT mepeezy#noun",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 330,
@@ -204422,7 +204422,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1195,
@@ -204527,7 +204527,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": 1029,
@@ -204632,7 +204632,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2422,
@@ -204717,7 +204717,7 @@
                         },
                         {
                             "player_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                            "player_display_name": "Perna#Aizen",
+                            "player_display_name": "Perna#Buse",
                             "player_team": "Red",
                             "location": {
                                 "x": -2533,
@@ -204756,7 +204756,7 @@
                     "killer_display_name": "Luksa#flex",
                     "killer_team": "Blue",
                     "victim_puuid": "0572294d-b18f-5628-b015-038fc3a4cb20",
-                    "victim_display_name": "Perna#Aizen",
+                    "victim_display_name": "Perna#Buse",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1540,
