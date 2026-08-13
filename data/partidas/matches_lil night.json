@@ -538,8 +538,8 @@
                     },
                     {
                         "puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                        "name": "noahxaxa",
-                        "tag": "1337",
+                        "name": "kaneki",
+                        "tag": "xaxa",
                         "team": "Red",
                         "level": 697,
                         "character": "Clove",
@@ -978,8 +978,8 @@
                     },
                     {
                         "puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                        "name": "noahxaxa",
-                        "tag": "1337",
+                        "name": "kaneki",
+                        "tag": "xaxa",
                         "team": "Red",
                         "level": 697,
                         "character": "Clove",
@@ -1528,7 +1528,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1132,
@@ -1747,7 +1747,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2142,
@@ -1838,7 +1838,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -1945,7 +1945,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -2076,7 +2076,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2265,
@@ -2176,7 +2176,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2219,
@@ -2208,7 +2208,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2246,7 +2246,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2228,
@@ -2402,7 +2402,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2188,
@@ -2564,7 +2564,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2170,
@@ -2628,7 +2628,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2641,
@@ -2660,7 +2660,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -2806,7 +2806,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6703,
@@ -3036,7 +3036,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7380,
@@ -3174,7 +3174,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3240,7 +3240,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7727,
@@ -3306,7 +3306,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3346,7 +3346,7 @@
                                     "kill_time_in_round": 31901,
                                     "kill_time_in_match": 155040,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -3375,7 +3375,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7357,
@@ -3410,7 +3410,7 @@
                                     "kill_time_in_round": 35190,
                                     "kill_time_in_match": 158329,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                                     "victim_display_name": "Asth#1of1",
@@ -3439,7 +3439,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7500,
@@ -3460,7 +3460,7 @@
                                     "kill_time_in_round": 37259,
                                     "kill_time_in_match": 160398,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "bc76645c-b4c1-59d7-8fe5-39d42ef44d24",
                                     "victim_display_name": "E6YSPERV01#SOSY",
@@ -3479,7 +3479,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7374,
@@ -3615,7 +3615,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6408,
@@ -3699,7 +3699,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7336,
@@ -3834,7 +3834,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7486,
@@ -4034,7 +4034,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5765,
@@ -4311,7 +4311,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2072,
@@ -4760,7 +4760,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4902,7 +4902,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2102,
@@ -5049,7 +5049,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2325,
@@ -5205,7 +5205,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2567,
@@ -5302,7 +5302,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -5347,7 +5347,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -5367,7 +5367,7 @@
                                     "killer_display_name": "No renuncio a M#melom",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2570,
@@ -5493,7 +5493,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -720,
@@ -5638,7 +5638,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -656,
@@ -5752,7 +5752,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -656,
@@ -5888,7 +5888,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2458,
@@ -6092,7 +6092,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1291,
@@ -6169,7 +6169,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -6225,7 +6225,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6247,7 +6247,7 @@
                                     "kill_time_in_round": 22588,
                                     "kill_time_in_match": 316768,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -6276,7 +6276,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2405,
@@ -6428,7 +6428,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2531,
@@ -6684,7 +6684,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6086,
@@ -6960,7 +6960,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4817,
@@ -7064,7 +7064,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4912,
@@ -7106,7 +7106,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -7422,7 +7422,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7615,7 +7615,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -7653,7 +7653,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4795,
@@ -7947,7 +7947,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6307,
@@ -8716,7 +8716,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -8736,7 +8736,7 @@
                                     "killer_display_name": "iHaveNoEnemies#peak",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1191,
@@ -8926,7 +8926,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -9473,7 +9473,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -270,
@@ -9617,7 +9617,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1343,
@@ -9731,7 +9731,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2666,
@@ -9778,7 +9778,7 @@
                                         },
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -9826,7 +9826,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1946,
@@ -9868,7 +9868,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -9979,7 +9979,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2836,
@@ -10206,7 +10206,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10319,7 +10319,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1828,
@@ -10575,7 +10575,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6255,
@@ -10731,7 +10731,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6860,
@@ -10896,7 +10896,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -10985,7 +10985,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11007,7 +11007,7 @@
                                     "kill_time_in_round": 51202,
                                     "kill_time_in_match": 681871,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -11046,7 +11046,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6907,
@@ -11202,7 +11202,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6907,
@@ -11276,7 +11276,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6907,
@@ -11433,7 +11433,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7012,
@@ -11560,7 +11560,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6772,
@@ -11815,7 +11815,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -11891,7 +11891,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7320,
@@ -11985,7 +11985,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 449,
@@ -12019,7 +12019,7 @@
                                     "killer_display_name": "E6YSPERV01#SOSY",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1053,
@@ -12161,7 +12161,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7119,
@@ -12265,7 +12265,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5115,
@@ -12362,7 +12362,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -12409,7 +12409,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12449,7 +12449,7 @@
                                     "kill_time_in_round": 31155,
                                     "kill_time_in_match": 751170,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                                     "victim_display_name": "Asth#1of1",
@@ -12488,7 +12488,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 810,
@@ -12503,7 +12503,7 @@
                                     "kill_time_in_round": 32978,
                                     "kill_time_in_match": 752993,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -12532,7 +12532,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 855,
@@ -12658,7 +12658,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4407,
@@ -12742,7 +12742,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3808,
@@ -12832,7 +12832,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -12897,7 +12897,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3016,
@@ -12941,7 +12941,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 441,
@@ -13229,7 +13229,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7256,
@@ -13406,7 +13406,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6280,
@@ -13438,7 +13438,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -13737,7 +13737,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -13784,7 +13784,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13892,7 +13892,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -13958,7 +13958,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6223,
@@ -14006,7 +14006,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6253,
@@ -14237,7 +14237,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6115,
@@ -14449,7 +14449,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -14469,7 +14469,7 @@
                                     "killer_display_name": "E6YSPERV01#SOSY",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1369,
@@ -14704,7 +14704,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2292,
@@ -14790,7 +14790,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -14812,7 +14812,7 @@
                                     "kill_time_in_round": 36773,
                                     "kill_time_in_match": 886255,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -14861,7 +14861,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1910,
@@ -15257,7 +15257,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1162,
@@ -15424,7 +15424,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2273,
@@ -15766,7 +15766,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2703,
@@ -16268,7 +16268,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16443,7 +16443,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2745,
@@ -16720,7 +16720,7 @@
                                         },
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -16774,7 +16774,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 3,
@@ -16859,7 +16859,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2978,
@@ -16907,7 +16907,7 @@
                                     "killer_display_name": "No renuncio a M#melom",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2828,
@@ -17187,7 +17187,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2253,
@@ -17640,7 +17640,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -17758,7 +17758,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -17796,7 +17796,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -695,
@@ -18255,7 +18255,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2413,
@@ -18419,7 +18419,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2413,
@@ -18523,7 +18523,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2413,
@@ -18796,7 +18796,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -18862,7 +18862,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2413,
@@ -18952,7 +18952,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2413,
@@ -19006,7 +19006,7 @@
                                     "killer_display_name": "iHaveNoEnemies#peak",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1571,
@@ -19146,7 +19146,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -19319,7 +19319,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 49,
@@ -19581,7 +19581,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1942,
@@ -19845,7 +19845,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19885,7 +19885,7 @@
                                     "kill_time_in_round": 39592,
                                     "kill_time_in_match": 1241946,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -19934,7 +19934,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2342,
@@ -19989,7 +19989,7 @@
                                     "kill_time_in_round": 56285,
                                     "kill_time_in_match": 1258639,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "cdde4071-0f5c-5a06-89bc-2cdbcf029f4f",
                                     "victim_display_name": "No renuncio a M#melom",
@@ -20018,7 +20018,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -912,
@@ -20059,7 +20059,7 @@
                                     "kill_time_in_round": 58291,
                                     "kill_time_in_match": 1260645,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                                     "victim_display_name": "Asth#1of1",
@@ -20088,7 +20088,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1065,
@@ -20220,7 +20220,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1362,
@@ -20357,7 +20357,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -632,
@@ -20526,7 +20526,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 112,
@@ -20672,7 +20672,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 328,
@@ -20853,7 +20853,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20873,7 +20873,7 @@
                                     "killer_display_name": "E6YSPERV01#SOSY",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2433,
@@ -21014,7 +21014,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -21090,7 +21090,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1923,
@@ -21299,7 +21299,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21321,7 +21321,7 @@
                                     "kill_time_in_round": 35877,
                                     "kill_time_in_match": 1333531,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -21370,7 +21370,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1222,
@@ -21771,7 +21771,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2202,
@@ -22337,7 +22337,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -22375,7 +22375,7 @@
                                     "killer_display_name": "4747#44444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4186,
@@ -22647,7 +22647,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -22770,7 +22770,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4117,
@@ -23351,7 +23351,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -23708,7 +23708,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -23728,7 +23728,7 @@
                                     "killer_display_name": "iHaveNoEnemies#peak",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2626,
@@ -23902,7 +23902,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24310,7 +24310,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2667,
@@ -24576,7 +24576,7 @@
                             },
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 505,
@@ -24702,7 +24702,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 592,
@@ -24870,7 +24870,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 550,
@@ -24927,7 +24927,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24947,7 +24947,7 @@
                                     "killer_display_name": "E6YSPERV01#SOSY",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2056,
@@ -25105,7 +25105,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 417,
@@ -25189,7 +25189,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 540,
@@ -25255,7 +25255,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -25302,7 +25302,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -25342,7 +25342,7 @@
                                     "kill_time_in_round": 36442,
                                     "kill_time_in_match": 1643022,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                                     "victim_display_name": "4747#44444",
@@ -25381,7 +25381,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 384,
@@ -25396,7 +25396,7 @@
                                     "kill_time_in_round": 58198,
                                     "kill_time_in_match": 1664778,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -25425,7 +25425,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2417,
@@ -25632,7 +25632,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 514,
@@ -25726,7 +25726,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 693,
@@ -26105,7 +26105,7 @@
                                         },
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -26163,7 +26163,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4712,
@@ -26267,7 +26267,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4712,
@@ -26341,7 +26341,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4803,
@@ -26506,7 +26506,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -26526,7 +26526,7 @@
                                     "killer_display_name": "4747#44444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4432,
@@ -26668,7 +26668,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -26823,7 +26823,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -26966,7 +26966,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4797,
@@ -27112,7 +27112,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4712,
@@ -27312,7 +27312,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2713,
@@ -27544,7 +27544,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -27575,7 +27575,7 @@
                                     "kill_time_in_round": 41392,
                                     "kill_time_in_match": 1817576,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                                     "victim_display_name": "Asth#1of1",
@@ -27624,7 +27624,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3099,
@@ -27669,7 +27669,7 @@
                                     "kill_time_in_round": 52532,
                                     "kill_time_in_match": 1828716,
                                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "killer_display_name": "noahxaxa#1337",
+                                    "killer_display_name": "kaneki#xaxa",
                                     "killer_team": "Red",
                                     "victim_puuid": "cdde4071-0f5c-5a06-89bc-2cdbcf029f4f",
                                     "victim_display_name": "No renuncio a M#melom",
@@ -27708,7 +27708,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2578,
@@ -27855,7 +27855,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1026,
@@ -27907,7 +27907,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -28060,7 +28060,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1026,
@@ -28112,7 +28112,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -28157,7 +28157,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -28227,7 +28227,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                "player_display_name": "noahxaxa#1337",
+                                "player_display_name": "kaneki#xaxa",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5277,
@@ -28471,7 +28471,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1716,
@@ -28575,7 +28575,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3264,
@@ -28787,7 +28787,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -28898,7 +28898,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4151,
@@ -28950,7 +28950,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "assistant_display_name": "noahxaxa#1337",
+                                            "assistant_display_name": "kaneki#xaxa",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -29048,7 +29048,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -29057,7 +29057,7 @@
                                 },
                                 {
                                     "receiver_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "receiver_display_name": "noahxaxa#1337",
+                                    "receiver_display_name": "kaneki#xaxa",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -29103,7 +29103,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4111,
@@ -29161,7 +29161,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7076,
@@ -29231,7 +29231,7 @@
                                     "killer_display_name": "Asth#1of1",
                                     "killer_team": "Blue",
                                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                    "victim_display_name": "noahxaxa#1337",
+                                    "victim_display_name": "kaneki#xaxa",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7246,
@@ -29497,7 +29497,7 @@
                                         },
                                         {
                                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                                            "player_display_name": "noahxaxa#1337",
+                                            "player_display_name": "kaneki#xaxa",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4237,
@@ -29643,7 +29643,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2188,
@@ -29754,7 +29754,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2142,
@@ -29849,7 +29849,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2265,
@@ -29950,7 +29950,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2170,
@@ -30035,7 +30035,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2219,
@@ -30067,7 +30067,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -30106,7 +30106,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2228,
@@ -30161,7 +30161,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2641,
@@ -30193,7 +30193,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -30262,7 +30262,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 5765,
@@ -30377,7 +30377,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6408,
@@ -30482,7 +30482,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7380,
@@ -30573,7 +30573,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7727,
@@ -30648,7 +30648,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7336,
@@ -30684,7 +30684,7 @@
                     "kill_time_in_match": 155040,
                     "round": 1,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -30713,7 +30713,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7357,
@@ -30778,7 +30778,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7486,
@@ -30815,7 +30815,7 @@
                     "kill_time_in_match": 158329,
                     "round": 1,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                     "victim_display_name": "Asth#1of1",
@@ -30844,7 +30844,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7500,
@@ -30866,7 +30866,7 @@
                     "kill_time_in_match": 160398,
                     "round": 1,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "bc76645c-b4c1-59d7-8fe5-39d42ef44d24",
                     "victim_display_name": "E6YSPERV01#SOSY",
@@ -30885,7 +30885,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7374,
@@ -30960,7 +30960,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2102,
@@ -31065,7 +31065,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2072,
@@ -31160,7 +31160,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2325,
@@ -31255,7 +31255,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2567,
@@ -31315,7 +31315,7 @@
                     "killer_display_name": "No renuncio a M#melom",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2570,
@@ -31629,7 +31629,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -31708,7 +31708,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -656,
@@ -31823,7 +31823,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -656,
@@ -31918,7 +31918,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1291,
@@ -32009,7 +32009,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2531,
@@ -32084,7 +32084,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2458,
@@ -32126,7 +32126,7 @@
                     "kill_time_in_match": 316768,
                     "round": 3,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -32155,7 +32155,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2405,
@@ -32256,7 +32256,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6307,
@@ -32361,7 +32361,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4817,
@@ -32466,7 +32466,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4912,
@@ -32508,7 +32508,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -32521,7 +32521,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4795,
@@ -33020,7 +33020,7 @@
                     "killer_display_name": "iHaveNoEnemies#peak",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1191,
@@ -33740,7 +33740,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1343,
@@ -33855,7 +33855,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2666,
@@ -33902,7 +33902,7 @@
                         },
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -33961,7 +33961,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2836,
@@ -34052,7 +34052,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1946,
@@ -34094,7 +34094,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -34143,7 +34143,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1828,
@@ -34248,7 +34248,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6860,
@@ -34353,7 +34353,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7012,
@@ -34448,7 +34448,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6907,
@@ -34494,7 +34494,7 @@
                     "kill_time_in_match": 681871,
                     "round": 7,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -34533,7 +34533,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6907,
@@ -34608,7 +34608,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6907,
@@ -34683,7 +34683,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6772,
@@ -34778,7 +34778,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7320,
@@ -34883,7 +34883,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7119,
@@ -34988,7 +34988,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 5115,
@@ -35099,7 +35099,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4407,
@@ -35184,7 +35184,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 3808,
@@ -35269,7 +35269,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 3016,
@@ -35314,7 +35314,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 441,
@@ -35415,7 +35415,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 449,
@@ -35447,7 +35447,7 @@
                     "kill_time_in_match": 751170,
                     "round": 8,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                     "victim_display_name": "Asth#1of1",
@@ -35486,7 +35486,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 810,
@@ -35502,7 +35502,7 @@
                     "kill_time_in_match": 752993,
                     "round": 8,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -35531,7 +35531,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 855,
@@ -35550,7 +35550,7 @@
                     "killer_display_name": "E6YSPERV01#SOSY",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1053,
@@ -35641,7 +35641,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 7256,
@@ -35757,7 +35757,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6115,
@@ -35868,7 +35868,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6223,
@@ -35963,7 +35963,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 6280,
@@ -35995,7 +35995,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36008,7 +36008,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6253,
@@ -36277,7 +36277,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2292,
@@ -36333,7 +36333,7 @@
                     "kill_time_in_match": 886255,
                     "round": 10,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -36382,7 +36382,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1910,
@@ -36487,7 +36487,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2273,
@@ -36582,7 +36582,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1162,
@@ -36642,7 +36642,7 @@
                     "killer_display_name": "E6YSPERV01#SOSY",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1369,
@@ -37070,7 +37070,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2745,
@@ -37185,7 +37185,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2978,
@@ -37234,7 +37234,7 @@
                     "killer_display_name": "No renuncio a M#melom",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2828,
@@ -37487,7 +37487,7 @@
                         },
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -37676,7 +37676,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2253,
@@ -37735,7 +37735,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -695,
@@ -38287,7 +38287,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2413,
@@ -38392,7 +38392,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2413,
@@ -38487,7 +38487,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2413,
@@ -38578,7 +38578,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2413,
@@ -38669,7 +38669,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 49,
@@ -38708,7 +38708,7 @@
                     "killer_display_name": "iHaveNoEnemies#peak",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1571,
@@ -38896,7 +38896,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 1942,
@@ -38952,7 +38952,7 @@
                     "kill_time_in_match": 1241946,
                     "round": 14,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -39001,7 +39001,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2342,
@@ -39096,7 +39096,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 1362,
@@ -39181,7 +39181,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 112,
@@ -39272,7 +39272,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -632,
@@ -39318,7 +39318,7 @@
                     "kill_time_in_match": 1258639,
                     "round": 14,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "cdde4071-0f5c-5a06-89bc-2cdbcf029f4f",
                     "victim_display_name": "No renuncio a M#melom",
@@ -39347,7 +39347,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -912,
@@ -39389,7 +39389,7 @@
                     "kill_time_in_match": 1260645,
                     "round": 14,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                     "victim_display_name": "Asth#1of1",
@@ -39418,7 +39418,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1065,
@@ -39509,7 +39509,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2202,
@@ -39624,7 +39624,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 1923,
@@ -39670,7 +39670,7 @@
                     "kill_time_in_match": 1333531,
                     "round": 15,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -39719,7 +39719,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1222,
@@ -39768,7 +39768,7 @@
                     "killer_display_name": "E6YSPERV01#SOSY",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2433,
@@ -40122,7 +40122,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4117,
@@ -40181,7 +40181,7 @@
                     "killer_display_name": "4747#44444",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4186,
@@ -40780,7 +40780,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 2667,
@@ -40839,7 +40839,7 @@
                     "killer_display_name": "iHaveNoEnemies#peak",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2626,
@@ -41032,7 +41032,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -41523,7 +41523,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 592,
@@ -41649,7 +41649,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 514,
@@ -41744,7 +41744,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 417,
@@ -41839,7 +41839,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 693,
@@ -41935,7 +41935,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 550,
@@ -42006,7 +42006,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 540,
@@ -42028,7 +42028,7 @@
                     "kill_time_in_match": 1643022,
                     "round": 18,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "65d8bedf-c1fd-599f-a45b-ab8300b5ce37",
                     "victim_display_name": "4747#44444",
@@ -42067,7 +42067,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 384,
@@ -42083,7 +42083,7 @@
                     "kill_time_in_match": 1664778,
                     "round": 18,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "94760753-095a-579e-912e-2194afd7975c",
                     "victim_display_name": "iHaveNoEnemies#peak",
@@ -42112,7 +42112,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2417,
@@ -42131,7 +42131,7 @@
                     "killer_display_name": "E6YSPERV01#SOSY",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2056,
@@ -42172,7 +42172,7 @@
                     "killer_display_name": "4747#44444",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4432,
@@ -42390,7 +42390,7 @@
                         },
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -42491,7 +42491,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -42550,7 +42550,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4712,
@@ -42655,7 +42655,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4712,
@@ -42740,7 +42740,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4712,
@@ -42815,7 +42815,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4797,
@@ -42890,7 +42890,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4803,
@@ -42985,7 +42985,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1026,
@@ -43037,7 +43037,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -43096,7 +43096,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -1026,
@@ -43148,7 +43148,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -43158,7 +43158,7 @@
                     "kill_time_in_match": 1817576,
                     "round": 20,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "28f7a202-cf96-54d2-bc97-9669a48cc638",
                     "victim_display_name": "Asth#1of1",
@@ -43207,7 +43207,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -3099,
@@ -43292,7 +43292,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2713,
@@ -43338,7 +43338,7 @@
                     "kill_time_in_match": 1828716,
                     "round": 20,
                     "killer_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "killer_display_name": "noahxaxa#1337",
+                    "killer_display_name": "kaneki#xaxa",
                     "killer_team": "Red",
                     "victim_puuid": "cdde4071-0f5c-5a06-89bc-2cdbcf029f4f",
                     "victim_display_name": "No renuncio a M#melom",
@@ -43377,7 +43377,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": -2578,
@@ -43472,7 +43472,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 1716,
@@ -43577,7 +43577,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 3264,
@@ -43672,7 +43672,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4237,
@@ -43757,7 +43757,7 @@
                         },
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4111,
@@ -43832,7 +43832,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "player_display_name": "noahxaxa#1337",
+                            "player_display_name": "kaneki#xaxa",
                             "player_team": "Red",
                             "location": {
                                 "x": 4151,
@@ -43884,7 +43884,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                            "assistant_display_name": "noahxaxa#1337",
+                            "assistant_display_name": "kaneki#xaxa",
                             "assistant_team": "Red"
                         }
                     ]
@@ -43897,7 +43897,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7076,
@@ -43968,7 +43968,7 @@
                     "killer_display_name": "Asth#1of1",
                     "killer_team": "Blue",
                     "victim_puuid": "7d06fa91-2e99-50aa-91eb-eb17e165a7b6",
-                    "victim_display_name": "noahxaxa#1337",
+                    "victim_display_name": "kaneki#xaxa",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7246,
