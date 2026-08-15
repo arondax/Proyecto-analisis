@@ -43707,8 +43707,8 @@
                     },
                     {
                         "puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                        "name": "laser",
-                        "tag": "1of1",
+                        "name": "icarus",
+                        "tag": "laser",
                         "team": "Blue",
                         "level": 462,
                         "character": "Jett",
@@ -44587,8 +44587,8 @@
                     },
                     {
                         "puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                        "name": "laser",
-                        "tag": "1of1",
+                        "name": "icarus",
+                        "tag": "laser",
                         "team": "Blue",
                         "level": 462,
                         "character": "Jett",
@@ -44933,7 +44933,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -44971,7 +44971,7 @@
                                     "killer_display_name": "VASQUEZ#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8614,
@@ -45431,7 +45431,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8309,
@@ -45660,7 +45660,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -46567,7 +46567,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 6,
                                     "headshots": 1,
@@ -46587,7 +46587,7 @@
                                     "killer_display_name": "K\u00e2i Ru#nstop",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7449,
@@ -46816,7 +46816,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6759,
@@ -46892,7 +46892,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -47700,7 +47700,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -47731,7 +47731,7 @@
                                     "kill_time_in_round": 5996,
                                     "kill_time_in_match": 219660,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                                     "victim_display_name": "VASQUEZ#0000",
@@ -47790,7 +47790,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5803,
@@ -47835,7 +47835,7 @@
                                     "kill_time_in_round": 7719,
                                     "kill_time_in_match": 221383,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -47894,7 +47894,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5319,
@@ -48016,7 +48016,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -48102,7 +48102,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5817,
@@ -48150,7 +48150,7 @@
                                     "killer_display_name": "Rensz#star",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6106,
@@ -48575,7 +48575,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8115,
@@ -48712,7 +48712,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6362,
@@ -48890,7 +48890,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6559,
@@ -48964,7 +48964,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5357,
@@ -49020,7 +49020,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -49060,7 +49060,7 @@
                                     "kill_time_in_round": 4596,
                                     "kill_time_in_match": 280540,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "1864731f-39ff-5f65-a230-b5fb32adfc18",
                                     "victim_display_name": "K\u00e2i Ru#nstop",
@@ -49129,7 +49129,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8489,
@@ -49174,7 +49174,7 @@
                                     "kill_time_in_round": 7356,
                                     "kill_time_in_match": 283300,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -49243,7 +49243,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8413,
@@ -49278,7 +49278,7 @@
                                     "kill_time_in_round": 44380,
                                     "kill_time_in_match": 320324,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                                     "victim_display_name": "En1gm4#666",
@@ -49307,7 +49307,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5742,
@@ -49856,7 +49856,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 10,
                                     "headshots": 0,
@@ -49894,7 +49894,7 @@
                                     "killer_display_name": "K\u00e2i Ru#nstop",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8579,
@@ -50196,7 +50196,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -50218,7 +50218,7 @@
                                     "kill_time_in_round": 4457,
                                     "kill_time_in_match": 361792,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                                     "victim_display_name": "VASQUEZ#0000",
@@ -50287,7 +50287,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8452,
@@ -51262,7 +51262,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -51282,7 +51282,7 @@
                                     "killer_display_name": "En1gm4#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5657,
@@ -51424,7 +51424,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -52790,7 +52790,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -52828,7 +52828,7 @@
                                     "killer_display_name": "En1gm4#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6448,
@@ -53024,7 +53024,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -53378,7 +53378,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -53463,7 +53463,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4753,
@@ -53882,7 +53882,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6029,
@@ -53986,7 +53986,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5301,
@@ -54094,7 +54094,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -54141,7 +54141,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -54161,7 +54161,7 @@
                                     "killer_display_name": "KASAP CAN PALA#neqa",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5211,
@@ -54729,7 +54729,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -54767,7 +54767,7 @@
                                     "killer_display_name": "En1gm4#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3865,
@@ -55027,7 +55027,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -55338,7 +55338,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8657,
@@ -55523,7 +55523,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6586,
@@ -56173,7 +56173,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -56239,7 +56239,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -56277,7 +56277,7 @@
                                     "killer_display_name": "KASAP CAN PALA#neqa",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4131,
@@ -56719,7 +56719,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3542,
@@ -56761,7 +56761,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "assistant_display_name": "laser#1of1",
+                                            "assistant_display_name": "icarus#laser",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -56829,7 +56829,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3835,
@@ -57395,7 +57395,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9694,
@@ -57513,7 +57513,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -57560,7 +57560,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -57598,7 +57598,7 @@
                                     "killer_display_name": "KASAP CAN PALA#neqa",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 9357,
@@ -58068,7 +58068,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9376,
@@ -58176,7 +58176,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -58196,7 +58196,7 @@
                                     "killer_display_name": "VASQUEZ#0000",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5991,
@@ -58486,7 +58486,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4961,
@@ -58518,7 +58518,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "assistant_display_name": "laser#1of1",
+                                            "assistant_display_name": "icarus#laser",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -58955,7 +58955,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5498,
@@ -59101,7 +59101,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -59337,7 +59337,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5189,
@@ -59379,7 +59379,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "assistant_display_name": "laser#1of1",
+                                            "assistant_display_name": "icarus#laser",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -59591,7 +59591,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4442,
@@ -59685,7 +59685,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5021,
@@ -60071,7 +60071,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4835,
@@ -60180,7 +60180,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -60200,7 +60200,7 @@
                                     "killer_display_name": "En1gm4#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 5313,
@@ -60302,7 +60302,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -60444,7 +60444,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4073,
@@ -60691,7 +60691,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -61288,7 +61288,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -61335,7 +61335,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -61364,7 +61364,7 @@
                                     "killer_display_name": "KASAP CAN PALA#neqa",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8057,
@@ -62102,7 +62102,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7441,
@@ -62212,7 +62212,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7521,
@@ -62299,7 +62299,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -62328,7 +62328,7 @@
                                     "killer_display_name": "En1gm4#666",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7507,
@@ -62524,7 +62524,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -62974,7 +62974,7 @@
                             },
                             {
                                 "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                "player_display_name": "laser#1of1",
+                                "player_display_name": "icarus#laser",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8742,
@@ -63252,7 +63252,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8751,
@@ -63469,7 +63469,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8754,
@@ -63553,7 +63553,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8732,
@@ -63615,7 +63615,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -63680,7 +63680,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -63766,7 +63766,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9096,
@@ -63876,7 +63876,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8732,
@@ -63904,7 +63904,7 @@
                                     "killer_display_name": "KASAP CAN PALA#neqa",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8192,
@@ -64346,7 +64346,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8162,
@@ -64406,7 +64406,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -64481,7 +64481,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7247,
@@ -64499,7 +64499,7 @@
                                     "killer_display_name": "K\u00e2i Ru#nstop",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7172,
@@ -64667,7 +64667,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -64698,7 +64698,7 @@
                                     "kill_time_in_round": 10475,
                                     "kill_time_in_match": 1347563,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                                     "victim_display_name": "VASQUEZ#0000",
@@ -64767,7 +64767,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5899,
@@ -64808,7 +64808,7 @@
                                     "kill_time_in_round": 14534,
                                     "kill_time_in_match": 1351622,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                                     "victim_display_name": "En1gm4#666",
@@ -64867,7 +64867,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7336,
@@ -65075,7 +65075,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 9091,
@@ -65283,7 +65283,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5864,
@@ -65437,7 +65437,7 @@
                             },
                             {
                                 "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                "player_display_name": "laser#1of1",
+                                "player_display_name": "icarus#laser",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4366,
@@ -65491,7 +65491,7 @@
                             },
                             {
                                 "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                "player_display_name": "laser#1of1",
+                                "player_display_name": "icarus#laser",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5501,
@@ -65524,7 +65524,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -65609,7 +65609,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4880,
@@ -65669,7 +65669,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6819,
@@ -65848,7 +65848,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3142,
@@ -66008,7 +66008,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -66057,7 +66057,7 @@
                                     "kill_time_in_round": 17237,
                                     "kill_time_in_match": 1476139,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -66126,7 +66126,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5874,
@@ -66161,7 +66161,7 @@
                                     "kill_time_in_round": 35053,
                                     "kill_time_in_match": 1493955,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "943083d9-b194-568a-afda-753301baa0ce",
                                     "victim_display_name": "Rensz#star",
@@ -66200,7 +66200,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4342,
@@ -66215,7 +66215,7 @@
                                     "kill_time_in_round": 36080,
                                     "kill_time_in_match": 1494982,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                                     "victim_display_name": "VASQUEZ#0000",
@@ -66244,7 +66244,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4414,
@@ -66259,7 +66259,7 @@
                                     "kill_time_in_round": 47361,
                                     "kill_time_in_match": 1506263,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                                     "victim_display_name": "En1gm4#666",
@@ -66288,7 +66288,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5570,
@@ -66339,7 +66339,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -66475,7 +66475,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4342,
@@ -66565,7 +66565,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4343,
@@ -66629,7 +66629,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4342,
@@ -66803,7 +66803,7 @@
                             },
                             {
                                 "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                "player_display_name": "laser#1of1",
+                                "player_display_name": "icarus#laser",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 8329,
@@ -66989,7 +66989,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6141,
@@ -67073,7 +67073,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7742,
@@ -67239,7 +67239,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5153,
@@ -67313,7 +67313,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7076,
@@ -67473,7 +67473,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -67495,7 +67495,7 @@
                                     "kill_time_in_round": 8831,
                                     "kill_time_in_match": 1553359,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                                     "victim_display_name": "En1gm4#666",
@@ -67554,7 +67554,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5479,
@@ -67733,7 +67733,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8058,
@@ -68062,7 +68062,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4187,
@@ -68215,7 +68215,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4095,
@@ -68404,7 +68404,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2886,
@@ -68470,7 +68470,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -68501,7 +68501,7 @@
                                     "kill_time_in_round": 49526,
                                     "kill_time_in_match": 1692520,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                                     "victim_display_name": "En1gm4#666",
@@ -68530,7 +68530,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2627,
@@ -68565,7 +68565,7 @@
                                     "kill_time_in_round": 56674,
                                     "kill_time_in_match": 1699668,
                                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "killer_display_name": "laser#1of1",
+                                    "killer_display_name": "icarus#laser",
                                     "killer_team": "Blue",
                                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                                     "victim_display_name": "VASQUEZ#0000",
@@ -68584,7 +68584,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2621,
@@ -68737,7 +68737,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4187,
@@ -68827,7 +68827,7 @@
                                 },
                                 {
                                     "receiver_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "receiver_display_name": "laser#1of1",
+                                    "receiver_display_name": "icarus#laser",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -68902,7 +68902,7 @@
                                         },
                                         {
                                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                            "player_display_name": "laser#1of1",
+                                            "player_display_name": "icarus#laser",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3731,
@@ -68946,7 +68946,7 @@
                                     "killer_display_name": "Rensz#star",
                                     "killer_team": "Red",
                                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                                    "victim_display_name": "laser#1of1",
+                                    "victim_display_name": "icarus#laser",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 2621,
@@ -69216,7 +69216,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8309,
@@ -69271,7 +69271,7 @@
                     "killer_display_name": "VASQUEZ#0000",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8614,
@@ -69768,7 +69768,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6759,
@@ -69817,7 +69817,7 @@
                     "killer_display_name": "K\u00e2i Ru#nstop",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7449,
@@ -70455,7 +70455,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5817,
@@ -70501,7 +70501,7 @@
                     "kill_time_in_match": 219660,
                     "round": 2,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                     "victim_display_name": "VASQUEZ#0000",
@@ -70560,7 +70560,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5803,
@@ -70606,7 +70606,7 @@
                     "kill_time_in_match": 221383,
                     "round": 2,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -70665,7 +70665,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5319,
@@ -70704,7 +70704,7 @@
                     "killer_display_name": "Rensz#star",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6106,
@@ -70981,7 +70981,7 @@
                     "kill_time_in_match": 280540,
                     "round": 3,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "1864731f-39ff-5f65-a230-b5fb32adfc18",
                     "victim_display_name": "K\u00e2i Ru#nstop",
@@ -71050,7 +71050,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8489,
@@ -71096,7 +71096,7 @@
                     "kill_time_in_match": 283300,
                     "round": 3,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -71165,7 +71165,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8413,
@@ -71260,7 +71260,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8115,
@@ -71345,7 +71345,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6559,
@@ -71430,7 +71430,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6362,
@@ -71495,7 +71495,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5357,
@@ -71521,7 +71521,7 @@
                     "kill_time_in_match": 320324,
                     "round": 3,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                     "victim_display_name": "En1gm4#666",
@@ -71550,7 +71550,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5742,
@@ -71576,7 +71576,7 @@
                     "kill_time_in_match": 361792,
                     "round": 4,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                     "victim_display_name": "VASQUEZ#0000",
@@ -71645,7 +71645,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8452,
@@ -71694,7 +71694,7 @@
                     "killer_display_name": "K\u00e2i Ru#nstop",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8579,
@@ -72231,7 +72231,7 @@
                     "killer_display_name": "En1gm4#666",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5657,
@@ -72777,7 +72777,7 @@
                     "killer_display_name": "En1gm4#666",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6448,
@@ -73601,7 +73601,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6029,
@@ -73706,7 +73706,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4753,
@@ -73811,7 +73811,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5301,
@@ -73850,7 +73850,7 @@
                     "killer_display_name": "KASAP CAN PALA#neqa",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5211,
@@ -74147,7 +74147,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8657,
@@ -74262,7 +74262,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6586,
@@ -74307,7 +74307,7 @@
                     "killer_display_name": "En1gm4#666",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3865,
@@ -74834,7 +74834,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3542,
@@ -74876,7 +74876,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "assistant_display_name": "laser#1of1",
+                            "assistant_display_name": "icarus#laser",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -74945,7 +74945,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3835,
@@ -74994,7 +74994,7 @@
                     "killer_display_name": "KASAP CAN PALA#neqa",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4131,
@@ -75492,7 +75492,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9694,
@@ -75597,7 +75597,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9376,
@@ -75652,7 +75652,7 @@
                     "killer_display_name": "KASAP CAN PALA#neqa",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 9357,
@@ -76044,7 +76044,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5498,
@@ -76155,7 +76155,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5189,
@@ -76197,7 +76197,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "assistant_display_name": "laser#1of1",
+                            "assistant_display_name": "icarus#laser",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -76266,7 +76266,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4961,
@@ -76298,7 +76298,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "assistant_display_name": "laser#1of1",
+                            "assistant_display_name": "icarus#laser",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -76311,7 +76311,7 @@
                     "killer_display_name": "VASQUEZ#0000",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5991,
@@ -76777,7 +76777,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4073,
@@ -76892,7 +76892,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4442,
@@ -76997,7 +76997,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4835,
@@ -77088,7 +77088,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5021,
@@ -77123,7 +77123,7 @@
                     "killer_display_name": "En1gm4#666",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 5313,
@@ -77363,7 +77363,7 @@
                     "killer_display_name": "KASAP CAN PALA#neqa",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8057,
@@ -77981,7 +77981,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7441,
@@ -78092,7 +78092,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7521,
@@ -78147,7 +78147,7 @@
                     "killer_display_name": "En1gm4#666",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7507,
@@ -78594,7 +78594,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9096,
@@ -78715,7 +78715,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8754,
@@ -78820,7 +78820,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8751,
@@ -78905,7 +78905,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8732,
@@ -78980,7 +78980,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8732,
@@ -79015,7 +79015,7 @@
                     "killer_display_name": "KASAP CAN PALA#neqa",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8192,
@@ -79156,7 +79156,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5864,
@@ -79192,7 +79192,7 @@
                     "kill_time_in_match": 1347563,
                     "round": 16,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                     "victim_display_name": "VASQUEZ#0000",
@@ -79261,7 +79261,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5899,
@@ -79303,7 +79303,7 @@
                     "kill_time_in_match": 1351622,
                     "round": 16,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                     "victim_display_name": "En1gm4#666",
@@ -79362,7 +79362,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7336,
@@ -79457,7 +79457,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 9091,
@@ -79542,7 +79542,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8162,
@@ -79607,7 +79607,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7247,
@@ -79626,7 +79626,7 @@
                     "killer_display_name": "K\u00e2i Ru#nstop",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7172,
@@ -79827,7 +79827,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3142,
@@ -79873,7 +79873,7 @@
                     "kill_time_in_match": 1476139,
                     "round": 17,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "8de333ab-fb7f-52f1-b90d-484139743198",
                     "victim_display_name": "KASAP CAN PALA#neqa",
@@ -79942,7 +79942,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5874,
@@ -80037,7 +80037,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4880,
@@ -80128,7 +80128,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4342,
@@ -80219,7 +80219,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4343,
@@ -80284,7 +80284,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4342,
@@ -80310,7 +80310,7 @@
                     "kill_time_in_match": 1493955,
                     "round": 17,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "943083d9-b194-568a-afda-753301baa0ce",
                     "victim_display_name": "Rensz#star",
@@ -80349,7 +80349,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4342,
@@ -80365,7 +80365,7 @@
                     "kill_time_in_match": 1494982,
                     "round": 17,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                     "victim_display_name": "VASQUEZ#0000",
@@ -80394,7 +80394,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4414,
@@ -80410,7 +80410,7 @@
                     "kill_time_in_match": 1506263,
                     "round": 17,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                     "victim_display_name": "En1gm4#666",
@@ -80439,7 +80439,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5570,
@@ -80474,7 +80474,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6819,
@@ -80490,7 +80490,7 @@
                     "kill_time_in_match": 1553359,
                     "round": 18,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                     "victim_display_name": "En1gm4#666",
@@ -80549,7 +80549,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5479,
@@ -80664,7 +80664,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5153,
@@ -80759,7 +80759,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6141,
@@ -80844,7 +80844,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7742,
@@ -80919,7 +80919,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8058,
@@ -81000,7 +81000,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7076,
@@ -81095,7 +81095,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4095,
@@ -81210,7 +81210,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4187,
@@ -81315,7 +81315,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4187,
@@ -81406,7 +81406,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3731,
@@ -81487,7 +81487,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2886,
@@ -81523,7 +81523,7 @@
                     "kill_time_in_match": 1692520,
                     "round": 19,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "87c96257-3915-5604-a64d-6a1fe7ea6729",
                     "victim_display_name": "En1gm4#666",
@@ -81552,7 +81552,7 @@
                         },
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2627,
@@ -81588,7 +81588,7 @@
                     "kill_time_in_match": 1699668,
                     "round": 19,
                     "killer_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "killer_display_name": "laser#1of1",
+                    "killer_display_name": "icarus#laser",
                     "killer_team": "Blue",
                     "victim_puuid": "11df2455-10f8-57ca-b996-c71f912bf551",
                     "victim_display_name": "VASQUEZ#0000",
@@ -81607,7 +81607,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                            "player_display_name": "laser#1of1",
+                            "player_display_name": "icarus#laser",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2621,
@@ -81652,7 +81652,7 @@
                     "killer_display_name": "Rensz#star",
                     "killer_team": "Red",
                     "victim_puuid": "379c8489-2507-5eef-8762-c6d6f1664461",
-                    "victim_display_name": "laser#1of1",
+                    "victim_display_name": "icarus#laser",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 2621,
