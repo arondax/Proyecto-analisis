@@ -202101,7 +202101,7 @@
                     },
                     {
                         "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                        "name": "Skyz0",
+                        "name": "Skyz10",
                         "tag": "1596",
                         "team": "Red",
                         "level": 358,
@@ -202541,7 +202541,7 @@
                 "red": [
                     {
                         "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                        "name": "Skyz0",
+                        "name": "Skyz10",
                         "tag": "1596",
                         "team": "Red",
                         "level": 358,
@@ -203413,7 +203413,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -203460,7 +203460,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -203498,7 +203498,7 @@
                                     "killer_display_name": "bringbacksl4ves#141",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2751,
@@ -204547,7 +204547,7 @@
                         },
                         "planted_by": {
                             "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "display_name": "Skyz0#1596",
+                            "display_name": "Skyz10#1596",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -204555,7 +204555,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7057,
@@ -204610,7 +204610,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -204632,7 +204632,7 @@
                                     "kill_time_in_round": 8947,
                                     "kill_time_in_match": 146188,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "e25a45b6-aae2-5408-ae76-a79d13c4dc3f",
                                     "victim_display_name": "Taxo#999",
@@ -204651,7 +204651,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6304,
@@ -204814,7 +204814,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6254,
@@ -205096,7 +205096,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7209,
@@ -205176,7 +205176,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7057,
@@ -205329,7 +205329,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6239,
@@ -205413,7 +205413,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7057,
@@ -205467,7 +205467,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7438,
@@ -205668,7 +205668,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7465,
@@ -205800,7 +205800,7 @@
                         },
                         "planted_by": {
                             "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "display_name": "Skyz0#1596",
+                            "display_name": "Skyz10#1596",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -205808,7 +205808,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -851,
@@ -205863,7 +205863,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -205885,7 +205885,7 @@
                                     "kill_time_in_round": 32138,
                                     "kill_time_in_match": 248242,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                                     "victim_display_name": "bringbacksl4ves#141",
@@ -205904,7 +205904,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1489,
@@ -205995,7 +205995,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -206040,7 +206040,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1487,
@@ -206237,7 +206237,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1257,
@@ -206342,7 +206342,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1444,
@@ -206406,7 +206406,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2379,
@@ -206513,7 +206513,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -549,
@@ -206841,7 +206841,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 10,
@@ -207015,7 +207015,7 @@
                         },
                         "planted_by": {
                             "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "display_name": "Skyz0#1596",
+                            "display_name": "Skyz10#1596",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -207023,7 +207023,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 8257,
@@ -207126,7 +207126,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -207157,7 +207157,7 @@
                                     "kill_time_in_round": 59979,
                                     "kill_time_in_match": 358803,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                                     "victim_display_name": "Ching#6406",
@@ -207176,7 +207176,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7499,
@@ -207343,7 +207343,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -207388,7 +207388,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6467,
@@ -207502,7 +207502,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6201,
@@ -207596,7 +207596,7 @@
                                     "killer_display_name": "Flamewall#Top3",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7257,
@@ -207793,7 +207793,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8257,
@@ -208002,7 +208002,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -208099,7 +208099,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7405,
@@ -208423,7 +208423,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -208698,7 +208698,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -208743,7 +208743,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2459,
@@ -208841,7 +208841,7 @@
                                     "killer_display_name": "Ching#6406",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2419,
@@ -209500,7 +209500,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3588,
@@ -209565,7 +209565,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -209596,7 +209596,7 @@
                                     "kill_time_in_round": 87632,
                                     "kill_time_in_match": 627717,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                                     "victim_display_name": "bringbacksl4ves#141",
@@ -209615,7 +209615,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3408,
@@ -209666,7 +209666,7 @@
                                     "kill_time_in_round": 99759,
                                     "kill_time_in_match": 639844,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "e25a45b6-aae2-5408-ae76-a79d13c4dc3f",
                                     "victim_display_name": "Taxo#999",
@@ -209685,7 +209685,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5478,
@@ -209914,7 +209914,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1800,
@@ -210034,7 +210034,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4456,
@@ -210159,7 +210159,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -210179,7 +210179,7 @@
                                     "killer_display_name": "Ching#6406",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5476,
@@ -210292,7 +210292,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1800,
@@ -210534,7 +210534,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1463,
@@ -210634,7 +210634,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2747,
@@ -210845,7 +210845,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -210892,7 +210892,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -210939,7 +210939,7 @@
                                     "killer_display_name": "bringbacksl4ves#141",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3416,
@@ -211294,7 +211294,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3162,
@@ -211889,7 +211889,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -212068,7 +212068,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -212088,7 +212088,7 @@
                                     "killer_display_name": "Flamewall#Top3",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7356,
@@ -212493,7 +212493,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7358,
@@ -213136,7 +213136,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -213158,7 +213158,7 @@
                                     "kill_time_in_round": 7362,
                                     "kill_time_in_match": 919879,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                                     "victim_display_name": "Ching#6406",
@@ -213177,7 +213177,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -768,
@@ -213353,7 +213353,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5366,
@@ -213583,7 +213583,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -797,
@@ -213863,7 +213863,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -213883,7 +213883,7 @@
                                     "killer_display_name": "Yuji Chan#glegg",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1203,
@@ -214144,7 +214144,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -568,
@@ -214416,7 +214416,7 @@
                         },
                         "planted_by": {
                             "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "display_name": "Skyz0#1596",
+                            "display_name": "Skyz10#1596",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -214424,7 +214424,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1040,
@@ -214479,7 +214479,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -214501,7 +214501,7 @@
                                     "kill_time_in_round": 14163,
                                     "kill_time_in_match": 1046694,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                                     "victim_display_name": "Ching#6406",
@@ -214520,7 +214520,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2254,
@@ -214819,7 +214819,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2253,
@@ -214975,7 +214975,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1040,
@@ -215101,7 +215101,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1473,
@@ -215215,7 +215215,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2567,
@@ -215364,7 +215364,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2277,
@@ -215491,7 +215491,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2031,
@@ -215613,7 +215613,7 @@
                         },
                         "planted_by": {
                             "puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "display_name": "Skyz0#1596",
+                            "display_name": "Skyz10#1596",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -215621,7 +215621,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7057,
@@ -215696,7 +215696,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -215831,7 +215831,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5305,
@@ -215967,7 +215967,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6399,
@@ -216217,7 +216217,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1277,
@@ -216384,7 +216384,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -262,
@@ -216541,7 +216541,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6467,
@@ -216697,7 +216697,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6707,
@@ -216791,7 +216791,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4576,
@@ -216888,7 +216888,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -217136,7 +217136,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6241,
@@ -217700,7 +217700,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -217729,7 +217729,7 @@
                                     "killer_display_name": "Taxo#999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6271,
@@ -218142,7 +218142,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -218253,7 +218253,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4511,
@@ -218500,7 +218500,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2752,
@@ -218684,7 +218684,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2111,
@@ -218863,7 +218863,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -218883,7 +218883,7 @@
                                     "killer_display_name": "Yuji Chan#glegg",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4994,
@@ -219176,7 +219176,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3023,
@@ -219270,7 +219270,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4742,
@@ -219370,7 +219370,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4945,
@@ -219475,7 +219475,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -219670,7 +219670,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5057,
@@ -219809,7 +219809,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -219845,7 +219845,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2937,
@@ -219991,7 +219991,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -220027,7 +220027,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5933,
@@ -220105,7 +220105,7 @@
                                     "killer_display_name": "Yuji Chan#glegg",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6024,
@@ -220278,7 +220278,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -220323,7 +220323,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6357,
@@ -220520,7 +220520,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6125,
@@ -220753,7 +220753,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -220775,7 +220775,7 @@
                                     "kill_time_in_round": 11539,
                                     "kill_time_in_match": 1560925,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "4a22d8cf-6dbd-5d18-a297-4465b0cb52c8",
                                     "victim_display_name": "Flamewall#Top3",
@@ -220794,7 +220794,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -694,
@@ -220927,7 +220927,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -221033,7 +221033,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -697,
@@ -221137,7 +221137,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -697,
@@ -221209,7 +221209,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "assistant_display_name": "Skyz0#1596",
+                                            "assistant_display_name": "Skyz10#1596",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -221290,7 +221290,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -694,
@@ -221504,7 +221504,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1792,
@@ -221574,7 +221574,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2611,
@@ -221687,7 +221687,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1534,
@@ -221911,7 +221911,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 530,
@@ -222006,7 +222006,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -222046,7 +222046,7 @@
                                     "kill_time_in_round": 61584,
                                     "kill_time_in_match": 1676620,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                                     "victim_display_name": "bringbacksl4ves#141",
@@ -222065,7 +222065,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5568,
@@ -222126,7 +222126,7 @@
                                     "kill_time_in_round": 67473,
                                     "kill_time_in_match": 1682509,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "f02a385b-4903-5a6c-aa48-2558970946ce",
                                     "victim_display_name": "Yuji Chan#glegg",
@@ -222145,7 +222145,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6454,
@@ -222258,7 +222258,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5574,
@@ -222401,7 +222401,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 357,
@@ -222589,7 +222589,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -222634,7 +222634,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7702,
@@ -222668,7 +222668,7 @@
                                     "killer_display_name": "Ching#6406",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7613,
@@ -222730,7 +222730,7 @@
                                         },
                                         {
                                             "assistant_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "assistant_display_name": "Skyz0#1596",
+                                            "assistant_display_name": "Skyz10#1596",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -222789,7 +222789,7 @@
                                 },
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -222825,7 +222825,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6357,
@@ -223073,7 +223073,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 337,
@@ -223187,7 +223187,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3228,
@@ -223359,7 +223359,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                "player_display_name": "Skyz0#1596",
+                                "player_display_name": "Skyz10#1596",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6076,
@@ -223464,7 +223464,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -223486,7 +223486,7 @@
                                     "kill_time_in_round": 26230,
                                     "kill_time_in_match": 1767988,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                                     "victim_display_name": "bringbacksl4ves#141",
@@ -223505,7 +223505,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6940,
@@ -223626,7 +223626,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -223782,7 +223782,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -223811,7 +223811,7 @@
                                     "killer_display_name": "Ching#6406",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6870,
@@ -224160,7 +224160,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3929,
@@ -224626,7 +224626,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -225317,7 +225317,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -225337,7 +225337,7 @@
                                     "killer_display_name": "Taxo#999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1921,
@@ -225679,7 +225679,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -225710,7 +225710,7 @@
                                     "kill_time_in_round": 14454,
                                     "kill_time_in_match": 1907161,
                                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "killer_display_name": "Skyz0#1596",
+                                    "killer_display_name": "Skyz10#1596",
                                     "killer_team": "Red",
                                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                                     "victim_display_name": "Ching#6406",
@@ -225729,7 +225729,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4322,
@@ -226352,7 +226352,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1828,
@@ -226466,7 +226466,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                            "player_display_name": "Skyz0#1596",
+                                            "player_display_name": "Skyz10#1596",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4322,
@@ -226577,7 +226577,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -226606,7 +226606,7 @@
                                     "killer_display_name": "Taxo#999",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4288,
@@ -226956,7 +226956,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -227064,7 +227064,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "receiver_display_name": "Skyz0#1596",
+                                    "receiver_display_name": "Skyz10#1596",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -227102,7 +227102,7 @@
                                     "killer_display_name": "Flamewall#Top3",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                                    "victim_display_name": "Skyz0#1596",
+                                    "victim_display_name": "Skyz10#1596",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 92,
@@ -228126,7 +228126,7 @@
                     "killer_display_name": "bringbacksl4ves#141",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2751,
@@ -228755,7 +228755,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7465,
@@ -228851,7 +228851,7 @@
                     "kill_time_in_match": 146188,
                     "round": 1,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "e25a45b6-aae2-5408-ae76-a79d13c4dc3f",
                     "victim_display_name": "Taxo#999",
@@ -228870,7 +228870,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6304,
@@ -228981,7 +228981,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6254,
@@ -229076,7 +229076,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6239,
@@ -229161,7 +229161,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7209,
@@ -229242,7 +229242,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7057,
@@ -229307,7 +229307,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7057,
@@ -229362,7 +229362,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7438,
@@ -229407,7 +229407,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 10,
@@ -229522,7 +229522,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -549,
@@ -229633,7 +229633,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1257,
@@ -229739,7 +229739,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1487,
@@ -229805,7 +229805,7 @@
                     "kill_time_in_match": 248242,
                     "round": 2,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                     "victim_display_name": "bringbacksl4ves#141",
@@ -229824,7 +229824,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1489,
@@ -229899,7 +229899,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1444,
@@ -229964,7 +229964,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -2379,
@@ -230019,7 +230019,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6467,
@@ -230134,7 +230134,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6201,
@@ -230245,7 +230245,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 8257,
@@ -230340,7 +230340,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7405,
@@ -230406,7 +230406,7 @@
                     "kill_time_in_match": 358803,
                     "round": 3,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                     "victim_display_name": "Ching#6406",
@@ -230425,7 +230425,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7499,
@@ -230490,7 +230490,7 @@
                     "killer_display_name": "Flamewall#Top3",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7257,
@@ -230718,7 +230718,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -2459,
@@ -230817,7 +230817,7 @@
                     "killer_display_name": "Ching#6406",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2419,
@@ -231258,7 +231258,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1800,
@@ -231379,7 +231379,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1800,
@@ -231490,7 +231490,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1463,
@@ -231591,7 +231591,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2747,
@@ -231676,7 +231676,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4456,
@@ -231732,7 +231732,7 @@
                     "kill_time_in_match": 627717,
                     "round": 5,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                     "victim_display_name": "bringbacksl4ves#141",
@@ -231751,7 +231751,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 3408,
@@ -231803,7 +231803,7 @@
                     "kill_time_in_match": 639844,
                     "round": 5,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "e25a45b6-aae2-5408-ae76-a79d13c4dc3f",
                     "victim_display_name": "Taxo#999",
@@ -231822,7 +231822,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5478,
@@ -231861,7 +231861,7 @@
                     "killer_display_name": "Ching#6406",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5476,
@@ -231957,7 +231957,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -3162,
@@ -232056,7 +232056,7 @@
                     "killer_display_name": "bringbacksl4ves#141",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3416,
@@ -232460,7 +232460,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7358,
@@ -232559,7 +232559,7 @@
                     "killer_display_name": "Flamewall#Top3",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7356,
@@ -233105,7 +233105,7 @@
                     "kill_time_in_match": 919879,
                     "round": 8,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                     "victim_display_name": "Ching#6406",
@@ -233124,7 +233124,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -768,
@@ -233239,7 +233239,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -797,
@@ -233344,7 +233344,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5366,
@@ -233439,7 +233439,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -568,
@@ -233518,7 +233518,7 @@
                     "killer_display_name": "Yuji Chan#glegg",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1203,
@@ -233876,7 +233876,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1473,
@@ -233991,7 +233991,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2031,
@@ -234096,7 +234096,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2253,
@@ -234172,7 +234172,7 @@
                     "kill_time_in_match": 1046694,
                     "round": 9,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                     "victim_display_name": "Ching#6406",
@@ -234191,7 +234191,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2254,
@@ -234282,7 +234282,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2277,
@@ -234357,7 +234357,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1040,
@@ -234422,7 +234422,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -2567,
@@ -234477,7 +234477,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1277,
@@ -234592,7 +234592,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -262,
@@ -234697,7 +234697,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6467,
@@ -234792,7 +234792,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6707,
@@ -234887,7 +234887,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6399,
@@ -234972,7 +234972,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5305,
@@ -235047,7 +235047,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4576,
@@ -235112,7 +235112,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6241,
@@ -235211,7 +235211,7 @@
                     "killer_display_name": "Taxo#999",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6271,
@@ -235764,7 +235764,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2111,
@@ -235885,7 +235885,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2752,
@@ -235990,7 +235990,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 3023,
@@ -236085,7 +236085,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4511,
@@ -236170,7 +236170,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4742,
@@ -236229,7 +236229,7 @@
                     "killer_display_name": "Yuji Chan#glegg",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4994,
@@ -236428,7 +236428,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 2937,
@@ -236549,7 +236549,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5057,
@@ -236654,7 +236654,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5933,
@@ -236749,7 +236749,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6125,
@@ -236834,7 +236834,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6357,
@@ -236899,7 +236899,7 @@
                     "killer_display_name": "Yuji Chan#glegg",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6024,
@@ -237097,7 +237097,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1534,
@@ -237212,7 +237212,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -697,
@@ -237317,7 +237317,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -697,
@@ -237389,7 +237389,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "assistant_display_name": "Skyz0#1596",
+                            "assistant_display_name": "Skyz10#1596",
                             "assistant_team": "Red"
                         }
                     ]
@@ -237418,7 +237418,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -694,
@@ -237500,7 +237500,7 @@
                     "kill_time_in_match": 1560925,
                     "round": 14,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "4a22d8cf-6dbd-5d18-a297-4465b0cb52c8",
                     "victim_display_name": "Flamewall#Top3",
@@ -237519,7 +237519,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -694,
@@ -237594,7 +237594,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -1792,
@@ -237665,7 +237665,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": -2611,
@@ -237726,7 +237726,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 337,
@@ -237841,7 +237841,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 357,
@@ -237952,7 +237952,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 3228,
@@ -238047,7 +238047,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5574,
@@ -238119,7 +238119,7 @@
                     "kill_time_in_match": 1676620,
                     "round": 15,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                     "victim_display_name": "bringbacksl4ves#141",
@@ -238138,7 +238138,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 5568,
@@ -238219,7 +238219,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6357,
@@ -238265,7 +238265,7 @@
                     "kill_time_in_match": 1682509,
                     "round": 15,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "f02a385b-4903-5a6c-aa48-2558970946ce",
                     "victim_display_name": "Yuji Chan#glegg",
@@ -238284,7 +238284,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6454,
@@ -238345,7 +238345,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 7702,
@@ -238380,7 +238380,7 @@
                     "killer_display_name": "Ching#6406",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7613,
@@ -238443,7 +238443,7 @@
                         },
                         {
                             "assistant_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "assistant_display_name": "Skyz0#1596",
+                            "assistant_display_name": "Skyz10#1596",
                             "assistant_team": "Red"
                         },
                         {
@@ -238477,7 +238477,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 3929,
@@ -238573,7 +238573,7 @@
                     "kill_time_in_match": 1767988,
                     "round": 16,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "0233624d-bdaa-5d7d-8b47-99dfd910f32a",
                     "victim_display_name": "bringbacksl4ves#141",
@@ -238592,7 +238592,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 6940,
@@ -238681,7 +238681,7 @@
                     "killer_display_name": "Ching#6406",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6870,
@@ -239001,7 +239001,7 @@
                     "killer_display_name": "Taxo#999",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1921,
@@ -239563,7 +239563,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 1828,
@@ -239659,7 +239659,7 @@
                     "kill_time_in_match": 1907161,
                     "round": 18,
                     "killer_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "killer_display_name": "Skyz0#1596",
+                    "killer_display_name": "Skyz10#1596",
                     "killer_team": "Red",
                     "victim_puuid": "d7b7af71-9948-52b3-addb-aaf631bae55f",
                     "victim_display_name": "Ching#6406",
@@ -239678,7 +239678,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4322,
@@ -239789,7 +239789,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                            "player_display_name": "Skyz0#1596",
+                            "player_display_name": "Skyz10#1596",
                             "player_team": "Red",
                             "location": {
                                 "x": 4322,
@@ -239868,7 +239868,7 @@
                     "killer_display_name": "Taxo#999",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4288,
@@ -240193,7 +240193,7 @@
                     "killer_display_name": "Flamewall#Top3",
                     "killer_team": "Blue",
                     "victim_puuid": "d77f8348-df99-51cd-8acc-db4b07238728",
-                    "victim_display_name": "Skyz0#1596",
+                    "victim_display_name": "Skyz10#1596",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 92,
