@@ -1,6 +1,6 @@
 
 from importlib.metadata import metadata
-from pipeline import api, limpieza_datos
+from pipeline import api, limpieza_datos, pool_entrenamiento, candidatos
 
 import json
 import pandas as pd
@@ -39,6 +39,8 @@ def extraccion_datos(nombre, tag):
     #Revisamos si el archivo existe
     direccion_archivo = os.path.join(config.DATASET_DIR,f'dataset_{nombre}.csv')
     existe_archivo= os.path.exists(direccion_archivo)
+    primera_partida_valida = True
+    
     
     for partida in datos['data']:
         MODOS_SIN_EQUIPOS = {'Deathmatch', 'Team Deathmatch', 'Custom Game', 'Spike Rush', 'Escalation'}
@@ -81,6 +83,12 @@ def extraccion_datos(nombre, tag):
         acs = "{:.3f}".format(acs)
         
         teammates = buscar_teammates(partida, equipo , nombre, tag)
+        pares_compañeros = buscar_teammates_con_tag(partida, equipo, nombre, tag)
+        candidatos.registrar_compañeros(pares_compañeros, region)
+        if primera_partida_valida:
+            pool_entrenamiento.registrar_ultima_partida(pares_compañeros, region)
+            primera_partida_valida = False
+            
         composicion = obtener_composicion(partida, equipo)
         rondas_win_lose = obtener_rondas(partida, equipo)
         if rondas_win_lose is None or rondas_win_lose == (None, None):
@@ -258,6 +266,17 @@ def buscar_teammates(partida_jugador, equipo_jugador, nombre_jugador, tag_jugado
                 teammates.append(partida.get('name','Desconocido'))
         
     return teammates
+
+def buscar_teammates_con_tag(partida_jugador, equipo_jugador, nombre_jugador, tag_jugador):
+    """Como buscar_teammates, pero devuelve pares (nombre, tag) en vez de solo el nombre.
+    Hace falta el tag para poder consultar la API cuando se promocione a alguien."""
+    pares = []
+    for p in partida_jugador.get('players', {}).get('all_players', []):
+        if p.get('team') == equipo_jugador:
+            es_el_jugador = (p.get('name') == nombre_jugador and p.get('tag') == tag_jugador)
+            if not es_el_jugador:
+                pares.append((p.get('name', 'Desconocido'), p.get('tag', '')))
+    return pares
 
 
 def obtener_composicion(partida_jugador, equipo_jugador):

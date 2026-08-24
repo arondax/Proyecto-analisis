@@ -6,6 +6,8 @@ import pipeline.entrenamiento as entrenamiento
 import pipeline.api as api
 import pipeline.procesador as procesador
 import pipeline.limpieza_datos as limpieza_datos
+import pipeline.candidatos as candidatos
+import pipeline.pool_entrenamiento as pool_entrenamiento
 from dotenv import load_dotenv #para proteger la clave api
 
 
@@ -29,3 +31,8 @@ if check:
     check = entrenamiento.procesado_jugadores(datos, api_key)
     if check:
             print("Datos procesados")
+            # Auto-discovery: se evalúa UNA vez al final de la ingesta, no por jugador.
+            # Mecanismo A: candidato -> amigo recurrente (sin coste de API)
+            candidatos.evaluar_promocion_amigos()
+            # Mecanismo B: muestreo 10-20% sobre la última partida -> jugador de entrenamiento
+            pool_entrenamiento.procesar_muestreo()
