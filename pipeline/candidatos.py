@@ -165,3 +165,26 @@ def evaluar_promocion_amigos():
         _guardar(RUTA_CANDIDATOS, candidatos)
         _guardar(RUTA_AMIGOS, amigos)
         print(f"[candidatos] {promovidos} candidato(s) promovido(s) a amigo recurrente.")
+        
+def vaciar_candidatos():
+    """
+    Vacía candidatos_jugadores.json por completo. Pensado para llamarse
+    UNA vez por semana (junto a la criba de pool_entrenamiento, en
+    script_entrenamiento.py), después de que evaluar_promocion_amigos()
+    ya se haya ejecutado varias veces esa semana en la ingesta diaria.
+ 
+    Se llama DESPUÉS de que hayan tenido toda la semana para acumular
+    apariciones y promocionarse si les tocaba. Quien siga en candidatos
+    al llegar aquí es porque no llegó al umbral esa semana — se descarta
+    y, si reaparece más adelante, empieza a contar desde cero. Así el
+    fichero no crece sin límite con gente vista una sola vez.
+    """
+    candidatos = _cargar(RUTA_CANDIDATOS, 'candidatos')
+    descartados = len(candidatos.get('candidatos', []))
+    
+    if descartados:
+        _guardar(RUTA_CANDIDATOS, {'candidatos': []})
+        print(f"[candidatos] Vaciado semanal: {descartados} candidato(s) descartado(s) "
+              f"(no llegaron a amigo recurrente esta semana).")
+    else:
+        print("[candidatos] Vaciado semanal: no había candidatos pendientes.")

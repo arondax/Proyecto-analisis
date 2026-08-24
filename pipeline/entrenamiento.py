@@ -80,7 +80,8 @@ def procesado_jugadores(datos, api_key):
 #Recorremos la lista de amigos, y aplicamos para crear dataset y csv
     nombre_jugador =""
     tag=""
-    jugadores = datos.get("jugadores")
+    jugadores = [j for j in datos.get("jugadores", []) if j.get("activo", True)] #Aseguramos que este habilitado para el entrenamiento
+    total = len(jugadores)
     for i, jugador in enumerate(jugadores):
         if i > 0 and i % 10 == 0:
             print("Pausa por rate limit...")
@@ -90,6 +91,8 @@ def procesado_jugadores(datos, api_key):
         nombre_jugador= jugador.get("nombre")
         tag= jugador.get("tag")
         region= jugador.get("region")
+        
+        print(f"[{i + 1}/{total}] Procesando a {nombre_jugador}#{tag}...")
         
         resultado= api.getData(nombre_jugador, tag, region, api_key)
         if not resultado:

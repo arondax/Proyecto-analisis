@@ -37,7 +37,7 @@ def limpieza_jugador(nombre_jugador):
     
     #print("Dimensiones: ", df.shape)
     print("-------------------------")
-    print(df.info())
+    #print(df.info())
     
     #Borramos primero duplicados antes de borrar la columna de id de la partida
     df= quitar_duplicados(df)
