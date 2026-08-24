@@ -41,6 +41,12 @@ def extraccion_datos(nombre, tag):
     existe_archivo= os.path.exists(direccion_archivo)
     primera_partida_valida = True
     
+    ids_ya_procesadas = set()
+    if existe_archivo:
+        try:
+            ids_ya_procesadas = set(pd.read_csv(direccion_archivo, usecols=['id_partida'])['id_partida'].astype(str))
+        except (pd.errors.EmptyDataError, KeyError, ValueError):
+            ids_ya_procesadas = set()
     
     for partida in datos['data']:
         MODOS_SIN_EQUIPOS = {'Deathmatch', 'Team Deathmatch', 'Custom Game', 'Spike Rush', 'Escalation'}
@@ -60,15 +66,24 @@ def extraccion_datos(nombre, tag):
             continue # Si no encuentra al jugador en esta partida, salta a la siguiente
         
         id_partida= partida.get('metadata').get('matchid')
+        id_partida= partida.get('metadata').get('matchid')
+        
+        ya_procesada = str(id_partida) in ids_ya_procesadas
+        
         mapa_actual = partida.get('metadata').get('map')
+        mapa_actual = partida.get('metadata').get('map')
+        
         print(f"[DEBUG] Partida encontrada - Modo: {modo} | Mapa: {mapa_actual}")
         personaje = lista_estadisticas['personaje']
         rol = agentes.get(personaje, "Desconocido")
+        
         rango = lista_estadisticas['rango']
         subrango = lista_estadisticas['subrango']
+        
         headshot = lista_estadisticas['headshot']
         equipo = lista_estadisticas['equipo']
         modo = partida.get('metadata').get('mode')
+        
         fecha = partida.get('metadata',{}).get('game_start')
         fecha_legible = partida.get('metadata',{}).get('game_start_patched')
         region = partida.get('metadata').get('region')
@@ -84,7 +99,8 @@ def extraccion_datos(nombre, tag):
         
         teammates = buscar_teammates(partida, equipo , nombre, tag)
         pares_compañeros = buscar_teammates_con_tag(partida, equipo, nombre, tag)
-        candidatos.registrar_compañeros(pares_compañeros, region)
+        if not ya_procesada:
+            candidatos.registrar_compañeros(pares_compañeros, region)
         if primera_partida_valida:
             pool_entrenamiento.registrar_ultima_partida(pares_compañeros, region)
             primera_partida_valida = False

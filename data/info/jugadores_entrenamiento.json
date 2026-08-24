@@ -31,18 +31,8 @@
             "region": "eu"
         },
         {
-            "nombre": "rondax",
-            "tag": "EUW",
-            "region": "eu"
-        },
-        {
             "nombre": "VASQUEZ",
             "tag": "0000",
-            "region": "eu"
-        },
-        {
-            "nombre": "HEARTLESS",
-            "tag": "css",
             "region": "eu"
         },
         {
@@ -92,7 +82,7 @@
         },
         {
             "nombre": "manolito",
-            "tag": "peña",
+            "tag": "pe\u00f1a",
             "region": "eu"
         },
         {
@@ -111,7 +101,7 @@
             "region": "eu"
         },
         {
-            "nombre": "Areevaaloツ",
+            "nombre": "Areevaalo\u30c4",
             "tag": "SCOTT",
             "region": "eu"
         },
@@ -121,12 +111,7 @@
             "region": "eu"
         },
         {
-            "nombre": "MIBR ASPAS",
-            "tag": "0009",
-            "region": "eu"
-        },
-        {
-            "nombre": "Thu malagueño",
+            "nombre": "Thu malague\u00f1o",
             "tag": "RICO",
             "region": "eu"
         },
@@ -146,18 +131,13 @@
             "region": "eu"
         },
         {
-            "nombre": "Megueñete",
+            "nombre": "Megue\u00f1ete",
             "tag": "50FPS",
             "region": "eu"
         },
         {
             "nombre": "Eiri",
             "tag": "pprzi",
-            "region": "eu"
-        },
-        {
-            "nombre": "Saxx",
-            "tag": "ong",
             "region": "eu"
         },
         {
@@ -231,14 +211,14 @@
             "region": "eu"
         },
         {
-            "nombre": "SeñorDaddy",
+            "nombre": "Se\u00f1orDaddy",
             "tag": "5UG4R",
             "region": "eu",
             "activo": true,
             "desde": "2026-08-24"
         },
         {
-            "nombre": "メERIIKメ",
+            "nombre": "\u30e1ERIIK\u30e1",
             "tag": "7542",
             "region": "eu",
             "activo": true,
@@ -371,7 +351,7 @@
             "desde": "2026-08-24"
         },
         {
-            "nombre": "Capitán Cachopo",
+            "nombre": "Capit\u00e1n Cachopo",
             "tag": "FRITO",
             "region": "eu",
             "activo": true,
@@ -383,6 +363,404 @@
             "region": "eu",
             "activo": true,
             "desde": "2026-08-24"
+        },
+        {
+            "nombre": "Se\u00f1orDaddy",
+            "tag": "5UG4R",
+            "region": "eu"
+        },
+        {
+            "nombre": "\u30e1ERIIK\u30e1",
+            "tag": "7542",
+            "region": "eu"
+        },
+        {
+            "nombre": "Adams",
+            "tag": "AWP",
+            "region": "eu"
+        },
+        {
+            "nombre": "rAuL",
+            "tag": "5399",
+            "region": "eu"
+        },
+        {
+            "nombre": "EFN I Farmer",
+            "tag": "8002",
+            "region": "eu"
+        },
+        {
+            "nombre": "Michi hacker",
+            "tag": "miau",
+            "region": "eu"
+        },
+        {
+            "nombre": "Alexlz",
+            "tag": "001",
+            "region": "eu"
+        },
+        {
+            "nombre": "360Omar",
+            "tag": "King",
+            "region": "eu"
+        },
+        {
+            "nombre": "GBKK",
+            "tag": "EUW",
+            "region": "eu"
+        },
+        {
+            "nombre": "i luv pawsocks",
+            "tag": "mwah",
+            "region": "eu"
+        },
+        {
+            "nombre": "Ender",
+            "tag": "1560",
+            "region": "eu"
+        },
+        {
+            "nombre": "nothing like uuu",
+            "tag": "5803",
+            "region": "eu"
+        },
+        {
+            "nombre": "Gloomy",
+            "tag": "lone",
+            "region": "eu"
+        },
+        {
+            "nombre": "MrPawa",
+            "tag": "EUW",
+            "region": "eu"
+        },
+        {
+            "nombre": "su bomboncito",
+            "tag": "sexy",
+            "region": "eu"
+        },
+        {
+            "nombre": "Symiq",
+            "tag": "3946",
+            "region": "eu"
+        },
+        {
+            "nombre": "Adricapro",
+            "tag": "7207",
+            "region": "eu"
+        },
+        {
+            "nombre": "Bmbxrr",
+            "tag": "1111",
+            "region": "eu"
+        },
+        {
+            "nombre": "Zokren",
+            "tag": "0001",
+            "region": "eu"
+        },
+        {
+            "nombre": "hugokekwww",
+            "tag": "kek",
+            "region": "eu"
+        },
+        {
+            "nombre": "Capit\u00e1n Cachopo",
+            "tag": "FRITO",
+            "region": "eu"
+        },
+        {
+            "nombre": "360DIST",
+            "tag": "360",
+            "region": "eu"
+        },
+        {
+            "nombre": "HEARTLESS",
+            "tag": "css",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "MIBR ASPAS",
+            "tag": "0009",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Saxx",
+            "tag": "ong",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "ANY3R999",
+            "tag": "ANY3R",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "M4ryyyy33",
+            "tag": "1802",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Hexen070",
+            "tag": "EUW",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Winoniix",
+            "tag": "EUW",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Johni",
+            "tag": "2009",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "malyus15",
+            "tag": "6063",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "ChicleDeMazi\u30c4",
+            "tag": "0001",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "xuanxe97",
+            "tag": "EUW",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Pandeiro",
+            "tag": "coran",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "jamoncitos3123",
+            "tag": "3945",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Hyuko",
+            "tag": "9525",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "NIKE  vs  Adidas",
+            "tag": "00000",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Estiven",
+            "tag": "ES280",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "1fknt",
+            "tag": "1fkk",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "ilyaassfobia05",
+            "tag": "fobia",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Nyro",
+            "tag": "nie",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Carliviris13",
+            "tag": "1128",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Mesen",
+            "tag": "xdd",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "K\u00e2i Ru",
+            "tag": "nstop",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "ALIN00742",
+            "tag": "2973",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "coioasa",
+            "tag": "6969",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "cazapanchos",
+            "tag": "333",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "VIVA VIGO",
+            "tag": "8452",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Bet365 Enjoyer",
+            "tag": "420",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Teachece",
+            "tag": "THC",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "peakplatino3",
+            "tag": "20064",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "KayFlock",
+            "tag": "Doa7",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "PayoPoni69",
+            "tag": "NINJA",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "rositafresita",
+            "tag": "444",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "BD A1zen",
+            "tag": "best",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "LefazoAstral",
+            "tag": "lefa",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "El rey del pozo",
+            "tag": "9033",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Pechoabierto",
+            "tag": "y an0",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-24",
+            "origen": "amigo_recurrente"
         }
     ]
 }

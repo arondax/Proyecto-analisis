@@ -74,7 +74,7 @@ def _guardar_entrenamiento(datos):
     import json
     os.makedirs(os.path.dirname(RUTA_ENTRENAMIENTO), exist_ok=True)
     with open(RUTA_ENTRENAMIENTO, 'w', encoding='utf-8') as f:
-        json.dump(datos, f, indent=4, ensure_ascii=False)
+        json.dump(datos, f, indent=4)  # ensure_ascii=True (por defecto): mismo formato que el resto del proyecto
 
 
 def _cargar_amigos():
