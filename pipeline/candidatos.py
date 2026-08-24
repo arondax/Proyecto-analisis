@@ -27,11 +27,12 @@ Uso típico:
     - Dentro del bucle de extracción de partidas (procesador.py), por
       cada partida procesada:
           pares = buscar_teammates_con_tag(partida, equipo, nombre, tag)
-          candidatos.registrar_compañeros(pares, region)
+          candidatos.registrar_compañeros(id_partida, pares, region)
 
     - Una vez al final de la ingesta (script_datos.py), tras procesar a
       todos los jugadores del pool:
           candidatos.evaluar_promocion_amigos()
+          candidatos.guardar_partidas_vistas()
 """
 import json
 import os
@@ -42,9 +43,34 @@ import config
 RUTA_CANDIDATOS = os.path.join(config.JSON_INFO_DIR, 'candidatos_jugadores.json')
 RUTA_AMIGOS = os.path.join(config.JSON_INFO_DIR, 'amigos_recurrentes.json')
 RUTA_ENTRENAMIENTO = os.path.join(config.JSON_INFO_DIR, 'jugadores_entrenamiento.json')
+RUTA_PARTIDAS_VISTAS = os.path.join(config.JSON_INFO_DIR, 'partidas_procesadas_candidatos.json')
 
 # Apariciones como compañero necesarias para pasar de candidato a amigo recurrente.
 UMBRAL_CANDIDATO_A_AMIGO = 3
+
+# Registro GLOBAL de id_partida ya contados para candidatos — evita que la
+# misma partida real cuente varias apariciones porque más de un jugador
+# del pool estaba en ella (cada uno la procesa por separado, por su
+# cuenta), o porque la API la sigue devolviendo en ejecuciones futuras.
+# Se carga una sola vez por ejecución (perezosamente) y se guarda una
+# sola vez al final con guardar_partidas_vistas(), no partida a partida.
+_ids_partidas_vistas = None
+
+
+def _cargar_ids_partidas_vistas():
+    global _ids_partidas_vistas
+    if _ids_partidas_vistas is None:
+        datos = _cargar(RUTA_PARTIDAS_VISTAS, 'ids')
+        _ids_partidas_vistas = set(str(i) for i in datos.get('ids', []))
+    return _ids_partidas_vistas
+
+
+def guardar_partidas_vistas():
+    """Vuelca a disco el registro de partidas vistas acumulado en memoria
+    durante la ejecución. Se llama UNA vez al final de script_datos.py,
+    junto a evaluar_promocion_amigos()."""
+    if _ids_partidas_vistas is not None:
+        _guardar(RUTA_PARTIDAS_VISTAS, {'ids': sorted(_ids_partidas_vistas)})
 
 
 def _clave(nombre, tag):
@@ -65,10 +91,16 @@ def _guardar(ruta, datos):
         json.dump(datos, f, indent=4)  # ensure_ascii=True (por defecto): mismo formato que el resto del proyecto
 
 
-def registrar_compañeros(nombres_tags, region):
+def registrar_compañeros(id_partida, nombres_tags, region):
     """
+    id_partida: el matchid de la partida que se está procesando ahora.
+    Si esa partida ya se contó antes (por este jugador, por otro jugador
+    del pool que también estaba en ella, o en una ejecución anterior),
+    no se vuelve a contar — evita inflar apariciones cuando varios
+    jugadores del pool coinciden en la misma partida real.
+
     nombres_tags: lista de tuplas (nombre, tag) vistas como compañeras de
-    equipo en una partida.
+    equipo en esa partida.
 
     - Si ya está en jugadores_entrenamiento.json (activo o no): se ignora,
       ya pasó de tier.
@@ -80,6 +112,11 @@ def registrar_compañeros(nombres_tags, region):
     Entradas sin tag se ignoran (no se puede consultar la API sin tag).
     Devuelve True si hubo cambios que guardar.
     """
+    ids_vistas = _cargar_ids_partidas_vistas()
+    if str(id_partida) in ids_vistas:
+        return False  # esta partida ya contó, venga de quien venga
+    ids_vistas.add(str(id_partida))  # marcada de inmediato, aunque no haya cambios que guardar después
+
     amigos = _cargar(RUTA_AMIGOS, 'amigos')
     entrenamiento = _cargar(RUTA_ENTRENAMIENTO, 'jugadores')
     candidatos = _cargar(RUTA_CANDIDATOS, 'candidatos')

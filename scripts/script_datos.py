@@ -34,5 +34,6 @@ if check:
             # Auto-discovery: se evalúa UNA vez al final de la ingesta, no por jugador.
             # Mecanismo A: candidato -> amigo recurrente (sin coste de API)
             candidatos.evaluar_promocion_amigos()
+            candidatos.guardar_partidas_vistas()
             # Mecanismo B: muestreo 10-20% sobre la última partida -> jugador de entrenamiento
             pool_entrenamiento.procesar_muestreo()

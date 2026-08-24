@@ -100,7 +100,7 @@ def extraccion_datos(nombre, tag):
         teammates = buscar_teammates(partida, equipo , nombre, tag)
         pares_compañeros = buscar_teammates_con_tag(partida, equipo, nombre, tag)
         if not ya_procesada:
-            candidatos.registrar_compañeros(pares_compañeros, region)
+            candidatos.registrar_compañeros(id_partida, pares_compañeros, region)
         if primera_partida_valida:
             pool_entrenamiento.registrar_ultima_partida(pares_compañeros, region)
             primera_partida_valida = False
