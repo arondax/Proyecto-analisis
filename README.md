@@ -247,7 +247,7 @@ Actualmente en uso para logging de predicciones (tabla `consultas`). Migración 
 - [x] Sección de estadísticas por jugador (endpoint + charts con Recharts)
 - [x] StandardScaler dentro de sklearn Pipeline
 - [x] Añadir los amigos al json de los jugadores. 
-- [ ] Auto-discovery de jugadores nuevos encontrados en partidas
+- [x] Auto-discovery de jugadores nuevos encontrados en partidas
 - [ ] Migración completa de datasets a Supabase (fase 2)
 - [ ] Split temporal train/test (cuando el dataset tenga suficiente histórico fechado)
 - [ ] Fine-tuning por jugador con `warm_start`
