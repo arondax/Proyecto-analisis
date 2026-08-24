@@ -42,8 +42,10 @@ from datetime import date, datetime
 import pandas as pd
 
 import config
+import pipeline.api as api
 
 RUTA_ENTRENAMIENTO = os.path.join(config.JSON_INFO_DIR, 'jugadores_entrenamiento.json')
+RUTA_AMIGOS = os.path.join(config.JSON_INFO_DIR, 'amigos_recurrentes.json')
 
 # --- Parámetros ajustables ---
 PORCENTAJE_MUESTREO_MIN = 0.10
@@ -75,6 +77,16 @@ def _guardar_entrenamiento(datos):
         json.dump(datos, f, indent=4, ensure_ascii=False)
 
 
+def _cargar_amigos():
+    import json
+    if not os.path.exists(RUTA_AMIGOS):
+        return {'amigos': []}
+    with open(RUTA_AMIGOS, 'r', encoding='utf-8') as f:
+        datos = json.load(f)
+    datos.setdefault('amigos', [])
+    return datos
+
+
 def _es_activo(jugador):
     # Los jugadores ya existentes en el json antes de este cambio no
     # tienen el campo `activo` todavía: se tratan como activos por
@@ -84,6 +96,25 @@ def _es_activo(jugador):
 
 def _contar_activos(datos):
     return sum(1 for j in datos['jugadores'] if _es_activo(j))
+
+
+def eliminar_jugador(nombre, tag):
+    """
+    Elimina por completo a un jugador de jugadores_entrenamiento.json —
+    a diferencia de desactivarlo (activo=false), esto es para cuentas
+    que ya no existen en Riot (api.CuentaNoEncontrada: borradas o con
+    nombre/tag cambiado). No tiene sentido dejarlas para una futura
+    reactivación, porque la API va a seguir devolviendo 404 siempre. El
+    CSV histórico del jugador no se toca, solo su entrada en el pool.
+    """
+    datos = _cargar_entrenamiento()
+    clave = _clave(nombre, tag)
+    antes = len(datos['jugadores'])
+    datos['jugadores'] = [j for j in datos['jugadores'] if _clave(j['nombre'], j['tag']) != clave]
+
+    if len(datos['jugadores']) < antes:
+        _guardar_entrenamiento(datos)
+        print(f"[pool_entrenamiento] {nombre}#{tag} eliminado del pool (cuenta no encontrada en Riot).")
 
 
 # ---------------------------------------------------------------------
@@ -115,11 +146,20 @@ def registrar_ultima_partida(nombres_tags, region):
 
 def procesar_muestreo():
     """
-    Consume lo acumulado por registrar_ultima_partida() durante esta
-    ejecución. Excluye a quien ya tenga activo=true, elige un porcentaje
-    aleatorio entre PORCENTAJE_MUESTREO_MIN y MAX sobre el resto, y
-    añade/reactiva respetando MAX_JUGADORES_ENTRENAMIENTO. Vacía la
-    lista temporal al terminar, pase lo que pase.
+    Dos pasos, en este orden:
+
+    1. Entrada directa de amigos recurrentes: todo el que ya esté en
+       amigos_recurrentes.json y no esté activo en el pool, entra sin
+       competir por sorteo — mientras haya hueco. Los amigos no pasan
+       por el muestreo aleatorio, tienen prioridad total.
+
+    2. Muestreo aleatorio del resto: con el hueco que quede tras el
+       paso 1, se consume lo acumulado por registrar_ultima_partida()
+       durante esta ejecución (compañeros vistos en la última partida
+       de cada jugador activo, que NO sean ya amigos recurrentes) y se
+       elige un porcentaje aleatorio entre PORCENTAJE_MUESTREO_MIN y MAX.
+
+    Vacía la lista temporal al terminar, pase lo que pase.
     """
     import random
 
@@ -129,12 +169,51 @@ def procesar_muestreo():
         claves_activas = {c for c, j in indice_completo.items() if _es_activo(j)}
 
         hueco = MAX_JUGADORES_ENTRENAMIENTO - len(claves_activas)
+        hoy = date.today().isoformat()
+        nuevos, reactivados = 0, 0
+
+        # --- Paso 1: amigos recurrentes entran directos, sin sorteo ---
+        amigos = _cargar_amigos()
+        entrados_amigo = 0
+        for a in amigos['amigos']:
+            if hueco <= 0:
+                break
+            clave = _clave(a['nombre'], a['tag'])
+            if clave in claves_activas:
+                continue  # ya estaba activo, nada que hacer
+
+            if clave in indice_completo:
+                indice_completo[clave]['activo'] = True
+                indice_completo[clave]['reactivado_el'] = hoy
+                reactivados += 1
+            else:
+                nueva_entrada = {
+                    'nombre': a['nombre'],
+                    'tag': a['tag'],
+                    'region': a['region'],
+                    'activo': True,
+                    'desde': hoy,
+                    'origen': 'amigo_recurrente',
+                }
+                datos['jugadores'].append(nueva_entrada)
+                indice_completo[clave] = nueva_entrada
+                nuevos += 1
+
+            claves_activas.add(clave)
+            hueco -= 1
+            entrados_amigo += 1
+
+        if entrados_amigo:
+            print(f"[pool_entrenamiento] {entrados_amigo} amigo(s) recurrente(s) añadido(s) "
+                  f"directamente al pool (sin pasar por el muestreo).")
+
+        # --- Paso 2: muestreo aleatorio del resto (última partida, no amigos) ---
         if hueco <= 0:
-            print(f"[pool_entrenamiento] Pool lleno ({len(claves_activas)}/{MAX_JUGADORES_ENTRENAMIENTO}), "
-                  f"no se muestrea nada este run.")
+            _guardar_entrenamiento(datos)
+            print(f"[pool_entrenamiento] Pool lleno ({MAX_JUGADORES_ENTRENAMIENTO}/{MAX_JUGADORES_ENTRENAMIENTO}) "
+                  f"tras añadir amigos recurrentes, no se muestrea nada más este run.")
             return
 
-        # Deduplicar candidatos válidos, excluyendo a quien ya esté activo
         candidatos_unicos = {}
         for clave, (nombre, tag, region) in _pendientes.items():
             if clave in claves_activas:
@@ -142,7 +221,8 @@ def procesar_muestreo():
             candidatos_unicos.setdefault(clave, (nombre, tag, region))
 
         if not candidatos_unicos:
-            print("[pool_entrenamiento] Sin candidatos nuevos en esta ejecución.")
+            _guardar_entrenamiento(datos)
+            print("[pool_entrenamiento] Sin candidatos nuevos para el muestreo en esta ejecución.")
             return
 
         porcentaje = random.uniform(PORCENTAJE_MUESTREO_MIN, PORCENTAJE_MUESTREO_MAX)
@@ -150,19 +230,16 @@ def procesar_muestreo():
         tamaño_muestra = min(tamaño_muestra, hueco, len(candidatos_unicos))
 
         if tamaño_muestra <= 0:
+            _guardar_entrenamiento(datos)
             print(f"[pool_entrenamiento] {len(candidatos_unicos)} candidato(s) nuevo(s) vistos, "
                   f"pero el muestreo ({porcentaje:.0%}) no selecciona a nadie este run.")
             return
 
         elegidos = random.sample(list(candidatos_unicos.values()), k=tamaño_muestra)
 
-        hoy = date.today().isoformat()
-        nuevos, reactivados = 0, 0
-
         for nombre, tag, region in elegidos:
             clave = _clave(nombre, tag)
             if clave in indice_completo:
-                # Ya existía (estaba en activo=false): se reactiva, no se duplica
                 indice_completo[clave]['activo'] = True
                 indice_completo[clave]['reactivado_el'] = hoy
                 reactivados += 1
@@ -173,15 +250,17 @@ def procesar_muestreo():
                     'region': region,
                     'activo': True,
                     'desde': hoy,
+                    'origen': 'muestreo',
                 }
                 datos['jugadores'].append(nueva_entrada)
                 indice_completo[clave] = nueva_entrada
                 nuevos += 1
 
         _guardar_entrenamiento(datos)
-        ocupado = len(claves_activas) + nuevos + reactivados
+        ocupado = len(claves_activas)
         print(f"[pool_entrenamiento] Muestreo {porcentaje:.0%} sobre {len(candidatos_unicos)} candidato(s): "
-              f"{nuevos} nuevo(s), {reactivados} reactivado(s). Pool: {ocupado}/{MAX_JUGADORES_ENTRENAMIENTO}.")
+              f"{nuevos} nuevo(s), {reactivados} reactivado(s) en total este run. "
+              f"Pool: {ocupado}/{MAX_JUGADORES_ENTRENAMIENTO}.")
     finally:
         _pendientes.clear()
 
@@ -279,8 +358,11 @@ def revisar_inactivos_mensual(api_key):
     for j in inactivos:
         try:
             entrenamiento.procesado_jugador(j['nombre'], j['tag'], j['region'], api_key)
+        except api.CuentaNoEncontrada:
+            eliminar_jugador(j['nombre'], j['tag'])
+            continue
         except ValueError:
-            continue  # sin datos válidos en la API, se queda inactivo
+            continue  # otro tipo de fallo (sin partidas válidas, etc.), se queda inactivo
 
         fecha_5a = _quinta_partida_reciente(j['nombre'])
         if fecha_5a is None:

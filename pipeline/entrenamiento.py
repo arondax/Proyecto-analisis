@@ -10,6 +10,7 @@ import pipeline.limpieza_datos as limpieza_datos
 import pipeline.modelos as modelos
 import pandas as pd
 from datetime import datetime
+import pipeline.pool_entrenamiento as pool_entrenamiento
 
 #Clase
 def obtencion_lista():
@@ -94,7 +95,13 @@ def procesado_jugadores(datos, api_key):
         
         print(f"[{i + 1}/{total}] Procesando a {nombre_jugador}#{tag}...")
         
-        resultado= api.getData(nombre_jugador, tag, region, api_key)
+        try:
+            resultado= api.getData(nombre_jugador, tag, region, api_key)
+        except api.CuentaNoEncontrada as e:
+            print(f"[entrenamiento] {e} Se elimina del pool de entrenamiento.")
+            pool_entrenamiento.eliminar_jugador(nombre_jugador, tag)
+            continue
+        
         if not resultado:
             continue
         
