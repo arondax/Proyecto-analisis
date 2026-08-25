@@ -116961,8 +116961,8 @@
                     },
                     {
                         "puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                        "name": "\uc544\ub974\ud0c0\uc2a4",
-                        "tag": "1472",
+                        "name": "El Granaino",
+                        "tag": "2004",
                         "team": "Blue",
                         "level": 121,
                         "character": "Iso",
@@ -117695,8 +117695,8 @@
                     },
                     {
                         "puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                        "name": "\uc544\ub974\ud0c0\uc2a4",
-                        "tag": "1472",
+                        "name": "El Granaino",
+                        "tag": "2004",
                         "team": "Blue",
                         "level": 121,
                         "character": "Iso",
@@ -118697,7 +118697,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -118726,7 +118726,7 @@
                                     "killer_display_name": "Mind#RUBY",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1742,
@@ -118868,7 +118868,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -119291,7 +119291,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -119377,7 +119377,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1357,
@@ -119421,7 +119421,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2502,
@@ -119759,7 +119759,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -119781,7 +119781,7 @@
                                     "kill_time_in_round": 15006,
                                     "kill_time_in_match": 143952,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                                     "victim_display_name": "rAuL#5399",
@@ -119850,7 +119850,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2666,
@@ -120308,7 +120308,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1310,
@@ -120448,7 +120448,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -120477,7 +120477,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -1504,
@@ -120821,7 +120821,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1934,
@@ -121078,7 +121078,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2101,
@@ -121144,7 +121144,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -121175,7 +121175,7 @@
                                     "kill_time_in_round": 6593,
                                     "kill_time_in_match": 219574,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                                     "victim_display_name": "rAuL#5399",
@@ -121244,7 +121244,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1711,
@@ -121401,7 +121401,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1630,
@@ -121653,7 +121653,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -121729,7 +121729,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1272,
@@ -121829,7 +121829,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1438,
@@ -121867,7 +121867,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1136,
@@ -122209,7 +122209,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -868,
@@ -122381,7 +122381,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2571,
@@ -122499,7 +122499,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -122772,7 +122772,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "assistant_display_name": "El Granaino#2004",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -123017,7 +123017,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2613,
@@ -123182,7 +123182,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2627,
@@ -123286,7 +123286,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2023,
@@ -123423,7 +123423,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1708,
@@ -123537,7 +123537,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -123774,7 +123774,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2345,
@@ -123970,7 +123970,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4677,
@@ -124177,7 +124177,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1074,
@@ -124277,7 +124277,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1141,
@@ -124485,7 +124485,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -124627,7 +124627,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1058,
@@ -124707,7 +124707,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4206,
@@ -124796,7 +124796,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -124862,7 +124862,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4450,
@@ -124900,7 +124900,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4223,
@@ -125126,7 +125126,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -125182,7 +125182,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1483,
@@ -125262,7 +125262,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4554,
@@ -125290,7 +125290,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4917,
@@ -125607,7 +125607,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1066,
@@ -125701,7 +125701,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1095,
@@ -125795,7 +125795,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 397,
@@ -125961,7 +125961,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -968,
@@ -126043,7 +126043,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -126476,7 +126476,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4571,
@@ -126697,7 +126697,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2868,
@@ -126783,7 +126783,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "assistant_display_name": "El Granaino#2004",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -127010,7 +127010,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -442,
@@ -127092,7 +127092,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -127225,7 +127225,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 150,
@@ -127312,7 +127312,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 2,
@@ -127332,7 +127332,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4091,
@@ -127495,7 +127495,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2662,
@@ -127651,7 +127651,7 @@
                             },
                             {
                                 "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                "player_display_name": "El Granaino#2004",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 3236,
@@ -127719,7 +127719,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -127775,7 +127775,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5899,
@@ -127829,7 +127829,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6159,
@@ -128046,7 +128046,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4656,
@@ -128239,7 +128239,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1257,
@@ -128343,7 +128343,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4780,
@@ -128393,7 +128393,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 169,
@@ -128516,7 +128516,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5981,
@@ -128653,7 +128653,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5939,
@@ -128709,7 +128709,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -128895,7 +128895,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5183,
@@ -128955,7 +128955,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 274,
@@ -129150,7 +129150,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4505,
@@ -129221,7 +129221,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -129241,7 +129241,7 @@
                                     "killer_display_name": "Makakinho#ggwp",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -4616,
@@ -129685,7 +129685,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2215,
@@ -129751,7 +129751,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -129773,7 +129773,7 @@
                                     "kill_time_in_round": 14323,
                                     "kill_time_in_match": 902449,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0289d11-e896-5012-9e54-6e06e78a50f8",
                                     "victim_display_name": "Mind#RUBY",
@@ -129822,7 +129822,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -4721,
@@ -129997,7 +129997,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1039,
@@ -130290,7 +130290,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -130366,7 +130366,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -342,
@@ -130410,7 +130410,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -288,
@@ -130817,7 +130817,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 856,
@@ -131105,7 +131105,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -131405,7 +131405,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -347,
@@ -131870,7 +131870,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -131890,7 +131890,7 @@
                                     "killer_display_name": "Mind#RUBY",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": -2839,
@@ -132038,7 +132038,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -132611,7 +132611,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "assistant_display_name": "El Granaino#2004",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -133261,7 +133261,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2590,
@@ -133663,7 +133663,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -133752,7 +133752,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -133772,7 +133772,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 928,
@@ -134010,7 +134010,7 @@
                             },
                             {
                                 "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                "player_display_name": "El Granaino#2004",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 2115,
@@ -134290,7 +134290,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 505,
@@ -134384,7 +134384,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1702,
@@ -134458,7 +134458,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2528,
@@ -134615,7 +134615,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -463,
@@ -134723,7 +134723,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -134745,7 +134745,7 @@
                                     "kill_time_in_round": 24499,
                                     "kill_time_in_match": 1284707,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "b0289d11-e896-5012-9e54-6e06e78a50f8",
                                     "victim_display_name": "Mind#RUBY",
@@ -134804,7 +134804,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2014,
@@ -135383,7 +135383,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "assistant_display_name": "El Granaino#2004",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -135580,7 +135580,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1788,
@@ -135698,7 +135698,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -135764,7 +135764,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -135840,7 +135840,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2366,
@@ -135888,7 +135888,7 @@
                                     "killer_display_name": "Silviu03#5924",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 6307,
@@ -135995,7 +135995,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -136060,7 +136060,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2601,
@@ -136210,7 +136210,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -136239,7 +136239,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 612,
@@ -137047,7 +137047,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -137069,7 +137069,7 @@
                                     "kill_time_in_round": 2978,
                                     "kill_time_in_match": 1485809,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d097cb5e-7235-5db2-81b4-cb12aaddbee3",
                                     "victim_display_name": "Silviu03#5924",
@@ -137148,7 +137148,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -335,
@@ -137395,7 +137395,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -137415,7 +137415,7 @@
                                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 1427,
@@ -137593,7 +137593,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1544,
@@ -137677,7 +137677,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1556,
@@ -137943,7 +137943,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1546,
@@ -138061,7 +138061,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -138092,7 +138092,7 @@
                                     "kill_time_in_round": 30481,
                                     "kill_time_in_match": 1612193,
                                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "killer_display_name": "El Granaino#2004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "d349f753-b81c-54cc-a2d5-82fafeff13e6",
                                     "victim_display_name": "Makakinho#ggwp",
@@ -138121,7 +138121,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1555,
@@ -138262,7 +138262,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -138328,7 +138328,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1550,
@@ -138418,7 +138418,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1551,
@@ -138984,7 +138984,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3429,
@@ -139331,7 +139331,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3945,
@@ -139407,7 +139407,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -139506,7 +139506,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -139535,7 +139535,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4418,
@@ -139955,7 +139955,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1490,
@@ -140029,7 +140029,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1405,
@@ -140093,7 +140093,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1645,
@@ -140255,7 +140255,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1555,
@@ -140359,7 +140359,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1526,
@@ -140487,7 +140487,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -140589,7 +140589,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1062,
@@ -140726,7 +140726,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1557,
@@ -141036,7 +141036,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1005,
@@ -141201,7 +141201,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1546,
@@ -141315,7 +141315,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 1557,
@@ -141405,7 +141405,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -2491,
@@ -141561,7 +141561,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 2827,
@@ -141659,7 +141659,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -141924,7 +141924,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -141944,7 +141944,7 @@
                                     "killer_display_name": "Makakinho#ggwp",
                                     "killer_team": "Red",
                                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "victim_display_name": "El Granaino#2004",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 50,
@@ -142122,7 +142122,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -965,
@@ -142321,7 +142321,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3236,
@@ -142468,7 +142468,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3842,
@@ -142534,7 +142534,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -142695,7 +142695,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3430,
@@ -142779,7 +142779,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -178,
@@ -142874,7 +142874,7 @@
                                 },
                                 {
                                     "receiver_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                    "receiver_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                    "receiver_display_name": "El Granaino#2004",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -142930,7 +142930,7 @@
                                         },
                                         {
                                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                                            "player_display_name": "El Granaino#2004",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": -1356,
@@ -143077,7 +143077,7 @@
                     "killer_display_name": "Mind#RUBY",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1742,
@@ -143689,7 +143689,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1310,
@@ -143804,7 +143804,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1357,
@@ -143846,7 +143846,7 @@
                     "kill_time_in_match": 143952,
                     "round": 1,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                     "victim_display_name": "rAuL#5399",
@@ -143915,7 +143915,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2666,
@@ -143944,7 +143944,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2502,
@@ -144302,7 +144302,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1630,
@@ -144348,7 +144348,7 @@
                     "kill_time_in_match": 219574,
                     "round": 2,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                     "victim_display_name": "rAuL#5399",
@@ -144417,7 +144417,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1711,
@@ -144512,7 +144512,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2101,
@@ -144597,7 +144597,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1934,
@@ -144642,7 +144642,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -1504,
@@ -144903,7 +144903,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2571,
@@ -145008,7 +145008,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1272,
@@ -145119,7 +145119,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -868,
@@ -145210,7 +145210,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1438,
@@ -145249,7 +145249,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1136,
@@ -145437,7 +145437,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "assistant_display_name": "El Granaino#2004",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -145561,7 +145561,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2345,
@@ -145676,7 +145676,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2627,
@@ -145781,7 +145781,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2023,
@@ -145866,7 +145866,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1708,
@@ -145947,7 +145947,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2613,
@@ -146042,7 +146042,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1058,
@@ -146153,7 +146153,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1074,
@@ -146254,7 +146254,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1141,
@@ -146355,7 +146355,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4450,
@@ -146430,7 +146430,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4677,
@@ -146495,7 +146495,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4206,
@@ -146534,7 +146534,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4223,
@@ -146655,7 +146655,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -968,
@@ -146766,7 +146766,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1066,
@@ -146861,7 +146861,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1095,
@@ -146956,7 +146956,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 397,
@@ -147031,7 +147031,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1483,
@@ -147112,7 +147112,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4554,
@@ -147141,7 +147141,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4917,
@@ -147317,7 +147317,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -442,
@@ -147428,7 +147428,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 150,
@@ -147529,7 +147529,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2662,
@@ -147630,7 +147630,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2868,
@@ -147715,7 +147715,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4571,
@@ -147744,7 +147744,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4091,
@@ -147857,7 +147857,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "assistant_display_name": "El Granaino#2004",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -148026,7 +148026,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1257,
@@ -148141,7 +148141,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4656,
@@ -148236,7 +148236,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4780,
@@ -148327,7 +148327,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5939,
@@ -148402,7 +148402,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5981,
@@ -148467,7 +148467,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5899,
@@ -148522,7 +148522,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6159,
@@ -148567,7 +148567,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5183,
@@ -148628,7 +148628,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 274,
@@ -148663,7 +148663,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 169,
@@ -148754,7 +148754,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1039,
@@ -148869,7 +148869,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2215,
@@ -148964,7 +148964,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4505,
@@ -149000,7 +149000,7 @@
                     "kill_time_in_match": 902449,
                     "round": 9,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "b0289d11-e896-5012-9e54-6e06e78a50f8",
                     "victim_display_name": "Mind#RUBY",
@@ -149049,7 +149049,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -4721,
@@ -149088,7 +149088,7 @@
                     "killer_display_name": "Makakinho#ggwp",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -4616,
@@ -149367,7 +149367,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 856,
@@ -149488,7 +149488,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -347,
@@ -149583,7 +149583,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -342,
@@ -149628,7 +149628,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -288,
@@ -149965,7 +149965,7 @@
                     "killer_display_name": "Mind#RUBY",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": -2839,
@@ -150184,7 +150184,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "assistant_display_name": "El Granaino#2004",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -150683,7 +150683,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2590,
@@ -150732,7 +150732,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 928,
@@ -151374,7 +151374,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -463,
@@ -151479,7 +151479,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 505,
@@ -151515,7 +151515,7 @@
                     "kill_time_in_match": 1284707,
                     "round": 13,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "b0289d11-e896-5012-9e54-6e06e78a50f8",
                     "victim_display_name": "Mind#RUBY",
@@ -151574,7 +151574,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2014,
@@ -151669,7 +151669,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1702,
@@ -151744,7 +151744,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2528,
@@ -151829,7 +151829,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2366,
@@ -151924,7 +151924,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1788,
@@ -152009,7 +152009,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2601,
@@ -152064,7 +152064,7 @@
                     "killer_display_name": "Silviu03#5924",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 6307,
@@ -152303,7 +152303,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "assistant_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "assistant_display_name": "El Granaino#2004",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -152348,7 +152348,7 @@
                     "kill_time_in_match": 1485809,
                     "round": 15,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "d097cb5e-7235-5db2-81b4-cb12aaddbee3",
                     "victim_display_name": "Silviu03#5924",
@@ -152427,7 +152427,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -335,
@@ -152466,7 +152466,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 612,
@@ -153029,7 +153029,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1546,
@@ -153134,7 +153134,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1544,
@@ -153229,7 +153229,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1550,
@@ -153320,7 +153320,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1551,
@@ -153411,7 +153411,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1556,
@@ -153453,7 +153453,7 @@
                     "kill_time_in_match": 1612193,
                     "round": 16,
                     "killer_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "killer_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "killer_display_name": "El Granaino#2004",
                     "killer_team": "Blue",
                     "victim_puuid": "d349f753-b81c-54cc-a2d5-82fafeff13e6",
                     "victim_display_name": "Makakinho#ggwp",
@@ -153482,7 +153482,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1555,
@@ -153521,7 +153521,7 @@
                     "killer_display_name": "Minnie Empiric\u00e1\u30c5#928",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 1427,
@@ -153648,7 +153648,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3945,
@@ -153753,7 +153753,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3429,
@@ -153802,7 +153802,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4418,
@@ -154243,7 +154243,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1555,
@@ -154348,7 +154348,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1526,
@@ -154443,7 +154443,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1557,
@@ -154544,7 +154544,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1490,
@@ -154619,7 +154619,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1405,
@@ -154684,7 +154684,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1062,
@@ -154749,7 +154749,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1645,
@@ -154850,7 +154850,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1546,
@@ -154965,7 +154965,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 1557,
@@ -155076,7 +155076,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 2827,
@@ -155161,7 +155161,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1005,
@@ -155236,7 +155236,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -2491,
@@ -155331,7 +155331,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3430,
@@ -155446,7 +155446,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3236,
@@ -155541,7 +155541,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3842,
@@ -155626,7 +155626,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -965,
@@ -155701,7 +155701,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -1356,
@@ -155792,7 +155792,7 @@
                         },
                         {
                             "player_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                            "player_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                            "player_display_name": "El Granaino#2004",
                             "player_team": "Blue",
                             "location": {
                                 "x": -178,
@@ -155837,7 +155837,7 @@
                     "killer_display_name": "Makakinho#ggwp",
                     "killer_team": "Red",
                     "victim_puuid": "144ef9d4-3f78-529b-bfae-aab40ca8d893",
-                    "victim_display_name": "\uc544\ub974\ud0c0\uc2a4#1472",
+                    "victim_display_name": "El Granaino#2004",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 50,
