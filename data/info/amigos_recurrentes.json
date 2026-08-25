@@ -426,9 +426,9 @@
             "nombre": "MissMeri",
             "tag": "UWU",
             "region": "eu",
-            "apariciones": 13,
+            "apariciones": 15,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "frVamper",
@@ -2268,9 +2268,9 @@
             "nombre": "Draco811",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 13,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "CUCAA",
@@ -3833,9 +3833,9 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "super mario",
@@ -3950,8 +3950,9 @@
             "nombre": "talibandudu",
             "tag": "chuen",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "PazPadilla",
@@ -3980,6 +3981,13 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-08-24"
+        },
+        {
+            "nombre": "anttiiaa",
+            "tag": "flor",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-25"
         }
     ]
 }
