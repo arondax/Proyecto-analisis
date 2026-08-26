@@ -684,7 +684,7 @@
                     },
                     {
                         "puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                        "name": "El farlopa",
+                        "name": "No lo silven",
                         "tag": "112",
                         "team": "Red",
                         "level": 305,
@@ -1051,7 +1051,7 @@
                     },
                     {
                         "puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                        "name": "El farlopa",
+                        "name": "No lo silven",
                         "tag": "112",
                         "team": "Red",
                         "level": 305,
@@ -1540,7 +1540,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1569,7 +1569,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4696,
@@ -2028,7 +2028,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -2732,7 +2732,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4690,
@@ -2945,7 +2945,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3599,
@@ -3039,7 +3039,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1355,
@@ -3133,7 +3133,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5041,
@@ -3282,7 +3282,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -3358,7 +3358,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4103,
@@ -3462,7 +3462,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1498,
@@ -3500,7 +3500,7 @@
                                     "killer_display_name": "DIOJOESTAR#STAR",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5717,
@@ -3572,7 +3572,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -3815,7 +3815,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -3871,7 +3871,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4561,
@@ -3925,7 +3925,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5942,
@@ -4025,7 +4025,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6039,
@@ -4104,7 +4104,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -4188,7 +4188,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6036,
@@ -4226,7 +4226,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6024,
@@ -4579,7 +4579,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4955,
@@ -4717,7 +4717,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4748,7 +4748,7 @@
                                     "kill_time_in_round": 26134,
                                     "kill_time_in_match": 292434,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -4797,7 +4797,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4540,
@@ -4852,7 +4852,7 @@
                                     "kill_time_in_round": 32552,
                                     "kill_time_in_match": 298852,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                                     "victim_display_name": "AYNX#bla3",
@@ -4901,7 +4901,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6044,
@@ -5229,7 +5229,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -5310,7 +5310,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4553,
@@ -5380,7 +5380,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -5575,7 +5575,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4554,
@@ -5669,7 +5669,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5031,
@@ -5733,7 +5733,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6628,
@@ -5793,7 +5793,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6879,
@@ -5891,7 +5891,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -6012,7 +6012,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4550,
@@ -6116,7 +6116,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5007,
@@ -6200,7 +6200,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6219,
@@ -6345,7 +6345,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4541,
@@ -6637,7 +6637,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4527,
@@ -6805,7 +6805,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6160,
@@ -6962,7 +6962,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4243,
@@ -7060,7 +7060,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -7091,7 +7091,7 @@
                                     "kill_time_in_round": 40480,
                                     "kill_time_in_match": 518201,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                                     "victim_display_name": "Cyb3rZ#weed",
@@ -7130,7 +7130,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6454,
@@ -7201,7 +7201,7 @@
                                     "kill_time_in_round": 63019,
                                     "kill_time_in_match": 540740,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -7240,7 +7240,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4751,
@@ -7367,7 +7367,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5246,
@@ -7521,7 +7521,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -7629,7 +7629,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5302,
@@ -7772,7 +7772,7 @@
                         },
                         "planted_by": {
                             "puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "display_name": "El farlopa#112",
+                            "display_name": "No lo silven#112",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -7800,7 +7800,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7841,
@@ -7967,7 +7967,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6014,
@@ -8137,7 +8137,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -8249,7 +8249,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6116,
@@ -8414,7 +8414,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6021,
@@ -8494,7 +8494,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7820,
@@ -8682,7 +8682,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5331,
@@ -8786,7 +8786,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6540,
@@ -8944,7 +8944,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7339,
@@ -9121,7 +9121,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5984,
@@ -9231,7 +9231,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7048,
@@ -9387,7 +9387,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6964,
@@ -9495,7 +9495,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9517,7 +9517,7 @@
                                     "kill_time_in_round": 42763,
                                     "kill_time_in_match": 742565,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                                     "victim_display_name": "Cyb3rZ#weed",
@@ -9556,7 +9556,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7304,
@@ -9858,7 +9858,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6937,
@@ -10046,7 +10046,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10122,7 +10122,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4283,
@@ -10180,7 +10180,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4845,
@@ -10416,7 +10416,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3328,
@@ -10520,7 +10520,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3678,
@@ -10596,7 +10596,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -10645,7 +10645,7 @@
                                     "kill_time_in_round": 23649,
                                     "kill_time_in_match": 803221,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                                     "victim_display_name": "AYNX#bla3",
@@ -10704,7 +10704,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4566,
@@ -10749,7 +10749,7 @@
                                     "kill_time_in_round": 30652,
                                     "kill_time_in_match": 810224,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -10788,7 +10788,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3920,
@@ -10833,7 +10833,7 @@
                                     "kill_time_in_round": 34466,
                                     "kill_time_in_match": 814038,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                                     "victim_display_name": "AYNX#bla3",
@@ -10862,7 +10862,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3662,
@@ -10897,7 +10897,7 @@
                                     "kill_time_in_round": 60016,
                                     "kill_time_in_match": 839588,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -10926,7 +10926,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4067,
@@ -10987,7 +10987,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -11211,7 +11211,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3849,
@@ -11321,7 +11321,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7801,
@@ -11447,7 +11447,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5814,
@@ -11688,7 +11688,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4351,
@@ -11784,7 +11784,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11815,7 +11815,7 @@
                                     "kill_time_in_round": 35785,
                                     "kill_time_in_match": 937194,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -11854,7 +11854,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7342,
@@ -11899,7 +11899,7 @@
                                     "kill_time_in_round": 57496,
                                     "kill_time_in_match": 958905,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -11938,7 +11938,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7735,
@@ -12009,7 +12009,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -12038,7 +12038,7 @@
                                     "killer_display_name": "AYNX#bla3",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7356,
@@ -12253,7 +12253,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6013,
@@ -12337,7 +12337,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6814,
@@ -12575,7 +12575,7 @@
                         },
                         "planted_by": {
                             "puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "display_name": "El farlopa#112",
+                            "display_name": "No lo silven#112",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -12583,7 +12583,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6019,
@@ -12699,7 +12699,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1494,
@@ -12865,7 +12865,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4770,
@@ -12969,7 +12969,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5371,
@@ -13157,7 +13157,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5518,
@@ -13233,7 +13233,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13255,7 +13255,7 @@
                                     "kill_time_in_round": 35739,
                                     "kill_time_in_match": 1056933,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -13284,7 +13284,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4545,
@@ -13485,7 +13485,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4544,
@@ -13627,7 +13627,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4888,
@@ -13671,7 +13671,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5650,
@@ -13785,7 +13785,7 @@
                         },
                         "planted_by": {
                             "puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "display_name": "El farlopa#112",
+                            "display_name": "No lo silven#112",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -13803,7 +13803,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5717,
@@ -13862,7 +13862,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -13946,7 +13946,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6865,
@@ -14004,7 +14004,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6006,
@@ -14295,7 +14295,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -14397,7 +14397,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6545,
@@ -14588,7 +14588,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5957,
@@ -14682,7 +14682,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6925,
@@ -14766,7 +14766,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6249,
@@ -14862,7 +14862,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -14908,7 +14908,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5044,
@@ -15330,7 +15330,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6475,
@@ -15424,7 +15424,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6674,
@@ -15520,7 +15520,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -15567,7 +15567,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -15596,7 +15596,7 @@
                                     "killer_display_name": "AYNX#bla3",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5768,
@@ -15783,7 +15783,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6933,
@@ -15893,7 +15893,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -16020,7 +16020,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4198,
@@ -16157,7 +16157,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5837,
@@ -16287,7 +16287,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7878,
@@ -16366,7 +16366,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -16432,7 +16432,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8982,
@@ -16500,7 +16500,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7324,
@@ -16728,7 +16728,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16759,7 +16759,7 @@
                                     "kill_time_in_round": 24482,
                                     "kill_time_in_match": 1366243,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -16808,7 +16808,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7582,
@@ -16853,7 +16853,7 @@
                                     "kill_time_in_round": 37412,
                                     "kill_time_in_match": 1379173,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -16882,7 +16882,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9544,
@@ -17024,7 +17024,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9257,
@@ -17098,7 +17098,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7595,
@@ -17207,7 +17207,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17314,7 +17314,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9360,
@@ -17470,7 +17470,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7803,
@@ -18019,7 +18019,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "assistant_display_name": "El farlopa#112",
+                                            "assistant_display_name": "No lo silven#112",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18139,7 +18139,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -18168,7 +18168,7 @@
                                     "killer_display_name": "DIOJOESTAR#STAR",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4739,
@@ -18310,7 +18310,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18994,7 +18994,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8698,
@@ -19157,7 +19157,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8721,
@@ -19305,7 +19305,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -19327,7 +19327,7 @@
                                     "kill_time_in_round": 40440,
                                     "kill_time_in_match": 1570396,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                                     "victim_display_name": "Cyb3rZ#weed",
@@ -19366,7 +19366,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5525,
@@ -19560,7 +19560,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8689,
@@ -19755,7 +19755,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7368,
@@ -19917,7 +19917,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6933,
@@ -20105,7 +20105,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7323,
@@ -20295,7 +20295,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -20342,7 +20342,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -20613,7 +20613,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -20678,7 +20678,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7310,
@@ -20782,7 +20782,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6505,
@@ -20840,7 +20840,7 @@
                                     "killer_display_name": "candiachoco\u30c4#3439",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6415,
@@ -21070,7 +21070,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 9731,
@@ -21333,7 +21333,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -21482,7 +21482,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -21576,7 +21576,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9578,
@@ -21680,7 +21680,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 9731,
@@ -21744,7 +21744,7 @@
                                     "killer_display_name": "\u30b7DarkAngel\u30c4#0815",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 9441,
@@ -22344,7 +22344,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 4632,
@@ -22573,7 +22573,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6899,
@@ -22605,7 +22605,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "assistant_display_name": "El farlopa#112",
+                                            "assistant_display_name": "No lo silven#112",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -22687,7 +22687,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -22852,7 +22852,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4629,
@@ -23028,7 +23028,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4564,
@@ -23189,7 +23189,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -23264,7 +23264,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5291,
@@ -23348,7 +23348,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7486,
@@ -23396,7 +23396,7 @@
                                     "killer_display_name": "candiachoco\u30c4#3439",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6588,
@@ -24000,7 +24000,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -24029,7 +24029,7 @@
                                     "killer_display_name": "DIOJOESTAR#STAR",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8051,
@@ -24227,7 +24227,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -24922,7 +24922,7 @@
                             },
                             {
                                 "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                "player_display_name": "El farlopa#112",
+                                "player_display_name": "No lo silven#112",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 7707,
@@ -25067,7 +25067,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7697,
@@ -25373,7 +25373,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -25439,7 +25439,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8959,
@@ -25507,7 +25507,7 @@
                                     "killer_display_name": "DIOJOESTAR#STAR",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7707,
@@ -25629,7 +25629,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -26194,7 +26194,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8102,
@@ -26463,7 +26463,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8221,
@@ -26539,7 +26539,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -26579,7 +26579,7 @@
                                     "kill_time_in_round": 15255,
                                     "kill_time_in_match": 2042676,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                                     "victim_display_name": "AYNX#bla3",
@@ -26638,7 +26638,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5805,
@@ -26693,7 +26693,7 @@
                                     "kill_time_in_round": 48044,
                                     "kill_time_in_match": 2075465,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -26732,7 +26732,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8271,
@@ -26783,7 +26783,7 @@
                                     "kill_time_in_round": 56906,
                                     "kill_time_in_match": 2084327,
                                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "killer_display_name": "El farlopa#112",
+                                    "killer_display_name": "No lo silven#112",
                                     "killer_team": "Red",
                                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -26812,7 +26812,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8377,
@@ -26982,7 +26982,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -27028,7 +27028,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 8188,
@@ -27160,7 +27160,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -27189,7 +27189,7 @@
                                     "killer_display_name": "candiachoco\u30c4#3439",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 8377,
@@ -27424,7 +27424,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "receiver_display_name": "El farlopa#112",
+                                    "receiver_display_name": "No lo silven#112",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -27500,7 +27500,7 @@
                                         },
                                         {
                                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                            "player_display_name": "El farlopa#112",
+                                            "player_display_name": "No lo silven#112",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5158,
@@ -27558,7 +27558,7 @@
                                     "killer_display_name": "Cyb3rZ#weed",
                                     "killer_team": "Blue",
                                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                                    "victim_display_name": "El farlopa#112",
+                                    "victim_display_name": "No lo silven#112",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5100,
@@ -27921,7 +27921,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -28641,7 +28641,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4696,
@@ -29316,7 +29316,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4103,
@@ -29431,7 +29431,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3599,
@@ -29526,7 +29526,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 1355,
@@ -29621,7 +29621,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 1498,
@@ -29706,7 +29706,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5041,
@@ -29771,7 +29771,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4561,
@@ -29826,7 +29826,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5942,
@@ -29855,7 +29855,7 @@
                     "killer_display_name": "DIOJOESTAR#STAR",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5717,
@@ -29946,7 +29946,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4955,
@@ -30012,7 +30012,7 @@
                     "kill_time_in_match": 292434,
                     "round": 2,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -30061,7 +30061,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4540,
@@ -30117,7 +30117,7 @@
                     "kill_time_in_match": 298852,
                     "round": 2,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                     "victim_display_name": "AYNX#bla3",
@@ -30166,7 +30166,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6044,
@@ -30267,7 +30267,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6036,
@@ -30306,7 +30306,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6024,
@@ -30592,7 +30592,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4541,
@@ -30703,7 +30703,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4550,
@@ -30808,7 +30808,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4554,
@@ -30903,7 +30903,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5007,
@@ -30988,7 +30988,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5031,
@@ -31063,7 +31063,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6219,
@@ -31118,7 +31118,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6628,
@@ -31179,7 +31179,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6879,
@@ -31244,7 +31244,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6160,
@@ -31310,7 +31310,7 @@
                     "kill_time_in_match": 518201,
                     "round": 4,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                     "victim_display_name": "Cyb3rZ#weed",
@@ -31349,7 +31349,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6454,
@@ -31460,7 +31460,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5246,
@@ -31566,7 +31566,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5302,
@@ -31612,7 +31612,7 @@
                     "kill_time_in_match": 540740,
                     "round": 4,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -31651,7 +31651,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4751,
@@ -31726,7 +31726,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4243,
@@ -31801,7 +31801,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5331,
@@ -31916,7 +31916,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6014,
@@ -32021,7 +32021,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6021,
@@ -32112,7 +32112,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6116,
@@ -32197,7 +32197,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6540,
@@ -32268,7 +32268,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7820,
@@ -32363,7 +32363,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5984,
@@ -32474,7 +32474,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6937,
@@ -32585,7 +32585,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7048,
@@ -32680,7 +32680,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6964,
@@ -32716,7 +32716,7 @@
                     "kill_time_in_match": 742565,
                     "round": 6,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                     "victim_display_name": "Cyb3rZ#weed",
@@ -32755,7 +32755,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7304,
@@ -32850,7 +32850,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4283,
@@ -32906,7 +32906,7 @@
                     "kill_time_in_match": 803221,
                     "round": 7,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                     "victim_display_name": "AYNX#bla3",
@@ -32965,7 +32965,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4566,
@@ -33060,7 +33060,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3328,
@@ -33165,7 +33165,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3678,
@@ -33211,7 +33211,7 @@
                     "kill_time_in_match": 810224,
                     "round": 7,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -33250,7 +33250,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3920,
@@ -33325,7 +33325,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3849,
@@ -33371,7 +33371,7 @@
                     "kill_time_in_match": 814038,
                     "round": 7,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                     "victim_display_name": "AYNX#bla3",
@@ -33400,7 +33400,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 3662,
@@ -33436,7 +33436,7 @@
                     "kill_time_in_match": 839588,
                     "round": 7,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -33465,7 +33465,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4067,
@@ -33494,7 +33494,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4845,
@@ -33585,7 +33585,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4351,
@@ -33700,7 +33700,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6013,
@@ -33805,7 +33805,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5814,
@@ -33851,7 +33851,7 @@
                     "kill_time_in_match": 937194,
                     "round": 8,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -33890,7 +33890,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7342,
@@ -33936,7 +33936,7 @@
                     "kill_time_in_match": 958905,
                     "round": 8,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -33975,7 +33975,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7735,
@@ -34040,7 +34040,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6814,
@@ -34079,7 +34079,7 @@
                     "killer_display_name": "AYNX#bla3",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7356,
@@ -34276,7 +34276,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 1494,
@@ -34381,7 +34381,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4770,
@@ -34486,7 +34486,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5371,
@@ -34571,7 +34571,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5518,
@@ -34646,7 +34646,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4544,
@@ -34698,7 +34698,7 @@
                     "kill_time_in_match": 1056933,
                     "round": 9,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -34727,7 +34727,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4545,
@@ -34792,7 +34792,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4888,
@@ -34837,7 +34837,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5650,
@@ -34922,7 +34922,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5957,
@@ -35027,7 +35027,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6865,
@@ -35122,7 +35122,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6925,
@@ -35207,7 +35207,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6545,
@@ -35298,7 +35298,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6249,
@@ -35379,7 +35379,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5044,
@@ -35418,7 +35418,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6006,
@@ -35629,7 +35629,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4198,
@@ -35734,7 +35734,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6475,
@@ -35829,7 +35829,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6674,
@@ -35914,7 +35914,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6933,
@@ -35999,7 +35999,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5837,
@@ -36058,7 +36058,7 @@
                     "killer_display_name": "AYNX#bla3",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5768,
@@ -36224,7 +36224,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8982,
@@ -36339,7 +36339,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7803,
@@ -36401,7 +36401,7 @@
                     "kill_time_in_match": 1366243,
                     "round": 12,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -36450,7 +36450,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7582,
@@ -36535,7 +36535,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 9257,
@@ -36610,7 +36610,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 9360,
@@ -36656,7 +36656,7 @@
                     "kill_time_in_match": 1379173,
                     "round": 12,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "c7bfcc76-54e1-57ee-afaa-07358e5f467c",
                     "victim_display_name": "candiachoco\u30c4#3439",
@@ -36685,7 +36685,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 9544,
@@ -36756,7 +36756,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7595,
@@ -36791,7 +36791,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7324,
@@ -36847,7 +36847,7 @@
                     "killer_display_name": "DIOJOESTAR#STAR",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4739,
@@ -37060,7 +37060,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "assistant_display_name": "El farlopa#112",
+                            "assistant_display_name": "No lo silven#112",
                             "assistant_team": "Red"
                         }
                     ]
@@ -37511,7 +37511,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8721,
@@ -37626,7 +37626,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8698,
@@ -37737,7 +37737,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8689,
@@ -37838,7 +37838,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7368,
@@ -37874,7 +37874,7 @@
                     "kill_time_in_match": 1570396,
                     "round": 14,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "5ae5c664-a440-582d-9232-a3150c4448ff",
                     "victim_display_name": "Cyb3rZ#weed",
@@ -37913,7 +37913,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5525,
@@ -38004,7 +38004,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7323,
@@ -38109,7 +38109,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7310,
@@ -38214,7 +38214,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6505,
@@ -38273,7 +38273,7 @@
                     "killer_display_name": "candiachoco\u30c4#3439",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6415,
@@ -38554,7 +38554,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 9578,
@@ -38659,7 +38659,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 9731,
@@ -38724,7 +38724,7 @@
                     "killer_display_name": "\u30b7DarkAngel\u30c4#0815",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 9441,
@@ -39151,7 +39151,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4629,
@@ -39266,7 +39266,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 4564,
@@ -39371,7 +39371,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5291,
@@ -39456,7 +39456,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7486,
@@ -39541,7 +39541,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 6899,
@@ -39573,7 +39573,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "assistant_display_name": "El farlopa#112",
+                            "assistant_display_name": "No lo silven#112",
                             "assistant_team": "Red"
                         }
                     ]
@@ -39586,7 +39586,7 @@
                     "killer_display_name": "candiachoco\u30c4#3439",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6588,
@@ -39712,7 +39712,7 @@
                     "killer_display_name": "DIOJOESTAR#STAR",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8051,
@@ -40495,7 +40495,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8959,
@@ -40610,7 +40610,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 7697,
@@ -40669,7 +40669,7 @@
                     "killer_display_name": "DIOJOESTAR#STAR",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7707,
@@ -40992,7 +40992,7 @@
                     "kill_time_in_match": 2042676,
                     "round": 20,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "d08163c4-ad92-5df1-a87c-d45aba096c0f",
                     "victim_display_name": "AYNX#bla3",
@@ -41051,7 +41051,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5805,
@@ -41156,7 +41156,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8102,
@@ -41261,7 +41261,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8221,
@@ -41307,7 +41307,7 @@
                     "kill_time_in_match": 2075465,
                     "round": 20,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "6e9d8b13-dfc8-5e65-a7b6-4da66e3c09b3",
                     "victim_display_name": "DIOJOESTAR#STAR",
@@ -41346,7 +41346,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8271,
@@ -41427,7 +41427,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8188,
@@ -41473,7 +41473,7 @@
                     "kill_time_in_match": 2084327,
                     "round": 20,
                     "killer_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "killer_display_name": "El farlopa#112",
+                    "killer_display_name": "No lo silven#112",
                     "killer_team": "Red",
                     "victim_puuid": "82c9e64d-7189-58d0-a7ba-111df57db923",
                     "victim_display_name": "\u30b7DarkAngel\u30c4#0815",
@@ -41502,7 +41502,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 8377,
@@ -41547,7 +41547,7 @@
                     "killer_display_name": "candiachoco\u30c4#3439",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 8377,
@@ -41709,7 +41709,7 @@
                         },
                         {
                             "player_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                            "player_display_name": "El farlopa#112",
+                            "player_display_name": "No lo silven#112",
                             "player_team": "Red",
                             "location": {
                                 "x": 5158,
@@ -41768,7 +41768,7 @@
                     "killer_display_name": "Cyb3rZ#weed",
                     "killer_team": "Blue",
                     "victim_puuid": "3b6469dc-e5fe-500f-84c0-a43de5385f3a",
-                    "victim_display_name": "El farlopa#112",
+                    "victim_display_name": "No lo silven#112",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5100,

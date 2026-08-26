@@ -426,7 +426,7 @@
             "nombre": "MissMeri",
             "tag": "UWU",
             "region": "eu",
-            "apariciones": 15,
+            "apariciones": 20,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-25"
         },
@@ -434,7 +434,7 @@
             "nombre": "frVamper",
             "tag": "EPA",
             "region": "eu",
-            "apariciones": 16,
+            "apariciones": 21,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-25"
         },
@@ -927,7 +927,7 @@
             "nombre": "Bonnie",
             "tag": "4106",
             "region": "eu",
-            "apariciones": 9,
+            "apariciones": 12,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-25"
         },
@@ -2204,9 +2204,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 11,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-25"
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "C4volp",
@@ -2276,9 +2276,9 @@
             "nombre": "CUCAA",
             "tag": "CUCAA",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 15,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-25"
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "BIGFiSH Fred",
@@ -2882,8 +2882,9 @@
             "nombre": "bekonn",
             "tag": "stay",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "Fly1Heroo",
@@ -3667,8 +3668,9 @@
             "nombre": "Fil1pp",
             "tag": "1326",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 5,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "valou",
@@ -3872,15 +3874,15 @@
             "nombre": "fallen demon",
             "tag": "exe",
             "region": "eu",
-            "apariciones": 5,
+            "apariciones": 8,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "marcy",
             "tag": "andy",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-25"
         },
@@ -3888,9 +3890,9 @@
             "nombre": "QueridaConchi",
             "tag": "bobok",
             "region": "eu",
-            "apariciones": 5,
+            "apariciones": 6,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "ANY3R999",
@@ -3963,8 +3965,9 @@
             "nombre": "PazPadilla",
             "tag": "obesa",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-25"
         },
         {
             "nombre": "3 is average",
@@ -4028,6 +4031,48 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-08-25"
+        },
+        {
+            "nombre": "Kuromi",
+            "tag": "Guppy",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "pepinilloatomico",
+            "tag": "1836",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "Hugomotokros",
+            "tag": "HMK",
+            "region": "eu",
+            "apariciones": 5,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "FreeKayFlock",
+            "tag": "Sev",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "Morcilla",
+            "tag": "LPGC",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "ReJ\u0142",
+            "tag": "SEFIR",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-08-26"
         }
     ]
 }
