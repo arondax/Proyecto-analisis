@@ -434,9 +434,9 @@
             "nombre": "frVamper",
             "tag": "EPA",
             "region": "eu",
-            "apariciones": 21,
+            "apariciones": 22,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-25"
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "Yeer",
@@ -2254,8 +2254,9 @@
             "nombre": "AtaqueRapido",
             "tag": "9238",
             "region": "eu",
-            "apariciones": 8,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 10,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "elsaulillomanda",
@@ -2268,7 +2269,7 @@
             "nombre": "Draco811",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 17,
+            "apariciones": 19,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-26"
         },
@@ -3874,9 +3875,9 @@
             "nombre": "fallen demon",
             "tag": "exe",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 9,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-25"
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "marcy",
@@ -3934,9 +3935,9 @@
             "nombre": "carolina",
             "tag": "tired",
             "region": "eu",
-            "apariciones": 10,
+            "apariciones": 11,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-25"
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "nessabarrett",
@@ -3973,15 +3974,17 @@
             "nombre": "3 is average",
             "tag": "inch",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "MKOI Andresito",
             "tag": "6969",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 5,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "bomboclatpoo",
@@ -4036,21 +4039,23 @@
             "nombre": "Kuromi",
             "tag": "Guppy",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-26"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-26",
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "pepinilloatomico",
             "tag": "1836",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-26"
+            "apariciones": 4,
+            "amigo_desde": "2026-08-26",
+            "ultima_vez": "2026-08-26"
         },
         {
             "nombre": "Hugomotokros",
             "tag": "HMK",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 9,
             "amigo_desde": "2026-08-26",
             "ultima_vez": "2026-08-26"
         },
@@ -4075,6 +4080,48 @@
             "apariciones": 5,
             "amigo_desde": "2026-08-26",
             "ultima_vez": "2026-08-26"
+        },
+        {
+            "nombre": "yung uterus",
+            "tag": "yung",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "xpir1ng",
+            "tag": "KASAP",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "ElXokoslocos",
+            "tag": "EUNE",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "Maiguek027",
+            "tag": "Chivo",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "LefazoEstelar",
+            "tag": "cara",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
+        },
+        {
+            "nombre": "KEKSIKmg",
+            "tag": "7516",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-26"
         }
     ]
 }
