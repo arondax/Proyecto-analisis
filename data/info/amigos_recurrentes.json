@@ -558,17 +558,17 @@
             "nombre": "Azure",
             "tag": "017",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 9,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "ComePal0mas",
             "tag": "9759",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 8,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "\u30de\u30ea\u611b\u3057\u3066\u308b\u3088",
@@ -1683,9 +1683,9 @@
             "nombre": "xhyper32",
             "tag": "EUW",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "\u30a8\u30ea\u30ba\u30eb\u30af\u30b9",
@@ -2203,9 +2203,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 16,
+            "apariciones": 17,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "C4volp",
@@ -2268,9 +2268,9 @@
             "nombre": "Draco811",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 28,
+            "apariciones": 31,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "CUCAA",
@@ -3838,9 +3838,9 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 13,
+            "apariciones": 15,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "super mario",
@@ -3928,8 +3928,9 @@
             "nombre": "YuJianXJ",
             "tag": "8376",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-08-24"
+            "apariciones": 5,
+            "amigo_desde": "2026-08-24",
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "carolina",
@@ -4140,15 +4141,17 @@
             "nombre": "Siera \u062a",
             "tag": "uchdA",
             "region": "eu",
-            "apariciones": 7,
-            "amigo_desde": "2026-08-27"
+            "apariciones": 8,
+            "amigo_desde": "2026-08-27",
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "Lisbi",
             "tag": "Rob",
             "region": "eu",
-            "apariciones": 7,
-            "amigo_desde": "2026-08-27"
+            "apariciones": 8,
+            "amigo_desde": "2026-08-27",
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "jeng",
@@ -4254,8 +4257,9 @@
             "nombre": "yuna",
             "tag": "8899",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-08-27"
+            "apariciones": 7,
+            "amigo_desde": "2026-08-27",
+            "ultima_vez": "2026-08-28"
         },
         {
             "nombre": "mutu",
@@ -4263,6 +4267,27 @@
             "region": "eu",
             "apariciones": 5,
             "amigo_desde": "2026-08-27"
+        },
+        {
+            "nombre": "0rumble",
+            "tag": "2000",
+            "region": "eu",
+            "apariciones": 6,
+            "amigo_desde": "2026-08-28"
+        },
+        {
+            "nombre": "UghMizzy",
+            "tag": "The1",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-08-28"
+        },
+        {
+            "nombre": "\u3053\u3093\u306b",
+            "tag": "RTT",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-28"
         }
     ]
 }
