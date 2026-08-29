@@ -100145,8 +100145,8 @@
                     },
                     {
                         "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                        "name": "GalicianCore",
-                        "tag": "Pepit",
+                        "name": "SDC Pepstzy",
+                        "tag": "Pepts",
                         "team": "Red",
                         "level": 43,
                         "character": "Jett",
@@ -100731,8 +100731,8 @@
                     },
                     {
                         "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                        "name": "GalicianCore",
-                        "tag": "Pepit",
+                        "name": "SDC Pepstzy",
+                        "tag": "Pepts",
                         "team": "Red",
                         "level": 43,
                         "character": "Jett",
@@ -101366,7 +101366,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -101395,7 +101395,7 @@
                                     "killer_display_name": "Derivadario hot#8389",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6676,
@@ -102195,7 +102195,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -102448,7 +102448,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -102516,7 +102516,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -102724,7 +102724,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -102780,7 +102780,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 368,
@@ -102894,7 +102894,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -355,
@@ -102998,7 +102998,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -142,
@@ -103046,7 +103046,7 @@
                                     "killer_display_name": "Pegasored#5549",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1065,
@@ -103468,7 +103468,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -214,
@@ -103520,7 +103520,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "assistant_display_name": "GalicianCore#Pepit",
+                                            "assistant_display_name": "SDC Pepstzy#Pepts",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -103607,7 +103607,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -103638,7 +103638,7 @@
                                     "kill_time_in_round": 26142,
                                     "kill_time_in_match": 168053,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                                     "victim_display_name": "Derivadario hot#8389",
@@ -103667,7 +103667,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -138,
@@ -103784,7 +103784,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -103836,7 +103836,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -103856,7 +103856,7 @@
                                     "killer_display_name": "ItsNicocox#2049",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2283,
@@ -103998,7 +103998,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2683,
@@ -104183,7 +104183,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2180,
@@ -104293,7 +104293,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -104349,7 +104349,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1997,
@@ -104606,7 +104606,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2513,
@@ -104716,7 +104716,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2521,
@@ -104810,7 +104810,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2672,
@@ -104876,7 +104876,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -104907,7 +104907,7 @@
                                     "kill_time_in_round": 31357,
                                     "kill_time_in_match": 260928,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                                     "victim_display_name": "Derivadario hot#8389",
@@ -104936,7 +104936,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2027,
@@ -104961,7 +104961,7 @@
                                     "kill_time_in_round": 43216,
                                     "kill_time_in_match": 272787,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "a6066112-5acd-57c5-b544-7d9cf0b38e36",
                                     "victim_display_name": "FolasFelas#123",
@@ -104990,7 +104990,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2283,
@@ -105042,7 +105042,7 @@
                         },
                         "planted_by": {
                             "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "display_name": "GalicianCore#Pepit",
+                            "display_name": "SDC Pepstzy#Pepts",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -105060,7 +105060,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6970,
@@ -105187,7 +105187,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -105303,7 +105303,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6033,
@@ -105534,7 +105534,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -105590,7 +105590,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2377,
@@ -105668,7 +105668,7 @@
                                     "killer_display_name": "Pegasored#5549",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5996,
@@ -106095,7 +106095,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1311,
@@ -106295,7 +106295,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -106351,7 +106351,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -106495,7 +106495,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -106533,7 +106533,7 @@
                                     "killer_display_name": "Derivadario hot#8389",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 952,
@@ -107113,7 +107113,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 777,
@@ -107227,7 +107227,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1807,
@@ -107684,7 +107684,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -107760,7 +107760,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6914,
@@ -107938,7 +107938,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6243,
@@ -108165,7 +108165,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -108203,7 +108203,7 @@
                                     "killer_display_name": "FolasFelas#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6547,
@@ -108455,7 +108455,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6835,
@@ -108781,7 +108781,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -108803,7 +108803,7 @@
                                     "kill_time_in_round": 8907,
                                     "kill_time_in_match": 536617,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                                     "victim_display_name": "Pegasored#5549",
@@ -108852,7 +108852,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3241,
@@ -109873,7 +109873,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -109893,7 +109893,7 @@
                                     "killer_display_name": "papa696969#6969",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2322,
@@ -110035,7 +110035,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -110083,7 +110083,7 @@
                         },
                         "planted_by": {
                             "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "display_name": "GalicianCore#Pepit",
+                            "display_name": "SDC Pepstzy#Pepts",
                             "team": "Red"
                         },
                         "plant_site": "B",
@@ -110121,7 +110121,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2547,
@@ -110465,7 +110465,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -110494,7 +110494,7 @@
                                     "killer_display_name": "ItsNicocox#2049",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2857,
@@ -111388,7 +111388,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -111493,7 +111493,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 2,
@@ -111559,7 +111559,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2047,
@@ -111643,7 +111643,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 726,
@@ -111697,7 +111697,7 @@
                                     "killer_display_name": "Derivadario hot#8389",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -353,
@@ -111882,7 +111882,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 992,
@@ -112079,7 +112079,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2045,
@@ -112163,7 +112163,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -226,
@@ -112489,7 +112489,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2414,
@@ -112625,7 +112625,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -112673,7 +112673,7 @@
                         },
                         "planted_by": {
                             "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "display_name": "GalicianCore#Pepit",
+                            "display_name": "SDC Pepstzy#Pepts",
                             "team": "Red"
                         },
                         "plant_site": "A",
@@ -112691,7 +112691,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6687,
@@ -112826,7 +112826,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6717,
@@ -112940,7 +112940,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6925,
@@ -113156,7 +113156,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6975,
@@ -113240,7 +113240,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6360,
@@ -113300,7 +113300,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6925,
@@ -113435,7 +113435,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -113542,7 +113542,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6879,
@@ -113738,7 +113738,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6890,
@@ -113804,7 +113804,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -113826,7 +113826,7 @@
                                     "kill_time_in_round": 24858,
                                     "kill_time_in_match": 926300,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                                     "victim_display_name": "Derivadario hot#8389",
@@ -113865,7 +113865,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6925,
@@ -113947,7 +113947,7 @@
                         },
                         "planted_by": {
                             "puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "display_name": "GalicianCore#Pepit",
+                            "display_name": "SDC Pepstzy#Pepts",
                             "team": "Red"
                         },
                         "plant_site": "C",
@@ -113975,7 +113975,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2426,
@@ -114195,7 +114195,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -114251,7 +114251,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1628,
@@ -114309,7 +114309,7 @@
                                     "killer_display_name": "ItsNicocox#2049",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3254,
@@ -114513,7 +114513,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1470,
@@ -114617,7 +114617,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1618,
@@ -114764,7 +114764,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2687,
@@ -115067,7 +115067,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -115089,7 +115089,7 @@
                                     "kill_time_in_round": 25749,
                                     "kill_time_in_match": 1039160,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                                     "victim_display_name": "Pegasored#5549",
@@ -115128,7 +115128,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1703,
@@ -116105,7 +116105,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3418,
@@ -116206,7 +116206,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -116235,7 +116235,7 @@
                                     "killer_display_name": "papa696969#6969",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3455,
@@ -116457,7 +116457,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -116525,7 +116525,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -116623,7 +116623,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6782,
@@ -116766,7 +116766,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -116804,7 +116804,7 @@
                                     "killer_display_name": "Pegasored#5549",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7235,
@@ -117045,7 +117045,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4148,
@@ -117149,7 +117149,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5934,
@@ -117431,7 +117431,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6785,
@@ -117565,7 +117565,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -117587,7 +117587,7 @@
                                     "kill_time_in_round": 15965,
                                     "kill_time_in_match": 1315683,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                                     "victim_display_name": "Derivadario hot#8389",
@@ -117626,7 +117626,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4141,
@@ -117864,7 +117864,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2453,
@@ -118093,7 +118093,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3066,
@@ -118467,7 +118467,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2713,
@@ -118551,7 +118551,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2570,
@@ -118694,7 +118694,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -118714,7 +118714,7 @@
                                     "killer_display_name": "papa696969#6969",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2453,
@@ -118806,7 +118806,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -118828,7 +118828,7 @@
                                     "kill_time_in_round": 27117,
                                     "kill_time_in_match": 1418776,
                                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "killer_display_name": "GalicianCore#Pepit",
+                                    "killer_display_name": "SDC Pepstzy#Pepts",
                                     "killer_team": "Red",
                                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                                     "victim_display_name": "Pegasored#5549",
@@ -118867,7 +118867,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 993,
@@ -119057,7 +119057,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1555,
@@ -119183,7 +119183,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -119362,7 +119362,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -119588,7 +119588,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1532,
@@ -119702,7 +119702,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -119838,7 +119838,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -119898,7 +119898,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -120064,7 +120064,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -120170,7 +120170,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -120210,7 +120210,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -120256,7 +120256,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -120372,7 +120372,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2781,
@@ -120508,7 +120508,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2781,
@@ -120655,7 +120655,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2781,
@@ -120841,7 +120841,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -120927,7 +120927,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2781,
@@ -120945,7 +120945,7 @@
                                     "killer_display_name": "FolasFelas#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2781,
@@ -121252,7 +121252,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2781,
@@ -121298,7 +121298,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -122307,7 +122307,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -123356,7 +123356,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -123849,7 +123849,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6820,
@@ -123955,7 +123955,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "assistant_display_name": "GalicianCore#Pepit",
+                                            "assistant_display_name": "SDC Pepstzy#Pepts",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -124118,7 +124118,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -124138,7 +124138,7 @@
                                     "killer_display_name": "FolasFelas#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6841,
@@ -124501,7 +124501,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -124627,7 +124627,7 @@
                             },
                             {
                                 "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                "player_display_name": "GalicianCore#Pepit",
+                                "player_display_name": "SDC Pepstzy#Pepts",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6387,
@@ -124996,7 +124996,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5038,
@@ -125150,7 +125150,7 @@
                                 },
                                 {
                                     "receiver_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "receiver_display_name": "GalicianCore#Pepit",
+                                    "receiver_display_name": "SDC Pepstzy#Pepts",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -125255,7 +125255,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5251,
@@ -125279,7 +125279,7 @@
                                     "killer_display_name": "FolasFelas#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                    "victim_display_name": "GalicianCore#Pepit",
+                                    "victim_display_name": "SDC Pepstzy#Pepts",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6893,
@@ -125700,7 +125700,7 @@
                                         },
                                         {
                                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                                            "player_display_name": "GalicianCore#Pepit",
+                                            "player_display_name": "SDC Pepstzy#Pepts",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5652,
@@ -125746,7 +125746,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -125802,7 +125802,7 @@
                     "killer_display_name": "Derivadario hot#8389",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6676,
@@ -126445,7 +126445,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 368,
@@ -126560,7 +126560,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -355,
@@ -126665,7 +126665,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -214,
@@ -126717,7 +126717,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "assistant_display_name": "GalicianCore#Pepit",
+                            "assistant_display_name": "SDC Pepstzy#Pepts",
                             "assistant_team": "Red"
                         },
                         {
@@ -126771,7 +126771,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -142,
@@ -126817,7 +126817,7 @@
                     "kill_time_in_match": 168053,
                     "round": 1,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                     "victim_display_name": "Derivadario hot#8389",
@@ -126846,7 +126846,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -138,
@@ -126901,7 +126901,7 @@
                     "killer_display_name": "Pegasored#5549",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1065,
@@ -127153,7 +127153,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2180,
@@ -127268,7 +127268,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2513,
@@ -127379,7 +127379,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2521,
@@ -127474,7 +127474,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2672,
@@ -127559,7 +127559,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2683,
@@ -127630,7 +127630,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1997,
@@ -127656,7 +127656,7 @@
                     "kill_time_in_match": 260928,
                     "round": 2,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                     "victim_display_name": "Derivadario hot#8389",
@@ -127685,7 +127685,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2027,
@@ -127711,7 +127711,7 @@
                     "kill_time_in_match": 272787,
                     "round": 2,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "a6066112-5acd-57c5-b544-7d9cf0b38e36",
                     "victim_display_name": "FolasFelas#123",
@@ -127740,7 +127740,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2283,
@@ -127759,7 +127759,7 @@
                     "killer_display_name": "ItsNicocox#2049",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2283,
@@ -127830,7 +127830,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2377,
@@ -127935,7 +127935,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1311,
@@ -128046,7 +128046,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6033,
@@ -128121,7 +128121,7 @@
                     "killer_display_name": "Pegasored#5549",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5996,
@@ -128482,7 +128482,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 777,
@@ -128597,7 +128597,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1807,
@@ -128666,7 +128666,7 @@
                     "killer_display_name": "Derivadario hot#8389",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 952,
@@ -129112,7 +129112,7 @@
                     "kill_time_in_match": 536617,
                     "round": 5,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                     "victim_display_name": "Pegasored#5549",
@@ -129161,7 +129161,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 3241,
@@ -129276,7 +129276,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6243,
@@ -129371,7 +129371,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6835,
@@ -129430,7 +129430,7 @@
                     "killer_display_name": "FolasFelas#123",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6547,
@@ -129716,7 +129716,7 @@
                     "killer_display_name": "papa696969#6969",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2322,
@@ -130311,7 +130311,7 @@
                     "killer_display_name": "ItsNicocox#2049",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2857,
@@ -131020,7 +131020,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2414,
@@ -131135,7 +131135,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2047,
@@ -131230,7 +131230,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2045,
@@ -131325,7 +131325,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 992,
@@ -131400,7 +131400,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 726,
@@ -131481,7 +131481,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -226,
@@ -131520,7 +131520,7 @@
                     "killer_display_name": "Derivadario hot#8389",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -353,
@@ -131707,7 +131707,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6717,
@@ -131822,7 +131822,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6975,
@@ -131927,7 +131927,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6925,
@@ -131973,7 +131973,7 @@
                     "kill_time_in_match": 926300,
                     "round": 9,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                     "victim_display_name": "Derivadario hot#8389",
@@ -132012,7 +132012,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6925,
@@ -132087,7 +132087,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6879,
@@ -132162,7 +132162,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6890,
@@ -132227,7 +132227,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6360,
@@ -132288,7 +132288,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6925,
@@ -132353,7 +132353,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -2687,
@@ -132458,7 +132458,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1470,
@@ -132563,7 +132563,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1628,
@@ -132658,7 +132658,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1618,
@@ -132704,7 +132704,7 @@
                     "kill_time_in_match": 1039160,
                     "round": 10,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                     "victim_display_name": "Pegasored#5549",
@@ -132743,7 +132743,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -1703,
@@ -132782,7 +132782,7 @@
                     "killer_display_name": "ItsNicocox#2049",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3254,
@@ -132954,7 +132954,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 3418,
@@ -133023,7 +133023,7 @@
                     "killer_display_name": "papa696969#6969",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3455,
@@ -133671,7 +133671,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 4148,
@@ -133737,7 +133737,7 @@
                     "kill_time_in_match": 1315683,
                     "round": 12,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "38537969-6fc4-53e4-ab46-8414b2f0e862",
                     "victim_display_name": "Derivadario hot#8389",
@@ -133776,7 +133776,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 4141,
@@ -133881,7 +133881,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 5934,
@@ -133966,7 +133966,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6782,
@@ -134041,7 +134041,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6785,
@@ -134106,7 +134106,7 @@
                     "killer_display_name": "Pegasored#5549",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7235,
@@ -134319,7 +134319,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": -3066,
@@ -134395,7 +134395,7 @@
                     "kill_time_in_match": 1418776,
                     "round": 13,
                     "killer_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "killer_display_name": "GalicianCore#Pepit",
+                    "killer_display_name": "SDC Pepstzy#Pepts",
                     "killer_team": "Red",
                     "victim_puuid": "679c9819-e1fc-54d4-8ed5-c34bfc880110",
                     "victim_display_name": "Pegasored#5549",
@@ -134434,7 +134434,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 993,
@@ -134539,7 +134539,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2713,
@@ -134624,7 +134624,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2570,
@@ -134709,7 +134709,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2453,
@@ -134764,7 +134764,7 @@
                     "killer_display_name": "papa696969#6969",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2453,
@@ -135016,7 +135016,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1532,
@@ -135171,7 +135171,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135266,7 +135266,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135351,7 +135351,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135432,7 +135432,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135503,7 +135503,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135558,7 +135558,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135603,7 +135603,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135644,7 +135644,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -135759,7 +135759,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2781,
@@ -135864,7 +135864,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2781,
@@ -135959,7 +135959,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2781,
@@ -136044,7 +136044,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 2781,
@@ -136063,7 +136063,7 @@
                     "killer_display_name": "FolasFelas#123",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2781,
@@ -137184,7 +137184,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 6820,
@@ -137203,7 +137203,7 @@
                     "killer_display_name": "FolasFelas#123",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6841,
@@ -137396,7 +137396,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "assistant_display_name": "GalicianCore#Pepit",
+                            "assistant_display_name": "SDC Pepstzy#Pepts",
                             "assistant_team": "Red"
                         }
                     ]
@@ -137785,7 +137785,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 5652,
@@ -137890,7 +137890,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 5038,
@@ -137985,7 +137985,7 @@
                         },
                         {
                             "player_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                            "player_display_name": "GalicianCore#Pepit",
+                            "player_display_name": "SDC Pepstzy#Pepts",
                             "player_team": "Red",
                             "location": {
                                 "x": 5251,
@@ -138010,7 +138010,7 @@
                     "killer_display_name": "FolasFelas#123",
                     "killer_team": "Blue",
                     "victim_puuid": "9d08f4c9-c288-5711-8579-91bed553f651",
-                    "victim_display_name": "GalicianCore#Pepit",
+                    "victim_display_name": "SDC Pepstzy#Pepts",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6893,
