@@ -598,9 +598,9 @@
             "nombre": "OPYfps",
             "tag": "NRG",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 10,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-24"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "kotenok",
@@ -2203,9 +2203,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 17,
+            "apariciones": 19,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "C4volp",
@@ -2253,9 +2253,9 @@
             "nombre": "AtaqueRapido",
             "tag": "9238",
             "region": "eu",
-            "apariciones": 10,
+            "apariciones": 11,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-26"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "elsaulillomanda",
@@ -4141,9 +4141,9 @@
             "nombre": "Siera \u062a",
             "tag": "uchdA",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 15,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "Lisbi",
@@ -4195,9 +4195,9 @@
             "nombre": "JLMercedes",
             "tag": "31100",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 8,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "Hajhr",
@@ -4312,15 +4312,17 @@
             "nombre": "karsl\u013136363435",
             "tag": "3636",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-08-28"
+            "apariciones": 8,
+            "amigo_desde": "2026-08-28",
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "HAYALETSEVG\u0130L\u0130M",
             "tag": "UCHDA",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-08-28"
+            "apariciones": 7,
+            "amigo_desde": "2026-08-28",
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "PEKE20",
@@ -4335,6 +4337,13 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-08-28"
+        },
+        {
+            "nombre": "Elijaahh",
+            "tag": "alya",
+            "region": "eu",
+            "apariciones": 4,
+            "amigo_desde": "2026-08-29"
         }
     ]
 }
