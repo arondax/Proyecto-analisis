@@ -2253,7 +2253,7 @@
             "nombre": "AtaqueRapido",
             "tag": "9238",
             "region": "eu",
-            "apariciones": 16,
+            "apariciones": 17,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-08-29"
         },
@@ -4090,9 +4090,9 @@
             "nombre": "yung uterus",
             "tag": "yung",
             "region": "eu",
-            "apariciones": 5,
+            "apariciones": 9,
             "amigo_desde": "2026-08-26",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "xpir1ng",
@@ -4261,7 +4261,7 @@
             "nombre": "yuna",
             "tag": "8899",
             "region": "eu",
-            "apariciones": 20,
+            "apariciones": 21,
             "amigo_desde": "2026-08-27",
             "ultima_vez": "2026-08-29"
         },
@@ -4269,9 +4269,9 @@
             "nombre": "mutu",
             "tag": "AWP",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "0rumble",
@@ -4298,8 +4298,9 @@
             "nombre": "En1gm4",
             "tag": "666",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-08-28"
+            "apariciones": 6,
+            "amigo_desde": "2026-08-28",
+            "ultima_vez": "2026-08-29"
         },
         {
             "nombre": "C1rus",
@@ -4344,6 +4345,13 @@
             "tag": "alya",
             "region": "eu",
             "apariciones": 4,
+            "amigo_desde": "2026-08-29"
+        },
+        {
+            "nombre": "Denji",
+            "tag": "KAD\u0130R",
+            "region": "eu",
+            "apariciones": 3,
             "amigo_desde": "2026-08-29"
         }
     ]
