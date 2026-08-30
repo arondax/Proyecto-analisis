@@ -431,9 +431,9 @@
             "nombre": "frVamper",
             "tag": "EPA",
             "region": "eu",
-            "apariciones": 33,
+            "apariciones": 35,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-29"
+            "ultima_vez": "2026-08-30"
         },
         {
             "nombre": "Yeer",
@@ -2204,9 +2204,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 19,
+            "apariciones": 24,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-29"
+            "ultima_vez": "2026-08-30"
         },
         {
             "nombre": "C4volp",
@@ -4121,9 +4121,9 @@
             "nombre": "LefazoEstelar",
             "tag": "cara",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 13,
             "amigo_desde": "2026-08-26",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-08-30"
         },
         {
             "nombre": "KEKSIKmg",
@@ -4355,6 +4355,20 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-08-29"
+        },
+        {
+            "nombre": "RaioMackuin",
+            "tag": "KXAOW",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-30"
+        },
+        {
+            "nombre": "soriano",
+            "tag": "4637",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-08-30"
         }
     ]
 }
