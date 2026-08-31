@@ -316,13 +316,6 @@
             "desde": "2026-08-24"
         },
         {
-            "nombre": "i luv pawsocks",
-            "tag": "mwah",
-            "region": "eu",
-            "activo": true,
-            "desde": "2026-08-24"
-        },
-        {
             "nombre": "Ender",
             "tag": "1560",
             "region": "eu",
@@ -457,12 +450,6 @@
         {
             "nombre": "GBKK",
             "tag": "EUW",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "i luv pawsocks",
-            "tag": "mwah",
             "region": "eu",
             "activo": true
         },
@@ -1215,11 +1202,6 @@
             "region": "eu"
         },
         {
-            "nombre": "i luv pawsocks",
-            "tag": "mwah",
-            "region": "eu"
-        },
-        {
             "nombre": "Ender",
             "tag": "1560",
             "region": "eu"
@@ -1453,6 +1435,14 @@
         {
             "nombre": "Saxx",
             "tag": "ong",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-08-31",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "RYL Canxieee",
+            "tag": "Andy",
             "region": "eu",
             "activo": true,
             "desde": "2026-08-31",
