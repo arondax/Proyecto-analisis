@@ -1,3 +1,964 @@
 {
-    "candidatos": []
+    "candidatos": [
+        {
+            "nombre": "PT Caos \u795e",
+            "tag": "SLB",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "jankn23",
+            "tag": "6402",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Migu3l08",
+            "tag": "MMB",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "LoSper",
+            "tag": "MMM",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "idk \u672c",
+            "tag": "1709",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "B0t\u30b7",
+            "tag": "5555",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Z3K0",
+            "tag": "clown",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "mariiomartinezz",
+            "tag": "9160",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "BananaTactica",
+            "tag": "ESP",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Dur\u00e1n",
+            "tag": "942",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "davidm3056",
+            "tag": "123",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "danidsk",
+            "tag": "alm",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "lilmanucas11",
+            "tag": "9320",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "OierArri",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Kiritoo",
+            "tag": "2808",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Satou",
+            "tag": "1302",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "AbascalPrision",
+            "tag": "3216",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "poeldekunfupanda",
+            "tag": "9zz",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Anas",
+            "tag": "yrn",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Asura",
+            "tag": "EUW11",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Sanvisuggar",
+            "tag": "DEMON",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Aphrodite",
+            "tag": "heh",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "\u00d1orcus\u30c4",
+            "tag": "Chaos",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "menen",
+            "tag": "1537",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Mouloudeen",
+            "tag": "1921",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Nomercy",
+            "tag": "930",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "MeLavoEnLaPlaya",
+            "tag": "MINOR",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Andromeda",
+            "tag": "111",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Juanjete04",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "adormir1",
+            "tag": "ESP",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "NosePowder",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "MoKyP",
+            "tag": "9808",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "luucyy",
+            "tag": "000",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "kchuelas",
+            "tag": "calvo",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "BoostedEgirI",
+            "tag": "uwu",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "\u0438 0 x x x y",
+            "tag": "1TAP",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "GOLOUA PAIRCEVAL",
+            "tag": "6841",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "nohand",
+            "tag": "8074",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "chill frog",
+            "tag": "joel",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Dingle",
+            "tag": "Black",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "xylengo",
+            "tag": "1000",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "PilouSchw",
+            "tag": "6448",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "ROG S",
+            "tag": "8279",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "KC Ciel",
+            "tag": "2704",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "iiNoVsy",
+            "tag": "ASTZ",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "TiltBrotal",
+            "tag": "brot",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "wArumGustav",
+            "tag": "0527",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "sinnataggen",
+            "tag": "Gull1",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "sayko",
+            "tag": "5967",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "LatvianCrow",
+            "tag": "LAT",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Lixx",
+            "tag": "wlw",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "aspirateur",
+            "tag": "5450",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "kyurem",
+            "tag": "BRUH",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "sacrifice",
+            "tag": "wera",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "zae",
+            "tag": "swag",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "vampix",
+            "tag": "meow",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "YahYuh",
+            "tag": "water",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Moana",
+            "tag": "WOW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "MiniWo0t",
+            "tag": "metwq",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "gilmour",
+            "tag": "tytz",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "KyliS",
+            "tag": "SF24",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "evezevez041",
+            "tag": "2007",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "I Miss Herr",
+            "tag": "EGY",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "\u0131rzdusman\u0131",
+            "tag": "1386",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Reskona",
+            "tag": "BINA",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "sebaflo17",
+            "tag": "itsme",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "mangowannabe",
+            "tag": "104",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Rudeus212fv",
+            "tag": "00000",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "HEHEHEHESIUUUUUU",
+            "tag": "6846",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Funnezy",
+            "tag": "3470",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "FatalNyx",
+            "tag": "2049",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Miguelelguapoo",
+            "tag": "1122",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "XXXXxxxXXXX",
+            "tag": "555",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "CrisPi3d4d3",
+            "tag": "3614",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "gzxoikills",
+            "tag": "3952",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "60hz",
+            "tag": "3072",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Michelo",
+            "tag": "5401",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "TitanSeneaX",
+            "tag": "7413",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Cupra FR",
+            "tag": "2703",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "RARERO13",
+            "tag": "9415",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "pie peque\u00f1o",
+            "tag": "JOP",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Carvalhosa11",
+            "tag": "Gon",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Menor",
+            "tag": "Edits",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "napytok",
+            "tag": "anxoa",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "xama091",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "neverendingdeath",
+            "tag": "6767",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "srfswtgrwet",
+            "tag": "4563",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "alf0",
+            "tag": "alf0",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "prietsss11",
+            "tag": "9461",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "XXjamesbondXX",
+            "tag": "EUW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Qiiiuri",
+            "tag": "GARA",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "\u30a2\u30d3\u30e5\u30fc\u30b9\u30c9",
+            "tag": "\u30a2\u30d6\u30a6",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "P2 miguelon21",
+            "tag": "CR7",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "SYN Agonred",
+            "tag": "ESP",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "PaiN \u6c42",
+            "tag": "2001",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "raouf 6",
+            "tag": "bbbb",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "panitapanits",
+            "tag": "2144",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "T1  Owe\u03c0",
+            "tag": "Chill",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Bryant Montoya69",
+            "tag": "9572",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "mehdirham",
+            "tag": "66666",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Toulouse31",
+            "tag": "4877",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Nick",
+            "tag": "GN70",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "JIMQUEEN",
+            "tag": "PERR",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "blessend",
+            "tag": "LMW",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "her catboy",
+            "tag": "sus",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Marlon",
+            "tag": "Wow",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "dresd",
+            "tag": "sus",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "\u043c\u0438\u0441\u0442\u0435\u0440 \u0432\u0438\u043d\u0442\u0440\u0435\u0439\u0434",
+            "tag": "322",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "NAVI Dagg3r",
+            "tag": "UA777",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "prince 4me",
+            "tag": "hehh",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "star666",
+            "tag": "rs3",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "PinkyPromise",
+            "tag": "Rina",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Xacro",
+            "tag": "w0w",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Juke",
+            "tag": "HECH",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "alvaatrooss",
+            "tag": "1805",
+            "region": "eu",
+            "apariciones": 2,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "karaio",
+            "tag": "4444",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "NonChalant",
+            "tag": "1of1",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Harry Kane",
+            "tag": "6769",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Jolathis",
+            "tag": "023",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        },
+        {
+            "nombre": "Kimmich",
+            "tag": "BalaT",
+            "region": "eu",
+            "apariciones": 1,
+            "primera_vez": "2026-08-31",
+            "ultima_vez": "2026-08-31"
+        }
+    ]
 }
