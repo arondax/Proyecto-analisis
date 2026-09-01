@@ -1417,24 +1417,8 @@
             "region": "eu"
         },
         {
-            "nombre": "HEARTLESS",
-            "tag": "css",
-            "region": "eu",
-            "activo": true,
-            "desde": "2026-08-31",
-            "origen": "amigo_recurrente"
-        },
-        {
-            "nombre": "MIBR ASPAS",
-            "tag": "0009",
-            "region": "eu",
-            "activo": true,
-            "desde": "2026-08-31",
-            "origen": "amigo_recurrente"
-        },
-        {
-            "nombre": "Saxx",
-            "tag": "ong",
+            "nombre": "RYL Canxieee",
+            "tag": "Andy",
             "region": "eu",
             "activo": true,
             "desde": "2026-08-31",
@@ -1443,9 +1427,30 @@
         {
             "nombre": "RYL Canxieee",
             "tag": "Andy",
+            "region": "eu"
+        },
+        {
+            "nombre": "HEARTLESS",
+            "tag": "css",
             "region": "eu",
             "activo": true,
-            "desde": "2026-08-31",
+            "desde": "2026-09-01",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "MIBR ASPAS",
+            "tag": "0009",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-09-01",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "Saxx",
+            "tag": "ong",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-09-01",
             "origen": "amigo_recurrente"
         }
     ]
