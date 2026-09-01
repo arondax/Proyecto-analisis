@@ -736,14 +736,6 @@
             "origen": "amigo_recurrente"
         },
         {
-            "nombre": "PayoPoni69",
-            "tag": "NINJA",
-            "region": "eu",
-            "activo": true,
-            "desde": "2026-08-24",
-            "origen": "amigo_recurrente"
-        },
-        {
             "nombre": "rositafresita",
             "tag": "444",
             "region": "eu",
@@ -930,12 +922,6 @@
         {
             "nombre": "KayFlock",
             "tag": "Doa7",
-            "region": "eu",
-            "activo": true
-        },
-        {
-            "nombre": "PayoPoni69",
-            "tag": "NINJA",
             "region": "eu",
             "activo": true
         },
@@ -1450,6 +1436,14 @@
         {
             "nombre": "egoist",
             "tag": "5588",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-09-01",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "PayoPoni69",
+            "tag": "NINJA",
             "region": "eu",
             "activo": true,
             "desde": "2026-09-01",
