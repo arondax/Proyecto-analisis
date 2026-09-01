@@ -241,12 +241,6 @@
             "activo": true
         },
         {
-            "nombre": "egoist",
-            "tag": "5588",
-            "region": "eu",
-            "activo": true
-        },
-        {
             "nombre": "Pokeluchi",
             "tag": "slay",
             "region": "eu",
@@ -1448,6 +1442,14 @@
         {
             "nombre": "Saxx",
             "tag": "ong",
+            "region": "eu",
+            "activo": true,
+            "desde": "2026-09-01",
+            "origen": "amigo_recurrente"
+        },
+        {
+            "nombre": "egoist",
+            "tag": "5588",
             "region": "eu",
             "activo": true,
             "desde": "2026-09-01",

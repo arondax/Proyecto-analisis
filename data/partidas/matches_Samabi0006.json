@@ -684,8 +684,8 @@
                     },
                     {
                         "puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                        "name": "F9608829",
-                        "tag": "05328",
+                        "name": "vendocigarro",
+                        "tag": "pepe4",
                         "team": "Blue",
                         "level": 109,
                         "character": "Sage",
@@ -1418,8 +1418,8 @@
                     },
                     {
                         "puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                        "name": "F9608829",
-                        "tag": "05328",
+                        "name": "vendocigarro",
+                        "tag": "pepe4",
                         "team": "Blue",
                         "level": 109,
                         "character": "Sage",
@@ -1528,7 +1528,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                "player_display_name": "F9608829#05328",
+                                "player_display_name": "vendocigarro#pepe4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 4518,
@@ -1643,7 +1643,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -1742,7 +1742,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -1762,7 +1762,7 @@
                                     "killer_display_name": "PeePooPee#8775",
                                     "killer_team": "Red",
                                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "victim_display_name": "F9608829#05328",
+                                    "victim_display_name": "vendocigarro#pepe4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 4386,
@@ -2832,7 +2832,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "assistant_display_name": "F9608829#05328",
+                                            "assistant_display_name": "vendocigarro#pepe4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -2975,7 +2975,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -2997,7 +2997,7 @@
                                     "kill_time_in_round": 18186,
                                     "kill_time_in_match": 168021,
                                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "killer_display_name": "F9608829#05328",
+                                    "killer_display_name": "vendocigarro#pepe4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4b1f43b5-1072-5dd6-abb2-6e63212365f8",
                                     "victim_display_name": "LuBenwaynp#LWB",
@@ -3016,7 +3016,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8197,
@@ -3152,7 +3152,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8089,
@@ -3295,7 +3295,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -3349,7 +3349,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 6041,
@@ -3463,7 +3463,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 8061,
@@ -3694,7 +3694,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7952,
@@ -3784,7 +3784,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -3829,7 +3829,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7730,
@@ -3867,7 +3867,7 @@
                                     "killer_display_name": "Liu#077",
                                     "killer_team": "Red",
                                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "victim_display_name": "F9608829#05328",
+                                    "victim_display_name": "vendocigarro#pepe4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 7794,
@@ -4062,7 +4062,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7513,
@@ -4149,7 +4149,7 @@
                                         },
                                         {
                                             "assistant_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "assistant_display_name": "F9608829#05328",
+                                            "assistant_display_name": "vendocigarro#pepe4",
                                             "assistant_team": "Blue"
                                         }
                                     ]
@@ -4203,7 +4203,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                "player_display_name": "F9608829#05328",
+                                "player_display_name": "vendocigarro#pepe4",
                                 "player_team": "Blue",
                                 "location": {
                                     "x": 5078,
@@ -4278,7 +4278,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -4318,7 +4318,7 @@
                                     "kill_time_in_round": 13562,
                                     "kill_time_in_match": 267841,
                                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "killer_display_name": "F9608829#05328",
+                                    "killer_display_name": "vendocigarro#pepe4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "0b5e358b-ef1f-5e2b-8d75-75e94fc36384",
                                     "victim_display_name": "Lhuile2Couye#05128",
@@ -4337,7 +4337,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4180,
@@ -4408,7 +4408,7 @@
                                     "kill_time_in_round": 49513,
                                     "kill_time_in_match": 303792,
                                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "killer_display_name": "F9608829#05328",
+                                    "killer_display_name": "vendocigarro#pepe4",
                                     "killer_team": "Blue",
                                     "victim_puuid": "4b1f43b5-1072-5dd6-abb2-6e63212365f8",
                                     "victim_display_name": "LuBenwaynp#LWB",
@@ -4427,7 +4427,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7740,
@@ -4553,7 +4553,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5114,
@@ -4787,7 +4787,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 4284,
@@ -4891,7 +4891,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3885,
@@ -5044,7 +5044,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7499,
@@ -5217,7 +5217,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5237,7 +5237,7 @@
                                     "killer_display_name": "Liu#077",
                                     "killer_team": "Red",
                                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "victim_display_name": "F9608829#05328",
+                                    "victim_display_name": "vendocigarro#pepe4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 8204,
@@ -5329,7 +5329,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -5365,7 +5365,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 7105,
@@ -5587,7 +5587,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "damage_events": [],
                             "damage": 0,
@@ -5781,7 +5781,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -5819,7 +5819,7 @@
                                     "killer_display_name": "PeePooPee#8775",
                                     "killer_team": "Red",
                                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "victim_display_name": "F9608829#05328",
+                                    "victim_display_name": "vendocigarro#pepe4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3723,
@@ -6146,7 +6146,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 5468,
@@ -6650,7 +6650,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "damage_events": [
                                 {
@@ -6921,7 +6921,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -6982,7 +6982,7 @@
                                 },
                                 {
                                     "receiver_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "receiver_display_name": "F9608829#05328",
+                                    "receiver_display_name": "vendocigarro#pepe4",
                                     "receiver_team": "Blue",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -7027,7 +7027,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                            "player_display_name": "F9608829#05328",
+                                            "player_display_name": "vendocigarro#pepe4",
                                             "player_team": "Blue",
                                             "location": {
                                                 "x": 3816,
@@ -7131,7 +7131,7 @@
                                     "killer_display_name": "Lhuile2Couye#05128",
                                     "killer_team": "Red",
                                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                                    "victim_display_name": "F9608829#05328",
+                                    "victim_display_name": "vendocigarro#pepe4",
                                     "victim_team": "Blue",
                                     "victim_death_location": {
                                         "x": 3868,
@@ -7914,7 +7914,7 @@
                     "killer_display_name": "PeePooPee#8775",
                     "killer_team": "Red",
                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "victim_display_name": "F9608829#05328",
+                    "victim_display_name": "vendocigarro#pepe4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 4386,
@@ -8228,7 +8228,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "assistant_display_name": "F9608829#05328",
+                            "assistant_display_name": "vendocigarro#pepe4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -8653,7 +8653,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 6041,
@@ -8768,7 +8768,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7513,
@@ -8855,7 +8855,7 @@
                         },
                         {
                             "assistant_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "assistant_display_name": "F9608829#05328",
+                            "assistant_display_name": "vendocigarro#pepe4",
                             "assistant_team": "Blue"
                         }
                     ]
@@ -8884,7 +8884,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8061,
@@ -8979,7 +8979,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8089,
@@ -9045,7 +9045,7 @@
                     "kill_time_in_match": 168021,
                     "round": 1,
                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "killer_display_name": "F9608829#05328",
+                    "killer_display_name": "vendocigarro#pepe4",
                     "killer_team": "Blue",
                     "victim_puuid": "4b1f43b5-1072-5dd6-abb2-6e63212365f8",
                     "victim_display_name": "LuBenwaynp#LWB",
@@ -9064,7 +9064,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 8197,
@@ -9139,7 +9139,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7952,
@@ -9204,7 +9204,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7730,
@@ -9243,7 +9243,7 @@
                     "killer_display_name": "Liu#077",
                     "killer_team": "Red",
                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "victim_display_name": "F9608829#05328",
+                    "victim_display_name": "vendocigarro#pepe4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 7794,
@@ -9345,7 +9345,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5114,
@@ -9466,7 +9466,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4284,
@@ -9571,7 +9571,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3885,
@@ -9653,7 +9653,7 @@
                     "kill_time_in_match": 267841,
                     "round": 2,
                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "killer_display_name": "F9608829#05328",
+                    "killer_display_name": "vendocigarro#pepe4",
                     "killer_team": "Blue",
                     "victim_puuid": "0b5e358b-ef1f-5e2b-8d75-75e94fc36384",
                     "victim_display_name": "Lhuile2Couye#05128",
@@ -9672,7 +9672,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 4180,
@@ -9763,7 +9763,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7105,
@@ -9825,7 +9825,7 @@
                     "kill_time_in_match": 303792,
                     "round": 2,
                     "killer_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "killer_display_name": "F9608829#05328",
+                    "killer_display_name": "vendocigarro#pepe4",
                     "killer_team": "Blue",
                     "victim_puuid": "4b1f43b5-1072-5dd6-abb2-6e63212365f8",
                     "victim_display_name": "LuBenwaynp#LWB",
@@ -9844,7 +9844,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7740,
@@ -9909,7 +9909,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 7499,
@@ -9948,7 +9948,7 @@
                     "killer_display_name": "Liu#077",
                     "killer_team": "Red",
                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "victim_display_name": "F9608829#05328",
+                    "victim_display_name": "vendocigarro#pepe4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 8204,
@@ -10015,7 +10015,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 5468,
@@ -10114,7 +10114,7 @@
                     "killer_display_name": "PeePooPee#8775",
                     "killer_team": "Red",
                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "victim_display_name": "F9608829#05328",
+                    "victim_display_name": "vendocigarro#pepe4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3723,
@@ -10561,7 +10561,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                            "player_display_name": "F9608829#05328",
+                            "player_display_name": "vendocigarro#pepe4",
                             "player_team": "Blue",
                             "location": {
                                 "x": 3816,
@@ -10666,7 +10666,7 @@
                     "killer_display_name": "Lhuile2Couye#05128",
                     "killer_team": "Red",
                     "victim_puuid": "3e87696e-f367-5ba3-822d-792162d2844b",
-                    "victim_display_name": "F9608829#05328",
+                    "victim_display_name": "vendocigarro#pepe4",
                     "victim_team": "Blue",
                     "victim_death_location": {
                         "x": 3868,
