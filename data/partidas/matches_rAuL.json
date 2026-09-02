@@ -75258,8 +75258,8 @@
                     },
                     {
                         "puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                        "name": "Artix",
-                        "tag": "1234",
+                        "name": "low cortisol",
+                        "tag": "fear",
                         "team": "Red",
                         "level": 47,
                         "character": "Jett",
@@ -75917,8 +75917,8 @@
                 "red": [
                     {
                         "puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                        "name": "Artix",
-                        "tag": "1234",
+                        "name": "low cortisol",
+                        "tag": "fear",
                         "team": "Red",
                         "level": 47,
                         "character": "Jett",
@@ -76754,7 +76754,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5680,
@@ -76908,7 +76908,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -77016,7 +77016,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -77045,7 +77045,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5809,
@@ -77911,7 +77911,7 @@
                             },
                             {
                                 "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                "player_display_name": "Artix#1234",
+                                "player_display_name": "low cortisol#fear",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5822,
@@ -78292,7 +78292,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -78323,7 +78323,7 @@
                                     "kill_time_in_round": 12576,
                                     "kill_time_in_match": 135487,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                                     "victim_display_name": "MayMay#161",
@@ -78352,7 +78352,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6357,
@@ -78525,7 +78525,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5642,
@@ -78635,7 +78635,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -78681,7 +78681,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6165,
@@ -78765,7 +78765,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6081,
@@ -79310,7 +79310,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -79588,7 +79588,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -79608,7 +79608,7 @@
                                     "killer_display_name": "wandavision#bane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5677,
@@ -80587,7 +80587,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -80643,7 +80643,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -80663,7 +80663,7 @@
                                     "killer_display_name": "Knysna44#4444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1005,
@@ -81596,7 +81596,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -81652,7 +81652,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7452,
@@ -81730,7 +81730,7 @@
                                     "killer_display_name": "Chett#9370",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7440,
@@ -82053,7 +82053,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -82798,7 +82798,7 @@
                             },
                             {
                                 "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                "player_display_name": "Artix#1234",
+                                "player_display_name": "low cortisol#fear",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 6785,
@@ -82933,7 +82933,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6673,
@@ -83061,7 +83061,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -83092,7 +83092,7 @@
                                     "kill_time_in_round": 68073,
                                     "kill_time_in_match": 576419,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "7813450f-2aaf-54ec-8ce2-a818eaa67309",
                                     "victim_display_name": "Knysna44#4444",
@@ -83111,7 +83111,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3692,
@@ -83263,7 +83263,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -83388,7 +83388,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6725,
@@ -83452,7 +83452,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5494,
@@ -83494,7 +83494,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "assistant_display_name": "Artix#1234",
+                                            "assistant_display_name": "low cortisol#fear",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -83612,7 +83612,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7116,
@@ -83825,7 +83825,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7457,
@@ -83929,7 +83929,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7377,
@@ -84076,7 +84076,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7454,
@@ -84278,7 +84278,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -84334,7 +84334,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6448,
@@ -84438,7 +84438,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5653,
@@ -84504,7 +84504,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -84553,7 +84553,7 @@
                                     "kill_time_in_round": 44511,
                                     "kill_time_in_match": 657941,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -84582,7 +84582,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6932,
@@ -84627,7 +84627,7 @@
                                     "kill_time_in_round": 69941,
                                     "kill_time_in_match": 683371,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                                     "victim_display_name": "MayMay#161",
@@ -84646,7 +84646,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4862,
@@ -84681,7 +84681,7 @@
                                     "kill_time_in_round": 77775,
                                     "kill_time_in_match": 691205,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                                     "victim_display_name": "wandavision#bane",
@@ -84700,7 +84700,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3570,
@@ -84817,7 +84817,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7091,
@@ -84954,7 +84954,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6978,
@@ -85279,7 +85279,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7051,
@@ -85379,7 +85379,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                "player_display_name": "Artix#1234",
+                                "player_display_name": "low cortisol#fear",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3732,
@@ -85525,7 +85525,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1724,
@@ -85673,7 +85673,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -85695,7 +85695,7 @@
                                     "kill_time_in_round": 81751,
                                     "kill_time_in_match": 832177,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                                     "victim_display_name": "rAuL#5399",
@@ -85714,7 +85714,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3732,
@@ -85824,7 +85824,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -85869,7 +85869,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1769,
@@ -86038,7 +86038,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3366,
@@ -86277,7 +86277,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -962,
@@ -86371,7 +86371,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3732,
@@ -86471,7 +86471,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3732,
@@ -86711,7 +86711,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -87047,7 +87047,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -87078,7 +87078,7 @@
                                     "kill_time_in_round": 18378,
                                     "kill_time_in_match": 901346,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -87107,7 +87107,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2192,
@@ -87237,7 +87237,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -87266,7 +87266,7 @@
                                     "killer_display_name": "Knysna44#4444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2193,
@@ -87687,7 +87687,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -87994,7 +87994,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -88107,7 +88107,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6285,
@@ -88222,7 +88222,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -88287,7 +88287,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7344,
@@ -88401,7 +88401,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 7452,
@@ -88505,7 +88505,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6281,
@@ -88559,7 +88559,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 6304,
@@ -89310,7 +89310,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -89341,7 +89341,7 @@
                                     "kill_time_in_round": 16838,
                                     "kill_time_in_match": 1114521,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                                     "victim_display_name": "wandavision#bane",
@@ -89380,7 +89380,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3320,
@@ -89523,7 +89523,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -89543,7 +89543,7 @@
                                     "killer_display_name": "rAuL#5399",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2878,
@@ -89737,7 +89737,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -90125,7 +90125,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -921,
@@ -90291,7 +90291,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -90311,7 +90311,7 @@
                                     "killer_display_name": "Chett#9370",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4534,
@@ -90679,7 +90679,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -91492,7 +91492,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -91514,7 +91514,7 @@
                                     "kill_time_in_round": 8863,
                                     "kill_time_in_match": 1280292,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                                     "victim_display_name": "rAuL#5399",
@@ -91553,7 +91553,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3427,
@@ -91664,7 +91664,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -91711,7 +91711,7 @@
                                     "killer_display_name": "Knysna44#4444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3427,
@@ -92722,7 +92722,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -93126,7 +93126,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -93182,7 +93182,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -393,
@@ -93266,7 +93266,7 @@
                                     "killer_display_name": "wandavision#bane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -439,
@@ -93571,7 +93571,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "assistant_display_name": "Artix#1234",
+                                            "assistant_display_name": "low cortisol#fear",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -93661,7 +93661,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "assistant_display_name": "Artix#1234",
+                                            "assistant_display_name": "low cortisol#fear",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -93939,7 +93939,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -93986,7 +93986,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -94017,7 +94017,7 @@
                                     "kill_time_in_round": 16587,
                                     "kill_time_in_match": 1469533,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -94046,7 +94046,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -94121,7 +94121,7 @@
                                     "kill_time_in_round": 19414,
                                     "kill_time_in_match": 1472360,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                                     "victim_display_name": "MayMay#161",
@@ -94140,7 +94140,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -94250,7 +94250,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -94279,7 +94279,7 @@
                                     "killer_display_name": "Knysna44#4444",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3443,
@@ -94669,7 +94669,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -94779,7 +94779,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -95286,7 +95286,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -95389,7 +95389,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 288,
@@ -95556,7 +95556,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -342,
@@ -95813,7 +95813,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -95851,7 +95851,7 @@
                                     "killer_display_name": "wandavision#bane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -156,
@@ -96224,7 +96224,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -342,
@@ -96495,7 +96495,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -96551,7 +96551,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2235,
@@ -96671,7 +96671,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -96691,7 +96691,7 @@
                                     "killer_display_name": "MayMay#161",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1234,
@@ -96789,7 +96789,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -96820,7 +96820,7 @@
                                     "kill_time_in_round": 36393,
                                     "kill_time_in_match": 1668691,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -96849,7 +96849,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2306,
@@ -96995,7 +96995,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3233,
@@ -97142,7 +97142,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2235,
@@ -97401,7 +97401,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3307,
@@ -97592,7 +97592,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3166,
@@ -97831,7 +97831,7 @@
                             },
                             {
                                 "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                "player_display_name": "Artix#1234",
+                                "player_display_name": "low cortisol#fear",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3592,
@@ -97910,7 +97910,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -97966,7 +97966,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1670,
@@ -98114,7 +98114,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -98136,7 +98136,7 @@
                                     "kill_time_in_round": 42484,
                                     "kill_time_in_match": 1772074,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -98165,7 +98165,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3713,
@@ -98379,7 +98379,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1934,
@@ -98591,7 +98591,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3726,
@@ -98691,7 +98691,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -98756,7 +98756,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1610,
@@ -98820,7 +98820,7 @@
                                     "killer_display_name": "wandavision#bane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 7448,
@@ -99142,7 +99142,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -99240,7 +99240,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -99346,7 +99346,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -99386,7 +99386,7 @@
                                     "kill_time_in_round": 16010,
                                     "kill_time_in_match": 1850749,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                                     "victim_display_name": "Chett#9370",
@@ -99415,7 +99415,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3447,
@@ -99500,7 +99500,7 @@
                                     "kill_time_in_round": 17414,
                                     "kill_time_in_match": 1852153,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                                     "victim_display_name": "MayMay#161",
@@ -99519,7 +99519,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3422,
@@ -99851,7 +99851,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -3422,
@@ -100004,7 +100004,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -100024,7 +100024,7 @@
                                     "killer_display_name": "wandavision#bane",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -3361,
@@ -100500,7 +100500,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -100520,7 +100520,7 @@
                                     "killer_display_name": "MayMay#161",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1771,
@@ -100643,7 +100643,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -100665,7 +100665,7 @@
                                     "kill_time_in_round": 18489,
                                     "kill_time_in_match": 1949165,
                                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "killer_display_name": "Artix#1234",
+                                    "killer_display_name": "low cortisol#fear",
                                     "killer_team": "Red",
                                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                                     "victim_display_name": "wandavision#bane",
@@ -100694,7 +100694,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -720,
@@ -100851,7 +100851,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1769,
@@ -101055,7 +101055,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1086,
@@ -101182,7 +101182,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -101686,7 +101686,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -101742,7 +101742,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 717,
@@ -101820,7 +101820,7 @@
                                     "killer_display_name": "Chett#9370",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "victim_display_name": "Artix#1234",
+                                    "victim_display_name": "low cortisol#fear",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4213,
@@ -101975,7 +101975,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -102106,7 +102106,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3413,
@@ -102200,7 +102200,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3585,
@@ -102346,7 +102346,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -65,
@@ -102518,7 +102518,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                    "receiver_display_name": "Artix#1234",
+                                    "receiver_display_name": "low cortisol#fear",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -102765,7 +102765,7 @@
                                         },
                                         {
                                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                                            "player_display_name": "Artix#1234",
+                                            "player_display_name": "low cortisol#fear",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3400,
@@ -103083,7 +103083,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 5680,
@@ -103168,7 +103168,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5809,
@@ -103696,7 +103696,7 @@
                     "kill_time_in_match": 135487,
                     "round": 1,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                     "victim_display_name": "MayMay#161",
@@ -103725,7 +103725,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6357,
@@ -103846,7 +103846,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6165,
@@ -103957,7 +103957,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 5642,
@@ -104026,7 +104026,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6081,
@@ -104257,7 +104257,7 @@
                     "killer_display_name": "wandavision#bane",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5677,
@@ -104797,7 +104797,7 @@
                     "killer_display_name": "Knysna44#4444",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1005,
@@ -105503,7 +105503,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7452,
@@ -105582,7 +105582,7 @@
                     "killer_display_name": "Chett#9370",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7440,
@@ -106174,7 +106174,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7454,
@@ -106289,7 +106289,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7457,
@@ -106394,7 +106394,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7116,
@@ -106495,7 +106495,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7377,
@@ -106590,7 +106590,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6673,
@@ -106675,7 +106675,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6725,
@@ -106740,7 +106740,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 5494,
@@ -106782,7 +106782,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "assistant_display_name": "Artix#1234",
+                            "assistant_display_name": "low cortisol#fear",
                             "assistant_team": "Red"
                         }
                     ]
@@ -106792,7 +106792,7 @@
                     "kill_time_in_match": 576419,
                     "round": 5,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "7813450f-2aaf-54ec-8ce2-a818eaa67309",
                     "victim_display_name": "Knysna44#4444",
@@ -106811,7 +106811,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3692,
@@ -106897,7 +106897,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6448,
@@ -107012,7 +107012,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6978,
@@ -107117,7 +107117,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7051,
@@ -107212,7 +107212,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7091,
@@ -107258,7 +107258,7 @@
                     "kill_time_in_match": 657941,
                     "round": 6,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -107287,7 +107287,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6932,
@@ -107362,7 +107362,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 5653,
@@ -107398,7 +107398,7 @@
                     "kill_time_in_match": 683371,
                     "round": 6,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                     "victim_display_name": "MayMay#161",
@@ -107417,7 +107417,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 4862,
@@ -107453,7 +107453,7 @@
                     "kill_time_in_match": 691205,
                     "round": 6,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                     "victim_display_name": "wandavision#bane",
@@ -107472,7 +107472,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3570,
@@ -107537,7 +107537,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -1724,
@@ -107642,7 +107642,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -962,
@@ -107737,7 +107737,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3732,
@@ -107819,7 +107819,7 @@
                     "kill_time_in_match": 832177,
                     "round": 7,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                     "victim_display_name": "rAuL#5399",
@@ -107838,7 +107838,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3732,
@@ -107923,7 +107923,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3732,
@@ -107998,7 +107998,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 1769,
@@ -108063,7 +108063,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3366,
@@ -108099,7 +108099,7 @@
                     "kill_time_in_match": 901346,
                     "round": 8,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -108128,7 +108128,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -2192,
@@ -108217,7 +108217,7 @@
                     "killer_display_name": "Knysna44#4444",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2193,
@@ -108751,7 +108751,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7344,
@@ -108866,7 +108866,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 7452,
@@ -108971,7 +108971,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6285,
@@ -109072,7 +109072,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 6281,
@@ -109127,7 +109127,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 6304,
@@ -109244,7 +109244,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -921,
@@ -109320,7 +109320,7 @@
                     "kill_time_in_match": 1114521,
                     "round": 10,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                     "victim_display_name": "wandavision#bane",
@@ -109359,7 +109359,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3320,
@@ -109428,7 +109428,7 @@
                     "killer_display_name": "rAuL#5399",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2878,
@@ -109960,7 +109960,7 @@
                     "killer_display_name": "Chett#9370",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4534,
@@ -110444,7 +110444,7 @@
                     "kill_time_in_match": 1280292,
                     "round": 12,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "b05144d5-da3b-5dd1-96fd-53c3c24ac419",
                     "victim_display_name": "rAuL#5399",
@@ -110483,7 +110483,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3427,
@@ -110562,7 +110562,7 @@
                     "killer_display_name": "Knysna44#4444",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3427,
@@ -111090,7 +111090,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -393,
@@ -111175,7 +111175,7 @@
                     "killer_display_name": "wandavision#bane",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -439,
@@ -111368,7 +111368,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "assistant_display_name": "Artix#1234",
+                            "assistant_display_name": "low cortisol#fear",
                             "assistant_team": "Red"
                         }
                     ]
@@ -111459,7 +111459,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "assistant_display_name": "Artix#1234",
+                            "assistant_display_name": "low cortisol#fear",
                             "assistant_team": "Red"
                         }
                     ]
@@ -111754,7 +111754,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -111836,7 +111836,7 @@
                     "kill_time_in_match": 1469533,
                     "round": 14,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -111865,7 +111865,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -111970,7 +111970,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -112047,7 +112047,7 @@
                     "kill_time_in_match": 1472360,
                     "round": 14,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                     "victim_display_name": "MayMay#161",
@@ -112066,7 +112066,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -112135,7 +112135,7 @@
                     "killer_display_name": "Knysna44#4444",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3443,
@@ -112423,7 +112423,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 288,
@@ -112538,7 +112538,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -342,
@@ -112643,7 +112643,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -342,
@@ -112702,7 +112702,7 @@
                     "killer_display_name": "wandavision#bane",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -156,
@@ -113104,7 +113104,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -2235,
@@ -113219,7 +113219,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -2235,
@@ -113324,7 +113324,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3166,
@@ -113435,7 +113435,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3233,
@@ -113530,7 +113530,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3307,
@@ -113576,7 +113576,7 @@
                     "kill_time_in_match": 1668691,
                     "round": 16,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -113605,7 +113605,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -2306,
@@ -113654,7 +113654,7 @@
                     "killer_display_name": "MayMay#161",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1234,
@@ -113867,7 +113867,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -1934,
@@ -113982,7 +113982,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -1670,
@@ -114087,7 +114087,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 1610,
@@ -114149,7 +114149,7 @@
                     "kill_time_in_match": 1772074,
                     "round": 17,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -114178,7 +114178,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3713,
@@ -114259,7 +114259,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3726,
@@ -114318,7 +114318,7 @@
                     "killer_display_name": "wandavision#bane",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 7448,
@@ -114446,7 +114446,7 @@
                     "kill_time_in_match": 1850749,
                     "round": 18,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "774d9618-1f64-50d7-afeb-fc7f4a42cc21",
                     "victim_display_name": "Chett#9370",
@@ -114475,7 +114475,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -114590,7 +114590,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3447,
@@ -114666,7 +114666,7 @@
                     "kill_time_in_match": 1852153,
                     "round": 18,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "477c9119-d025-5a71-879a-e764cce730b0",
                     "victim_display_name": "MayMay#161",
@@ -114685,7 +114685,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3422,
@@ -114786,7 +114786,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -3422,
@@ -114855,7 +114855,7 @@
                     "killer_display_name": "wandavision#bane",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -3361,
@@ -115121,7 +115121,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -1086,
@@ -115213,7 +115213,7 @@
                     "kill_time_in_match": 1949165,
                     "round": 19,
                     "killer_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "killer_display_name": "Artix#1234",
+                    "killer_display_name": "low cortisol#fear",
                     "killer_team": "Red",
                     "victim_puuid": "0fa80337-ef36-504e-bf8c-d1590a340e60",
                     "victim_display_name": "wandavision#bane",
@@ -115242,7 +115242,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -720,
@@ -115347,7 +115347,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -1769,
@@ -115422,7 +115422,7 @@
                     "killer_display_name": "MayMay#161",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1771,
@@ -115755,7 +115755,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": -65,
@@ -115870,7 +115870,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 717,
@@ -115985,7 +115985,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3400,
@@ -116090,7 +116090,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3413,
@@ -116185,7 +116185,7 @@
                         },
                         {
                             "player_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                            "player_display_name": "Artix#1234",
+                            "player_display_name": "low cortisol#fear",
                             "player_team": "Red",
                             "location": {
                                 "x": 3585,
@@ -116234,7 +116234,7 @@
                     "killer_display_name": "Chett#9370",
                     "killer_team": "Blue",
                     "victim_puuid": "bcea519f-b6f7-5f00-af17-ab716e4cdbc8",
-                    "victim_display_name": "Artix#1234",
+                    "victim_display_name": "low cortisol#fear",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4213,
