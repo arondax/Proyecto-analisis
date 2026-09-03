@@ -1734,9 +1734,9 @@
             "nombre": "Only Stinger \u30c4",
             "tag": "00000",
             "region": "eu",
-            "apariciones": 11,
+            "apariciones": 12,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-02"
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "ShadowS",
@@ -2205,9 +2205,9 @@
             "nombre": "LefazoC\u00f3smico",
             "tag": "Boca",
             "region": "eu",
-            "apariciones": 35,
+            "apariciones": 41,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-02"
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "C4volp",
@@ -2255,7 +2255,7 @@
             "nombre": "AtaqueRapido",
             "tag": "9238",
             "region": "eu",
-            "apariciones": 40,
+            "apariciones": 42,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-09-03"
         },
@@ -3845,7 +3845,7 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 25,
+            "apariciones": 26,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-09-03"
         },
@@ -3967,9 +3967,9 @@
             "nombre": "talibandudu",
             "tag": "chuen",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 8,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-27"
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "PazPadilla",
@@ -4129,9 +4129,9 @@
             "nombre": "LefazoEstelar",
             "tag": "cara",
             "region": "eu",
-            "apariciones": 17,
+            "apariciones": 20,
             "amigo_desde": "2026-08-26",
-            "ultima_vez": "2026-08-31"
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "KEKSIKmg",
@@ -4273,7 +4273,7 @@
             "nombre": "yuna",
             "tag": "8899",
             "region": "eu",
-            "apariciones": 51,
+            "apariciones": 53,
             "amigo_desde": "2026-08-27",
             "ultima_vez": "2026-09-03"
         },
@@ -4403,14 +4403,15 @@
             "nombre": "sh1ngo",
             "tag": "clyne",
             "region": "eu",
-            "apariciones": 7,
-            "amigo_desde": "2026-08-31"
+            "apariciones": 8,
+            "amigo_desde": "2026-08-31",
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "aspirateur",
             "tag": "5450",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 14,
             "amigo_desde": "2026-08-31",
             "ultima_vez": "2026-09-03"
         },
@@ -4448,9 +4449,9 @@
             "nombre": "Obito Uchiha",
             "tag": "2907",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 7,
             "amigo_desde": "2026-09-01",
-            "ultima_vez": "2026-09-02"
+            "ultima_vez": "2026-09-03"
         },
         {
             "nombre": "noxoHUB",
@@ -4522,7 +4523,7 @@
             "nombre": "Elc4udillo",
             "tag": "333",
             "region": "eu",
-            "apariciones": 8,
+            "apariciones": 10,
             "amigo_desde": "2026-09-02",
             "ultima_vez": "2026-09-03"
         },
@@ -4530,7 +4531,7 @@
             "nombre": "marcy",
             "tag": "winx",
             "region": "eu",
-            "apariciones": 6,
+            "apariciones": 9,
             "amigo_desde": "2026-09-02",
             "ultima_vez": "2026-09-03"
         },
@@ -4587,6 +4588,13 @@
         {
             "nombre": "prozac",
             "tag": "meto",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-03"
+        },
+        {
+            "nombre": "ThugItOutOrDie",
+            "tag": "8055",
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-09-03"
