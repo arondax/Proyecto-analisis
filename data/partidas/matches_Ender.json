@@ -246,8 +246,8 @@
                     },
                     {
                         "puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                        "name": "F6731554",
-                        "tag": "57965",
+                        "name": "AlmiranteGM",
+                        "tag": "PCP",
                         "team": "Red",
                         "level": 46,
                         "character": "Deadlock",
@@ -905,8 +905,8 @@
                     },
                     {
                         "puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                        "name": "F6731554",
-                        "tag": "57965",
+                        "name": "AlmiranteGM",
+                        "tag": "PCP",
                         "team": "Red",
                         "level": 46,
                         "character": "Deadlock",
@@ -1884,7 +1884,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 1,
@@ -1969,7 +1969,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1847,
@@ -2023,7 +2023,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 562,
@@ -2260,7 +2260,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -2383,7 +2383,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1856,
@@ -2526,7 +2526,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -2775,7 +2775,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 336,
@@ -2915,7 +2915,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -753,
@@ -3121,7 +3121,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2141,
@@ -3337,7 +3337,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1153,
@@ -3431,7 +3431,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -709,
@@ -3577,7 +3577,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -3701,7 +3701,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -3746,7 +3746,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -3775,7 +3775,7 @@
                                     "killer_display_name": "sacarinasaboria#224",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 241,
@@ -3957,7 +3957,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -697,
@@ -4351,7 +4351,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -4371,7 +4371,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -657,
@@ -4521,7 +4521,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -4552,7 +4552,7 @@
                                     "kill_time_in_round": 32885,
                                     "kill_time_in_match": 329317,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                                     "victim_display_name": "GWolk3#EUW",
@@ -4591,7 +4591,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1501,
@@ -4782,7 +4782,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -4858,7 +4858,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1499,
@@ -4962,7 +4962,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1547,
@@ -5066,7 +5066,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1516,
@@ -5156,7 +5156,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1512,
@@ -5487,7 +5487,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1535,
@@ -5736,7 +5736,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -5756,7 +5756,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1052,
@@ -5936,7 +5936,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6185,7 +6185,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1242,
@@ -6374,7 +6374,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6516,7 +6516,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 75,
@@ -6553,7 +6553,7 @@
                                         },
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -6664,7 +6664,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 171,
@@ -6753,7 +6753,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -6773,7 +6773,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2905,
@@ -6893,7 +6893,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -6933,7 +6933,7 @@
                                     "kill_time_in_round": 65982,
                                     "kill_time_in_match": 531063,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "d10fe778-5a6f-55ba-9c6f-2de0da5d7cac",
                                     "victim_display_name": "sacarinasaboria#224",
@@ -6972,7 +6972,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 557,
@@ -6997,7 +6997,7 @@
                                     "kill_time_in_round": 78802,
                                     "kill_time_in_match": 543883,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                                     "victim_display_name": "NoDoyNiUna#real",
@@ -7026,7 +7026,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -738,
@@ -7051,7 +7051,7 @@
                                     "kill_time_in_round": 90650,
                                     "kill_time_in_match": 555731,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                                     "victim_display_name": "hisuco#0810",
@@ -7080,7 +7080,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2834,
@@ -7197,7 +7197,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -7273,7 +7273,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1189,
@@ -7367,7 +7367,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 461,
@@ -7514,7 +7514,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -157,
@@ -7924,7 +7924,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 660,
@@ -8021,7 +8021,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -8041,7 +8041,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2574,
@@ -8280,7 +8280,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -8311,7 +8311,7 @@
                                     "kill_time_in_round": 74423,
                                     "kill_time_in_match": 670504,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                                     "victim_display_name": "GWolk3#EUW",
@@ -8360,7 +8360,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3158,
@@ -8559,7 +8559,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1739,
@@ -8666,7 +8666,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9049,7 +9049,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1070,
@@ -9195,7 +9195,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1100,
@@ -9272,7 +9272,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -9432,7 +9432,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -584,
@@ -9528,7 +9528,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -9550,7 +9550,7 @@
                                     "kill_time_in_round": 37400,
                                     "kill_time_in_match": 787122,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "d10fe778-5a6f-55ba-9c6f-2de0da5d7cac",
                                     "victim_display_name": "sacarinasaboria#224",
@@ -9599,7 +9599,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -860,
@@ -9741,7 +9741,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1160,
@@ -9835,7 +9835,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 432,
@@ -9905,7 +9905,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -10023,7 +10023,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1249,
@@ -10257,7 +10257,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 1235,
@@ -10403,7 +10403,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1175,
@@ -10560,7 +10560,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1558,
@@ -10777,7 +10777,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1040,
@@ -10861,7 +10861,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1816,
@@ -10893,7 +10893,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -10941,7 +10941,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2012,
@@ -10997,7 +10997,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -11120,7 +11120,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 56,
@@ -11614,7 +11614,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -790,
@@ -11732,7 +11732,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -12014,7 +12014,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1167,
@@ -12100,7 +12100,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -12122,7 +12122,7 @@
                                     "kill_time_in_round": 39149,
                                     "kill_time_in_match": 967077,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                                     "victim_display_name": "NoDoyNiUna#real",
@@ -12161,7 +12161,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1459,
@@ -12365,7 +12365,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 5,
                                     "headshots": 0,
@@ -12394,7 +12394,7 @@
                                     "killer_display_name": "sacarinasaboria#224",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1218,
@@ -12737,7 +12737,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1441,
@@ -12979,7 +12979,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1295,
@@ -13035,7 +13035,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -13057,7 +13057,7 @@
                                     "kill_time_in_round": 35630,
                                     "kill_time_in_match": 1061090,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -13106,7 +13106,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1586,
@@ -13273,7 +13273,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2059,
@@ -13445,7 +13445,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1678,
@@ -13623,7 +13623,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1430,
@@ -13768,7 +13768,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1957,
@@ -13852,7 +13852,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1041,
@@ -14038,7 +14038,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1468,
@@ -14174,7 +14174,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -14462,7 +14462,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -14482,7 +14482,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -694,
@@ -14656,7 +14656,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -15057,7 +15057,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -15448,7 +15448,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 1,
@@ -15486,7 +15486,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -280,
@@ -15878,7 +15878,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -15918,7 +15918,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16278,7 +16278,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -960,
@@ -16488,7 +16488,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -16575,7 +16575,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -16744,7 +16744,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2057,
@@ -16830,7 +16830,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -16870,7 +16870,7 @@
                                     "kill_time_in_round": 20932,
                                     "kill_time_in_match": 1387466,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                                     "victim_display_name": "NoDoyNiUna#real",
@@ -16919,7 +16919,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2664,
@@ -16984,7 +16984,7 @@
                                     "kill_time_in_round": 61238,
                                     "kill_time_in_match": 1427772,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                                     "victim_display_name": "hisuco#0810",
@@ -17003,7 +17003,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1145,
@@ -17116,7 +17116,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2443,
@@ -17148,7 +17148,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -17193,7 +17193,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -17329,7 +17329,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2682,
@@ -17484,7 +17484,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2429,
@@ -17548,7 +17548,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1672,
@@ -17592,7 +17592,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1385,
@@ -17807,7 +17807,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2505,
@@ -18063,7 +18063,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1755,
@@ -18167,7 +18167,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -764,
@@ -18209,7 +18209,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -18249,7 +18249,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -18271,7 +18271,7 @@
                                     "kill_time_in_round": 51073,
                                     "kill_time_in_match": 1515852,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -18310,7 +18310,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 824,
@@ -18457,7 +18457,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -771,
@@ -18915,7 +18915,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1251,
@@ -19080,7 +19080,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1568,
@@ -19160,7 +19160,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1548,
@@ -19224,7 +19224,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1715,
@@ -19296,7 +19296,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -19615,7 +19615,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 45,
@@ -19735,7 +19735,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 59,
@@ -19841,7 +19841,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 588,
@@ -19967,7 +19967,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2982,
@@ -20044,7 +20044,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -20064,7 +20064,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 999,
@@ -20227,7 +20227,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2866,
@@ -20345,7 +20345,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -20367,7 +20367,7 @@
                                     "kill_time_in_round": 25866,
                                     "kill_time_in_match": 1667770,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -20406,7 +20406,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1551,
@@ -20637,7 +20637,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3173,
@@ -20803,7 +20803,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2839,
@@ -20867,7 +20867,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1555,
@@ -21200,7 +21200,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -21220,7 +21220,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 167,
@@ -21403,7 +21403,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 502,
@@ -21541,7 +21541,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -21572,7 +21572,7 @@
                                     "kill_time_in_round": 6922,
                                     "kill_time_in_match": 1723281,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                                     "victim_display_name": "GWolk3#EUW",
@@ -21621,7 +21621,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 653,
@@ -21682,7 +21682,7 @@
                                     "kill_time_in_round": 7286,
                                     "kill_time_in_match": 1723645,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                                     "victim_display_name": "hisuco#0810",
@@ -21731,7 +21731,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 653,
@@ -22549,7 +22549,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -22569,7 +22569,7 @@
                                     "killer_display_name": "Ender#1560",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2257,
@@ -22749,7 +22749,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -22889,7 +22889,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -22965,7 +22965,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 723,
@@ -23498,7 +23498,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -896,
@@ -23612,7 +23612,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1324,
@@ -23702,7 +23702,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -23776,7 +23776,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1413,
@@ -23824,7 +23824,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2247,
@@ -24130,7 +24130,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -24422,7 +24422,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1461,
@@ -24679,7 +24679,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 153,
@@ -24876,7 +24876,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1351,
@@ -25131,7 +25131,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1391,
@@ -25215,7 +25215,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1376,
@@ -25287,7 +25287,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -25596,7 +25596,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1953,
@@ -25700,7 +25700,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -774,
@@ -25946,7 +25946,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -25966,7 +25966,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 836,
@@ -26079,7 +26079,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -26225,7 +26225,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -67,
@@ -26365,7 +26365,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -26387,7 +26387,7 @@
                                     "kill_time_in_round": 30727,
                                     "kill_time_in_match": 2152905,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -26436,7 +26436,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -765,
@@ -26593,7 +26593,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 42,
@@ -26740,7 +26740,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -765,
@@ -27107,7 +27107,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -27127,7 +27127,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1648,
@@ -27385,7 +27385,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 490,
@@ -27479,7 +27479,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3094,
@@ -27573,7 +27573,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2557,
@@ -27645,7 +27645,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -27767,7 +27767,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 178,
@@ -27891,7 +27891,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 389,
@@ -28186,7 +28186,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         }
                                     ]
@@ -28317,7 +28317,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 656,
@@ -28576,7 +28576,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2325,
@@ -28690,7 +28690,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 317,
@@ -28794,7 +28794,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 257,
@@ -28870,7 +28870,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -29014,7 +29014,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1920,
@@ -29078,7 +29078,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1768,
@@ -29279,7 +29279,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1760,
@@ -29523,7 +29523,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1247,
@@ -29999,7 +29999,7 @@
                                     "assistants": [
                                         {
                                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "assistant_display_name": "F6731554#57965",
+                                            "assistant_display_name": "AlmiranteGM#PCP",
                                             "assistant_team": "Red"
                                         },
                                         {
@@ -30108,7 +30108,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -30258,7 +30258,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -30287,7 +30287,7 @@
                                     "killer_display_name": "GWolk3#EUW",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 623,
@@ -30514,7 +30514,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -30868,7 +30868,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -30897,7 +30897,7 @@
                                     "killer_display_name": "NoDoyNiUna#real",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -152,
@@ -31103,7 +31103,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -31125,7 +31125,7 @@
                                     "kill_time_in_round": 14287,
                                     "kill_time_in_match": 2490806,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -31164,7 +31164,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -157,
@@ -31499,7 +31499,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 894,
@@ -31907,7 +31907,7 @@
                             },
                             {
                                 "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                "player_display_name": "F6731554#57965",
+                                "player_display_name": "AlmiranteGM#PCP",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 2186,
@@ -32084,7 +32084,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2620,
@@ -32194,7 +32194,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1606,
@@ -32381,7 +32381,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2464,
@@ -32501,7 +32501,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -32523,7 +32523,7 @@
                                     "kill_time_in_round": 47939,
                                     "kill_time_in_match": 2607386,
                                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "killer_display_name": "F6731554#57965",
+                                    "killer_display_name": "AlmiranteGM#PCP",
                                     "killer_team": "Red",
                                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                                     "victim_display_name": "Ender#1560",
@@ -32562,7 +32562,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1467,
@@ -32689,7 +32689,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2735,
@@ -32826,7 +32826,7 @@
                                         },
                                         {
                                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                            "player_display_name": "F6731554#57965",
+                                            "player_display_name": "AlmiranteGM#PCP",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2885,
@@ -32988,7 +32988,7 @@
                                 },
                                 {
                                     "receiver_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "receiver_display_name": "F6731554#57965",
+                                    "receiver_display_name": "AlmiranteGM#PCP",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -33017,7 +33017,7 @@
                                     "killer_display_name": "hisuco#0810",
                                     "killer_team": "Blue",
                                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                                    "victim_display_name": "F6731554#57965",
+                                    "victim_display_name": "AlmiranteGM#PCP",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 1467,
@@ -33235,7 +33235,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1856,
@@ -33350,7 +33350,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1847,
@@ -33461,7 +33461,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 336,
@@ -33506,7 +33506,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 562,
@@ -33934,7 +33934,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -2141,
@@ -34039,7 +34039,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -697,
@@ -34134,7 +34134,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1153,
@@ -34229,7 +34229,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -709,
@@ -34284,7 +34284,7 @@
                     "killer_display_name": "sacarinasaboria#224",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 241,
@@ -34517,7 +34517,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -34627,7 +34627,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1499,
@@ -34732,7 +34732,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1547,
@@ -34837,7 +34837,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1516,
@@ -34928,7 +34928,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1512,
@@ -34974,7 +34974,7 @@
                     "kill_time_in_match": 329317,
                     "round": 2,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                     "victim_display_name": "GWolk3#EUW",
@@ -35013,7 +35013,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1501,
@@ -35052,7 +35052,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -657,
@@ -35169,7 +35169,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1535,
@@ -35274,7 +35274,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1242,
@@ -35343,7 +35343,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1052,
@@ -35597,7 +35597,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -35731,7 +35731,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1189,
@@ -35846,7 +35846,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -157,
@@ -35951,7 +35951,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 75,
@@ -35988,7 +35988,7 @@
                         },
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -36047,7 +36047,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 171,
@@ -36122,7 +36122,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 461,
@@ -36158,7 +36158,7 @@
                     "kill_time_in_match": 531063,
                     "round": 4,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "d10fe778-5a6f-55ba-9c6f-2de0da5d7cac",
                     "victim_display_name": "sacarinasaboria#224",
@@ -36197,7 +36197,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 557,
@@ -36223,7 +36223,7 @@
                     "kill_time_in_match": 543883,
                     "round": 4,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                     "victim_display_name": "NoDoyNiUna#real",
@@ -36252,7 +36252,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -738,
@@ -36278,7 +36278,7 @@
                     "kill_time_in_match": 555731,
                     "round": 4,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                     "victim_display_name": "hisuco#0810",
@@ -36307,7 +36307,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2834,
@@ -36332,7 +36332,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2905,
@@ -36419,7 +36419,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1739,
@@ -36540,7 +36540,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 660,
@@ -36602,7 +36602,7 @@
                     "kill_time_in_match": 670504,
                     "round": 5,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                     "victim_display_name": "GWolk3#EUW",
@@ -36651,7 +36651,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3158,
@@ -36700,7 +36700,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2574,
@@ -37077,7 +37077,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -584,
@@ -37192,7 +37192,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1160,
@@ -37297,7 +37297,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1249,
@@ -37392,7 +37392,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1100,
@@ -37434,7 +37434,7 @@
                     "kill_time_in_match": 787122,
                     "round": 6,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "d10fe778-5a6f-55ba-9c6f-2de0da5d7cac",
                     "victim_display_name": "sacarinasaboria#224",
@@ -37483,7 +37483,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -860,
@@ -37554,7 +37554,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 432,
@@ -37639,7 +37639,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1175,
@@ -37754,7 +37754,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1040,
@@ -37849,7 +37849,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 56,
@@ -37944,7 +37944,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1558,
@@ -38019,7 +38019,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1816,
@@ -38051,7 +38051,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -38100,7 +38100,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2012,
@@ -38185,7 +38185,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1167,
@@ -38290,7 +38290,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -790,
@@ -38346,7 +38346,7 @@
                     "kill_time_in_match": 967077,
                     "round": 8,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                     "victim_display_name": "NoDoyNiUna#real",
@@ -38385,7 +38385,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1459,
@@ -38444,7 +38444,7 @@
                     "killer_display_name": "sacarinasaboria#224",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1218,
@@ -38784,7 +38784,7 @@
                     "kill_time_in_match": 1061090,
                     "round": 9,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -38833,7 +38833,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1586,
@@ -38948,7 +38948,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -2059,
@@ -39059,7 +39059,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1678,
@@ -39144,7 +39144,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1957,
@@ -39229,7 +39229,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1041,
@@ -39294,7 +39294,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1430,
@@ -39359,7 +39359,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1295,
@@ -39444,7 +39444,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1468,
@@ -39503,7 +39503,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -694,
@@ -39787,7 +39787,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -40051,7 +40051,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -960,
@@ -40110,7 +40110,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -280,
@@ -40469,7 +40469,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -40722,7 +40722,7 @@
                     "kill_time_in_match": 1387466,
                     "round": 12,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "18af50d8-8397-5bd2-bbeb-e229dc3b23cf",
                     "victim_display_name": "NoDoyNiUna#real",
@@ -40771,7 +40771,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2664,
@@ -40886,7 +40886,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2682,
@@ -40981,7 +40981,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -41076,7 +41076,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2057,
@@ -41167,7 +41167,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2443,
@@ -41199,7 +41199,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -41238,7 +41238,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2429,
@@ -41303,7 +41303,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1672,
@@ -41348,7 +41348,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1385,
@@ -41380,7 +41380,7 @@
                     "kill_time_in_match": 1427772,
                     "round": 12,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                     "victim_display_name": "hisuco#0810",
@@ -41399,7 +41399,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1145,
@@ -41470,7 +41470,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1755,
@@ -41585,7 +41585,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2505,
@@ -41647,7 +41647,7 @@
                     "kill_time_in_match": 1515852,
                     "round": 13,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -41686,7 +41686,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 824,
@@ -41781,7 +41781,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -764,
@@ -41823,7 +41823,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -41872,7 +41872,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -771,
@@ -41967,7 +41967,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 45,
@@ -42088,7 +42088,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 59,
@@ -42189,7 +42189,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1251,
@@ -42284,7 +42284,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1568,
@@ -42365,7 +42365,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1548,
@@ -42430,7 +42430,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1715,
@@ -42531,7 +42531,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3173,
@@ -42646,7 +42646,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2866,
@@ -42751,7 +42751,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2982,
@@ -42842,7 +42842,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2839,
@@ -42878,7 +42878,7 @@
                     "kill_time_in_match": 1667770,
                     "round": 15,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -42917,7 +42917,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1551,
@@ -42982,7 +42982,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1555,
@@ -43021,7 +43021,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 999,
@@ -43122,7 +43122,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 502,
@@ -43188,7 +43188,7 @@
                     "kill_time_in_match": 1723281,
                     "round": 16,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "ed4479fb-c21c-52ff-8d35-d680d8208451",
                     "victim_display_name": "GWolk3#EUW",
@@ -43237,7 +43237,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 653,
@@ -43299,7 +43299,7 @@
                     "kill_time_in_match": 1723645,
                     "round": 16,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "e98fabd6-49aa-5e5f-862c-41d549791c69",
                     "victim_display_name": "hisuco#0810",
@@ -43348,7 +43348,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 653,
@@ -43403,7 +43403,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 167,
@@ -43739,7 +43739,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 723,
@@ -43804,7 +43804,7 @@
                     "killer_display_name": "Ender#1560",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2257,
@@ -44346,7 +44346,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 153,
@@ -44451,7 +44451,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -896,
@@ -44566,7 +44566,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1324,
@@ -44661,7 +44661,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1461,
@@ -44752,7 +44752,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1413,
@@ -44801,7 +44801,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2247,
@@ -45144,7 +45144,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1351,
@@ -45255,7 +45255,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1953,
@@ -45360,7 +45360,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -774,
@@ -45451,7 +45451,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1391,
@@ -45536,7 +45536,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1376,
@@ -45637,7 +45637,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -67,
@@ -45752,7 +45752,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 42,
@@ -45798,7 +45798,7 @@
                     "kill_time_in_match": 2152905,
                     "round": 20,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -45847,7 +45847,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -765,
@@ -45942,7 +45942,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -765,
@@ -45987,7 +45987,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 836,
@@ -46240,7 +46240,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 178,
@@ -46365,7 +46365,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 389,
@@ -46480,7 +46480,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 490,
@@ -46575,7 +46575,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 3094,
@@ -46670,7 +46670,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2557,
@@ -46715,7 +46715,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1648,
@@ -46854,7 +46854,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         }
                     ]
@@ -46913,7 +46913,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2325,
@@ -47028,7 +47028,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 317,
@@ -47133,7 +47133,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 257,
@@ -47218,7 +47218,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 656,
@@ -47293,7 +47293,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1920,
@@ -47358,7 +47358,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1768,
@@ -47423,7 +47423,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -1760,
@@ -47524,7 +47524,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1247,
@@ -47583,7 +47583,7 @@
                     "killer_display_name": "GWolk3#EUW",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 623,
@@ -47942,7 +47942,7 @@
                     "assistants": [
                         {
                             "assistant_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "assistant_display_name": "F6731554#57965",
+                            "assistant_display_name": "AlmiranteGM#PCP",
                             "assistant_team": "Red"
                         },
                         {
@@ -48188,7 +48188,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 894,
@@ -48254,7 +48254,7 @@
                     "kill_time_in_match": 2490806,
                     "round": 24,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -48293,7 +48293,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": -157,
@@ -48362,7 +48362,7 @@
                     "killer_display_name": "NoDoyNiUna#real",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -152,
@@ -48839,7 +48839,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2885,
@@ -48954,7 +48954,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2620,
@@ -49065,7 +49065,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2464,
@@ -49160,7 +49160,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 2735,
@@ -49245,7 +49245,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1606,
@@ -49271,7 +49271,7 @@
                     "kill_time_in_match": 2607386,
                     "round": 25,
                     "killer_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "killer_display_name": "F6731554#57965",
+                    "killer_display_name": "AlmiranteGM#PCP",
                     "killer_team": "Red",
                     "victim_puuid": "2c7436d9-b538-55ba-9e22-05fd0abe3ed3",
                     "victim_display_name": "Ender#1560",
@@ -49310,7 +49310,7 @@
                         },
                         {
                             "player_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                            "player_display_name": "F6731554#57965",
+                            "player_display_name": "AlmiranteGM#PCP",
                             "player_team": "Red",
                             "location": {
                                 "x": 1467,
@@ -49339,7 +49339,7 @@
                     "killer_display_name": "hisuco#0810",
                     "killer_team": "Blue",
                     "victim_puuid": "bd06e4f2-213b-53e2-9c64-de41f4f0185d",
-                    "victim_display_name": "F6731554#57965",
+                    "victim_display_name": "AlmiranteGM#PCP",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 1467,
