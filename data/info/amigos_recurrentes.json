@@ -2255,7 +2255,7 @@
             "nombre": "AtaqueRapido",
             "tag": "9238",
             "region": "eu",
-            "apariciones": 45,
+            "apariciones": 47,
             "amigo_desde": "2026-08-24",
             "ultima_vez": "2026-09-04"
         },
@@ -4273,7 +4273,7 @@
             "nombre": "yuna",
             "tag": "8899",
             "region": "eu",
-            "apariciones": 56,
+            "apariciones": 58,
             "amigo_desde": "2026-08-27",
             "ultima_vez": "2026-09-04"
         },
@@ -4629,6 +4629,13 @@
             "tag": "00000",
             "region": "eu",
             "apariciones": 4,
+            "amigo_desde": "2026-09-04"
+        },
+        {
+            "nombre": "FUT mepeezy",
+            "tag": "noun",
+            "region": "eu",
+            "apariciones": 3,
             "amigo_desde": "2026-09-04"
         }
     ]
