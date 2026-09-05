@@ -830,9 +830,9 @@
             "nombre": "Maverick",
             "tag": "993",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 14,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-01"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "GRIM2S",
@@ -922,9 +922,9 @@
             "nombre": "Bonnie",
             "tag": "4106",
             "region": "eu",
-            "apariciones": 28,
+            "apariciones": 30,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "RauL BeCaNYaHu",
@@ -2270,9 +2270,9 @@
             "nombre": "Draco811",
             "tag": "1234",
             "region": "eu",
-            "apariciones": 41,
+            "apariciones": 44,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-08-28"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "CUCAA",
@@ -3845,9 +3845,9 @@
             "nombre": "PinkMonster",
             "tag": "2011",
             "region": "eu",
-            "apariciones": 30,
+            "apariciones": 32,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "super mario",
@@ -3899,9 +3899,9 @@
             "nombre": "QueridaConchi",
             "tag": "bobok",
             "region": "eu",
-            "apariciones": 14,
+            "apariciones": 19,
             "amigo_desde": "2026-08-24",
-            "ultima_vez": "2026-09-03"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "ANY3R999",
@@ -4273,17 +4273,17 @@
             "nombre": "yuna",
             "tag": "8899",
             "region": "eu",
-            "apariciones": 58,
+            "apariciones": 61,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "mutu",
             "tag": "AWP",
             "region": "eu",
-            "apariciones": 29,
+            "apariciones": 32,
             "amigo_desde": "2026-08-27",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "0rumble",
@@ -4411,9 +4411,9 @@
             "nombre": "aspirateur",
             "tag": "5450",
             "region": "eu",
-            "apariciones": 19,
+            "apariciones": 24,
             "amigo_desde": "2026-08-31",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "Inviivi",
@@ -4479,9 +4479,9 @@
             "nombre": "Alvaro28",
             "tag": "APC",
             "region": "eu",
-            "apariciones": 5,
+            "apariciones": 8,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-02"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "st3r",
@@ -4508,9 +4508,9 @@
             "nombre": "didacvidal11",
             "tag": "7573",
             "region": "eu",
-            "apariciones": 7,
+            "apariciones": 12,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "A H M E E D",
@@ -4524,17 +4524,17 @@
             "nombre": "Elc4udillo",
             "tag": "333",
             "region": "eu",
-            "apariciones": 10,
+            "apariciones": 11,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-03"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "marcy",
             "tag": "winx",
             "region": "eu",
-            "apariciones": 12,
+            "apariciones": 13,
             "amigo_desde": "2026-09-02",
-            "ultima_vez": "2026-09-04"
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "coelhoganzado",
@@ -4579,8 +4579,9 @@
             "nombre": "narusida",
             "tag": "1494",
             "region": "eu",
-            "apariciones": 5,
-            "amigo_desde": "2026-09-03"
+            "apariciones": 6,
+            "amigo_desde": "2026-09-03",
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "MaDD",
@@ -4614,8 +4615,9 @@
             "nombre": "AnasYuky",
             "tag": "Teyah",
             "region": "eu",
-            "apariciones": 3,
-            "amigo_desde": "2026-09-04"
+            "apariciones": 4,
+            "amigo_desde": "2026-09-04",
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "guga",
@@ -4642,8 +4644,9 @@
             "nombre": "vyxorr",
             "tag": "SAAD",
             "region": "eu",
-            "apariciones": 4,
-            "amigo_desde": "2026-09-04"
+            "apariciones": 5,
+            "amigo_desde": "2026-09-04",
+            "ultima_vez": "2026-09-05"
         },
         {
             "nombre": "Veqaj",
@@ -4651,6 +4654,13 @@
             "region": "eu",
             "apariciones": 3,
             "amigo_desde": "2026-09-04"
+        },
+        {
+            "nombre": "silbato",
+            "tag": "miau",
+            "region": "eu",
+            "apariciones": 3,
+            "amigo_desde": "2026-09-05"
         }
     ]
 }
