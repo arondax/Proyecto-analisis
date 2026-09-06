@@ -52147,8 +52147,8 @@
                     },
                     {
                         "puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                        "name": "Zen",
-                        "tag": "X777X",
+                        "name": "gojo",
+                        "tag": "nina2",
                         "team": "Red",
                         "level": 136,
                         "character": "Jett",
@@ -52514,8 +52514,8 @@
                     },
                     {
                         "puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                        "name": "Zen",
-                        "tag": "X777X",
+                        "name": "gojo",
+                        "tag": "nina2",
                         "team": "Red",
                         "level": 136,
                         "character": "Jett",
@@ -53210,7 +53210,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                "player_display_name": "Zen#X777X",
+                                "player_display_name": "gojo#nina2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -2388,
@@ -53354,7 +53354,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2384,
@@ -53450,7 +53450,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -53481,7 +53481,7 @@
                                     "kill_time_in_round": 19677,
                                     "kill_time_in_match": 74733,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -53510,7 +53510,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2345,
@@ -53681,7 +53681,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2287,
@@ -54009,7 +54009,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -54275,7 +54275,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2345,
@@ -54411,7 +54411,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -54440,7 +54440,7 @@
                                     "killer_display_name": "illuzx7#2006",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2764,
@@ -54645,7 +54645,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -54692,7 +54692,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -54721,7 +54721,7 @@
                                     "killer_display_name": "PREDA#0004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2575,
@@ -55570,7 +55570,7 @@
                             },
                             {
                                 "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                "player_display_name": "Zen#X777X",
+                                "player_display_name": "gojo#nina2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 5809,
@@ -55675,7 +55675,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5491,
@@ -55739,7 +55739,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4914,
@@ -55795,7 +55795,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -55817,7 +55817,7 @@
                                     "kill_time_in_round": 28334,
                                     "kill_time_in_match": 267754,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -55846,7 +55846,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5154,
@@ -55993,7 +55993,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5192,
@@ -56130,7 +56130,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4749,
@@ -56297,7 +56297,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4757,
@@ -56463,7 +56463,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5457,
@@ -56644,7 +56644,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -56796,7 +56796,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -56899,7 +56899,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2609,
@@ -57104,7 +57104,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -57124,7 +57124,7 @@
                                     "killer_display_name": "Z A R T H I O N#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2562,
@@ -57855,7 +57855,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -57877,7 +57877,7 @@
                                     "kill_time_in_round": 26958,
                                     "kill_time_in_match": 421925,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "031a8527-2bf8-53e6-84b9-5b9a97083d8f",
                                     "victim_display_name": "illuzx7#2006",
@@ -57906,7 +57906,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5145,
@@ -58217,7 +58217,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5319,
@@ -58327,7 +58327,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5327,
@@ -58669,7 +58669,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 4,
                                     "headshots": 0,
@@ -58698,7 +58698,7 @@
                                     "killer_display_name": "TANQUE SOVI\u00c9TICO#9453",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5154,
@@ -58995,7 +58995,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -59026,7 +59026,7 @@
                                     "kill_time_in_round": 44499,
                                     "kill_time_in_match": 523568,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                                     "victim_display_name": "OPYfps#NRG",
@@ -59045,7 +59045,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4308,
@@ -59110,7 +59110,7 @@
                                     "kill_time_in_round": 60869,
                                     "kill_time_in_match": 539938,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "1dc2ad79-5cee-5822-941d-987e7d2c99b8",
                                     "victim_display_name": "Z A R T H I O N#123",
@@ -59129,7 +59129,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4900,
@@ -59272,7 +59272,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5310,
@@ -59515,7 +59515,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -59603,7 +59603,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4352,
@@ -59781,7 +59781,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -59817,7 +59817,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5785,
@@ -59938,7 +59938,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 2,
                                     "headshots": 0,
@@ -59967,7 +59967,7 @@
                                     "killer_display_name": "illuzx7#2006",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4891,
@@ -60254,7 +60254,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -60301,7 +60301,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -60321,7 +60321,7 @@
                                     "killer_display_name": "PREDA#0004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2743,
@@ -61008,7 +61008,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2601,
@@ -61507,7 +61507,7 @@
                             },
                             {
                                 "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                "player_display_name": "Zen#X777X",
+                                "player_display_name": "gojo#nina2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3994,
@@ -61662,7 +61662,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -61693,7 +61693,7 @@
                                     "kill_time_in_round": 12621,
                                     "kill_time_in_match": 718835,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -61722,7 +61722,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5242,
@@ -61931,7 +61931,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5403,
@@ -62145,7 +62145,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 0,
@@ -62200,7 +62200,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5146,
@@ -62274,7 +62274,7 @@
                                     "killer_display_name": "OPYfps#NRG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 3813,
@@ -62557,7 +62557,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 0,
@@ -62997,7 +62997,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -63534,7 +63534,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -63554,7 +63554,7 @@
                                     "killer_display_name": "OPYfps#NRG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2436,
@@ -64124,7 +64124,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -64171,7 +64171,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -64191,7 +64191,7 @@
                                     "killer_display_name": "PREDA#0004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 2025,
@@ -65326,7 +65326,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -66155,7 +66155,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -66184,7 +66184,7 @@
                                     "killer_display_name": "illuzx7#2006",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1387,
@@ -66533,7 +66533,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -66582,7 +66582,7 @@
                                     "kill_time_in_round": 1897,
                                     "kill_time_in_match": 1041577,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                                     "victim_display_name": "OPYfps#NRG",
@@ -66611,7 +66611,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -364,
@@ -66696,7 +66696,7 @@
                                     "kill_time_in_round": 12114,
                                     "kill_time_in_match": 1051794,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                                     "victim_display_name": "OPYfps#NRG",
@@ -66725,7 +66725,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -211,
@@ -66800,7 +66800,7 @@
                                     "kill_time_in_round": 21210,
                                     "kill_time_in_match": 1060890,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -66819,7 +66819,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3183,
@@ -67008,7 +67008,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -80,
@@ -67165,7 +67165,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4608,
@@ -67255,7 +67255,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -67300,7 +67300,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4297,
@@ -67358,7 +67358,7 @@
                                     "killer_display_name": "Z A R T H I O N#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 4282,
@@ -67705,7 +67705,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3184,
@@ -67950,7 +67950,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5738,
@@ -68064,7 +68064,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -910,
@@ -68166,7 +68166,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -68420,7 +68420,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 3,
                                     "headshots": 1,
@@ -68449,7 +68449,7 @@
                                     "killer_display_name": "Z A R T H I O N#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5666,
@@ -68678,7 +68678,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 3993,
@@ -68936,7 +68936,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 2327,
@@ -69114,7 +69114,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2067,
@@ -69230,7 +69230,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -69252,7 +69252,7 @@
                                     "kill_time_in_round": 79988,
                                     "kill_time_in_match": 1353503,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                                     "victim_display_name": "OPYfps#NRG",
@@ -69271,7 +69271,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5368,
@@ -69408,7 +69408,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2116,
@@ -69571,7 +69571,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 6788,
@@ -69748,7 +69748,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4307,
@@ -69822,7 +69822,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5954,
@@ -69990,7 +69990,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4791,
@@ -70204,7 +70204,7 @@
                         "player_locations_on_plant": [
                             {
                                 "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                "player_display_name": "Zen#X777X",
+                                "player_display_name": "gojo#nina2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": -1899,
@@ -70321,7 +70321,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -70396,7 +70396,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -70441,7 +70441,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2088,
@@ -70539,7 +70539,7 @@
                                     "killer_display_name": "PREDA#0004",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -2157,
@@ -70815,7 +70815,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2053,
@@ -71024,7 +71024,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1981,
@@ -71237,7 +71237,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 1728,
@@ -71451,7 +71451,7 @@
                             },
                             {
                                 "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                "player_display_name": "Zen#X777X",
+                                "player_display_name": "gojo#nina2",
                                 "player_team": "Red",
                                 "location": {
                                     "x": 3754,
@@ -71588,7 +71588,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [
                                 {
@@ -71619,7 +71619,7 @@
                                     "kill_time_in_round": 38966,
                                     "kill_time_in_match": 1562893,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "031a8527-2bf8-53e6-84b9-5b9a97083d8f",
                                     "victim_display_name": "illuzx7#2006",
@@ -71638,7 +71638,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4340,
@@ -71703,7 +71703,7 @@
                                     "kill_time_in_round": 43030,
                                     "kill_time_in_match": 1566957,
                                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "killer_display_name": "Zen#X777X",
+                                    "killer_display_name": "gojo#nina2",
                                     "killer_team": "Red",
                                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -71722,7 +71722,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5143,
@@ -71864,7 +71864,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 5143,
@@ -72050,7 +72050,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4190,
@@ -72255,7 +72255,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 1,
@@ -72275,7 +72275,7 @@
                                     "killer_display_name": "OPYfps#NRG",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": 5268,
@@ -72423,7 +72423,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -72493,7 +72493,7 @@
                                 },
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 1,
                                     "headshots": 0,
@@ -72539,7 +72539,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -2034,
@@ -72649,7 +72649,7 @@
                                     "player_locations_on_kill": [
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": 4357,
@@ -72947,7 +72947,7 @@
                                 "c_casts": null
                             },
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "damage_events": [],
                             "damage": 0,
@@ -73049,7 +73049,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1997,
@@ -73254,7 +73254,7 @@
                             "damage_events": [
                                 {
                                     "receiver_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "receiver_display_name": "Zen#X777X",
+                                    "receiver_display_name": "gojo#nina2",
                                     "receiver_team": "Red",
                                     "bodyshots": 0,
                                     "headshots": 1,
@@ -73274,7 +73274,7 @@
                                     "killer_display_name": "Z A R T H I O N#123",
                                     "killer_team": "Blue",
                                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                    "victim_display_name": "Zen#X777X",
+                                    "victim_display_name": "gojo#nina2",
                                     "victim_team": "Red",
                                     "victim_death_location": {
                                         "x": -1940,
@@ -73465,7 +73465,7 @@
                                         },
                                         {
                                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                                            "player_display_name": "Zen#X777X",
+                                            "player_display_name": "gojo#nina2",
                                             "player_team": "Red",
                                             "location": {
                                                 "x": -1723,
@@ -73991,7 +73991,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2345,
@@ -74083,7 +74083,7 @@
                     "kill_time_in_match": 74733,
                     "round": 0,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -74112,7 +74112,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2345,
@@ -74223,7 +74223,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2384,
@@ -74308,7 +74308,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2287,
@@ -74383,7 +74383,7 @@
                     "killer_display_name": "illuzx7#2006",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2764,
@@ -74664,7 +74664,7 @@
                     "killer_display_name": "PREDA#0004",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2575,
@@ -75165,7 +75165,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4749,
@@ -75280,7 +75280,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4757,
@@ -75356,7 +75356,7 @@
                     "kill_time_in_match": 267754,
                     "round": 2,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -75385,7 +75385,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5154,
@@ -75480,7 +75480,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5192,
@@ -75565,7 +75565,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5457,
@@ -75646,7 +75646,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5491,
@@ -75711,7 +75711,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4914,
@@ -75766,7 +75766,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2609,
@@ -75855,7 +75855,7 @@
                     "killer_display_name": "Z A R T H I O N#123",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2562,
@@ -76277,7 +76277,7 @@
                     "kill_time_in_match": 421925,
                     "round": 4,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "031a8527-2bf8-53e6-84b9-5b9a97083d8f",
                     "victim_display_name": "illuzx7#2006",
@@ -76306,7 +76306,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5145,
@@ -76421,7 +76421,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5319,
@@ -76532,7 +76532,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5327,
@@ -76601,7 +76601,7 @@
                     "killer_display_name": "TANQUE SOVI\u00c9TICO#9453",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5154,
@@ -76913,7 +76913,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5310,
@@ -77018,7 +77018,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5785,
@@ -77123,7 +77123,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4352,
@@ -77205,7 +77205,7 @@
                     "kill_time_in_match": 523568,
                     "round": 5,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                     "victim_display_name": "OPYfps#NRG",
@@ -77224,7 +77224,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4308,
@@ -77290,7 +77290,7 @@
                     "kill_time_in_match": 539938,
                     "round": 5,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "1dc2ad79-5cee-5822-941d-987e7d2c99b8",
                     "victim_display_name": "Z A R T H I O N#123",
@@ -77309,7 +77309,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4900,
@@ -77374,7 +77374,7 @@
                     "killer_display_name": "illuzx7#2006",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4891,
@@ -77510,7 +77510,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2601,
@@ -77609,7 +77609,7 @@
                     "killer_display_name": "PREDA#0004",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2743,
@@ -78242,7 +78242,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5403,
@@ -78328,7 +78328,7 @@
                     "kill_time_in_match": 718835,
                     "round": 7,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -78357,7 +78357,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5242,
@@ -78462,7 +78462,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5146,
@@ -78537,7 +78537,7 @@
                     "killer_display_name": "OPYfps#NRG",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 3813,
@@ -78874,7 +78874,7 @@
                     "killer_display_name": "OPYfps#NRG",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2436,
@@ -79532,7 +79532,7 @@
                     "killer_display_name": "PREDA#0004",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 2025,
@@ -80183,7 +80183,7 @@
                     "killer_display_name": "illuzx7#2006",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1387,
@@ -80805,7 +80805,7 @@
                     "kill_time_in_match": 1041577,
                     "round": 11,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                     "victim_display_name": "OPYfps#NRG",
@@ -80834,7 +80834,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -364,
@@ -80949,7 +80949,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -80,
@@ -81035,7 +81035,7 @@
                     "kill_time_in_match": 1051794,
                     "round": 11,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                     "victim_display_name": "OPYfps#NRG",
@@ -81064,7 +81064,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -211,
@@ -81159,7 +81159,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 3184,
@@ -81235,7 +81235,7 @@
                     "kill_time_in_match": 1060890,
                     "round": 11,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -81254,7 +81254,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 3183,
@@ -81339,7 +81339,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4297,
@@ -81414,7 +81414,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4608,
@@ -81463,7 +81463,7 @@
                     "killer_display_name": "Z A R T H I O N#123",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 4282,
@@ -81624,7 +81624,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5738,
@@ -81739,7 +81739,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 2327,
@@ -81844,7 +81844,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -910,
@@ -81945,7 +81945,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 3993,
@@ -82004,7 +82004,7 @@
                     "killer_display_name": "Z A R T H I O N#123",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5666,
@@ -82243,7 +82243,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2067,
@@ -82348,7 +82348,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2116,
@@ -82459,7 +82459,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4791,
@@ -82535,7 +82535,7 @@
                     "kill_time_in_match": 1353503,
                     "round": 13,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "41e295a4-0eb0-51a8-985a-bd43af761bce",
                     "victim_display_name": "OPYfps#NRG",
@@ -82554,7 +82554,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5368,
@@ -82639,7 +82639,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4307,
@@ -82714,7 +82714,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5954,
@@ -82779,7 +82779,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 6788,
@@ -82834,7 +82834,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2088,
@@ -82949,7 +82949,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2053,
@@ -83054,7 +83054,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -1981,
@@ -83155,7 +83155,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 1728,
@@ -83224,7 +83224,7 @@
                     "killer_display_name": "PREDA#0004",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -2157,
@@ -83451,7 +83451,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -2034,
@@ -83572,7 +83572,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4190,
@@ -83667,7 +83667,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4357,
@@ -83743,7 +83743,7 @@
                     "kill_time_in_match": 1562893,
                     "round": 15,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "031a8527-2bf8-53e6-84b9-5b9a97083d8f",
                     "victim_display_name": "illuzx7#2006",
@@ -83762,7 +83762,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 4340,
@@ -83828,7 +83828,7 @@
                     "kill_time_in_match": 1566957,
                     "round": 15,
                     "killer_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "killer_display_name": "Zen#X777X",
+                    "killer_display_name": "gojo#nina2",
                     "killer_team": "Red",
                     "victim_puuid": "c1986e86-7be9-53cf-9d09-54d99ff4a46d",
                     "victim_display_name": "TANQUE SOVI\u00c9TICO#9453",
@@ -83847,7 +83847,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5143,
@@ -83928,7 +83928,7 @@
                     "player_locations_on_kill": [
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": 5143,
@@ -83983,7 +83983,7 @@
                     "killer_display_name": "OPYfps#NRG",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": 5268,
@@ -84109,7 +84109,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -1997,
@@ -84224,7 +84224,7 @@
                         },
                         {
                             "player_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                            "player_display_name": "Zen#X777X",
+                            "player_display_name": "gojo#nina2",
                             "player_team": "Red",
                             "location": {
                                 "x": -1723,
@@ -84303,7 +84303,7 @@
                     "killer_display_name": "Z A R T H I O N#123",
                     "killer_team": "Blue",
                     "victim_puuid": "975a99a9-49f5-5f84-8d76-e777610cd8e9",
-                    "victim_display_name": "Zen#X777X",
+                    "victim_display_name": "gojo#nina2",
                     "victim_team": "Red",
                     "victim_death_location": {
                         "x": -1940,
